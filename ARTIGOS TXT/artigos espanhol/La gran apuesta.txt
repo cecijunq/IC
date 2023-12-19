@@ -1,0 +1,247 @@
+La gran apuesta
+La gran apuesta (en inglés: The Big Short) es una película estadounidense de comedia dramática y biográfica, escrita y dirigida por Adam McKay.[2]​ Se basa en el libro homónimo de Michael Lewis, sobre la crisis financiera del 2007 al 2010 por la acumulación de viviendas y la burbuja económica.[2]​ La película está protagonizada por Christian Bale, Steve Carell, Ryan Gosling y Brad Pitt. Distribuida por Walt Disney Studios Motion Pictures, la cinta comenzó con un lanzamiento limitado en los Estados Unidos el 11 de diciembre de 2015 para luego ser lanzada ampliamente el 23 de diciembre del mismo año.
+
+
+== Sinopsis ==
+La gran apuesta describe varios de los factores clave en la creación de la permuta de incumplimiento crediticio en el mercado, que buscaba apostar en contra de la obligación colateralizada por deuda (CDO), y terminó aprovechando la crisis financiera de 2007- 2010. El libro también destaca la naturaleza excéntrica del tipo de persona que apuesta contra el mercado o va contra la corriente.
+La obra sigue a personas que creían que la burbuja iba a estallar, como Meredith Whitney, quien predijo la desaparición de Citigroup y Bear Stearns; Steve Eisman, gerente de los fondos de cobertura; Greg Lippmann, un comerciante de Deutsche Bank; Eugene Xu, un analista cuantitativo que creó el primer mercado de CDO, haciendo coincidir los compradores y vendedores; los fundadores de Cornwall Capital, que iniciaron un fondo de cobertura en su garaje con US$110 000 y aumentó hasta llegar a los US$120 millones cuando el mercado se desplomó; y el Dr. Michael Burry, un ex neurólogo que creó Scion Capital a pesar de sufrir ceguera en un ojo y síndrome de Asperger.[3]​  
+El libro también destaca el papel de algunas personas involucradas en las mayores pérdidas originadas por la caída del mercado: los US$300 millones que Merrill perdió debido a la CDO del gerente Wing Chau; Howie Hubler, infamemente conocida como la persona que perdió nueve mil millones de dólares en un comercio, la mayor pérdida en la historia;[4]​ y AIG Financial Products de Joseph Cassano, que sufrió más de noventa y nueve mil millones de dólares en pérdidas.[5]​
+El ejecutivo a cargo de la comercialización global de valores respaldados por activos en Deutsche Bank, es uno de los primeros en entender el análisis de Burry, aprendiendo de uno de los banqueros cuando le vendió a Burry un permuta anticipada de incumplimiento crediticio. Usando su quant para verificar lo más probable es darle la razón a Burry, decide ingresar al mercado y gana una tarifa por vender los swaps a empresas que se beneficiarán cuando los bonos subyacentes fallen. Una llamada telefónica fuera de lugar alerta al administrador de fondos de cobertura de FrontPoint Partners, Mark Baum (basado en Steve Eisman), quien está motivado para comprar swaps de Vennett debido a su poca consideración por la ética y los modelos comerciales de los bancos. Vennett explica que el empaquetamiento de préstamos de alto riesgo en obligaciones de deuda garantizada (CDO) con calificación AAA garantizará su eventual colapso.
+Se sospecha avecina una nueva crisis en el sector de las inversiones especulativas, al realizar una investigación de campo en el sur de Florida, el equipo de FrontPoint descubre que los corredores de hipotecas se benefician vendiendo sus acuerdos hipotecarios a los bancos de Wall Street, porque pagan márgenes más altos por las hipotecas más riesgosas, creando la burbuja. Este conocimiento impulsa al equipo de FrontPoint a comprar más swaps de Vennett.
+A principios de 2007, cuando estos préstamos comienzan a incumplir, los precios de las CDO aumentan de alguna manera y las agencias calificadoras se niegan a rebajar las calificaciones de los bonos, para asegurar los pagos. Baum descubre conflictos de intereses y deshonestidad, entre las agencias de calificación crediticia, gracias a un conocido de Standard & Poor's. Vennett invita al equipo al American Securitization Forum en Las Vegas, donde Baum aprende de un gerente de CDO que el mercado para asegurar bonos hipotecarios, incluidos los "CDO sintéticos", son apuestas a favor de los bonos hipotecarios defectuosos, es significativamente más grande que el mercado. para los préstamos hipotecarios en sí, deja a un Baum horrorizado al darse cuenta de que toda la economía mundial está a punto de colapsar.
+Cuando los bonos de alto riesgo continúan cayendo, Baum se entera de que Morgan Stanley, bajo cuyo paraguas opera FrontPoint, también tomó posiciones cortas contra derivados hipotecarios, compraron acciones de alto riesgo. Sin embargo, para compensar el riesgo y las primas mensuales, había comprado derivados hipotecarios de mayor calificación. pero ahora estos también están colapsando en valor, Morgan Stanley se enfrenta a graves problemas de liquidez. A pesar de la presión de su personal para vender su posición antes del colapso de Morgan Stanley, Baum se niega a vender hasta que la economía esté al borde del colapso, ganando más de mil millones de dólares en sus swaps. Aun así, Baum lamenta cuando los bancos, así como el gobierno, no admitirán al culpable de provocar el colapso de la economía, ellos ahora tratarán de culpar a "los inmigrantes y la gente pobre".
+Los jóvenes inversores Charlie Geller y Jamie Shipley dirigen una pequeña empresa llamada Brownfield Capital (basada en la empresa Cornwall Capital). Accidentalmente descubren una presentación de marketing de Vennett en una mesa de café en el vestíbulo de un gran banco de inversión (los personajes se dirigen a la audiencia diciendo, en realidad habían escuchado sobre el plan de Vennett a través del boca a boca de amigos y familiares), convenciéndolos de invertir en swaps, esto se ajusta a su estrategia de comprar seguros baratos con grandes pagos potenciales. Por debajo del umbral de capital para un Acuerdo Marco ISDA requerido para participar en operaciones como las de Burry y Baum, solicitan la ayuda de Ben Rickert, un comerciante de valores jubilado que residía en Singapur. Cuando los valores de los bonos y los CDO aumentan a pesar de los incumplimientos, Geller sospecha que los bancos están cometiendo fraude. El trío también visita el American Securitization Forum, donde se enteran de que la SEC no tiene regulaciones para monitorear la actividad de valores respaldados por hipotecas. Consiguieron incluso más beneficios que Burry y Baum vendiendo en corto los valores hipotecarios AA de mayor calificación, porque antes se consideraban muy estables y tenían un índice de pago mucho más alto.
+Más tarde, cuando aumenta el número de impagos, el valor de las CDO y los bonos hipotecarios no cambia, y se dan cuenta de que los bancos y las agencias calificadoras están manteniendo el valor de sus CDO para venderlas, en forma artificialmente altas,  y venderlas antes de la inevitable caída. Horrorizados, intentan alertar a la prensa sobre el desastre que se avecina y el fraude desenfrenado, pero un escritor de The Wall Street Journal expone su propio conflicto de intereses personal y no escucha para no poner en peligro sus relaciones en los bancos de inversión de Wall Street. Cuando el mercado comienza a colapsar, Ben, de vacaciones en Inglaterra, vende sus swaps. Finalmente, convierten su inversión de $30 millones en $80 millones, pero su fe en el sistema se rompe cuando Ben les cuenta las graves consecuencias para el público en general.
+Jared Vennett recibe un bono de $47 millones por todas sus ventas de intercambio. Mark Baum se vuelve más amable con las consecuencias financieras y su personal continúa operando su fondo. Charlie Geller y Jamie Shipley toman caminos separados después de intentar sin éxito demandar a las agencias de calificación. Charlie se muda a Charlotte para formar una familia y Jamie sigue administrando el fondo. Ben Rickert regresa a su pacífico retiro. Michael Burry cierra su fondo después de la reacción del público y múltiples investigaciones a los bancos, corrupción y con actuaciones a espaldas del SEC, que no los puede controlar porque en gobiernos anteriores desregularon la economía.
+
+
+== Reparto ==
+
+
+== Producción ==
+
+
+=== Desarrollo ===
+En 2013, Paramount adquirió los derechos del libro The Big Short: Inside The Machine Doomsday de Michael Lewis para desarrollarlo en una película, que Brad Pitt produciría a través de Plan B Entertainment, su productora.[14]​ El 24 de marzo de 2014, Adam McKay fue elegido para escribir y dirigir la película, la cual trata sobre la vivienda y la burbuja económica.[2]​  
+
+
+=== Casting ===
+El 13 de enero de 2015, Variety informó que Brad Pitt, Christian Bale y Ryan Gosling fueron elegidos para protagonizar la película, con Pitt produciendo la película junto a Dede Gardner. Plan B Entertainment financiará la película, mientras que Paramount Pictures se encargaría de la distribución.[6]​ Antes de esto, Pitt ya había protagonizado otra adaptación del autor, Moneyball, por el que fue nominado a un Oscar.[2]​[6]​ El 14 de enero, se anunció que Steve Carell sería también protagonista de la película.[7]​ El 21 de abril de 2015, más miembros del elenco fueron revelados por Deadline incluidos Melissa Leo, Marisa Tomei, Tracy Letts, Hamish Linklater, John Magaro, Byron Mann, Rafe Spall, Jeremy Strong, y Finn Wittrock.[8]​ Charles Randolph había escrito el primer borrador para la adaptación cinematográfica, mientras que Pitt y Gardner la estaban produciendo junto a Jeremy Kleiner.[8]​ Max Greenfield fue agregado al elenco de la película el 23 de abril de 2015.[11]​ El 8 de mayo de 2015 Karen Gillan twiteó acerca de su participación en la película.[9]​
+
+
+=== Rodaje ===
+La fotografía principal de la película comenzó el 18 de marzo de 2015, en Nueva Orleans, Luisiana.[15]​[16]​ Christian Bale fue visto en el set de filmación el 23 de marzo de 2015.[17]​ El 25 de marzo, el rodaje se llevó a cabo en General De Gaulle Boulevard en la sección Algiers de Nueva Orleans.[18]​ El 8 de mayo, Gillan confirmó que ella estaba filmando sus escenas en la película.[9]​ Selena Gomez fue vista en el set realizando un cameo el 11 de mayo de 2015.[10]​ El 20 de mayo de 2015, el rodaje tuvo lugar en Mercer, entre Prince Street y Spring Street en Manhattan, Nueva York.[19]​ El 22 de mayo, el equipo de producción recreó las oficinas de la firma Lehman Brothers en el vestíbulo del Departamento de Servicios Financieros del Estado de Nueva York en Manhattan.[20]​ Un abogado asistente del Departamento de Servicios Financieros interpretó a uno de los extras.[20]​  
+
+
+== Estreno ==
+El 22 de septiembre de 2015, Paramount programó la película para un estreno limitado el 11 de diciembre de 2015, seguido de un amplio estreno el 23 de diciembre de 2015.[21]​
+
+
+== Recepción ==
+
+
+=== Crítica ===
+La gran apuesta ha recibido elogios por parte de la crítica. En Rotten Tomatoes, la película tiene una calificación de 88% basada en 257 comentarios, con una puntuación promedio de 7.8/10.[22]​ En Metacritic, la cinta tiene una calificación de 81 sobre 100, basada en 45 comentarios, indicando "aclamación universal".[23]​
+Críticos de diversas páginas web especializadas en el ámbito cinematográfico expresaron lo siguiente: 
+
+
+=== Premios y nominaciones ===
+
+
+== Véase también ==
+Crisis económica de 2008-2015
+Margin Call
+
+
+== Referencias ==
+
+
+== Enlaces externos ==
+
+Sitio web oficial
+
+La gran apuesta en Internet Movie Database (en inglés).
+
+La gran apuesta en FilmAffinity.
+
+La gran apuesta en AllMovie (en inglés).
+La gran apuesta en Metacritic (en inglés).
+La gran apuesta en Rotten Tomatoes (en inglés).
+
+La gran apuesta en Tomatazos (en español).
+
+La gran apuesta en Box Office Mojo (en inglés).2015
+AFI Catalog of Feature Films
+Actuación
+Adam McKay
+Algiers
+AllMovie
+Allcinema
+AlloCiné
+American Film Institute
+Arnon Milchan
+Año
+BBC.com
+Banda sonora
+Bear Stearns
+Biblioteca Nacional de España
+Biblioteca de Cataluña
+Box Office Mojo
+Brad Pitt
+British Film Institute
+Burbuja económica
+Byron Mann
+Christian Bale
+Cine biográfico
+Citigroup
+Clasificación por edades (cine)
+Comedia dramática
+Control de autoridades
+Crisis económica de 2008-2015
+Crisis financiera de 2008
+Deutsche Bank
+Director de cine
+Director de fotografía
+Dolar de Estados Unidos
+Drama (cine y televisión)
+Estados Unidos
+Estreno limitado
+Fichero de Autoridades Virtual Internacional
+FilmAffinity
+Finn Wittrock
+Fondo de cobertura
+Fotografía principal
+Guionista
+Género cinematográfico
+Hamish Linklater
+Hank Corwin
+Hollywood Film Awards
+IMDb
+Idioma
+Idioma inglés
+Instituto de la Cinematografía y de las Artes Audiovisuales
+Internet Movie Database
+Jeremy Strong
+John Magaro
+Karen Gillan
+La Jornada
+Lara Grice
+Lehman Brothers
+Library of Congress Control Number
+Luisiana
+MSNBC
+Manhattan
+Margin Call
+Margot Robbie
+Marisa Tomei
+Max Greenfield
+Melissa Leo
+Metacritic
+Michael Burry
+Michael Lewis
+Moneyball
+Montaje
+Neurología
+Nicholas Britell
+Nueva Orleans
+Nueva York
+Obligación colateralizada por deuda
+Paramount Pictures
+País
+Película biográfica
+Película de crimen
+Permuta de incumplimiento crediticio
+Plan B Entertainment
+Premios Satellite de 2015
+Premios Óscar
+Productor de cine
+Rafe Spall
+Regency Enterprises
+Rotten Tomatoes
+Ryan Gosling
+Selena Gomez
+Stanley Wong
+Steve Carell
+Steve Eisman
+Síndrome de Asperger
+The Guardian
+The Hollywood Reporter
+The New York Observer
+The Wall Street Journal
+The Wrap
+Tomatazos
+Tracy Letts
+Twitter
+Vanity Fair (revista)
+Variety
+Variety (revista)
+Walt Disney Studios Motion Pictures
+Washington D.C. Area Film Critics Association
+Wikidata
+http://deadline.com/2014/03/adam-mckay-big-short-movie-michael-lews-703473/
+http://www.vanityfair.com/business/features/2010/04/wall-street-excerpt-201004
+http://www.msnbc.msn.com/id/29455792/
+http://variety.com/2015/film/news/brad-pitt-christian-bale-and-ryan-gosling-to-star-in-financial-drama-the-big-short-exclusive-1201404038/
+http://www.hollywoodreporter.com/news/steve-carell-talks-join-christian-763755
+https://twitter.com/karengillan/status/596799346303062016
+http://deadline.com/2015/04/the-big-short-christian-bale-steve-carell-ryan-gosling-brad-pitt-1201413659/
+http://www.etonline.com/news/164315_selena_gomez_looks_flawless_on_the_set_of_the_big_short/
+http://variety.com/2015/film/news/the-big-short-max-greenfield-cast-brad-pitt-ryan-gosling-1201477480/
+http://variety.com/2014/film/news/adam-mckay-big-short-brad-pitt-1201144582/
+http://www.onlocationvacations.com/2015/02/10/brad-pitt-ryan-gosling-christian-bale-are-headed-to-new-orleans-for-the-big-shot/
+http://www.onlocationvacations.com/2015/03/23/the-big-short-starring-brad-pitt-ryan-gosling-christian-bale-begins-filming-in-new-orleans/
+http://www.dailymail.co.uk/tvshowbiz/article-3009880/Christian-Bale-looks-concerned-wears-leg-brace-New-Orleans-set-Big-Short.html
+http://www.onlocationvacations.com/2015/03/25/the-big-short-starring-brad-pitt-ryan-gosling-christian-bale-filming-in-algiers-la-today/
+http://www.onlocationvacations.com/2015/05/16/the-big-short-starring-brad-pitt-and-ryan-gosling-is-filming-in-nyc-this-week/
+http://blogs.wsj.com/moneybeat/2015/05/22/big-short-recreates-lehman-bros-offices-in-regulators-building/
+http://www.cnsnews.com/news/article/paramount-pushes-big-short-awards-season
+http://www.rottentomatoes.com/m/the_big_short/
+http://www.metacritic.com/movie/the-big-short
+http://www.bbc.com/mundo/noticias/2015/12/151210_cultura_cine_globos_oro_2016_jg
+http://entaquillados.com/2015/11/03/hollywood-film-awards-la-chica-danesa-se-alza-como-triunfadora/
+http://www.elantepenultimomohicano.com/2015/12/premios-de-la-national-board-of-review.html
+http://larepublica.pe/espectaculos/722579-satellite-awards-conoce-la-lista-de-nominados
+http://www.ecartelera.com/noticias/27566/lista-nominados-screen-actors-guild-awards-2016/
+http://www.dcfilmcritics.com/awards/
+http://www.filmaffinity.com/es/film774066.html
+http://www.thebigshortmovie.com/
+http://www.tomatazos.com/peliculas/38126/The-Big-Short
+http://www.jornada.unam.mx/ultimas/2016/01/14/lista-de-nominados-al-oscar-1886.html
+http://www.screendaily.com/reviews/the-big-short-review/5096829.article
+http://www.thewrap.com/the-big-short-review-ryan-gosling-steve-carell-brad-pitt/
+http://www.hollywoodreporter.com/review/christmas-eve-film-review-845892
+http://variety.com/2015/film/reviews/the-big-short-review-1201639770/
+http://blogs.indiewire.com/thompsononhollywood/afi-fest-closer-the-big-short-is-smart-expose-of-financial-meltdown-video-20151113
+https://web.archive.org/web/20160117164856/http://www.jornada.unam.mx/ultimas/2016/01/14/lista-de-nominados-al-oscar-1886.html
+https://www.imdb.com/title/tt1596363/fullcredits
+https://www.imdb.com/title/tt1596363/
+https://www.filmaffinity.com/es/film774066.html
+https://web.archive.org/web/20100823043941/http://www.observer.com/people/howie-hubler
+http://www.observer.com/people/howie-hubler
+http://www.theguardian.com/film/2015/nov/13/the-big-short-review-ryan-gosling-brad-pitt
+http://www.imdb.com/title/tt1596363/fullcredits?ref_=tt_cl_sm#cast
+https://web.archive.org/web/20160126033951/http://www.cnsnews.com/news/article/paramount-pushes-big-short-awards-season
+https://web.archive.org/web/20151222085824/http://entaquillados.com/2015/11/03/hollywood-film-awards-la-chica-danesa-se-alza-como-triunfadora/
+https://web.archive.org/web/20151212162739/http://larepublica.pe/espectaculos/722579-satellite-awards-conoce-la-lista-de-nominados
+https://www.imdb.com/title/tt3622082/
+https://www.boxofficemojo.com/movies/?id=bigshort.htm
+http://www.allmovie.com/movie/v596340
+https://www.rottentomatoes.com/m/the_big_short
+https://wikidata-externalid-url.toolforge.org/?p=345&url_prefix=https://www.imdb.com/&id=tt1596363
+https://www.allcinema.net/cinema/354963
+https://www.allmovie.com/movie/v596340
+https://sede.mcu.gob.es/CatalogoICAA/Peliculas/Detalle?pelicula=130715
+https://web.archive.org/web/20151201220553/http://blogs.indiewire.com/thompsononhollywood/afi-fest-closer-the-big-short-is-smart-expose-of-financial-meltdown-video-20151113
+https://web.archive.org/web/20150212022440/http://www.onlocationvacations.com/2015/02/10/brad-pitt-ryan-gosling-christian-bale-are-headed-to-new-orleans-for-the-big-shot/
+https://web.archive.org/web/20150328005048/http://www.onlocationvacations.com/2015/03/23/the-big-short-starring-brad-pitt-ryan-gosling-christian-bale-begins-filming-in-new-orleans/
+https://web.archive.org/web/20150327150534/http://www.onlocationvacations.com/2015/03/25/the-big-short-starring-brad-pitt-ryan-gosling-christian-bale-filming-in-algiers-la-today/
+https://web.archive.org/web/20150522101426/http://www.onlocationvacations.com/2015/05/16/the-big-short-starring-brad-pitt-and-ryan-gosling-is-filming-in-nyc-this-week/
+https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4658&view=2-Film%20Title-Alpha
+https://www.allocine.fr/film/fichefilm_gen_cfilm=227900.html
+https://www.worldcat.org/identities/viaf-114145911104027060960
+https://viaf.org/viaf/114145911104027060960/
+https://id.loc.gov/authorities/no2016084033
+https://datos.bne.es/resource/XX5647050
+https://cantic.bnc.cat/registre/981058611041706706
+https://catalog.afi.com/Catalog/moviedetails/70871
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154461849

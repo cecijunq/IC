@@ -1,0 +1,588 @@
+ANO;TITULO;VENCEDOR;LINK WIKIPEDIA;LINK ESPANHOL;LINK PORTUGUÊS
+1929;Wings (1927 film);Sim;https://en.wikipedia.org/wiki/Wings_(1927_film);https://es.wikipedia.org/wiki/Alas_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Asas_(filme)
+1929;The Racket (1928 film);Não;https://en.wikipedia.org/wiki/The_Racket_(1928_film);https://es.wikipedia.org/wiki/La_horda;https://pt.wikipedia.org/wiki/The_Racket_(1928)
+1929;7th Heaven (1927 film);Não;https://en.wikipedia.org/wiki/7th_Heaven_(1927_film);https://es.wikipedia.org/wiki/El_s%C3%A9ptimo_cielo_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/7th_Heaven_(1927)
+1930;The Broadway Melody;Sim;https://en.wikipedia.org/wiki/The_Broadway_Melody;https://es.wikipedia.org/wiki/Melod%C3%ADas_de_Broadway;https://pt.wikipedia.org/wiki/The_Broadway_Melody
+1930;In Old Arizona;Não;https://en.wikipedia.org/wiki/In_Old_Arizona;https://es.wikipedia.org/wiki/En_el_viejo_Arizona;https://pt.wikipedia.org/wiki/In_Old_Arizona
+1930;The Hollywood Revue;Não;https://en.wikipedia.org/wiki/The_Hollywood_Revue;https://es.wikipedia.org/wiki/The_Hollywood_Revue_of_1929;https://pt.wikipedia.org/wiki/The_Hollywood_Revue_of_1929
+1930;The Patriot (1928 film);Não;https://en.wikipedia.org/wiki/The_Patriot_(1928_film);https://es.wikipedia.org/wiki/El_patriota_(pel%C3%ADcula_de_1928);https://pt.wikipedia.org/wiki/The_Patriot_(filme_de_1928)
+1930;Alibi (1929 film);Não;https://en.wikipedia.org/wiki/Alibi_(1929_film);;https://pt.wikipedia.org/wiki/Alibi_(1929)
+1931;All Quiet on the Western Front (1930 film);Sim;https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front_(1930_film);https://es.wikipedia.org/wiki/Sin_novedad_en_el_frente_(pel%C3%ADcula_de_1930);https://pt.wikipedia.org/wiki/All_Quiet_on_the_Western_Front
+1931;The Big House (1930 film);Não;https://en.wikipedia.org/wiki/The_Big_House_(1930_film);https://es.wikipedia.org/wiki/El_presidio;https://pt.wikipedia.org/wiki/The_Big_House
+1931;Disraeli (1929 film);Não;https://en.wikipedia.org/wiki/Disraeli_(1929_film);https://es.wikipedia.org/wiki/Disraeli_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Disraeli_(1929)
+1931;The Divorcee;Não;https://en.wikipedia.org/wiki/The_Divorcee;https://es.wikipedia.org/wiki/La_divorciada;https://pt.wikipedia.org/wiki/A_Divorciada
+1931;The Love Parade;Não;https://en.wikipedia.org/wiki/The_Love_Parade;https://es.wikipedia.org/wiki/El_desfile_del_amor;https://pt.wikipedia.org/wiki/The_Love_Parade
+1932;Cimarron (1931 film);Sim;https://en.wikipedia.org/wiki/Cimarron_(1931_film);https://es.wikipedia.org/wiki/Cimarr%C3%B3n_(pel%C3%ADcula_de_1931);https://pt.wikipedia.org/wiki/Cimarron_(1931)
+1932;East Lynne (1931 film);Não;https://en.wikipedia.org/wiki/East_Lynne_(1931_film);https://es.wikipedia.org/wiki/Vidas_truncadas_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/East_Lynne_(1931)
+1932;The Front Page (1931 film);Não;https://en.wikipedia.org/wiki/The_Front_Page_(1931_film);https://es.wikipedia.org/wiki/Un_gran_reportaje;https://pt.wikipedia.org/wiki/The_Front_Page_(1931)
+1932;Skippy (film);Não;https://en.wikipedia.org/wiki/Skippy_(film);https://es.wikipedia.org/wiki/Skippy;https://pt.wikipedia.org/wiki/Skippy
+1932;Trader Horn (1931 film);Não;https://en.wikipedia.org/wiki/Trader_Horn_(1931_film);https://es.wikipedia.org/wiki/Trader_Horn;https://pt.wikipedia.org/wiki/Trader_Horn
+1933;Grand Hotel (1932 film);Sim;https://en.wikipedia.org/wiki/Grand_Hotel_(1932_film);https://es.wikipedia.org/wiki/Grand_Hotel_(pel%C3%ADcula_de_1932);https://pt.wikipedia.org/wiki/Grande_Hotel_(filme)
+1933;Arrowsmith (film);Não;https://en.wikipedia.org/wiki/Arrowsmith_(film);https://es.wikipedia.org/wiki/Arrowsmith_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Arrowsmith_(filme)
+1933;Bad Girl;Não;;;
+1933;The Champ (1931 film);Não;https://en.wikipedia.org/wiki/The_Champ_(1931_film);https://es.wikipedia.org/wiki/El_campe%C3%B3n_(pel%C3%ADcula_de_1931);https://pt.wikipedia.org/wiki/O_Campe%C3%A3o_(filme_de_1931)
+1933;Five Star Final;Não;https://en.wikipedia.org/wiki/Five_Star_Final;https://es.wikipedia.org/wiki/Sed_de_esc%C3%A1ndalo_(pel%C3%ADcula_de_1931);https://pt.wikipedia.org/wiki/Five_Star_Final
+1933;One Hour with You;Não;https://en.wikipedia.org/wiki/One_Hour_with_You;https://es.wikipedia.org/wiki/Una_hora_contigo;https://pt.wikipedia.org/wiki/Uma_Hora_Contigo
+1933;Shanghai Express (film);Não;https://en.wikipedia.org/wiki/Shanghai_Express_(film);https://es.wikipedia.org/wiki/El_expreso_de_Shanghai;https://pt.wikipedia.org/wiki/O_Expresso_de_Xangai
+1933;The Smiling Lieutenant;Não;https://en.wikipedia.org/wiki/The_Smiling_Lieutenant;https://es.wikipedia.org/wiki/El_teniente_seductor;https://pt.wikipedia.org/wiki/O_Tenente_Sedutor
+1934;Cavalcade (1933 film);Sim;https://en.wikipedia.org/wiki/Cavalcade_(1933_film);https://es.wikipedia.org/wiki/Cabalgata_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Cavalgada_(filme)
+1934;A Farewell to Arms (1932 film);Não;https://en.wikipedia.org/wiki/A_Farewell_to_Arms_(1932_film);https://es.wikipedia.org/wiki/Adi%C3%B3s_a_las_armas_(pel%C3%ADcula_de_1932);https://pt.wikipedia.org/wiki/A_Farewell_to_Arms_(1932)
+1934;42nd Street (film);Não;https://en.wikipedia.org/wiki/42nd_Street_(film);https://es.wikipedia.org/wiki/La_calle_42;https://pt.wikipedia.org/wiki/Rua_42
+1934;I Am a Fugitive from a Chain Gang;Não;https://en.wikipedia.org/wiki/I_Am_a_Fugitive_from_a_Chain_Gang;https://es.wikipedia.org/wiki/Soy_un_fugitivo;https://pt.wikipedia.org/wiki/I_Am_a_Fugitive_from_a_Chain_Gang
+1934;Lady for a Day;Não;https://en.wikipedia.org/wiki/Lady_for_a_Day;https://es.wikipedia.org/wiki/Dama_por_un_d%C3%ADa;https://pt.wikipedia.org/wiki/Lady_for_a_Day
+1934;Little Men (1934 film);Não;https://en.wikipedia.org/wiki/Little_Men_(1934_film);;
+1934;The Private Life of Henry VIII;Não;https://en.wikipedia.org/wiki/The_Private_Life_of_Henry_VIII;https://es.wikipedia.org/wiki/La_vida_privada_de_Enrique_VIII;https://pt.wikipedia.org/wiki/The_Private_Life_of_Henry_VIII
+1934;Nanette Newman;Não;;;
+1934;Smilin' Through (1932 film);Não;https://en.wikipedia.org/wiki/Smilin%27_Through_(1932_film);;https://pt.wikipedia.org/wiki/Smilin%27_Through
+1934;State Fair (1933 film);Não;https://en.wikipedia.org/wiki/State_Fair_(1933_film);https://es.wikipedia.org/wiki/La_feria_de_la_vida;https://pt.wikipedia.org/wiki/State_Fair_(1933)
+1935;It Happened One Night;Sim;https://en.wikipedia.org/wiki/It_Happened_One_Night;https://es.wikipedia.org/wiki/It_Happened_One_Night;https://pt.wikipedia.org/wiki/It_Happened_One_Night
+1935;The Barretts of Wimpole Street (1934 film);Não;https://en.wikipedia.org/wiki/The_Barretts_of_Wimpole_Street_(1934_film);https://es.wikipedia.org/wiki/The_Barretts_of_Wimpole_Street;https://pt.wikipedia.org/wiki/The_Barretts_of_Wimpole_Street
+1935;Cleopatra (1934 film);Não;https://en.wikipedia.org/wiki/Cleopatra_(1934_film);https://es.wikipedia.org/wiki/Cleopatra_(pel%C3%ADcula_de_1934);https://pt.wikipedia.org/wiki/Cle%C3%B3patra_(1934)
+1935;Flirtation Walk;Não;https://en.wikipedia.org/wiki/Flirtation_Walk;https://es.wikipedia.org/wiki/Flirtation_Walk;https://pt.wikipedia.org/wiki/Flirtation_Walk
+1935;The Gay Divorcee;Não;https://en.wikipedia.org/wiki/The_Gay_Divorcee;https://es.wikipedia.org/wiki/La_alegre_divorciada;https://pt.wikipedia.org/wiki/A_Alegre_Divorciada
+1935;Here Comes the Navy;Não;https://en.wikipedia.org/wiki/Here_Comes_the_Navy;;https://pt.wikipedia.org/wiki/Here_Comes_the_Navy
+1935;The House of Rothschild;Não;https://en.wikipedia.org/wiki/The_House_of_Rothschild;;https://pt.wikipedia.org/wiki/The_House_of_Rothschild
+1935;Imitation of Life;Não;https://en.wikipedia.org/wiki/Imitation_of_Life_(1934_film);https://es.wikipedia.org/wiki/Imitaci%C3%B3n_de_la_vida;https://pt.wikipedia.org/wiki/Imitation_of_Life_(1934)
+1935;One Night of Love;Não;https://en.wikipedia.org/wiki/One_Night_of_Love;https://es.wikipedia.org/wiki/Una_noche_de_amor;https://pt.wikipedia.org/wiki/One_Night_of_Love
+1935;The Thin Man;Não;https://en.wikipedia.org/wiki/The_Thin_Man_(film);https://es.wikipedia.org/wiki/La_cena_de_los_acusados;https://pt.wikipedia.org/wiki/The_Thin_Man
+1935;Viva Villa!;Não;https://en.wikipedia.org/wiki/Viva_Villa!;https://es.wikipedia.org/wiki/Viva_Villa!;https://pt.wikipedia.org/wiki/Viva_Villa!
+1935;The White Parade;Não;https://en.wikipedia.org/wiki/The_White_Parade;;https://pt.wikipedia.org/wiki/The_White_Parade
+1936;Mutiny on the Bounty (1935 film);Sim;https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1935_film);https://es.wikipedia.org/wiki/Mutiny_on_the_Bounty_(pel%C3%ADcula_de_1935);https://pt.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1935)
+1936;Broadway Melody of 1936;Não;https://en.wikipedia.org/wiki/Broadway_Melody_of_1936;https://es.wikipedia.org/wiki/Broadway_Melody_of_1936;https://pt.wikipedia.org/wiki/Broadway_Melody_of_1936
+1936;Captain Blood (1935 film);Não;https://en.wikipedia.org/wiki/Captain_Blood_(1935_film);https://es.wikipedia.org/wiki/El_capit%C3%A1n_Blood_(pel%C3%ADcula_de_1935);https://pt.wikipedia.org/wiki/O_Capit%C3%A3o_Blood
+1936;David Copperfield (1935 film);Não;https://en.wikipedia.org/wiki/David_Copperfield_(1935_film)1936;;
+1936;Alice Adams (1935 film);Não;https://en.wikipedia.org/wiki/Alice_Adams_(1935_film);https://es.wikipedia.org/wiki/Alice_Adams;https://pt.wikipedia.org/wiki/Alice_Adams
+1936;The Informer (film);Não;https://en.wikipedia.org/wiki/The_Informer_(1935_film);https://es.wikipedia.org/wiki/El_delator;https://pt.wikipedia.org/wiki/The_Informer
+1936;Les Misérables;Não;https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(1935_film);https://es.wikipedia.org/wiki/Les_Mis%C3%A9rables_(pel%C3%ADcula_de_1935);https://pt.wikipedia.org/wiki/Les_Mis%C3%A9rables_(1935)
+1936;The Lives of a Bengal Lancer (film);Não;https://en.wikipedia.org/wiki/The_Lives_of_a_Bengal_Lancer_(film);https://es.wikipedia.org/wiki/The_Lives_of_a_Bengal_Lancer;https://pt.wikipedia.org/wiki/Lanceiros_da_%C3%8Dndia
+1936;A Midsummer Night's Dream (1935 film);Não;https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream_(1935_film);https://es.wikipedia.org/wiki/El_sue%C3%B1o_de_una_noche_de_verano_(pel%C3%ADcula_de_1935);https://pt.wikipedia.org/wiki/Sonho_de_uma_Noite_de_Ver%C3%A3o_(1935)
+1936;Naughty Marietta (film);Não;https://en.wikipedia.org/wiki/Naughty_Marietta_(film);https://es.wikipedia.org/wiki/Naughty_Marietta;https://pt.wikipedia.org/wiki/Naughty_Marietta
+1936;Ruggles of Red Gap;Não;https://en.wikipedia.org/wiki/Ruggles_of_Red_Gap;;https://pt.wikipedia.org/wiki/Ruggles_of_Red_Gap
+1936;Top Hat;Não;https://en.wikipedia.org/wiki/Top_Hat;https://es.wikipedia.org/wiki/Sombrero_de_copa_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Top_Hat
+1937;The Great Ziegfeld;Sim;https://en.wikipedia.org/wiki/The_Great_Ziegfeld;https://es.wikipedia.org/wiki/El_gran_Ziegfeld;https://pt.wikipedia.org/wiki/The_Great_Ziegfeld
+1937;Anthony Adverse;Não;https://en.wikipedia.org/wiki/Anthony_Adverse;https://es.wikipedia.org/wiki/Anthony_Adverse;https://pt.wikipedia.org/wiki/Adversidade
+1937;Libeled Lady;Não;https://en.wikipedia.org/wiki/Libeled_Lady;https://es.wikipedia.org/wiki/Libeled_Lady;https://pt.wikipedia.org/wiki/Libeled_Lady
+1937;Dodsworth (film);Não;https://en.wikipedia.org/wiki/Dodsworth_(film);;https://pt.wikipedia.org/wiki/Dodsworth
+1937;Mr. Deeds Goes to Town;Não;https://en.wikipedia.org/wiki/Mr._Deeds_Goes_to_Town;https://es.wikipedia.org/wiki/El_secreto_de_vivir;https://pt.wikipedia.org/wiki/Mr._Deeds_Goes_to_Town
+1937;Romeo and Juliet (1936 film);Não;https://en.wikipedia.org/wiki/Romeo_and_Juliet_(1936_film);https://es.wikipedia.org/wiki/Romeo_y_Julieta_(pel%C3%ADcula_de_1936);https://pt.wikipedia.org/wiki/Romeo_and_Juliet_(1936)
+1937;San Francisco (1936 film);Não;https://en.wikipedia.org/wiki/San_Francisco_(1936_film);;https://pt.wikipedia.org/wiki/San_Francisco_(filme)
+1937;The Story of Louis Pasteur;Não;https://en.wikipedia.org/wiki/The_Story_of_Louis_Pasteur;https://es.wikipedia.org/wiki/The_Story_of_Louis_Pasteur;https://pt.wikipedia.org/wiki/The_Story_of_Louis_Pasteur
+1937;A Tale of Two Cities;Não;;;
+1937;Three Smart Girls;Não;https://en.wikipedia.org/wiki/Three_Smart_Girls;;https://pt.wikipedia.org/wiki/Three_Smart_Girls
+1938;The Life of Emile Zola;Sim;https://en.wikipedia.org/wiki/The_Life_of_Emile_Zola;https://es.wikipedia.org/wiki/The_Life_of_Emile_Zola;https://pt.wikipedia.org/wiki/The_Life_of_Emile_Zola
+1938;The Awful Truth;Não;https://en.wikipedia.org/wiki/The_Awful_Truth;https://es.wikipedia.org/wiki/The_Awful_Truth;https://pt.wikipedia.org/wiki/The_Awful_Truth
+1938;Captains Courageous (1937 film);Não;https://en.wikipedia.org/wiki/Captains_Courageous_(1937_film);https://es.wikipedia.org/wiki/Capitanes_intr%C3%A9pidos;https://pt.wikipedia.org/wiki/Captains_Courageous
+1938;Dead End (1937 film);Não;https://en.wikipedia.org/wiki/Dead_End_(1937_film);https://es.wikipedia.org/wiki/Calle_sin_salida_(pel%C3%ADcula_de_1937);https://pt.wikipedia.org/wiki/Dead_End
+1938;The Good Earth (film);Não;https://en.wikipedia.org/wiki/The_Good_Earth_(film);https://es.wikipedia.org/wiki/La_buena_tierra_(pel%C3%ADcula_de_1937);https://pt.wikipedia.org/wiki/The_Good_Earth
+1938;In Old Chicago;Não;https://en.wikipedia.org/wiki/In_Old_Chicago;https://es.wikipedia.org/wiki/In_Old_Chicago;https://pt.wikipedia.org/wiki/In_Old_Chicago
+1938;Lost Horizon (1937 film);Não;https://en.wikipedia.org/wiki/Lost_Horizon_(1937_film);https://es.wikipedia.org/wiki/Horizontes_perdidos_(pel%C3%ADcula_de_1937);https://pt.wikipedia.org/wiki/Horizonte_Perdido_(1937)
+1938;One Hundred Men and a Girl;Não;https://en.wikipedia.org/wiki/One_Hundred_Men_and_a_Girl;https://es.wikipedia.org/wiki/One_Hundred_Men_and_a_Girl;https://pt.wikipedia.org/wiki/One_Hundred_Men_and_a_Girl
+1938;Stage Door;Não;https://en.wikipedia.org/wiki/Stage_Door;https://es.wikipedia.org/wiki/Damas_del_teatro;https://pt.wikipedia.org/wiki/Stage_Door
+1938;A Star Is Born (1937 film);Não;https://en.wikipedia.org/wiki/A_Star_Is_Born_(1937_film);https://es.wikipedia.org/wiki/A_Star_Is_Born_(pel%C3%ADcula_de_1937);https://pt.wikipedia.org/wiki/A_Star_Is_Born_(1937)
+1939;You Can't Take It with You (film);Sim;https://en.wikipedia.org/wiki/You_Can%27t_Take_It_with_You_(film);https://es.wikipedia.org/wiki/You_Can%27t_Take_It_With_You;https://pt.wikipedia.org/wiki/You_Can%27t_Take_It_with_You
+1939;The Adventures of Robin Hood;Não;https://en.wikipedia.org/wiki/The_Adventures_of_Robin_Hood;https://es.wikipedia.org/wiki/The_Adventures_of_Robin_Hood;https://pt.wikipedia.org/wiki/The_Adventures_of_Robin_Hood
+1939;Alexander's Ragtime Band (film);Não;https://en.wikipedia.org/wiki/Alexander%27s_Ragtime_Band_(film);https://es.wikipedia.org/wiki/Alexander%27s_Ragtime_Band_(pel%C3%ADcula);https://es.wikipedia.org/wiki/Alexander%27s_Ragtime_Band_(pel%C3%ADcula)
+1939;Boys Town (film);Não;https://en.wikipedia.org/wiki/Boys_Town_(film);https://es.wikipedia.org/wiki/Forja_de_hombres;https://pt.wikipedia.org/wiki/Boys_Town_(filme)
+1939;The Citadel (1938 film);Não;https://en.wikipedia.org/wiki/The_Citadel_(1938_film);https://es.wikipedia.org/wiki/La_ciudadela_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/The_Citadel_(filme)
+1939;Four Daughters;Não;https://en.wikipedia.org/wiki/Four_Daughters;;https://pt.wikipedia.org/wiki/Four_Daughters
+1939;La Grande Illusion;Não;https://en.wikipedia.org/wiki/La_Grande_Illusion;https://es.wikipedia.org/wiki/La_gran_ilusi%C3%B3n;https://pt.wikipedia.org/wiki/A_Grande_Ilus%C3%A3o_(1937)
+1939;Jezebel (1938 film);Não;https://en.wikipedia.org/wiki/Jezebel_(1938_film);https://es.wikipedia.org/wiki/Jezabel_(pel%C3%ADcula_de_1938);https://pt.wikipedia.org/wiki/Jezebel
+1939;Pygmalion (1938 film);Não;https://en.wikipedia.org/wiki/Pygmalion_(1938_film);https://es.wikipedia.org/wiki/Pigmali%C3%B3n_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Pygmalion
+1939;Test Pilot (film);Não;https://en.wikipedia.org/wiki/Test_Pilot_(film);https://es.wikipedia.org/wiki/Piloto_de_pruebas_(pel%C3%ADcula_de_1938);https://pt.wikipedia.org/wiki/Test_Pilot
+1940;Gone with the Wind (film);Sim;https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film);https://es.wikipedia.org/wiki/Lo_que_el_viento_se_llev%C3%B3_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Gone_with_the_Wind
+1940;Dark Victory;Não;https://en.wikipedia.org/wiki/Dark_Victory;https://es.wikipedia.org/wiki/Amarga_victoria;https://pt.wikipedia.org/wiki/Dark_Victory
+1940;Goodbye, Mr. Chips (1939 film);Não;https://en.wikipedia.org/wiki/Goodbye,_Mr._Chips_(1939_film);https://es.wikipedia.org/wiki/Adi%C3%B3s,_Mr._Chips_(pel%C3%ADcula_de_1939);https://pt.wikipedia.org/wiki/Adeus,_Mr._Chips
+1940;Love Affair (1939 film);Não;https://en.wikipedia.org/wiki/Love_Affair_(1939_film);https://es.wikipedia.org/wiki/T%C3%BA_y_yo_(pel%C3%ADcula_de_1939);https://pt.wikipedia.org/wiki/Love_Affair_(1939)
+1940;Mr. Smith Goes to Washington;Não;https://en.wikipedia.org/wiki/Mr._Smith_Goes_to_Washington;https://es.wikipedia.org/wiki/Mr._Smith_Goes_to_Washington;https://pt.wikipedia.org/wiki/Mr._Smith_Goes_to_Washington
+1940;Ninotchka;Não;https://en.wikipedia.org/wiki/Ninotchka;https://es.wikipedia.org/wiki/Ninotchka;https://pt.wikipedia.org/wiki/Ninotchka
+1940;Of Mice and Men (1939 film);Não;https://en.wikipedia.org/wiki/Of_Mice_and_Men_(1939_film);https://es.wikipedia.org/wiki/Of_Mice_and_Men_(pel%C3%ADcula_de_1939);https://pt.wikipedia.org/wiki/Of_Mice_and_Men_(1939)
+1940;Stagecoach (1939 film);Não;https://en.wikipedia.org/wiki/Stagecoach_(1939_film);https://es.wikipedia.org/wiki/La_diligencia;https://pt.wikipedia.org/wiki/Stagecoach_(1939)
+1940;The Wizard of Oz (1939 film);Não;https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1939_film);https://es.wikipedia.org/wiki/El_mago_de_Oz;https://pt.wikipedia.org/wiki/The_Wizard_of_Oz_(1939)
+1940;Wuthering Heights (1939 film);Não;https://en.wikipedia.org/wiki/Wuthering_Heights_(1939_film);https://es.wikipedia.org/wiki/Cumbres_Borrascosas_(pel%C3%ADcula_de_1939);https://pt.wikipedia.org/wiki/Wuthering_Heights_(filme_de_1939)
+1941;Rebecca (1940 film);Sim;https://en.wikipedia.org/wiki/Rebecca_(1940_film);https://es.wikipedia.org/wiki/Rebecca_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Rebecca_(1940)
+1941;All This, and Heaven Too;Não;https://en.wikipedia.org/wiki/All_This_and_Heaven_Too;https://es.wikipedia.org/wiki/El_cielo_y_t%C3%BA;https://pt.wikipedia.org/wiki/All_This,_and_Heaven_Too
+1941;Foreign Correspondent (film);Não;https://en.wikipedia.org/wiki/Foreign_Correspondent_(film);https://es.wikipedia.org/wiki/Foreign_Correspondent;https://pt.wikipedia.org/wiki/Foreign_Correspondent
+1941;The Grapes of Wrath (film);Não;https://en.wikipedia.org/wiki/The_Grapes_of_Wrath_(film);https://es.wikipedia.org/wiki/The_Grapes_of_Wrath_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/As_Vinhas_da_Ira_(filme)
+1941;The Great Dictator;Não;https://en.wikipedia.org/wiki/The_Great_Dictator;https://es.wikipedia.org/wiki/El_gran_dictador;https://pt.wikipedia.org/wiki/O_Grande_Ditador
+1941;Kitty Foyle (film);Não;https://en.wikipedia.org/wiki/Kitty_Foyle_(film);https://es.wikipedia.org/wiki/Espejismo_de_amor;https://pt.wikipedia.org/wiki/Kitty_Foyle
+1941;The Letter (1940 film);Não;https://en.wikipedia.org/wiki/The_Letter_(1940_film);https://es.wikipedia.org/wiki/La_carta_(pel%C3%ADcula_de_1940);https://pt.wikipedia.org/wiki/A_Carta_(1940)
+1941;The Long Voyage Home;Não;https://en.wikipedia.org/wiki/The_Long_Voyage_Home;https://es.wikipedia.org/wiki/The_Long_Voyage_Home_(pel%C3%ADcula_de_1940);https://pt.wikipedia.org/wiki/The_Long_Voyage_Home
+1941;Our Town (1940 film);Não;https://en.wikipedia.org/wiki/Our_Town_(1940_film);https://es.wikipedia.org/wiki/Our_Town_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Our_Town
+1941;The Philadelphia Story (film);Não;https://en.wikipedia.org/wiki/The_Philadelphia_Story_(film);https://es.wikipedia.org/wiki/The_Philadelphia_Story;https://pt.wikipedia.org/wiki/The_Philadelphia_Story
+1942;How Green Was My Valley (film);Sim;https://en.wikipedia.org/wiki/How_Green_Was_My_Valley_(film);https://es.wikipedia.org/wiki/%C2%A1Qu%C3%A9_verde_era_mi_valle!;https://pt.wikipedia.org/wiki/How_Green_Was_My_Valley
+1942;Blossoms in the Dust;Não;https://en.wikipedia.org/wiki/Blossoms_in_the_Dust;https://es.wikipedia.org/wiki/De_coraz%C3%B3n_a_coraz%C3%B3n;https://pt.wikipedia.org/wiki/Blossoms_in_the_Dust
+1942;Citizen Kane;Não;https://en.wikipedia.org/wiki/Citizen_Kane;https://es.wikipedia.org/wiki/Citizen_Kane;https://pt.wikipedia.org/wiki/Citizen_Kane
+1942;Here Comes Mr. Jordan;Não;https://en.wikipedia.org/wiki/Here_Comes_Mr._Jordan;https://es.wikipedia.org/wiki/Here_Comes_Mr._Jordan;https://pt.wikipedia.org/wiki/Here_Comes_Mr._Jordan
+1942;Hold Back the Dawn;Não;https://en.wikipedia.org/wiki/Hold_Back_the_Dawn;https://es.wikipedia.org/wiki/Si_no_amaneciera;https://pt.wikipedia.org/wiki/Hold_Back_the_Dawn
+1942;The Little Foxes (film);Não;https://en.wikipedia.org/wiki/The_Little_Foxes_(film);https://es.wikipedia.org/wiki/La_loba_(pel%C3%ADcula_de_1941);https://pt.wikipedia.org/wiki/The_Little_Foxes
+1942;The Maltese Falcon (1941 film);Não;https://en.wikipedia.org/wiki/The_Maltese_Falcon_(1941_film);https://es.wikipedia.org/wiki/El_halc%C3%B3n_malt%C3%A9s_(pel%C3%ADcula_de_1941);https://pt.wikipedia.org/wiki/Rel%C3%ADquia_Macabra
+1942;One Foot in Heaven;Não;https://en.wikipedia.org/wiki/One_Foot_in_Heaven;;https://pt.wikipedia.org/wiki/One_Foot_in_Heaven
+1942;Sergeant York (film);Não;https://en.wikipedia.org/wiki/Sergeant_York_(film);https://es.wikipedia.org/wiki/Sergeant_York;https://pt.wikipedia.org/wiki/Sargento_York
+1942;Suspicion (1941 film);Não;https://en.wikipedia.org/wiki/Suspicion_(1941_film);https://es.wikipedia.org/wiki/Suspicion;https://pt.wikipedia.org/wiki/Suspeita
+1943;MRS. MINIVER;Sim;https://en.wikipedia.org/wiki/Mrs._Miniver;https://es.wikipedia.org/wiki/La_se%C3%B1ora_Miniver;https://pt.wikipedia.org/wiki/Mrs._Miniver
+1943;49th Parallel film; Não;https://en.wikipedia.org/wiki/49th_Parallel_(film);https://es.wikipedia.org/wiki/49th_Parallel;https://pt.wikipedia.org/wiki/49th_Parallel
+1943;Kings Row; Não;https://en.wikipedia.org/wiki/Kings_Row;https://es.wikipedia.org/wiki/Kings_Row;https://pt.wikipedia.org/wiki/Em_Cada_Cora%C3%A7%C3%A3o_um_Pecado
+1943;THE MAGNIFICENT AMBERSONS;Não;https://en.wikipedia.org/wiki/The_Magnificent_Ambersons;https://es.wikipedia.org/wiki/The_Magnificent_Ambersons_(novela);
+1943;THE PRIDE OF THE YANKEES;Não;https://en.wikipedia.org/wiki/The_Pride_of_the_Yankees;https://es.wikipedia.org/wiki/El_orgullo_de_los_Yanquis;https://pt.wikipedia.org/wiki/The_Pride_of_the_Yankees
+1943;THE PIED PIPER (1942 film);Não;https://en.wikipedia.org/wiki/The_Pied_Piper_(1942_film);;https://pt.wikipedia.org/wiki/The_Pied_Piper
+1943;RANDOM HARVEST (film);Não;https://en.wikipedia.org/wiki/Random_Harvest_(film);https://es.wikipedia.org/wiki/Random_Harvest;https://pt.wikipedia.org/wiki/Random_Harvest
+1943;WAKE ISLAND(1942 film);Não;https://en.wikipedia.org/wiki/Wake_Island_(film);;https://pt.wikipedia.org/wiki/Wake_Island
+1943;YANKEE DOODLE DANDY (film);Não;https://en.wikipedia.org/wiki/Yankee_Doodle_Dandy;https://es.wikipedia.org/wiki/Yanqui_Dandy;https://pt.wikipedia.org/wiki/Yankee_Doodle_Dandy
+1944;CASABLANCA;Sim;https://en.wikipedia.org/wiki/Casablanca;https://es.wikipedia.org/wiki/Casablanca;https://pt.wikipedia.org/wiki/Casablanca
+1944;FOR WHOM THE BELL TOLLS;Não;https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls;https://es.wikipedia.org/wiki/Por_qui%C3%A9n_doblan_las_campanas;https://pt.wikipedia.org/wiki/Por_Quem_os_Sinos_Dobram
+1944;Heaven Can Wait;Não;https://en.wikipedia.org/wiki/Heaven_Can_Wait_(1943_film);https://es.wikipedia.org/wiki/Heaven_Can_Wait_(pel%C3%ADcula_de_1943);https://pt.wikipedia.org/wiki/Heaven_Can_Wait_(1943)
+1944;THE HUMAN COMEDY (film);Não;https://en.wikipedia.org/wiki/The_Human_Comedy_(film);;https://pt.wikipedia.org/wiki/A_Com%C3%A9dia_Humana_(1943)
+1944;IN WHICH WE SERVE;Não;https://en.wikipedia.org/wiki/In_Which_We_Serve;;https://pt.wikipedia.org/wiki/In_Which_We_Serve
+1944;THE MORE THE MERRIER;Não;https://en.wikipedia.org/wiki/The_More_the_Merrier;https://es.wikipedia.org/wiki/El_amor_llam%C3%B3_dos_veces;https://pt.wikipedia.org/wiki/The_More_the_Merrier
+1944;THE OX-BOW INCIDENT;Não;https://en.wikipedia.org/wiki/The_Ox-Bow_Incident;https://es.wikipedia.org/wiki/The_Ox-Bow_Incident;https://pt.wikipedia.org/wiki/Consci%C3%AAncias_Mortas
+1944;MADAME CURIE (film);Não;https://en.wikipedia.org/wiki/Madame_Curie_(film);https://es.wikipedia.org/wiki/Madame_Curie_(pel%C3%ADcula_de_1943);https://pt.wikipedia.org/wiki/Madame_Curie_(filme)
+1944;THE SONG OF BERNADETTE(film);Não;https://en.wikipedia.org/wiki/The_Song_of_Bernadette_(film);https://es.wikipedia.org/wiki/La_canci%C3%B3n_de_Bernadette;https://pt.wikipedia.org/wiki/A_Can%C3%A7%C3%A3o_de_Bernadette
+1944;WATCH ON THE RHINE(film);Não;https://en.wikipedia.org/wiki/Watch_on_the_Rhine;https://es.wikipedia.org/wiki/Watch_on_the_Rhine;https://pt.wikipedia.org/wiki/Watch_on_the_Rhine
+1945;GOING MY WAY;Sim;https://en.wikipedia.org/wiki/Going_My_Way;https://es.wikipedia.org/wiki/Going_My_Way;https://pt.wikipedia.org/wiki/O_Bom_Pastor_(1944)
+1945;DOUBLE INDEMNITY (film);Não;https://en.wikipedia.org/wiki/Double_Indemnity;https://es.wikipedia.org/wiki/Double_Indemnity;https://pt.wikipedia.org/wiki/Double_Indemnity
+1945;GASLIGHT (film);Não;https://en.wikipedia.org/wiki/Gaslight_(1944_film);https://es.wikipedia.org/wiki/Gaslight;https://pt.wikipedia.org/wiki/Gaslight
+1945;WILSON (1944 film);Não;https://en.wikipedia.org/wiki/Wilson_(1944_film);https://es.wikipedia.org/wiki/Wilson_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Wilson_(1944)
+1945;SINCE YOU WENT AWAY;Não;https://en.wikipedia.org/wiki/Since_You_Went_Away;https://es.wikipedia.org/wiki/Desde_que_te_fuiste;https://pt.wikipedia.org/wiki/Since_You_Went_Away
+1946;THE LOST WEEKEND;Sim;https://en.wikipedia.org/wiki/The_Lost_Weekend;https://es.wikipedia.org/wiki/D%C3%ADas_sin_huella;https://pt.wikipedia.org/wiki/Farrapo_Humano
+1946;ANCHORS AWEIGH (film);Não;https://en.wikipedia.org/wiki/Anchors_Aweigh_(film);https://es.wikipedia.org/wiki/Levando_anclas;https://pt.wikipedia.org/wiki/Anchors_Aweigh
+1946;THE BELLS OF ST. MARY'S (film);Não;https://en.wikipedia.org/wiki/The_Bells_of_St._Mary%27s;https://es.wikipedia.org/wiki/Las_campanas_de_Santa_Mar%C3%ADa;https://pt.wikipedia.org/wiki/Os_Sinos_de_Santa_Maria
+1946;MILDRED PIERCE (film);Não;https://en.wikipedia.org/wiki/Mildred_Pierce_(film);https://es.wikipedia.org/wiki/Mildred_Pierce;https://pt.wikipedia.org/wiki/Alma_em_Supl%C3%ADcio
+1946;SPELLBOUND (1945 film);Não;https://en.wikipedia.org/wiki/Spellbound_(1945_film);https://es.wikipedia.org/wiki/Spellbound;https://pt.wikipedia.org/wiki/Spellbound_(1945)
+1947;The Best Years of Our Lives;Sim;https://en.wikipedia.org/wiki/The_Best_Years_of_Our_Lives;https://es.wikipedia.org/wiki/Los_mejores_a%C3%B1os_de_nuestra_vida;https://pt.wikipedia.org/wiki/The_Best_Years_of_Our_Lives
+1947;HENRY V (1944 film);Não;https://en.wikipedia.org/wiki/Henry_V_(1944_film);https://es.wikipedia.org/wiki/Enrique_V_(pel%C3%ADcula_de_1944);https://pt.wikipedia.org/wiki/Henrique_V_(filme_de_1944)
+1947;IT'S A WONDERFUL LIFE;Não;https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life;https://es.wikipedia.org/wiki/Qu%C3%A9_bello_es_vivir;https://pt.wikipedia.org/wiki/It%27s_a_Wonderful_Life
+1947;THE RAZOR'S EDGE (1946 film);Não;https://en.wikipedia.org/wiki/The_Razor%27s_Edge_(1946_film);https://es.wikipedia.org/wiki/El_filo_de_la_navaja_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/O_Fio_da_Navalha_(1946)
+1947;THE YEARLING (1946 film);Não;https://en.wikipedia.org/wiki/The_Yearling_(1946_film);https://es.wikipedia.org/wiki/El_despertar_(pel%C3%ADcula_de_1946);https://pt.wikipedia.org/wiki/The_Yearling
+1948;GENTLEMAN'S AGREEMENT (film);Sim;https://en.wikipedia.org/wiki/Gentleman%27s_Agreement;https://es.wikipedia.org/wiki/Gentleman%27s_Agreement;https://pt.wikipedia.org/wiki/A_Luz_%C3%89_para_Todos
+1948;THE BISHOP'S WIFE;Não;https://en.wikipedia.org/wiki/The_Bishop%27s_Wife;https://es.wikipedia.org/wiki/The_Bishop%27s_Wife;https://pt.wikipedia.org/wiki/The_Bishop%27s_Wife
+1948;CROSSFIRE (film);Não;https://en.wikipedia.org/wiki/Crossfire_(film);https://es.wikipedia.org/wiki/Encrucijada_de_odios;https://pt.wikipedia.org/wiki/Crossfire_(filme)
+1948;GREAT EXPECTATIONS (1946 film);Não;https://en.wikipedia.org/wiki/Great_Expectations_(1946_film);https://es.wikipedia.org/wiki/Grandes_esperanzas_(pel%C3%ADcula_de_1946);https://pt.wikipedia.org/wiki/Grandes_Esperan%C3%A7as_(filme_de_1946)
+1948;MIRACLE ON 34TH STREET;Não;https://en.wikipedia.org/wiki/Miracle_on_34th_Street;https://es.wikipedia.org/wiki/Miracle_on_34th_Street;https://pt.wikipedia.org/wiki/De_Ilus%C3%A3o_Tamb%C3%A9m_Se_Vive
+1949;HAMLET (1948 film);Sim;https://en.wikipedia.org/wiki/Hamlet_(1948_film);https://es.wikipedia.org/wiki/Hamlet_(pel%C3%ADcula_de_1948);https://pt.wikipedia.org/wiki/Hamlet_(filme_de_1948)
+1949;JOHNNY BELINDA (1948 film);Não;https://en.wikipedia.org/wiki/Johnny_Belinda_(1948_film);https://es.wikipedia.org/wiki/Belinda_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Johnny_Belinda
+1949;THE RED SHOES (1948 film);Não;https://en.wikipedia.org/wiki/The_Red_Shoes_(1948_film);https://es.wikipedia.org/wiki/Las_zapatillas_rojas_(pel%C3%ADcula_de_1948);https://pt.wikipedia.org/wiki/The_Red_Shoes
+1949;THE TREASURE OF THE SIERRA MADRE (1948 film);Não;https://en.wikipedia.org/wiki/The_Treasure_of_the_Sierra_Madre_(film);https://es.wikipedia.org/wiki/El_tesoro_de_Sierra_Madre_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/O_Tesouro_de_Sierra_Madre
+1949;The Snake Pit;Não;https://en.wikipedia.org/wiki/The_Snake_Pit;https://es.wikipedia.org/wiki/Nido_de_v%C3%ADboras;https://pt.wikipedia.org/wiki/The_Snake_Pit
+1950;All the King's Men (1949 film);Sim;https://en.wikipedia.org/wiki/All_the_King%27s_Men_(1949_film);https://es.wikipedia.org/wiki/All_the_King%27s_Men;https://pt.wikipedia.org/wiki/All_the_King%27s_Men_(1949)
+1950;Battleground (film);Não;https://en.wikipedia.org/wiki/Battleground_(film);https://es.wikipedia.org/wiki/Fuego_en_la_nieve_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Battleground_(filme)
+1950;The Heiress;Não;https://en.wikipedia.org/wiki/The_Heiress;https://es.wikipedia.org/wiki/La_heredera_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/The_Heiress
+1950;A Letter to Three Wives;Não;https://en.wikipedia.org/wiki/A_Letter_to_Three_Wives;https://es.wikipedia.org/wiki/Carta_a_tres_esposas;https://pt.wikipedia.org/wiki/A_Letter_to_Three_Wives
+1951;All About Eve;Sim;https://en.wikipedia.org/wiki/All_About_Eve;https://es.wikipedia.org/wiki/All_About_Eve;https://pt.wikipedia.org/wiki/All_About_Eve
+1951;BORN YESTERDAY (film);Não;https://en.wikipedia.org/wiki/Born_Yesterday_(1950_film);https://es.wikipedia.org/wiki/Nacida_ayer_(1950);https://pt.wikipedia.org/wiki/Born_Yesterday
+1951;SUNSET BLVD. (film);Não;https://en.wikipedia.org/wiki/Sunset_Boulevard_(film);https://es.wikipedia.org/wiki/Sunset_Boulevard_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Sunset_Boulevard
+1951;FATHER OF THE BRIDE (1950 film);Não;https://en.wikipedia.org/wiki/Father_of_the_Bride_(1950_film);https://es.wikipedia.org/wiki/El_padre_de_la_novia_(pel%C3%ADcula_de_1950);https://pt.wikipedia.org/wiki/O_Pai_da_Noiva_(1950)
+1951;KING SOLOMON'S MINES (1950 film);Não;https://en.wikipedia.org/wiki/King_Solomon%27s_Mines_(1950_film);https://es.wikipedia.org/wiki/Las_minas_del_rey_Salom%C3%B3n_(pel%C3%ADcula_de_1950);https://pt.wikipedia.org/wiki/King_Solomon%27s_Mines_(filme_de_1950)
+1952;AN AMERICAN IN PARIS (film);Sim;https://en.wikipedia.org/wiki/An_American_in_Paris_(film);https://es.wikipedia.org/wiki/Un_americano_en_Par%C3%ADs;https://pt.wikipedia.org/wiki/An_American_in_Paris
+1952;DECISION BEFORE DAWN (film);Não;https://en.wikipedia.org/wiki/Decision_Before_Dawn;https://es.wikipedia.org/wiki/Decision_Before_Dawn;https://pt.wikipedia.org/wiki/Decision_Before_Dawn
+1952;A PLACE IN THE SUN (film);Não;https://en.wikipedia.org/wiki/A_Place_in_the_Sun_(1951_film);https://es.wikipedia.org/wiki/A_Place_in_the_Sun;https://pt.wikipedia.org/wiki/Um_Lugar_ao_Sol_(filme)
+1952;A STREETCAR NAMED DESIRE (film);Não;https://en.wikipedia.org/wiki/A_Streetcar_Named_Desire_(1951_film);https://es.wikipedia.org/wiki/Un_tranv%C3%ADa_llamado_Deseo_(pel%C3%ADcula_de_1951);https://pt.wikipedia.org/wiki/A_Streetcar_Named_Desire
+1952;QUO VADIS (1951 film);Não;https://en.wikipedia.org/wiki/Quo_Vadis_(1951_film);https://es.wikipedia.org/wiki/Quo_vadis%3F_(pel%C3%ADcula_de_1951);https://pt.wikipedia.org/wiki/Quo_Vadis_(1951)
+1953;THE GREATEST SHOW ON EARTH (film);Sim;https://en.wikipedia.org/wiki/The_Greatest_Show_on_Earth_(film);https://es.wikipedia.org/wiki/The_Greatest_Show_on_Earth_(pel%C3%ADcula_de_1952);https://pt.wikipedia.org/wiki/The_Greatest_Show_on_Earth
+1953;HIGH NOON;Não;https://en.wikipedia.org/wiki/High_Noon;https://es.wikipedia.org/wiki/High_Noon;https://pt.wikipedia.org/wiki/High_Noon
+1953;IVANHOE (1952 film);Não;https://en.wikipedia.org/wiki/Ivanhoe_(1952_film);https://es.wikipedia.org/wiki/Ivanhoe_(pel%C3%ADcula_de_1952);https://pt.wikipedia.org/wiki/Ivanhoe_(1952)
+1953;THE QUIET MAN (film);Não;https://en.wikipedia.org/wiki/The_Quiet_Man;https://es.wikipedia.org/wiki/The_Quiet_Man;https://pt.wikipedia.org/wiki/The_Quiet_Man
+1953;MOULIN ROUGE (1952 film);Não;https://en.wikipedia.org/wiki/Moulin_Rouge_(1952_film);https://es.wikipedia.org/wiki/Moulin_Rouge_(pel%C3%ADcula_de_1952);https://pt.wikipedia.org/wiki/Moulin_Rouge_(1952)
+1954;FROM HERE TO ETERNITY (film);Sim;https://en.wikipedia.org/wiki/From_Here_to_Eternity;https://es.wikipedia.org/wiki/De_aqu%C3%AD_a_la_eternidad;https://pt.wikipedia.org/wiki/From_Here_to_Eternity
+1954;THE ROBE (film);Não;https://en.wikipedia.org/wiki/The_Robe_(film);https://es.wikipedia.org/wiki/The_Robe;https://pt.wikipedia.org/wiki/The_Robe
+1954;ROMAN HOLIDAY (film);Não;https://en.wikipedia.org/wiki/Roman_Holiday;https://es.wikipedia.org/wiki/Roman_Holiday;https://pt.wikipedia.org/wiki/Roman_Holiday
+1954;SHANE (film);Não;https://en.wikipedia.org/wiki/Shane_(film);https://es.wikipedia.org/wiki/Shane;https://pt.wikipedia.org/wiki/Shane
+1954;William Shakespeare's Julius Caesar;Não;https://en.wikipedia.org/wiki/William_Shakespeare%27s_Julius_Caesar;https://es.wikipedia.org/wiki/Julio_C%C3%A9sar_(pel%C3%ADcula_de_1953);https://pt.wikipedia.org/wiki/J%C3%BAlio_C%C3%A9sar_(1953)
+1955;ON THE WATERFRONT (film);Sim;https://en.wikipedia.org/wiki/On_the_Waterfront;https://es.wikipedia.org/wiki/On_the_Waterfront;https://pt.wikipedia.org/wiki/On_the_Waterfront
+1955;THE CAINE MUTINY (film);Não;https://en.wikipedia.org/wiki/The_Caine_Mutiny_(film);https://es.wikipedia.org/wiki/El_mot%C3%ADn_del_Caine;https://pt.wikipedia.org/wiki/The_Caine_Mutiny
+1955;THE COUNTRY GIRL (film);Não;https://en.wikipedia.org/wiki/The_Country_Girl_(1954_film);https://es.wikipedia.org/wiki/La_angustia_de_vivir;https://pt.wikipedia.org/wiki/The_Country_Girl
+1955;SEVEN BRIDES FOR SEVEN BROTHERS (film);Não;https://en.wikipedia.org/wiki/Seven_Brides_for_Seven_Brothers;https://es.wikipedia.org/wiki/Siete_novias_para_siete_hermanos;https://pt.wikipedia.org/wiki/Seven_Brides_for_Seven_Brothers
+1955;THREE COINS IN THE FOUNTAIN (film);Não;https://en.wikipedia.org/wiki/Three_Coins_in_the_Fountain_(film);https://es.wikipedia.org/wiki/Three_Coins_in_the_Fountain_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Three_Coins_in_the_Fountain
+1956;MARTY (film);Sim;https://en.wikipedia.org/wiki/Marty_(film);https://es.wikipedia.org/wiki/Marty;https://pt.wikipedia.org/wiki/Marty
+1956;LOVE IS A MANY-SPLENDORED THING (film);Não;https://en.wikipedia.org/wiki/Love_Is_a_Many-Splendored_Thing_(film);https://es.wikipedia.org/wiki/Love_Is_a_Many-Splendored_Thing;https://pt.wikipedia.org/wiki/Love_Is_a_Many-Splendored_Thing
+1956;MISTER ROBERTS (film);Não;https://en.wikipedia.org/wiki/Mister_Roberts_(1955_film);https://es.wikipedia.org/wiki/Mister_Roberts;https://pt.wikipedia.org/wiki/Mister_Roberts
+1956;PICNIC (film);Não;https://en.wikipedia.org/wiki/Picnic_(1955_film);https://es.wikipedia.org/wiki/Picnic_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Picnic_(filme)
+1956;THE ROSE TATTOO (film);Não;https://en.wikipedia.org/wiki/The_Rose_Tattoo_(film);https://es.wikipedia.org/wiki/La_rosa_tatuada_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/A_Rosa_Tatuada
+1957;AROUND THE WORLD IN 80 DAYS (film);Sim;https://en.wikipedia.org/wiki/Around_the_World_in_80_Days_(1956_film);https://es.wikipedia.org/wiki/La_vuelta_al_mundo_en_ochenta_d%C3%ADas_(pel%C3%ADcula_de_1956);https://pt.wikipedia.org/wiki/A_Volta_ao_Mundo_em_80_Dias_(1956)
+1957;FRIENDLY PERSUASION (film);Não;https://en.wikipedia.org/wiki/Friendly_Persuasion_(1956_film);https://es.wikipedia.org/wiki/Friendly_Persuasion;https://pt.wikipedia.org/wiki/Friendly_Persuasion
+1957;THE KING AND I (1956 film);Não;https://en.wikipedia.org/wiki/The_King_and_I_(1956_film);https://es.wikipedia.org/wiki/El_rey_y_yo_(pel%C3%ADcula_de_1956);https://pt.wikipedia.org/wiki/O_Rei_e_Eu
+1957;GIANT (film);Não;https://en.wikipedia.org/wiki/Giant_(1956_film);https://es.wikipedia.org/wiki/Gigante_(pel%C3%ADcula_de_1956);https://pt.wikipedia.org/wiki/Giant_(filme)
+1957;THE TEN COMMANDMENTS (film);Não;https://en.wikipedia.org/wiki/The_Ten_Commandments_(1956_film);https://es.wikipedia.org/wiki/Los_diez_mandamientos_(pel%C3%ADcula_de_1956);https://pt.wikipedia.org/wiki/Os_Dez_Mandamentos_(filme_de_1956)
+1958;The Bridge on the River Kwai;Sim;https://en.wikipedia.org/wiki/The_Bridge_on_the_River_Kwai;https://es.wikipedia.org/wiki/El_puente_sobre_el_r%C3%ADo_Kwai;https://pt.wikipedia.org/wiki/A_Ponte_do_Rio_Kwai
+1958;Peyton Place (film);Não;https://en.wikipedia.org/wiki/Peyton_Place_(film);https://es.wikipedia.org/wiki/Peyton_Place_(pel%C3%ADcula_de_1957);https://pt.wikipedia.org/wiki/Peyton_Place_(filme)
+1958;Sayonara;Não;https://en.wikipedia.org/wiki/Sayonara;https://es.wikipedia.org/wiki/Sayonara_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Sayonara
+1958;12 Angry Men (1957 film);Não;https://en.wikipedia.org/wiki/12_Angry_Men_(1957_film);https://es.wikipedia.org/wiki/12_Angry_Men_(pel%C3%ADcula_de_1957);https://pt.wikipedia.org/wiki/12_Angry_Men
+1958;Witness for the Prosecution (1957 film);Não;https://en.wikipedia.org/wiki/Witness_for_the_Prosecution_(1957_film);https://es.wikipedia.org/wiki/Testigo_de_cargo_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Testemunha_de_Acusa%C3%A7%C3%A3o_(filme)
+1959;GIGI (film);Sim;https://en.wikipedia.org/wiki/Gigi_(1958_film);https://es.wikipedia.org/wiki/Gigi;https://pt.wikipedia.org/wiki/Gigi_(filme)
+1959;AUNTIE MAME (film);Não;https://en.wikipedia.org/wiki/Auntie_Mame_(film);https://es.wikipedia.org/wiki/Auntie_Mame;https://pt.wikipedia.org/wiki/Auntie_Mame
+1959;CAT ON A HOT TIN ROOF (film);Não;https://en.wikipedia.org/wiki/Cat_on_a_Hot_Tin_Roof_(1958_film);https://es.wikipedia.org/wiki/Cat_on_a_Hot_Tin_Roof_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Cat_on_a_Hot_Tin_Roof_(filme)
+1959;THE DEFIANT ONES (film);Não;https://en.wikipedia.org/wiki/The_Defiant_Ones;https://es.wikipedia.org/wiki/Fugitivos_(pel%C3%ADcula_de_1958);https://pt.wikipedia.org/wiki/The_Defiant_Ones
+1959;SEPARATE TABLES (film);Não;https://en.wikipedia.org/wiki/Separate_Tables_(film);https://es.wikipedia.org/wiki/Mesas_separadas;https://pt.wikipedia.org/wiki/Vidas_Separadas
+1960;BEN-HUR (1959 film);Sim;https://en.wikipedia.org/wiki/Ben-Hur_(1959_film);https://es.wikipedia.org/wiki/Ben-Hur_(pel%C3%ADcula_de_1959);https://pt.wikipedia.org/wiki/Ben-Hur
+1960;ANATOMY OF A MURDER (1959 film);Não;https://en.wikipedia.org/wiki/Anatomy_of_a_Murder;https://es.wikipedia.org/wiki/Anatom%C3%ADa_de_un_asesinato;https://pt.wikipedia.org/wiki/Anatomia_de_um_Crime
+1960;THE DIARY OF ANNE FRANK (1959 film);Não;https://en.wikipedia.org/wiki/The_Diary_of_Anne_Frank_(1959_film);https://es.wikipedia.org/wiki/El_diario_de_Ana_Frank_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/O_Di%C3%A1rio_de_Anne_Frank
+1960;THE NUN'S STORY (1959 film);Não;https://en.wikipedia.org/wiki/The_Nun%27s_Story_(film);https://es.wikipedia.org/wiki/Historia_de_una_monja_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/The_Nun%27s_Story
+1960;ROOM AT THE TOP (1959 film);Não;https://en.wikipedia.org/wiki/Room_at_the_Top_(1959_film);https://es.wikipedia.org/wiki/Un_lugar_en_la_cumbre_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Room_at_the_Top
+1961;THE APARTMENT (1960 film);Sim;https://en.wikipedia.org/wiki/The_Apartment;https://es.wikipedia.org/wiki/The_Apartment;https://pt.wikipedia.org/wiki/The_Apartment
+1961;THE ALAMO (1960 film);Não;https://en.wikipedia.org/wiki/The_Alamo_(1960_film);https://es.wikipedia.org/wiki/El_%C3%81lamo_(pel%C3%ADcula_de_1960);https://pt.wikipedia.org/wiki/The_Alamo_(1960)
+1961;ELMER GANTRY (1960 film);Não;https://en.wikipedia.org/wiki/Elmer_Gantry_(film);https://es.wikipedia.org/wiki/Elmer_Gantry;https://pt.wikipedia.org/wiki/Elmer_Gantry
+1961;SONS AND LOVERS (1960 film);Não;https://en.wikipedia.org/wiki/Sons_and_Lovers_(film);https://es.wikipedia.org/wiki/Hijos_y_amantes_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Sons_and_Lovers
+1961;THE SUNDOWNERS (1960 film);Não;https://en.wikipedia.org/wiki/The_Sundowners_(1960_film);https://es.wikipedia.org/wiki/Tres_vidas_errantes;https://pt.wikipedia.org/wiki/The_Sundowners
+1962;WEST SIDE STORY (1961 film);Sim;https://en.wikipedia.org/wiki/West_Side_Story_(1961_film);https://es.wikipedia.org/wiki/West_Side_Story_(pel%C3%ADcula_de_1961);https://pt.wikipedia.org/wiki/West_Side_Story_(1961)
+1962;FANNY (1961 film);Não;https://en.wikipedia.org/wiki/Fanny_(1961_film);https://es.wikipedia.org/wiki/Fanny_(pel%C3%ADcula_de_1961);https://pt.wikipedia.org/wiki/Fanny_(filme)
+1962;THE GUNS OF NAVARONE (1961 film);Não;https://en.wikipedia.org/wiki/The_Guns_of_Navarone_(film);https://es.wikipedia.org/wiki/Los_ca%C3%B1ones_de_Navarone;https://pt.wikipedia.org/wiki/Os_Canh%C3%B5es_de_Navarone
+1962;THE HUSTLER (1961 film);Não;https://en.wikipedia.org/wiki/The_Hustler;https://es.wikipedia.org/wiki/The_Hustler;https://pt.wikipedia.org/wiki/The_Hustler
+1962;JUDGMENT AT NUREMBERG (1961 film);Não;https://en.wikipedia.org/wiki/Judgment_at_Nuremberg;https://es.wikipedia.org/wiki/Judgment_at_Nuremberg;https://pt.wikipedia.org/wiki/Judgment_at_Nuremberg
+1963;LAWRENCE OF ARABIA (1962 film);Sim;https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film);https://es.wikipedia.org/wiki/Lawrence_de_Arabia_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Lawrence_da_Ar%C3%A1bia_(filme)
+1963;THE LONGEST DAY (1962 film);Não;https://en.wikipedia.org/wiki/The_Longest_Day_(film);https://es.wikipedia.org/wiki/El_d%C3%ADa_m%C3%A1s_largo_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/The_Longest_Day
+1963;MEREDITH WILLSON'S THE MUSIC MAN (1962 film);Não;https://en.wikipedia.org/wiki/The_Music_Man_(1962_film);https://es.wikipedia.org/wiki/Vivir_de_ilusi%C3%B3n;https://pt.wikipedia.org/wiki/The_Music_Man
+1963;MUTINY ON THE BOUNTY (1962 film);Não;https://en.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1962_film);https://es.wikipedia.org/wiki/Mutiny_on_the_Bounty_(pel%C3%ADcula_de_1962);https://pt.wikipedia.org/wiki/Mutiny_on_the_Bounty_(1962)
+1963;TO KILL A MOCKINGBIRD (1962 film);Não;https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_(film);https://es.wikipedia.org/wiki/To_Kill_a_Mockingbird_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/To_Kill_a_Mockingbird_(filme)
+1964;Tom Jones (1963 film);Sim;https://en.wikipedia.org/wiki/Tom_Jones_(1963_film);https://es.wikipedia.org/wiki/Tom_Jones_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Tom_Jones_(1963)
+1964;America America;Não;https://en.wikipedia.org/wiki/America_America;https://es.wikipedia.org/wiki/Am%C3%A9rica,_Am%C3%A9rica_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/America,_America
+1964;Cleopatra (1963 film);Não;https://en.wikipedia.org/wiki/Cleopatra_(1963_film);https://es.wikipedia.org/wiki/Cleopatra_(pel%C3%ADcula_de_1963);https://pt.wikipedia.org/wiki/Cle%C3%B3patra_(1963)
+1964;How the West Was Won (film);Não;https://en.wikipedia.org/wiki/How_the_West_Was_Won_(film);https://es.wikipedia.org/wiki/La_conquista_del_Oeste;https://pt.wikipedia.org/wiki/A_Conquista_do_Oeste
+1964;Lilies of the Field (1963 film);Não;https://en.wikipedia.org/wiki/Lilies_of_the_Field_(1963_film);https://es.wikipedia.org/wiki/Los_lirios_del_valle;https://pt.wikipedia.org/wiki/Lilies_of_the_Field_(1963)
+1965;MY FAIR LADY (1964 film);Sim;https://en.wikipedia.org/wiki/My_Fair_Lady_(film);https://es.wikipedia.org/wiki/My_Fair_Lady_(pel%C3%ADcula_de_1964);https://pt.wikipedia.org/wiki/My_Fair_Lady
+1965;DR. STRANGELOVE;Não;https://en.wikipedia.org/wiki/Dr._Strangelove;https://es.wikipedia.org/wiki/Dr._Strangelove_or:_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb;https://pt.wikipedia.org/wiki/Dr._Strangelove_or:_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb
+1965;BECKET (1964 film);Não;https://en.wikipedia.org/wiki/Becket_(1964_film);https://es.wikipedia.org/wiki/Becket_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Becket_(1964)
+1965;MARY POPPINS (1964 film);Não;https://en.wikipedia.org/wiki/Mary_Poppins_(film);https://es.wikipedia.org/wiki/Mary_Poppins_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Mary_Poppins_(filme)
+1965;ZORBA THE GREEK (1964 film);Não;https://en.wikipedia.org/wiki/Zorba_the_Greek_(film);https://es.wikipedia.org/wiki/Zorba,_el_griego_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Zorba,_o_Grego_(filme)
+1966;THE SOUND OF MUSIC (1964 film);Sim;https://en.wikipedia.org/wiki/The_Sound_of_Music_(film);https://es.wikipedia.org/wiki/The_Sound_of_Music;https://pt.wikipedia.org/wiki/The_Sound_of_Music
+1966;DOCTOR ZHIVAGO (1964 film);Não;https://en.wikipedia.org/wiki/Doctor_Zhivago_(film);https://es.wikipedia.org/wiki/Doctor_Zhivago_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Doutor_Jivago_(filme)
+1966;SHIP OF FOOLS (1964 film);Não;https://en.wikipedia.org/wiki/Ship_of_Fools_(film);https://es.wikipedia.org/wiki/Ship_of_Fools_(pel%C3%ADcula_de_1965);https://pt.wikipedia.org/wiki/Ship_of_Fools_(filme)
+1966;DARLING (1965 film);Não;https://en.wikipedia.org/wiki/Darling_(1965_film);https://es.wikipedia.org/wiki/Darling_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Darling_(filme)
+1966;A THOUSAND CLOWNS (1964 film);Não;https://en.wikipedia.org/wiki/A_Thousand_Clowns;https://es.wikipedia.org/wiki/El_payaso_de_la_ciudad;https://pt.wikipedia.org/wiki/A_Thousand_Clowns
+1967;A Man for All Seasons (1966 film);Sim;https://en.wikipedia.org/wiki/A_Man_for_All_Seasons_(1966_film);https://es.wikipedia.org/wiki/A_Man_for_All_Seasons;https://pt.wikipedia.org/wiki/A_Man_for_All_Seasons
+1967;Alfie (1966 film);Não;https://en.wikipedia.org/wiki/Alfie_(1966_film);https://es.wikipedia.org/wiki/Alfie_(pel%C3%ADcula_de_1966);https://pt.wikipedia.org/wiki/Alfie
+1967;The Russians Are Coming, the Russians Are Coming;Não;https://en.wikipedia.org/wiki/The_Russians_Are_Coming,_the_Russians_Are_Coming;https://es.wikipedia.org/wiki/%C2%A1Que_vienen_los_rusos!;https://pt.wikipedia.org/wiki/The_Russians_Are_Coming,_the_Russians_Are_Coming
+1967;The Sand Pebbles (film);Não;https://en.wikipedia.org/wiki/The_Sand_Pebbles_(film);https://es.wikipedia.org/wiki/The_Sand_Pebbles;https://pt.wikipedia.org/wiki/The_Sand_Pebbles
+1967;Who's Afraid of Virginia Woolf?;Não;https://en.wikipedia.org/wiki/Who%27s_Afraid_of_Virginia_Woolf%3F;https://es.wikipedia.org/wiki/%C2%BFQui%C3%A9n_teme_a_Virginia_Woolf%3F;https://pt.wikipedia.org/wiki/Who%27s_Afraid_of_Virginia_Woolf%3F_(pe%C3%A7a)
+1968;N THE HEAT OF THE NIGHT (1967 film);Sim;https://en.wikipedia.org/wiki/In_the_Heat_of_the_Night_(film);https://es.wikipedia.org/wiki/In_the_Heat_of_the_Night;https://pt.wikipedia.org/wiki/No_Calor_da_Noite_(filme)
+1968;BONNIE AND CLYDE (1967 film);Não;https://en.wikipedia.org/wiki/Bonnie_and_Clyde_(film);https://es.wikipedia.org/wiki/Bonnie_y_Clyde_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Bonnie_and_Clyde
+1968;DOCTOR DOLITTLE (1967 film);Não;https://en.wikipedia.org/wiki/Doctor_Dolittle_(1967_film);https://es.wikipedia.org/wiki/Doctor_Dolittle_(pel%C3%ADcula_de_1967);https://pt.wikipedia.org/wiki/Doctor_Dolittle_(1967)
+1968;THE GRADUATE (1967 film);Não;https://en.wikipedia.org/wiki/The_Graduate;https://es.wikipedia.org/wiki/El_graduado;https://pt.wikipedia.org/wiki/The_Graduate
+1968;GUESS WHO'S COMING TO DINNER (1967 film);Não;https://en.wikipedia.org/wiki/Guess_Who%27s_Coming_to_Dinner;https://es.wikipedia.org/wiki/Guess_Who%27s_Coming_to_Dinner;https://pt.wikipedia.org/wiki/Guess_Who%27s_Coming_to_Dinner
+1969;OLIVER! (1968 film);Sim;https://en.wikipedia.org/wiki/Oliver!_(film);https://es.wikipedia.org/wiki/Oliver_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Oliver!
+1969;FUNNY GIRL (1968 film);Não;https://en.wikipedia.org/wiki/Funny_Girl_(film);https://es.wikipedia.org/wiki/Funny_Girl;https://pt.wikipedia.org/wiki/Funny_Girl
+1969;THE LION IN WINTER (1968 film);Não;https://en.wikipedia.org/wiki/The_Lion_in_Winter_(1968_film);https://es.wikipedia.org/wiki/El_le%C3%B3n_en_invierno_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/O_Le%C3%A3o_no_Inverno_(1968)
+1969;RACHEL, RACHEL (1968 film);Não;https://en.wikipedia.org/wiki/Rachel,_Rachel;https://es.wikipedia.org/wiki/Raquel,_Raquel;https://pt.wikipedia.org/wiki/Rachel,_Rachel
+1969;ROMEO AND JULIET (1968 film);Não;https://en.wikipedia.org/wiki/Romeo_and_Juliet_(1968_film);https://es.wikipedia.org/wiki/Romeo_y_Julieta_(pel%C3%ADcula_de_1968);https://pt.wikipedia.org/wiki/Romeu_e_Julieta_(1968)
+1970;Midnight Cowboy;Sim;https://en.wikipedia.org/wiki/Midnight_Cowboy;https://es.wikipedia.org/wiki/Midnight_Cowboy;https://pt.wikipedia.org/wiki/Midnight_Cowboy
+1970;Anne of the Thousand Days;Não;https://en.wikipedia.org/wiki/Anne_of_the_Thousand_Days;https://pt.wikipedia.org/wiki/Midnight_Cowboy;https://pt.wikipedia.org/wiki/Anne_of_the_Thousand_Days
+1970;Butch Cassidy and the Sundance Kid;Não;https://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid;https://es.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid;https://pt.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid
+1970;Hello, Dolly! (film);Não;https://en.wikipedia.org/wiki/Hello,_Dolly!_(film);https://es.wikipedia.org/wiki/Hello,_Dolly!_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Hello,_Dolly!
+1970;Z (film 1969);Não;https://en.wikipedia.org/wiki/Z_(1969_film);https://es.wikipedia.org/wiki/Z_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Z_(filme)
+1971;PATTON (1970 film);Sim;https://en.wikipedia.org/wiki/Patton_(film);https://es.wikipedia.org/wiki/Patton_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Patton_(filme)
+1971;AIRPORT (1970 film);Não;https://en.wikipedia.org/wiki/Airport_(1970_film);https://es.wikipedia.org/wiki/Aeropuerto_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Aeroporto_(filme)
+1971;MASH (film);Não;https://en.wikipedia.org/wiki/M*A*S*H_(film);https://es.wikipedia.org/wiki/MASH_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/MASH_(filme)
+1971;FIVE EASY PIECES (1970 film);Não;https://en.wikipedia.org/wiki/Five_Easy_Pieces;https://es.wikipedia.org/wiki/Mi_vida_es_mi_vida;https://pt.wikipedia.org/wiki/Five_Easy_Pieces
+1971;LOVE STORY (1970 film);Não;https://en.wikipedia.org/wiki/Love_Story_(1970_film);https://es.wikipedia.org/wiki/Love_Story_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Love_Story_(1970)
+1972;THE FRENCH CONNECTION (1971 film);Sim;https://en.wikipedia.org/wiki/The_French_Connection_(film);https://es.wikipedia.org/wiki/The_French_Connection;https://pt.wikipedia.org/wiki/The_French_Connection
+1972;A CLOCKWORK ORANGE (1971 film);Não;https://en.wikipedia.org/wiki/A_Clockwork_Orange_(film);https://es.wikipedia.org/wiki/La_naranja_mec%C3%A1nica_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Laranja_Mec%C3%A2nica_(filme)
+1972;FIDDLER ON THE ROOF (1971 film);Não;https://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film);https://es.wikipedia.org/wiki/El_violinista_en_el_tejado_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Fiddler_on_the_Roof_(filme)
+1972;THE LAST PICTURE SHOW (1971 film);Não;https://en.wikipedia.org/wiki/The_Last_Picture_Show;https://es.wikipedia.org/wiki/La_%C3%BAltima_pel%C3%ADcula;https://pt.wikipedia.org/wiki/The_Last_Picture_Show
+1972;NICHOLAS AND ALEXANDRA (1971 film);Não;https://en.wikipedia.org/wiki/Nicholas_and_Alexandra;https://es.wikipedia.org/wiki/Nicol%C3%A1s_y_Alejandra;https://pt.wikipedia.org/wiki/Nicholas_and_Alexandra
+1973;THE GODFATHER (1972 film);Sim;https://en.wikipedia.org/wiki/The_Godfather;https://es.wikipedia.org/wiki/El_padrino_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/The_Godfather
+1973;CABARET (1972 film);Não;https://en.wikipedia.org/wiki/Cabaret_(1972_film);https://es.wikipedia.org/wiki/Cabaret_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Cabaret_(filme)
+1973;DELIVERANCE (1972 film);Não;https://en.wikipedia.org/wiki/Deliverance;https://es.wikipedia.org/wiki/Deliverance_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Deliverance_(filme)
+1973;THE EMIGRANTS (1972 film);Não;https://en.wikipedia.org/wiki/The_Emigrants_(film);https://es.wikipedia.org/wiki/Los_emigrantes;https://pt.wikipedia.org/wiki/Os_Emigrantes
+1973;SOUNDER (1972 film);Não;https://en.wikipedia.org/wiki/Sounder_(film);https://es.wikipedia.org/wiki/Sounder_(pel%C3%ADcula_de_1972);https://pt.wikipedia.org/wiki/Sounder
+1974;The Sting;Sim;https://en.wikipedia.org/wiki/The_Sting;https://es.wikipedia.org/wiki/El_golpe_(pel%C3%ADcula_de_1973);https://pt.wikipedia.org/wiki/The_Sting
+1974;American Graffiti;Não;https://en.wikipedia.org/wiki/American_Graffiti;https://es.wikipedia.org/wiki/American_Graffiti;https://pt.wikipedia.org/wiki/American_Graffiti
+1974;Cries and Whispers;Não;https://en.wikipedia.org/wiki/Cries_and_Whispers;https://es.wikipedia.org/wiki/Gritos_y_susurros;https://pt.wikipedia.org/wiki/Viskningar_och_rop
+1974;The Exorcist (franchise);Não;https://en.wikipedia.org/wiki/The_Exorcist;https://es.wikipedia.org/wiki/El_exorcista_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/O_Exorcista
+1974;A Touch of Class (film);Não;https://en.wikipedia.org/wiki/A_Touch_of_Class_(film);https://es.wikipedia.org/wiki/Un_toque_de_distinci%C3%B3n;https://pt.wikipedia.org/wiki/Um_Toque_de_Classe
+1975;THE GODFATHER PART II (1974 film);Sim;https://en.wikipedia.org/wiki/The_Godfather_Part_II;https://es.wikipedia.org/wiki/El_padrino_II;https://pt.wikipedia.org/wiki/The_Godfather_Part_II
+1975;CHINATOWN (1974 film);Não;https://en.wikipedia.org/wiki/Chinatown_(1974_film);https://es.wikipedia.org/wiki/Chinatown_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Chinatown_(filme)
+1975;THE CONVERSATION (1974 film);Não;https://en.wikipedia.org/wiki/The_Conversation;https://es.wikipedia.org/wiki/La_conversaci%C3%B3n;https://pt.wikipedia.org/wiki/The_Conversation
+1975;LENNY (1974 film);Não;https://en.wikipedia.org/wiki/Lenny_(film);https://es.wikipedia.org/wiki/Lenny_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Lenny_(filme)
+1975;THE TOWERING INFERNO (1974 film);Não;https://en.wikipedia.org/wiki/The_Towering_Inferno;https://es.wikipedia.org/wiki/The_Towering_Inferno;https://pt.wikipedia.org/wiki/The_Towering_Inferno
+1976;ONE FLEW OVER THE CUCKOO'S NEST (1975 film);Sim;https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(novel);https://es.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(novela);
+1976;BARRY LYNDON (1975 film);Não;https://en.wikipedia.org/wiki/Barry_Lyndon;https://es.wikipedia.org/wiki/Barry_Lyndon;https://pt.wikipedia.org/wiki/Barry_Lyndon
+1976;DOG DAY AFTERNOON (1975 film);Não;https://en.wikipedia.org/wiki/Dog_Day_Afternoon;https://es.wikipedia.org/wiki/Tarde_de_perros;https://pt.wikipedia.org/wiki/Um_Dia_de_C%C3%A3o
+1976;JAWS (1975 film);Não;https://en.wikipedia.org/wiki/Jaws_(film);https://es.wikipedia.org/wiki/Tibur%C3%B3n_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Tubar%C3%A3o_(filme)
+1976;NASHVILLE (1975 film);Não;https://en.wikipedia.org/wiki/Nashville_(film);https://es.wikipedia.org/wiki/Nashville_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Nashville_(filme)
+1977;ROCKY;Sim;https://en.wikipedia.org/wiki/Rocky;https://es.wikipedia.org/wiki/Rocky_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Rocky
+1977;ALL THE PRESIDENT'S MEN (1976 film);Não;https://en.wikipedia.org/wiki/All_the_President%27s_Men_(film);https://es.wikipedia.org/wiki/Todos_los_hombres_del_presidente;https://pt.wikipedia.org/wiki/All_the_President%27s_Men
+1977;BOUND FOR GLORY (1976 film);Não;https://en.wikipedia.org/wiki/Bound_for_Glory_(1976_film);https://es.wikipedia.org/wiki/Esta_tierra_es_mi_tierra_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Bound_for_Glory_(filme)
+1977;NETWORK (1976 film);Não;https://en.wikipedia.org/wiki/Network_(1976_film);https://es.wikipedia.org/wiki/Network;https://pt.wikipedia.org/wiki/Network_(filme)
+1977;TAXI DRIVER (1976 film);Não;https://en.wikipedia.org/wiki/Taxi_Driver;https://es.wikipedia.org/wiki/Taxi_Driver;https://pt.wikipedia.org/wiki/Taxi_Driver
+1978;ANNIE HALL (1977 film);Sim;https://en.wikipedia.org/wiki/Annie_Hall;https://es.wikipedia.org/wiki/Annie_Hall;https://pt.wikipedia.org/wiki/Annie_Hall
+1978;THE GOODBYE GIRL (1977 film);Não;https://en.wikipedia.org/wiki/The_Goodbye_Girl;https://es.wikipedia.org/wiki/La_chica_del_adi%C3%B3s;https://pt.wikipedia.org/wiki/The_Goodbye_Girl
+1978;JULIA (1977 film);Não;https://en.wikipedia.org/wiki/Julia_(1977_film);https://es.wikipedia.org/wiki/Julia_(pel%C3%ADcula_de_1977);https://pt.wikipedia.org/wiki/Julia_(filme)
+1978;STAR WARS (1977 film);Não;https://en.wikipedia.org/wiki/Star_Wars_(film);https://es.wikipedia.org/wiki/Star_Wars:_Episodio_IV_-_Una_nueva_esperanza;https://pt.wikipedia.org/wiki/Star_Wars:_Epis%C3%B3dio_IV_%E2%80%93_Uma_Nova_Esperan%C3%A7a
+1978;THE TURNING POINT (1977 film);Não;https://en.wikipedia.org/wiki/The_Turning_Point_(1977_film);https://es.wikipedia.org/wiki/The_Turning_Point;https://pt.wikipedia.org/wiki/The_Turning_Point_(1977)
+1979;The Deer Hunter;Sim;https://en.wikipedia.org/wiki/The_Deer_Hunter;https://es.wikipedia.org/wiki/The_Deer_Hunter;https://pt.wikipedia.org/wiki/The_Deer_Hunter
+1979;Coming Home (1978 film);Não;https://en.wikipedia.org/wiki/Coming_Home_(1978_film);https://es.wikipedia.org/wiki/Coming_Home_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Coming_Home_(1978)
+1979;Heaven Can Wait (1978 film);Não;https://en.wikipedia.org/wiki/Heaven_Can_Wait_(1978_film);https://es.wikipedia.org/wiki/El_cielo_puede_esperar_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/O_C%C3%A9u_Pode_Esperar_(1978)
+1979;Midnight Express (film);Não;https://en.wikipedia.org/wiki/Midnight_Express_(film);https://es.wikipedia.org/wiki/Midnight_Express;https://pt.wikipedia.org/wiki/O_Expresso_da_Meia-Noite
+1979;An Unmarried Woman;Não;https://en.wikipedia.org/wiki/An_Unmarried_Woman;https://es.wikipedia.org/wiki/Una_mujer_descasada;https://pt.wikipedia.org/wiki/An_Unmarried_Woman
+1980;KRAMER VS. KRAMER (1979 film);Sim;https://en.wikipedia.org/wiki/Kramer_vs._Kramer;https://es.wikipedia.org/wiki/Kramer_vs._Kramer;https://pt.wikipedia.org/wiki/Kramer_vs._Kramer
+1980;ALL THAT JAZZ (1979 film);Não;https://en.wikipedia.org/wiki/All_That_Jazz_(film);https://es.wikipedia.org/wiki/All_That_Jazz_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/All_That_Jazz
+1980;APOCALYPSE NOW (1979 film);Não;https://en.wikipedia.org/wiki/Apocalypse_Now;https://es.wikipedia.org/wiki/Apocalypse_Now;https://pt.wikipedia.org/wiki/Apocalypse_Now
+1980;BREAKING AWAY (1979 film);Não;https://en.wikipedia.org/wiki/Breaking_Away;https://es.wikipedia.org/wiki/Breaking_Away;https://pt.wikipedia.org/wiki/Breaking_Away
+1980;NORMA RAE;Não;https://en.wikipedia.org/wiki/Norma_Rae;https://es.wikipedia.org/wiki/Norma_Rae;https://pt.wikipedia.org/wiki/Norma_Rae
+1981;ORDINARY PEOPLE (1980 film);Sim;https://en.wikipedia.org/wiki/Ordinary_People;https://es.wikipedia.org/wiki/Ordinary_People;https://pt.wikipedia.org/wiki/Ordinary_People
+1981;COAL MINER'S DAUGHTER (1980 film);Não;https://en.wikipedia.org/wiki/Coal_Miner%27s_Daughter_(film);https://es.wikipedia.org/wiki/Coal_Miner%27s_Daughter;https://pt.wikipedia.org/wiki/Coal_Miner%27s_Daughter
+1981;THE ELEPHANT MAN (1980 film);Não;https://en.wikipedia.org/wiki/The_Elephant_Man_(film);https://es.wikipedia.org/wiki/El_hombre_elefante_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/O_Homem_Elefante
+1981;RAGING BULL (1980 film);Não;https://en.wikipedia.org/wiki/Raging_Bull;https://es.wikipedia.org/wiki/Toro_salvaje;https://pt.wikipedia.org/wiki/Raging_Bull
+1981;TESS (1980 film);Não;https://en.wikipedia.org/wiki/Tess_(1979_film);https://es.wikipedia.org/wiki/Tess_(pel%C3%ADcula_de_1979);https://pt.wikipedia.org/wiki/Tess_(filme)
+1982;Chariots of Fire (album);Sim;https://en.wikipedia.org/wiki/Chariots_of_Fire_(film);https://es.wikipedia.org/wiki/Chariots_of_Fire;https://pt.wikipedia.org/wiki/Chariots_of_Fire
+1982;Atlantic City (1980 film);Não;https://en.wikipedia.org/wiki/Atlantic_City_(1980_film);https://es.wikipedia.org/wiki/Atlantic_City_(pel%C3%ADcula_de_1980);https://pt.wikipedia.org/wiki/Atlantic_City_(1980)
+1982;On Golden Pond (1981 film);Não;https://en.wikipedia.org/wiki/On_Golden_Pond_(1981_film);https://es.wikipedia.org/wiki/On_Golden_Pond;https://pt.wikipedia.org/wiki/On_Golden_Pond
+1982;Raiders of the Lost Ark;Não;https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark;https://es.wikipedia.org/wiki/Raiders_of_the_Lost_Ark;https://pt.wikipedia.org/wiki/Raiders_of_the_Lost_Ark
+1982;Reds (film);Não;https://en.wikipedia.org/wiki/Reds_(film);https://es.wikipedia.org/wiki/Reds;https://pt.wikipedia.org/wiki/Reds
+1983;GANDHI (1982 film);Sim;https://en.wikipedia.org/wiki/Gandhi_(film);https://es.wikipedia.org/wiki/Gandhi_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Gandhi_(filme)
+1983;E.T. THE EXTRA-TERRESTRIAL (1982 film);Não;https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial;https://es.wikipedia.org/wiki/E.T.,_el_extraterrestre;https://pt.wikipedia.org/wiki/E.T._O_Extraterrestre
+1983;MISSING (1982 film);Não;https://en.wikipedia.org/wiki/Missing_(1982_film);https://es.wikipedia.org/wiki/Desaparecido_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Missing_-_O_Desaparecido
+1983;TOOTSIE;Não;https://en.wikipedia.org/wiki/Tootsie;https://es.wikipedia.org/wiki/Tootsie;https://pt.wikipedia.org/wiki/Tootsie
+1983;THE VERDICT (1982 film);Não;https://en.wikipedia.org/wiki/The_Verdict;https://es.wikipedia.org/wiki/The_Verdict;https://pt.wikipedia.org/wiki/O_Veredicto
+1984;TERMS OF ENDEARMENT (1983 film);Sim;https://en.wikipedia.org/wiki/Terms_of_Endearment;https://es.wikipedia.org/wiki/La_fuerza_del_cari%C3%B1o;https://pt.wikipedia.org/wiki/La%C3%A7os_de_Ternura
+1984;THE BIG CHILL (1983 film);Não;https://en.wikipedia.org/wiki/The_Big_Chill_(film);https://es.wikipedia.org/wiki/Reencuentro_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/The_Big_Chill
+1984;THE DRESSER (1983 film);Não;https://en.wikipedia.org/wiki/The_Dresser_(1983_film);https://es.wikipedia.org/wiki/The_Dresser;https://pt.wikipedia.org/wiki/The_Dresser
+1984;THE RIGHT STUFF (1983 film);Não;https://en.wikipedia.org/wiki/The_Right_Stuff_(film);https://es.wikipedia.org/wiki/The_Right_Stuff;https://pt.wikipedia.org/wiki/Os_Eleitos
+1984;TENDER MERCIES (1983 film);Não;https://en.wikipedia.org/wiki/Tender_Mercies;https://es.wikipedia.org/wiki/Tender_Mercies;https://pt.wikipedia.org/wiki/Tender_Mercies
+1985;AMADEUS (1984 film);Sim;https://en.wikipedia.org/wiki/Amadeus_(film);https://es.wikipedia.org/wiki/Amadeus;https://pt.wikipedia.org/wiki/Amadeus
+1985;THE KILLING FIELDS (1984 film);Não;https://en.wikipedia.org/wiki/The_Killing_Fields_(film);https://es.wikipedia.org/wiki/The_Killing_Fields;https://pt.wikipedia.org/wiki/The_Killing_Fields
+1985;A PASSAGE TO INDIA (1984 film);Não;https://en.wikipedia.org/wiki/A_Passage_to_India_(film);https://es.wikipedia.org/wiki/Pasaje_a_la_India;https://pt.wikipedia.org/wiki/Passagem_para_a_%C3%8Dndia_(filme)
+1985;PLACES IN THE HEART (1984 film);Não;https://en.wikipedia.org/wiki/Places_in_the_Heart;https://es.wikipedia.org/wiki/En_un_lugar_del_coraz%C3%B3n;https://pt.wikipedia.org/wiki/Um_Lugar_no_Cora%C3%A7%C3%A3o
+1985;A SOLDIER'S STORY (1984 film);Não;https://en.wikipedia.org/wiki/A_Soldier%27s_Story;https://es.wikipedia.org/wiki/Historia_de_un_soldado_(pel%C3%ADcula_de_1984);https://pt.wikipedia.org/wiki/A_Soldier%27s_Story
+1986;Out of Africa (film);Sim;https://en.wikipedia.org/wiki/Out_of_Africa_(film);https://es.wikipedia.org/wiki/Out_of_Africa;https://pt.wikipedia.org/wiki/Out_of_Africa
+1986;The Color Purple (1985 film);Não;https://en.wikipedia.org/wiki/The_Color_Purple_(1985_film);https://es.wikipedia.org/wiki/El_color_p%C3%BArpura;https://pt.wikipedia.org/wiki/A_Cor_P%C3%BArpura_(filme)
+1986;Kiss of the Spider Woman (film);Não;https://en.wikipedia.org/wiki/Kiss_of_the_Spider_Woman_(film);https://es.wikipedia.org/wiki/El_beso_de_la_mujer_ara%C3%B1a_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/O_Beijo_da_Mulher_Aranha
+1986;Prizzi's Honor;Não;https://en.wikipedia.org/wiki/Prizzi%27s_Honor;https://es.wikipedia.org/wiki/El_honor_de_los_Prizzi;https://pt.wikipedia.org/wiki/Prizzi%27s_Honor
+1986;Witness (1985 film);Não;https://en.wikipedia.org/wiki/Witness_(1985_film);https://es.wikipedia.org/wiki/Witness_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/A_Testemunha
+1987;PLATOON (1986 film);Sim;https://en.wikipedia.org/wiki/Platoon_(film);https://es.wikipedia.org/wiki/Platoon;https://pt.wikipedia.org/wiki/Platoon
+1987;CHILDREN OF A LESSER GOD (1986 film);Não;https://en.wikipedia.org/wiki/Children_of_a_Lesser_God_(film);https://es.wikipedia.org/wiki/Children_of_a_Lesser_God;https://pt.wikipedia.org/wiki/Children_of_a_Lesser_God
+1987;HANNAH AND HER SISTERS (1986 film);Não;https://en.wikipedia.org/wiki/Hannah_and_Her_Sisters;https://es.wikipedia.org/wiki/Hannah_y_sus_hermanas;https://pt.wikipedia.org/wiki/Hannah_and_Her_Sisters
+1987;THE MISSION (1986 film);Não;https://en.wikipedia.org/wiki/The_Mission_(1986_film);https://es.wikipedia.org/wiki/La_misi%C3%B3n;https://pt.wikipedia.org/wiki/A_Miss%C3%A3o
+1987;A ROOM WITH A VIEW (1986 film);Não;https://en.wikipedia.org/wiki/A_Room_with_a_View_(1985_film);https://es.wikipedia.org/wiki/A_Room_with_a_View_(pel%C3%ADcula_de_1985);https://pt.wikipedia.org/wiki/A_Room_with_a_View
+1988;THE LAST EMPEROR (1987 film);Sim;https://en.wikipedia.org/wiki/The_Last_Emperor;https://es.wikipedia.org/wiki/El_%C3%BAltimo_emperador;https://pt.wikipedia.org/wiki/O_%C3%9Altimo_Imperador
+1988;BROADCAST NEWS (1987 film);Não;https://en.wikipedia.org/wiki/Broadcast_News_(film);https://es.wikipedia.org/wiki/Broadcast_News;https://pt.wikipedia.org/wiki/Broadcast_News
+1988;FATAL ATTRACTION (1987 film);Não;https://en.wikipedia.org/wiki/Fatal_Attraction;https://es.wikipedia.org/wiki/Atracci%C3%B3n_fatal;https://pt.wikipedia.org/wiki/Atra%C3%A7%C3%A3o_Fatal
+1988;HOPE AND GLORY (1987 film);Não;https://en.wikipedia.org/wiki/Hope_and_Glory_(film);https://es.wikipedia.org/wiki/Hope_and_Glory;https://pt.wikipedia.org/wiki/Esperan%C3%A7a_e_Gl%C3%B3ria
+1988;MOONSTRUCK (1987 film);Não;https://en.wikipedia.org/wiki/Moonstruck;https://es.wikipedia.org/wiki/Hechizo_de_luna;https://pt.wikipedia.org/wiki/Moonstruck
+1989;RAIN MAN;Sim;https://en.wikipedia.org/wiki/Rain_Man;https://es.wikipedia.org/wiki/Rain_Man;https://pt.wikipedia.org/wiki/Rain_Man
+1989;THE ACCIDENTAL TOURIST (1988 film);Não;https://en.wikipedia.org/wiki/The_Accidental_Tourist_(film);https://es.wikipedia.org/wiki/The_Accidental_Tourist;https://pt.wikipedia.org/wiki/O_Turista_Acidental
+1989;DANGEROUS LIAISONS (1988 film);Não;https://en.wikipedia.org/wiki/Dangerous_Liaisons;https://es.wikipedia.org/wiki/Dangerous_Liaisons;https://pt.wikipedia.org/wiki/Liga%C3%A7%C3%B5es_Perigosas_(filme)
+1989;MISSISSIPPI BURNING (1988 film);Não;https://en.wikipedia.org/wiki/Mississippi_Burning;https://es.wikipedia.org/wiki/Mississippi_Burning;https://pt.wikipedia.org/wiki/Mississ%C3%ADpi_em_Chamas
+1989;WORKING GIRL (1988 film);Não;https://en.wikipedia.org/wiki/Working_Girl;https://es.wikipedia.org/wiki/Working_Girl;https://pt.wikipedia.org/wiki/Working_Girl
+1990;Driving Miss Daisy;Sim;https://en.wikipedia.org/wiki/Driving_Miss_Daisy;https://es.wikipedia.org/wiki/Driving_Miss_Daisy;https://pt.wikipedia.org/wiki/Driving_Miss_Daisy
+1990;Born on the Fourth of July (film);Não;https://en.wikipedia.org/wiki/Born_on_the_Fourth_of_July_(film);https://es.wikipedia.org/wiki/Nacido_el_cuatro_de_julio;https://pt.wikipedia.org/wiki/Born_on_the_Fourth_of_July
+1990;Dead Poets Society;Não;https://en.wikipedia.org/wiki/Dead_Poets_Society;https://es.wikipedia.org/wiki/Dead_Poets_Society;https://pt.wikipedia.org/wiki/Dead_Poets_Society
+1990;Field of Dreams;Não;https://en.wikipedia.org/wiki/Field_of_Dreams;https://es.wikipedia.org/wiki/Field_of_Dreams;https://pt.wikipedia.org/wiki/Field_of_Dreams
+1990;My Left Foot;Não;https://en.wikipedia.org/wiki/My_Left_Foot;https://es.wikipedia.org/wiki/Mi_pie_izquierdo;https://pt.wikipedia.org/wiki/My_Left_Foot
+1991;DANCES WITH WOLVES (1990 film);Sim;https://en.wikipedia.org/wiki/Dances_with_Wolves;https://es.wikipedia.org/wiki/Dances_with_Wolves;https://pt.wikipedia.org/wiki/Dances_with_Wolves
+1991;AWAKENINGS (1990 film);Não;https://en.wikipedia.org/wiki/Awakenings;https://es.wikipedia.org/wiki/Despertares;https://pt.wikipedia.org/wiki/Awakenings
+1991;GHOST (1990 film);Não;https://en.wikipedia.org/wiki/Ghost_(1990_film);https://es.wikipedia.org/wiki/Ghost_(pel%C3%ADcula_de_1990);https://pt.wikipedia.org/wiki/Ghost_(filme)
+1991;THE GODFATHER, PART III (1990 film);Não;https://en.wikipedia.org/wiki/The_Godfather_Part_III;https://es.wikipedia.org/wiki/El_padrino_III;https://pt.wikipedia.org/wiki/The_Godfather_Part_III
+1991;GOOD FELLAS (1990 film);Não;https://en.wikipedia.org/wiki/Goodfellas;https://es.wikipedia.org/wiki/Goodfellas;https://pt.wikipedia.org/wiki/Goodfellas
+1992;THE SILENCE OF THE LAMBS (1991 film);Sim;https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film);https://es.wikipedia.org/wiki/The_Silence_of_the_Lambs_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/O_Sil%C3%AAncio_dos_Inocentes
+1992;BEAUTY AND THE BEAST (1991 film);Não;https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film);https://es.wikipedia.org/wiki/La_bella_y_la_bestia_(pel%C3%ADcula_de_1991);https://pt.wikipedia.org/wiki/Beauty_and_the_Beast_(filme_de_1991)
+1992;BUGSY;Não;https://en.wikipedia.org/wiki/Bugsy;https://es.wikipedia.org/wiki/Bugsy_(pel%C3%ADcula_de_1991);https://pt.wikipedia.org/wiki/Bugsy
+1992;JFK (1991 film);Não;https://en.wikipedia.org/wiki/JFK_(film);https://es.wikipedia.org/wiki/JFK_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/JFK_(filme)
+1992;THE PRINCE OF TIDES (1991 film);Não;https://en.wikipedia.org/wiki/The_Prince_of_Tides;https://es.wikipedia.org/wiki/El_pr%C3%ADncipe_de_las_mareas;https://pt.wikipedia.org/wiki/O_Pr%C3%ADncipe_das_Mar%C3%A9s
+1993;Unforgiven;Sim;https://en.wikipedia.org/wiki/Unforgiven;https://es.wikipedia.org/wiki/Unforgiven_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Unforgiven
+1993;The Crying Game;Não;https://en.wikipedia.org/wiki/The_Crying_Game;https://es.wikipedia.org/wiki/The_Crying_Game;https://pt.wikipedia.org/wiki/The_Crying_Game
+1993;A Few Good Men;Não;https://en.wikipedia.org/wiki/A_Few_Good_Men;https://es.wikipedia.org/wiki/A_Few_Good_Men;https://pt.wikipedia.org/wiki/A_Few_Good_Men
+1993;Howards End (film);Não;https://en.wikipedia.org/wiki/Howards_End_(film);https://es.wikipedia.org/wiki/Howards_End;https://pt.wikipedia.org/wiki/Howards_End_(filme)
+1993;Scent of a Woman (1992 film);Não;https://en.wikipedia.org/wiki/Scent_of_a_Woman_(1992_film);https://es.wikipedia.org/wiki/Scent_of_a_Woman;https://pt.wikipedia.org/wiki/Perfume_de_Mulher_(1992)
+1994;SCHINDLER'S LIST (1993 film);Sim;https://en.wikipedia.org/wiki/Schindler%27s_List;https://es.wikipedia.org/wiki/La_lista_de_Schindler;https://pt.wikipedia.org/wiki/A_Lista_de_Schindler
+1994;THE FUGITIVE (1993 film);Não;https://en.wikipedia.org/wiki/The_Fugitive_(1993_film);https://es.wikipedia.org/wiki/El_fugitivo_(pel%C3%ADcula_de_1993);https://pt.wikipedia.org/wiki/O_Fugitivo_(1993)
+1994;THE REMAINS OF THE DAY (1993 film);Não;https://en.wikipedia.org/wiki/The_Remains_of_the_Day_(film);https://es.wikipedia.org/wiki/Lo_que_queda_del_d%C3%ADa_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/The_Remains_of_the_Day_(filme)
+1994;THE PIANO;Não;https://en.wikipedia.org/wiki/The_Piano;https://es.wikipedia.org/wiki/The_Piano;https://pt.wikipedia.org/wiki/O_Piano
+1994;In The Name of the Fat;Não;;;
+1995;FORREST GUMP (1994 film);Sim;https://en.wikipedia.org/wiki/Forrest_Gump;https://es.wikipedia.org/wiki/Forrest_Gump_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Forrest_Gump
+1995;FOUR WEDDINGS AND A FUNERAL (1994 film);Não;https://en.wikipedia.org/wiki/Four_Weddings_and_a_Funeral;https://es.wikipedia.org/wiki/Cuatro_bodas_y_un_funeral;https://pt.wikipedia.org/wiki/Quatro_Casamentos_e_Um_Funeral
+1995;PULP FICTION (1994 film);Não;https://en.wikipedia.org/wiki/Pulp_Fiction;https://es.wikipedia.org/wiki/Pulp_Fiction;https://pt.wikipedia.org/wiki/Pulp_Fiction
+1995;QUIZ SHOW (1994 film);Não;https://en.wikipedia.org/wiki/Quiz_Show_(film);https://es.wikipedia.org/wiki/Quiz_Show:_El_dilema;https://pt.wikipedia.org/wiki/Quiz_Show
+1995;THE SHAWSHANK REDEMPTION (1994 film);Não;https://en.wikipedia.org/wiki/The_Shawshank_Redemption;https://es.wikipedia.org/wiki/The_Shawshank_Redemption;https://pt.wikipedia.org/wiki/The_Shawshank_Redemption
+1996;Braveheart;Sim;https://en.wikipedia.org/wiki/Braveheart;https://es.wikipedia.org/wiki/Braveheart;https://pt.wikipedia.org/wiki/Braveheart
+1996;Apollo 13 (film);Não;https://en.wikipedia.org/wiki/Apollo_13_(film);https://es.wikipedia.org/wiki/Apolo_13_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Apollo_13_(filme)
+1996;Babe (film 1995);Não;https://en.wikipedia.org/wiki/Babe_(film);https://es.wikipedia.org/wiki/Babe;https://pt.wikipedia.org/wiki/Babe_(1995);
+1996;Il Postino: The Postman;Não;https://en.wikipedia.org/wiki/Il_Postino:_The_Postman;https://es.wikipedia.org/wiki/Il_Postino;https://pt.wikipedia.org/wiki/Il_postino
+1996;Sense and Sensibility (film);Não;https://en.wikipedia.org/wiki/Sense_and_Sensibility_(film);https://es.wikipedia.org/wiki/Sense_and_Sensibility_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Sense_and_Sensibility_(filme)
+1997;THE ENGLISH PATIENT (1996 film);Sim;https://en.wikipedia.org/wiki/The_English_Patient_(film);https://es.wikipedia.org/wiki/El_paciente_ingl%C3%A9s;https://pt.wikipedia.org/wiki/O_Paciente_Ingl%C3%AAs_(filme)
+1997;FARGO (1996 film);Não;https://en.wikipedia.org/wiki/Fargo_(1996_film);https://es.wikipedia.org/wiki/Fargo_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Fargo_(filme)
+1997;JERRY MAGUIRE (1996 film);Não;https://en.wikipedia.org/wiki/Jerry_Maguire;https://es.wikipedia.org/wiki/Jerry_Maguire;https://pt.wikipedia.org/wiki/Jerry_Maguire
+1997;SECRETS & LIES (1996 film);Não;https://en.wikipedia.org/wiki/Secrets_%26_Lies_(film);https://es.wikipedia.org/wiki/Secretos_y_mentiras;https://pt.wikipedia.org/wiki/Segredos_e_Mentiras
+1997;SHINE (1996 film);Não;https://en.wikipedia.org/wiki/Shine_(film);https://es.wikipedia.org/wiki/Shine_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Shine_(filme)
+1998;TITANIC (1997 film);Sim;https://en.wikipedia.org/wiki/Titanic_(1997_film);https://es.wikipedia.org/wiki/Titanic_(pel%C3%ADcula_de_1997);https://pt.wikipedia.org/wiki/Titanic_(filme_de_1997)
+1998;AS GOOD AS IT GETS (1997 film);Não;https://en.wikipedia.org/wiki/As_Good_as_It_Gets;https://es.wikipedia.org/wiki/Mejor..._imposible;https://pt.wikipedia.org/wiki/Melhor_%C3%89_Imposs%C3%ADvel
+1998;THE FULL MONTY (1997 film);Não;https://en.wikipedia.org/wiki/The_Full_Monty;https://es.wikipedia.org/wiki/The_Full_Monty;https://pt.wikipedia.org/wiki/Ou_Tudo_ou_Nada
+1998;GOOD WILL HUNTING (1997 film);Não;https://en.wikipedia.org/wiki/Good_Will_Hunting;https://es.wikipedia.org/wiki/Good_Will_Hunting;https://pt.wikipedia.org/wiki/Good_Will_Hunting
+1998;L.A. CONFIDENTIAL (1997 film);Não;https://en.wikipedia.org/wiki/L.A._Confidential_(film);https://es.wikipedia.org/wiki/L.A._Confidential;https://pt.wikipedia.org/wiki/L.A._Confidential
+1999;SHAKESPEARE IN LOVE (1998 film);Sim;https://en.wikipedia.org/wiki/Shakespeare_in_Love;https://es.wikipedia.org/wiki/Shakespeare_in_Love;https://pt.wikipedia.org/wiki/Shakespeare_in_Love
+1999;ELIZABETH (1998 film);Não;https://en.wikipedia.org/wiki/Elizabeth_(film);https://es.wikipedia.org/wiki/Elizabeth_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Elizabeth_(filme)
+1999;LIFE IS BEAUTIFUL (1998 film);Não;https://en.wikipedia.org/wiki/Life_Is_Beautiful;https://es.wikipedia.org/wiki/La_vida_es_bella;https://pt.wikipedia.org/wiki/A_Vida_%C3%89_Bela
+1999;SAVING PRIVATE RYAN (1998 film);Não;https://en.wikipedia.org/wiki/Saving_Private_Ryan;https://es.wikipedia.org/wiki/Saving_Private_Ryan;https://pt.wikipedia.org/wiki/O_Resgate_do_Soldado_Ryan
+1999;THE THIN RED LINE (1998 film);Não;https://en.wikipedia.org/wiki/The_Thin_Red_Line_(1998_film);https://es.wikipedia.org/wiki/La_delgada_l%C3%ADnea_roja_(pel%C3%ADcula_de_1998);https://pt.wikipedia.org/wiki/The_Thin_Red_Line_(1998)
+2000;American Beauty (1999 film);Sim;https://en.wikipedia.org/wiki/American_Beauty_(1999_film);https://es.wikipedia.org/wiki/American_Beauty;https://pt.wikipedia.org/wiki/Beleza_Americana
+2000;The Cider House Rules (film);Não;https://en.wikipedia.org/wiki/The_Cider_House_Rules_(film);https://es.wikipedia.org/wiki/The_Cider_House_Rules;https://pt.wikipedia.org/wiki/The_Cider_House_Rules
+2000;The Green Mile (film);Não;https://en.wikipedia.org/wiki/The_Green_Mile_(film);https://es.wikipedia.org/wiki/The_Green_Mile;https://pt.wikipedia.org/wiki/%C3%80_Espera_de_um_Milagre
+2000;The Insider (film);Não;https://en.wikipedia.org/wiki/The_Insider_(film);https://es.wikipedia.org/wiki/The_Insider;https://pt.wikipedia.org/wiki/The_Insider
+2000;The Sixth Sense;Não;https://en.wikipedia.org/wiki/The_Sixth_Sense;https://es.wikipedia.org/wiki/The_Sixth_Sense;https://pt.wikipedia.org/wiki/O_Sexto_Sentido
+2001;GLADIATOR (2000 film);Sim;https://en.wikipedia.org/wiki/Gladiator_(2000_film);https://es.wikipedia.org/wiki/Gladiator;https://pt.wikipedia.org/wiki/Gladiador_(filme)
+2001;CHOCOLAT (2000 film);Não;https://en.wikipedia.org/wiki/Chocolat_(2000_film);https://es.wikipedia.org/wiki/Chocolat_(pel%C3%ADcula_de_2000);https://pt.wikipedia.org/wiki/Chocolate_(filme)
+2001;CROUCHING TIGER, HIDDEN DRAGON (2000 film);Não;https://en.wikipedia.org/wiki/Crouching_Tiger,_Hidden_Dragon;https://es.wikipedia.org/wiki/W%C3%B2_h%C7%94_c%C3%A1ng_l%C3%B3ng;https://pt.wikipedia.org/wiki/O_Tigre_e_o_Drag%C3%A3o_(filme)
+2001;ERIN BROCKOVICH (2000 film);Não;https://en.wikipedia.org/wiki/Erin_Brockovich_(film);https://es.wikipedia.org/wiki/Erin_Brockovich_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Erin_Brockovich_(filme)
+2001;TRAFFIC (2000 film);Não;https://en.wikipedia.org/wiki/Traffic_(2000_film);https://es.wikipedia.org/wiki/Traffic_(pel%C3%ADcula_de_2000);https://pt.wikipedia.org/wiki/Traffic_(filme)
+2002;A BEAUTIFUL MIND (2001 film);Sim;https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film);https://es.wikipedia.org/wiki/A_Beautiful_Mind;https://pt.wikipedia.org/wiki/Uma_Mente_Brilhante
+2002;GOSFORD PARK (2001 film);Não;https://en.wikipedia.org/wiki/Gosford_Park;https://es.wikipedia.org/wiki/Gosford_Park;https://pt.wikipedia.org/wiki/Gosford_Park
+2002;IN THE BEDROOM (2001 film);Não;https://en.wikipedia.org/wiki/In_the_Bedroom;https://es.wikipedia.org/wiki/In_the_Bedroom_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/In_the_Bedroom
+2002;THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING (2001 film);Não;https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring;https://es.wikipedia.org/wiki/El_Se%C3%B1or_de_los_Anillos:_la_Comunidad_del_Anillo;https://pt.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring
+2002;MOULIN ROUGE (2001 film);Não;https://en.wikipedia.org/wiki/Moulin_Rouge!;https://es.wikipedia.org/wiki/Moulin_Rouge!;https://pt.wikipedia.org/wiki/Moulin_Rouge!
+2003;CHICAGO (2001 film);Sim;https://en.wikipedia.org/wiki/Chicago_(2002_film);https://es.wikipedia.org/wiki/Chicago_(pel%C3%ADcula_de_2002);https://pt.wikipedia.org/wiki/Chicago_(filme_de_2002)
+2003;GANGS OF NEW YORK (2002 film);Não;https://en.wikipedia.org/wiki/Gangs_of_New_York;https://es.wikipedia.org/wiki/Gangs_of_New_York;https://pt.wikipedia.org/wiki/Gangs_of_New_York
+2003;THE HOURS (2002 film);Não;https://en.wikipedia.org/wiki/The_Hours_(film);https://es.wikipedia.org/wiki/Las_horas;https://pt.wikipedia.org/wiki/As_Horas_(filme)
+2003;THE LORD OF THE RINGS: THE TWO TOWERS (2002 film);Não;https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers;https://es.wikipedia.org/wiki/El_Se%C3%B1or_de_los_Anillos:_las_dos_torres;https://pt.wikipedia.org/wiki/O_Senhor_dos_An%C3%A9is:_As_Duas_Torres
+2003;THE PIANIST (2002 film);Não;https://en.wikipedia.org/wiki/The_Pianist_(2002_film);https://es.wikipedia.org/wiki/El_pianista;https://pt.wikipedia.org/wiki/O_Pianista
+2004;The Lord of the Rings: The Return of the King;Não;https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King;https://es.wikipedia.org/wiki/El_Se%C3%B1or_de_los_Anillos:_el_retorno_del_Rey;https://pt.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King
+2004;Lost in Translation (film);Não;https://en.wikipedia.org/wiki/Lost_in_Translation_(film);https://es.wikipedia.org/wiki/Lost_in_Translation;https://pt.wikipedia.org/wiki/Lost_in_Translation
+2004;Master and Commander: The Far Side of the World;Não;https://en.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World;https://es.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World;https://pt.wikipedia.org/wiki/Master_and_Commander:_The_Far_Side_of_the_World
+2004;Mystic River (film);Não;https://en.wikipedia.org/wiki/Mystic_River_(film);https://es.wikipedia.org/wiki/Mystic_River;https://pt.wikipedia.org/wiki/Mystic_River
+2004;Seabiscuit (film);Não;https://en.wikipedia.org/wiki/Seabiscuit_(film);https://es.wikipedia.org/wiki/Seabiscuit;https://pt.wikipedia.org/wiki/Seabiscuit
+2005;MILLION DOLLAR BABY (2004 film);Sim;https://en.wikipedia.org/wiki/Million_Dollar_Baby;https://es.wikipedia.org/wiki/Million_Dollar_Baby;https://pt.wikipedia.org/wiki/Million_Dollar_Baby
+2005;THE AVIATOR (2004 film);Não;https://en.wikipedia.org/wiki/The_Aviator_(2004_film);https://es.wikipedia.org/wiki/El_aviador;https://pt.wikipedia.org/wiki/O_Aviador
+2005;FINDING NEVERLAND (2004 film);Não;https://en.wikipedia.org/wiki/Finding_Neverland_(film);https://es.wikipedia.org/wiki/Finding_Neverland;https://pt.wikipedia.org/wiki/Finding_Neverland
+2005;RAY (2004 film);Não;https://en.wikipedia.org/wiki/Ray_(film);https://es.wikipedia.org/wiki/Ray_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Ray_(filme)
+2006;CRASH (2005 film);Sim;https://en.wikipedia.org/wiki/Crash_(2004_film);https://es.wikipedia.org/wiki/Crash_(pel%C3%ADcula_de_2004);https://pt.wikipedia.org/wiki/Crash_(2004)
+2006;BROKEBACK MOUNTAIN (2005 film);Não;https://en.wikipedia.org/wiki/Brokeback_Mountain;https://es.wikipedia.org/wiki/Brokeback_Mountain;https://pt.wikipedia.org/wiki/O_Segredo_de_Brokeback_Mountain
+2006;CAPOTE (2005 film);Não;https://en.wikipedia.org/wiki/Capote_(film);https://es.wikipedia.org/wiki/Capote_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Capote
+2006;GOOD NIGHT, AND GOOD LUCK. (2005 film);Não;https://en.wikipedia.org/wiki/Good_Night,_and_Good_Luck;https://es.wikipedia.org/wiki/Buenas_noches,_y_buena_suerte;https://pt.wikipedia.org/wiki/Boa_Noite,_e_Boa_Sorte
+2006;MUNICH (2005 film);Não;https://en.wikipedia.org/wiki/Munich_(2005_film);https://es.wikipedia.org/wiki/M%C3%BAnich_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Munique_(filme)
+2007;THE DEPARTED(2006 film);Sim;https://en.wikipedia.org/wiki/The_Departed;https://es.wikipedia.org/wiki/The_Departed;https://pt.wikipedia.org/wiki/The_Departed
+2007;BABEL (2006 film);Não;https://en.wikipedia.org/wiki/Babel_(film);https://es.wikipedia.org/wiki/Babel_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Babel_(filme)
+2007;LETTERS FROM IWO JIMA (2006 film);Não;https://en.wikipedia.org/wiki/Letters_from_Iwo_Jima;https://es.wikipedia.org/wiki/Cartas_desde_Iwo_Jima;https://pt.wikipedia.org/wiki/Cartas_de_Iwo_Jima
+2007;LITTLE MISS SUNSHINE (2006 film);Não;https://en.wikipedia.org/wiki/Little_Miss_Sunshine;https://es.wikipedia.org/wiki/Little_Miss_Sunshine;https://pt.wikipedia.org/wiki/Little_Miss_Sunshine
+2007;THE QUEEN (2006 film);Não;https://en.wikipedia.org/wiki/The_Queen_(2006_film);https://es.wikipedia.org/wiki/The_Queen;https://pt.wikipedia.org/wiki/A_Rainha
+2008;No Country for Old Men;Sim;https://en.wikipedia.org/wiki/No_Country_for_Old_Men;https://es.wikipedia.org/wiki/No_Country_for_Old_Men;https://pt.wikipedia.org/wiki/No_Country_for_Old_Men_(filme)
+2008;Atonement (2007 film);Não;https://en.wikipedia.org/wiki/Atonement_(2007_film);https://es.wikipedia.org/wiki/Atonement_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Atonement;
+2008;Juno (film);Não;https://en.wikipedia.org/wiki/Juno_(film);https://es.wikipedia.org/wiki/Juno_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Juno_(filme)
+2008;Michael Clayton;Não;https://en.wikipedia.org/wiki/Michael_Clayton;https://es.wikipedia.org/wiki/Michael_Clayton;https://pt.wikipedia.org/wiki/Michael_Clayton
+2008;There Will Be Blood;Não;https://en.wikipedia.org/wiki/There_Will_Be_Blood;https://es.wikipedia.org/wiki/There_Will_Be_Blood;https://pt.wikipedia.org/wiki/There_Will_Be_Blood
+2009;SLUMDOG MILLIONAIRE (2008 film);Sim;https://en.wikipedia.org/wiki/Slumdog_Millionaire;https://es.wikipedia.org/wiki/Slumdog_Millionaire;https://pt.wikipedia.org/wiki/Slumdog_Millionaire
+2009;THE CURIOUS CASE OF BENJAMIN BUTTON (2008 film);Não;https://en.wikipedia.org/wiki/The_Curious_Case_of_Benjamin_Button_(film);https://es.wikipedia.org/wiki/El_curioso_caso_de_Benjamin_Button_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/The_Curious_Case_of_Benjamin_Button
+2009;FROST-NIXON (2008 film);Não;https://en.wikipedia.org/wiki/Frost/Nixon_(film);https://es.wikipedia.org/wiki/Frost/Nixon;https://pt.wikipedia.org/wiki/Frost/Nixon
+2009;MILK (2008 film);Não;https://en.wikipedia.org/wiki/Milk_(2008_American_film);https://es.wikipedia.org/wiki/Milk_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Milk_(filme)
+2009;THE READER (2008 film);Não;https://en.wikipedia.org/wiki/The_Reader_(2008_film);https://es.wikipedia.org/wiki/The_Reader;https://pt.wikipedia.org/wiki/O_Leitor
+2010;THE HURT LOCKER (2009 film);Sim;https://en.wikipedia.org/wiki/The_Hurt_Locker;https://es.wikipedia.org/wiki/The_Hurt_Locker;https://pt.wikipedia.org/wiki/The_Hurt_Locker
+2010;AVATAR (2009 film);Não;https://en.wikipedia.org/wiki/Avatar_(2009_film);https://es.wikipedia.org/wiki/Avatar_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Avatar_(filme)
+2010;THE BLIND SIDE (2009 film);Não;https://en.wikipedia.org/wiki/The_Blind_Side_(film);https://es.wikipedia.org/wiki/Un_sue%C3%B1o_posible;https://pt.wikipedia.org/wiki/Um_Sonho_Poss%C3%ADvel
+2010;DISTRICT 9 (2009 film);Não;https://en.wikipedia.org/wiki/District_9;https://es.wikipedia.org/wiki/District_9;https://pt.wikipedia.org/wiki/Distrito_9
+2010;AN EDUCATION (2009 film);Não;https://en.wikipedia.org/wiki/An_Education;https://es.wikipedia.org/wiki/An_Education;https://pt.wikipedia.org/wiki/An_Education
+2010;INGLOURIOUS BASTERDS (2009 film);Não;https://en.wikipedia.org/wiki/Inglourious_Basterds;https://es.wikipedia.org/wiki/Inglourious_Basterds;https://pt.wikipedia.org/wiki/Inglourious_Basterds
+2010;A SERIOUS MAN (2009 film);Não;https://en.wikipedia.org/wiki/A_Serious_Man;https://es.wikipedia.org/wiki/A_Serious_Man;https://pt.wikipedia.org/wiki/Um_Homem_S%C3%A9rio
+2010;UP (2009 film);Não;https://en.wikipedia.org/wiki/Up_(2009_film);https://es.wikipedia.org/wiki/Up;https://pt.wikipedia.org/wiki/Up_(filme)
+2010;UP IN THE AIR (2009 film);Não;https://en.wikipedia.org/wiki/Up_in_the_Air_(2009_film);https://es.wikipedia.org/wiki/Up_in_the_Air_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Up_in_the_Air_(2009)
+2011;The King's Speech;Sim;https://en.wikipedia.org/wiki/The_King%27s_Speech;https://es.wikipedia.org/wiki/El_discurso_del_rey;https://pt.wikipedia.org/wiki/O_Discurso_do_Rei
+2011;Black Swan (film);Não;https://en.wikipedia.org/wiki/Black_Swan_(film);https://es.wikipedia.org/wiki/Black_Swan;https://pt.wikipedia.org/wiki/Cisne_Negro
+2011;The Fighter;Não;https://en.wikipedia.org/wiki/The_Fighter;https://es.wikipedia.org/wiki/The_Fighter;https://pt.wikipedia.org/wiki/The_Fighter
+2011;Inception;Não;https://en.wikipedia.org/wiki/Inception;https://es.wikipedia.org/wiki/Inception;https://pt.wikipedia.org/wiki/A_Origem
+2011;The Kids Are All Right (film);Não;https://en.wikipedia.org/wiki/The_Kids_Are_All_Right_(film);https://es.wikipedia.org/wiki/The_Kids_Are_All_Right;https://pt.wikipedia.org/wiki/The_Kids_Are_All_Right
+2011;127 Hours;Não;https://en.wikipedia.org/wiki/127_Hours;https://es.wikipedia.org/wiki/127_horas;https://pt.wikipedia.org/wiki/127_Horas
+2011;The Social Network;Não;https://en.wikipedia.org/wiki/The_Social_Network;https://es.wikipedia.org/wiki/The_Social_Network;https://pt.wikipedia.org/wiki/A_Rede_Social
+2011;Toy Story 3;Não;https://en.wikipedia.org/wiki/Toy_Story_3;https://es.wikipedia.org/wiki/Toy_Story_3;https://pt.wikipedia.org/wiki/Toy_Story_3
+2011;True Grit (2010 film);Não;https://en.wikipedia.org/wiki/True_Grit_(2010_film);https://es.wikipedia.org/wiki/True_Grit_(pel%C3%ADcula_de_2010);https://pt.wikipedia.org/wiki/True_Grit_(2010)
+2011;Winter's Bone;Não;https://en.wikipedia.org/wiki/Winter%27s_Bone;https://es.wikipedia.org/wiki/Winter%27s_Bone;https://pt.wikipedia.org/wiki/Winter%27s_Bone
+2012;THE ARTIST (2011 film);Sim;https://en.wikipedia.org/wiki/The_Artist_(film);https://es.wikipedia.org/wiki/The_Artist;https://pt.wikipedia.org/wiki/O_Artista
+2012;THE DESCENDANTS (2011 film);Não;https://en.wikipedia.org/wiki/The_Descendants;https://es.wikipedia.org/wiki/Los_descendientes;https://pt.wikipedia.org/wiki/Os_Descendentes
+2012;EXTREMELY LOUD & INCREDIBLY CLOSE (2011 film);Não;https://en.wikipedia.org/wiki/Extremely_Loud_%26_Incredibly_Close_(film);https://es.wikipedia.org/wiki/Extremely_Loud_and_Incredibly_Close_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Extremely_Loud_and_Incredibly_Close
+2012;THE HELP (2011 film);Não;https://en.wikipedia.org/wiki/The_Help_(film);https://es.wikipedia.org/wiki/The_Help;https://pt.wikipedia.org/wiki/The_Help_(filme)
+2012;HUGO (2011 film);Não;https://en.wikipedia.org/wiki/Hugo_(film);https://es.wikipedia.org/wiki/Hugo_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Hugo_(filme)
+2012;MIDNIGHT IN PARIS (2011 film);Não;https://en.wikipedia.org/wiki/Midnight_in_Paris;https://es.wikipedia.org/wiki/Medianoche_en_Par%C3%ADs;https://pt.wikipedia.org/wiki/Meia-Noite_em_Paris
+2012;MONEYBALL (2011 film);Não;https://en.wikipedia.org/wiki/Moneyball_(film);https://es.wikipedia.org/wiki/Moneyball;https://pt.wikipedia.org/wiki/Moneyball
+2012;THE TREE OF LIFE (2011 film);Não;https://en.wikipedia.org/wiki/The_Tree_of_Life_(film);https://es.wikipedia.org/wiki/El_%C3%A1rbol_de_la_vida_(pel%C3%ADcula_de_2011);https://pt.wikipedia.org/wiki/A_%C3%81rvore_da_Vida_(2011)
+2012;WAR HORSE (2011 film);Não;https://en.wikipedia.org/wiki/War_Horse_(film);https://es.wikipedia.org/wiki/War_Horse;https://pt.wikipedia.org/wiki/Cavalo_de_Guerra
+2013;LES MISÉRABLES (2012 film);Não;https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(2012_film);https://es.wikipedia.org/wiki/Los_miserables_(pel%C3%ADcula_de_2012);https://pt.wikipedia.org/wiki/Os_Miser%C3%A1veis_(2012)
+2013;ARGO (2012 film);Não;https://en.wikipedia.org/wiki/Argo_(2012_film);https://es.wikipedia.org/wiki/Argo_(pel%C3%ADcula_de_2012);https://pt.wikipedia.org/wiki/Argo_(filme)
+2013;AMOUR (2012 film);Não;https://en.wikipedia.org/wiki/Amour_(2012_film);https://es.wikipedia.org/wiki/Amor_(pel%C3%ADcula_de_2012);https://pt.wikipedia.org/wiki/Amor_(2012)
+2013;BEASTS OF THE SOUTHERN WILD (2012 film);Não;https://en.wikipedia.org/wiki/Beasts_of_the_Southern_Wild;https://es.wikipedia.org/wiki/Beasts_of_the_Southern_Wild;https://pt.wikipedia.org/wiki/Beasts_of_the_Southern_Wild
+2013;DJANGO UNCHAINED (2012 film);Não;https://en.wikipedia.org/wiki/Django_Unchained;https://es.wikipedia.org/wiki/Django_Unchained;https://pt.wikipedia.org/wiki/Django_Unchained
+2013;LIFE OF PI (2012 film);Não;https://en.wikipedia.org/wiki/Life_of_Pi_(film);https://es.wikipedia.org/wiki/Life_of_Pi_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Life_of_Pi_(filme)
+2013;LINCOLN (2012 film);Não;https://en.wikipedia.org/wiki/Lincoln_(film);https://es.wikipedia.org/wiki/Lincoln_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Lincoln_(filme)
+2013;SILVER LININGS PLAYBOOK (2012 film);Não;https://en.wikipedia.org/wiki/Silver_Linings_Playbook;https://es.wikipedia.org/wiki/Silver_Linings_Playbook;https://pt.wikipedia.org/wiki/Silver_Linings_Playbook
+2013;ZERO DARK THIRTY (2012 film);Não;https://en.wikipedia.org/wiki/Zero_Dark_Thirty;https://es.wikipedia.org/wiki/La_noche_m%C3%A1s_oscura_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Zero_Dark_Thirty
+2014;12 Years a Slave (film);Sim;https://en.wikipedia.org/wiki/12_Years_a_Slave_(film);https://es.wikipedia.org/wiki/12_Years_a_Slave;https://pt.wikipedia.org/wiki/12_Years_a_Slave
+2014;American Hustle;Não;https://en.wikipedia.org/wiki/American_Hustle;https://es.wikipedia.org/wiki/American_Hustle;https://pt.wikipedia.org/wiki/American_Hustle
+2014;Captain Phillips (film);Não;https://en.wikipedia.org/wiki/Captain_Phillips_(film);https://es.wikipedia.org/wiki/Capit%C3%A1n_Phillips;https://pt.wikipedia.org/wiki/Capit%C3%A3o_Phillips
+2014;Dallas Buyers Club;Não;https://en.wikipedia.org/wiki/Dallas_Buyers_Club;https://es.wikipedia.org/wiki/Dallas_Buyers_Club;https://pt.wikipedia.org/wiki/Dallas_Buyers_Club
+2014;Gravity (2013 film);Não;https://en.wikipedia.org/wiki/Gravity_(2013_film);https://es.wikipedia.org/wiki/Gravity_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Gravidade_(filme)
+2014;Her (film);Não;https://en.wikipedia.org/wiki/Her_(film);https://es.wikipedia.org/wiki/Her;https://pt.wikipedia.org/wiki/Her
+2014;Nebraska (film);Não;https://en.wikipedia.org/wiki/Nebraska_(film);https://es.wikipedia.org/wiki/Nebraska_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Nebraska_(filme)
+2014;Philomena (film);Não;https://en.wikipedia.org/wiki/Philomena_(film);https://es.wikipedia.org/wiki/Philomena;https://pt.wikipedia.org/wiki/Philomena
+2014;The Wolf of Wall Street (2013 film);Não;https://en.wikipedia.org/wiki/The_Wolf_of_Wall_Street_(2013_film);https://es.wikipedia.org/wiki/El_lobo_de_Wall_Street;https://pt.wikipedia.org/wiki/O_Lobo_de_Wall_Street
+2015;Birdman (film);Sim;https://en.wikipedia.org/wiki/Birdman_(film);https://es.wikipedia.org/wiki/Birdman_o_(la_inesperada_virtud_de_la_ignorancia);https://pt.wikipedia.org/wiki/Birdman_ou_(A_Inesperada_Virtude_da_Ignor%C3%A2ncia)
+2015;American Sniper;Não;https://en.wikipedia.org/wiki/American_Sniper;https://es.wikipedia.org/wiki/American_Sniper_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Sniper_Americano
+2015;Boyhood (2014 film);Não;https://en.wikipedia.org/wiki/Boyhood_(2014_film);https://es.wikipedia.org/wiki/Boyhood;https://pt.wikipedia.org/wiki/Boyhood
+2015;The Grand Budapest Hotel;Não;https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel;https://es.wikipedia.org/wiki/El_Gran_Hotel_Budapest;https://pt.wikipedia.org/wiki/The_Grand_Budapest_Hotel
+2015;The Imitation Game;Não;https://en.wikipedia.org/wiki/The_Imitation_Game;https://es.wikipedia.org/wiki/The_Imitation_Game;https://pt.wikipedia.org/wiki/O_Jogo_da_Imita%C3%A7%C3%A3o
+2015;Selma (film);Não;https://en.wikipedia.org/wiki/Selma_(film);https://es.wikipedia.org/wiki/Selma_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Selma_(filme)
+2015;The Theory of Everything (2014 film);Não;https://en.wikipedia.org/wiki/The_Theory_of_Everything_(2014_film);https://es.wikipedia.org/wiki/La_teor%C3%ADa_del_todo_(pel%C3%ADcula_de_2014);https://pt.wikipedia.org/wiki/A_Teoria_de_Tudo
+2015;Whiplash (2014 film);Não;https://en.wikipedia.org/wiki/Whiplash_(2014_film);https://es.wikipedia.org/wiki/Whiplash_(pel%C3%ADcula_de_2014);https://pt.wikipedia.org/wiki/Whiplash_(filme)
+2016;Spotlight (film);Sim;https://en.wikipedia.org/wiki/Spotlight_(film);https://es.wikipedia.org/wiki/Spotlight;https://pt.wikipedia.org/wiki/Spotlight_(filme)
+2016;The Big Short (film);Não;https://en.wikipedia.org/wiki/The_Big_Short_(film);https://es.wikipedia.org/wiki/La_gran_apuesta;https://pt.wikipedia.org/wiki/The_Big_Short
+2016;Bridge of Spies (film);Não;https://en.wikipedia.org/wiki/Bridge_of_Spies_(film);https://es.wikipedia.org/wiki/Bridge_of_Spies;https://pt.wikipedia.org/wiki/Bridge_of_Spies
+2016;Brooklyn (film);Não;https://en.wikipedia.org/wiki/Brooklyn_(film);https://es.wikipedia.org/wiki/Brooklyn_(pel%C3%ADcula_de_2015);https://pt.wikipedia.org/wiki/Brooklyn_(filme)
+2016;Mad Max: Fury Road;Não;https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road;https://es.wikipedia.org/wiki/Mad_Max:_Fury_Road;https://pt.wikipedia.org/wiki/Mad_Max:_Estrada_da_F%C3%BAria
+2016;The Martian (film);Não;https://en.wikipedia.org/wiki/The_Martian_(film);https://es.wikipedia.org/wiki/The_Martian;https://pt.wikipedia.org/wiki/Perdido_em_Marte
+2016;The Revenant (2015 film);Não;https://en.wikipedia.org/wiki/The_Revenant_(2015_film);https://es.wikipedia.org/wiki/El_renacido;https://pt.wikipedia.org/wiki/The_Revenant
+2016;Room (2015 film);Não;https://en.wikipedia.org/wiki/Room_(2015_film);https://es.wikipedia.org/wiki/La_habitaci%C3%B3n_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Room_(filme)
+2017;Moonlight (2016 film);Sim;https://en.wikipedia.org/wiki/Moonlight_(2016_film);https://es.wikipedia.org/wiki/Moonlight_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Moonlight_(filme)
+2017;Arrival (film);Não;https://en.wikipedia.org/wiki/Arrival_(film);https://es.wikipedia.org/wiki/La_llegada;https://pt.wikipedia.org/wiki/Arrival_(filme)
+2017;Fences (film);Não;https://en.wikipedia.org/wiki/Fences_(film);https://es.wikipedia.org/wiki/Fences_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Fences_(filme)
+2017;Hacksaw Ridge;Não;https://en.wikipedia.org/wiki/Hacksaw_Ridge;https://es.wikipedia.org/wiki/Hasta_el_%C3%BAltimo_hombre;https://pt.wikipedia.org/wiki/Hacksaw_Ridge
+2017;Hell or High Water (film);Não;https://en.wikipedia.org/wiki/Hell_or_High_Water_(film);https://es.wikipedia.org/wiki/Hell_or_High_Water;https://pt.wikipedia.org/wiki/Hell_or_High_Water
+2017;Hidden Figures;Não;https://en.wikipedia.org/wiki/Hidden_Figures;https://es.wikipedia.org/wiki/Hidden_Figures;https://pt.wikipedia.org/wiki/Hidden_Figures
+2017;La La Land;Não;https://en.wikipedia.org/wiki/La_La_Land;https://es.wikipedia.org/wiki/La_La_Land_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/La_La_Land_(filme)
+2017;Lion (2016 film);Não;https://en.wikipedia.org/wiki/Lion_(2016_film);https://es.wikipedia.org/wiki/Lion_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Lion_(filme)
+2017;Manchester by the Sea (film);Não;https://en.wikipedia.org/wiki/Manchester_by_the_Sea_(film);https://es.wikipedia.org/wiki/Manchester_by_the_Sea_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Manchester_by_the_Sea
+2018;The Shape of Water;Sim;https://en.wikipedia.org/wiki/The_Shape_of_Water;https://es.wikipedia.org/wiki/La_forma_del_agua;https://pt.wikipedia.org/wiki/A_Forma_da_%C3%81gua
+2018;Call Me by Your Name (film);Não;https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film);https://es.wikipedia.org/wiki/Call_Me_by_Your_Name;https://pt.wikipedia.org/wiki/Call_Me_by_Your_Name
+2018;Darkest Hour (film);Não;https://en.wikipedia.org/wiki/Darkest_Hour_(film);https://es.wikipedia.org/wiki/Darkest_Hour_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Darkest_Hour_(filme)
+2018;Dunkirk (2017 film);Não;https://en.wikipedia.org/wiki/Dunkirk_(2017_film);https://es.wikipedia.org/wiki/Dunkerque_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Dunkirk_(filme)
+2018;Get Out;Não;https://en.wikipedia.org/wiki/Get_Out;https://es.wikipedia.org/wiki/Get_Out;https://pt.wikipedia.org/wiki/Get_Out
+2018;Lady Bird (film);Não;https://en.wikipedia.org/wiki/Lady_Bird_(film);https://es.wikipedia.org/wiki/Lady_Bird;https://pt.wikipedia.org/wiki/Lady_Bird
+2018;Phantom Thread;Não;https://en.wikipedia.org/wiki/Phantom_Thread;https://es.wikipedia.org/wiki/Phantom_Thread;https://pt.wikipedia.org/wiki/Phantom_Thread
+2018;The Post (film);Não;https://en.wikipedia.org/wiki/The_Post_(film);https://es.wikipedia.org/wiki/The_Post;https://pt.wikipedia.org/wiki/The_Post
+2018;Three Billboards Outside Ebbing, Missouri;Não;https://en.wikipedia.org/wiki/Three_Billboards_Outside_Ebbing,_Missouri;https://es.wikipedia.org/wiki/Three_Billboards_Outside_Ebbing,_Missouri;https://pt.wikipedia.org/wiki/Three_Billboards_Outside_Ebbing,_Missouri
+2019;Green Book (film);Sim;https://en.wikipedia.org/wiki/Green_Book_(film);https://es.wikipedia.org/wiki/Green_Book_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Green_Book
+2019;Black Panther (film);Não;https://en.wikipedia.org/wiki/Black_Panther_(film);https://es.wikipedia.org/wiki/Black_Panther_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Black_Panther_(filme)
+2019;BlacKkKlansman;Não;https://en.wikipedia.org/wiki/BlacKkKlansman;https://es.wikipedia.org/wiki/BlacKkKlansman;https://pt.wikipedia.org/wiki/BlacKkKlansman
+2019;Bohemian Rhapsody (film);Não;https://en.wikipedia.org/wiki/Bohemian_Rhapsody_(film);https://es.wikipedia.org/wiki/Bohemian_Rhapsody_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Bohemian_Rhapsody_(filme)
+2019;The Favourite;Não;https://en.wikipedia.org/wiki/The_Favourite;https://es.wikipedia.org/wiki/La_favorita_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/A_Favorita_(filme)
+2019;Roma (2018 film);Não;https://en.wikipedia.org/wiki/Roma_(2018_film);https://es.wikipedia.org/wiki/Roma_(pel%C3%ADcula_de_2018);https://pt.wikipedia.org/wiki/Roma_(filme_de_2018)
+2019;A Star Is Born (2018 film);Não;https://en.wikipedia.org/wiki/A_Star_Is_Born_(2018_film);https://es.wikipedia.org/wiki/A_Star_Is_Born_(pel%C3%ADcula_de_2018);https://pt.wikipedia.org/wiki/A_Star_Is_Born_(2018)
+2019;Vice (2018 film);Não;https://en.wikipedia.org/wiki/Vice_(2018_film);https://es.wikipedia.org/wiki/Vice_(pel%C3%ADcula_de_2018);https://pt.wikipedia.org/wiki/Vice_(filme)
+2020;Parasite (2019 film);Sim;https://en.wikipedia.org/wiki/Parasite_(2019_film);https://es.wikipedia.org/wiki/Par%C3%A1sitos_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Gisaengchung
+2020;Ford v Ferrari;Não;https://en.wikipedia.org/wiki/Ford_v_Ferrari;https://es.wikipedia.org/wiki/Ford_v_Ferrari;https://pt.wikipedia.org/wiki/Ford_v_Ferrari
+2020;The Irishman;Não;https://en.wikipedia.org/wiki/The_Irishman;https://es.wikipedia.org/wiki/El_irland%C3%A9s;https://pt.wikipedia.org/wiki/O_Irland%C3%AAs
+2020;Jojo Rabbit;Não;https://en.wikipedia.org/wiki/Jojo_Rabbit;https://es.wikipedia.org/wiki/Jojo_Rabbit;https://pt.wikipedia.org/wiki/Jojo_Rabbit
+2020;Joker (2019 film);Não;https://en.wikipedia.org/wiki/Joker_(2019_film);https://es.wikipedia.org/wiki/Joker_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Joker_(filme)
+2020;Little Women (2019 film);Não;https://en.wikipedia.org/wiki/Little_Women_(2019_film);https://es.wikipedia.org/wiki/Mujercitas_(pel%C3%ADcula_de_2019);https://pt.wikipedia.org/wiki/Little_Women_(2019)
+2020;Marriage Story;Não;https://en.wikipedia.org/wiki/Marriage_Story;https://es.wikipedia.org/wiki/Historia_de_un_matrimonio;https://pt.wikipedia.org/wiki/Marriage_Story
+2020;1917 (2019 film);Não;https://en.wikipedia.org/wiki/1917_(2019_film);https://es.wikipedia.org/wiki/1917_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/1917_(filme)
+2020;Once Upon a Time in Hollywood;Não;https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Hollywood;https://es.wikipedia.org/wiki/Once_Upon_a_Time_in_Hollywood;https://pt.wikipedia.org/wiki/Era_uma_Vez_em..._Hollywood
+2021;Nomadland;Sim;https://en.wikipedia.org/wiki/Nomadland;https://es.wikipedia.org/wiki/Nomadland;https://pt.wikipedia.org/wiki/Nomadland
+2021;The Father (2020 film);Não;https://en.wikipedia.org/wiki/The_Father_(2020_film);https://es.wikipedia.org/wiki/El_Padre_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/The_Father
+2021;Judas and the Black Messiah;Não;https://en.wikipedia.org/wiki/Judas_and_the_Black_Messiah;https://es.wikipedia.org/wiki/Judas_and_the_Black_Messiah;https://pt.wikipedia.org/wiki/Judas_and_the_Black_Messiah
+2021;Mank;Não;https://en.wikipedia.org/wiki/Mank;https://es.wikipedia.org/wiki/Mank_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Mank_(filme)
+2021;Minari (film);Não;https://en.wikipedia.org/wiki/Minari_(film);https://es.wikipedia.org/wiki/Minari;https://pt.wikipedia.org/wiki/Minari
+2021;Promising Young Woman;Não;https://en.wikipedia.org/wiki/Promising_Young_Woman;https://es.wikipedia.org/wiki/Promising_Young_Woman;https://pt.wikipedia.org/wiki/Promising_Young_Woman
+2021;Sound of Metal;Não;https://en.wikipedia.org/wiki/Sound_of_Metal;https://es.wikipedia.org/wiki/Sound_of_Metal;https://pt.wikipedia.org/wiki/Sound_of_Metal
+2021;The Trial of the Chicago 7;Não;https://en.wikipedia.org/wiki/The_Trial_of_the_Chicago_7;https://es.wikipedia.org/wiki/El_juicio_de_los_7_de_Chicago;https://pt.wikipedia.org/wiki/Os_7_de_Chicago
+2022;CODA (2021 film);Sim;https://en.wikipedia.org/wiki/CODA_(2021_film);https://es.wikipedia.org/wiki/CODA_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/CODA_(filme_de_2021)
+2022;Belfast (film);Não;https://en.wikipedia.org/wiki/Belfast_(film);https://es.wikipedia.org/wiki/Belfast_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Belfast_(filme)
+2022;Don't Look Up;Não;https://en.wikipedia.org/wiki/Don%27t_Look_Up;https://es.wikipedia.org/wiki/Don%27t_Look_Up;https://pt.wikipedia.org/wiki/Don%27t_Look_Up
+2022;Drive My Car (film);Não;https://en.wikipedia.org/wiki/Drive_My_Car_(film);https://es.wikipedia.org/wiki/Drive_My_Car_(pel%C3%ADcula);https://pt.wikipedia.org/wiki/Doraibu_mai_k%C4%81
+2022;Dune (2021 film);Não;https://en.wikipedia.org/wiki/Dune_(2021_film);https://es.wikipedia.org/wiki/Dune_(pel%C3%ADcula_de_2021);https://pt.wikipedia.org/wiki/Duna_(2021)
+2022;King Richard (film);Não;https://en.wikipedia.org/wiki/King_Richard_(film);https://es.wikipedia.org/wiki/King_Richard;https://pt.wikipedia.org/wiki/King_Richard
+2022;Licorice Pizza;Não;https://en.wikipedia.org/wiki/Licorice_Pizza;https://es.wikipedia.org/wiki/Licorice_Pizza;https://pt.wikipedia.org/wiki/Licorice_Pizza
+2022;Nightmare Alley (2021 film);Não;https://en.wikipedia.org/wiki/Nightmare_Alley_(2021_film);https://es.wikipedia.org/wiki/El_callej%C3%B3n_de_las_almas_perdidas_(pel%C3%ADcula_de_2021);https://pt.wikipedia.org/wiki/Nightmare_Alley
+2022;The Power of the Dog (film);Não;https://en.wikipedia.org/wiki/The_Power_of_the_Dog_(film);https://es.wikipedia.org/wiki/El_poder_del_perro;https://pt.wikipedia.org/wiki/The_Power_of_the_Dog
+2022;West Side Story (2021 film);Não;https://en.wikipedia.org/wiki/West_Side_Story_(2021_film);https://es.wikipedia.org/wiki/West_Side_Story_(pel%C3%ADcula_de_2021);https://pt.wikipedia.org/wiki/West_Side_Story_(2021)
+2023;Everything Everywhere All at Once;Sim;https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once;https://es.wikipedia.org/wiki/Everything_Everywhere_All_at_Once;https://pt.wikipedia.org/wiki/Everything_Everywhere_All_at_Once
+2023;All Quiet on the Western Front (2022 film);Não;https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front_(2022_film);https://es.wikipedia.org/wiki/Sin_novedad_en_el_frente_(pel%C3%ADcula_de_2022);https://pt.wikipedia.org/wiki/Im_Westen_nichts_Neues_(filme)
+2023;Avatar: The Way of Water;Não;https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water;https://es.wikipedia.org/wiki/Avatar:_The_Way_of_Water;https://pt.wikipedia.org/wiki/Avatar:_O_Caminho_da_%C3%81gua
+2023;The Banshees of Inisherin;Não;https://en.wikipedia.org/wiki/The_Banshees_of_Inisherin;https://es.wikipedia.org/wiki/The_Banshees_of_Inisherin;https://pt.wikipedia.org/wiki/The_Banshees_of_Inisherin
+2023;Elvis (2022 film);Não;https://en.wikipedia.org/wiki/Elvis_(2022_film);https://es.wikipedia.org/wiki/Elvis_(pel%C3%ADcula_de_2022);https://pt.wikipedia.org/wiki/Elvis_(filme_de_2022)
+2023;The Fabelmans;Não;https://en.wikipedia.org/wiki/The_Fabelmans;https://es.wikipedia.org/wiki/Los_Fabelman;https://pt.wikipedia.org/wiki/Os_Fabelmans
+2023;Tár;Não;https://en.wikipedia.org/wiki/T%C3%A1r;https://es.wikipedia.org/wiki/T%C3%A1r;https://pt.wikipedia.org/wiki/T%C3%A1r
+2023;Top Gun: Maverick;Não;https://en.wikipedia.org/wiki/Top_Gun:_Maverick;https://es.wikipedia.org/wiki/Top_Gun:_Maverick;https://pt.wikipedia.org/wiki/Top_Gun:_Maverick
+2023;Triangle of Sadness;Não;https://en.wikipedia.org/wiki/Triangle_of_Sadness;https://es.wikipedia.org/wiki/Triangle_of_Sadness;https://pt.wikipedia.org/wiki/Tri%C3%A2ngulo_da_Tristeza
+2023;Women Talking (film);Não;https://en.wikipedia.org/wiki/Women_Talking_(film);https://es.wikipedia.org/wiki/Ellas_hablan;https://pt.wikipedia.org/wiki/Women_Talking

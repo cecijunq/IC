@@ -1,0 +1,514 @@
+The Big Short (film)
+The Big Short is a 2015 American biographical crime comedy-drama film directed and co-written by Adam McKay. Co-written by Charles Randolph, it is based on the 2010 book The Big Short: Inside the Doomsday Machine by Michael Lewis showing how the 2007–2008 financial crisis was triggered by the United States housing bubble. The film stars Christian Bale, Steve Carell, Ryan Gosling and Brad Pitt, with John Magaro, Finn Wittrock, Hamish Linklater, Rafe Spall, Jeremy Strong, and Marisa Tomei in supporting roles.
+To explain financial instruments, the film features cameo appearances by actress Margot Robbie, chef Anthony Bourdain, singer-songwriter Selena Gomez, economist Richard Thaler, and others who break the fourth wall to explain concepts such as subprime mortgages and synthetic collateralized debt obligations. Several of the film's characters directly address the audience, most frequently Gosling's, who serves as the narrator.
+The Big Short began a limited release in the United States on December 11, 2015, followed by a wide release on December 23 by Paramount Pictures. A critical and commercial success, the film grossed $133 million on a $50 million budget and received acclaim for the performances of the cast (particularly that of Bale), McKay's direction, editing, and the screenplay. The film won the Academy Award for Best Adapted Screenplay in addition to nominations for Best Picture, Best Director, Best Supporting Actor (Bale), and Best Film Editing.
+
+
+== Synopsis ==
+The film consists of three separate but concurrent stories, loosely connected by their actions in the years leading up to the 2007 housing market crash.
+
+
+=== Scion Capital ===
+In 2005, eccentric hedge fund manager Michael Burry discovers that the United States housing market, based on high-risk subprime loans, is extremely unstable. Anticipating the market's collapse in the second quarter of 2007, as interest rates would rise from adjustable-rate mortgages, he proposes to create a credit default swap market, allowing him to bet against, or short, market-based mortgage-backed securities, for profit.
+His long-term bet, exceeding $1 billion, is accepted by major investment and commercial banks but requires paying substantial monthly premiums. This sparks his main client, Lawrence Fields, to accuse him of "wasting" capital while many clients demand that he reverse and sell, but Burry refuses. Under pressure, he eventually restricts withdrawals, angering investors, and Fields sues Burry. Eventually, the market collapses and his fund's value increases by 489% with an overall profit (even allowing for the massive premiums) of over $2.69 billion, with Fields alone receiving $489 million.
+
+
+=== FrontPoint Partners ===
+Jared Vennett (based on Greg Lippmann), the executive in charge of global asset-backed securities trading at Deutsche Bank, is one of the first to understand Burry's analysis, learning from one of the bankers who sold Burry an early credit default swap. Using his quant to verify that Burry is most likely correct, he decides to enter the market, earning a fee from selling the swaps to firms who will profit when the underlying bonds fail. A misplaced phone call alerts FrontPoint Partners hedge fund manager Mark Baum (based on Steve Eisman), who is motivated to buy swaps from Vennett due to his low regard for banks' ethics and business models. Vennett explains that the packaging of subprime loans into collateralized debt obligations (CDOs) rated AAA will guarantee their eventual collapse.
+Conducting a field investigation in South Florida, the FrontPoint team discovers that mortgage brokers are profiting by selling their mortgage deals to Wall Street banks, who pay higher margins for the riskier mortgages, creating the bubble. This knowledge prompts the FrontPoint team to buy swaps from Vennett.
+In early 2007, as these loans begin to default, CDO prices somehow rise and ratings agencies refuse to downgrade the bond ratings. Baum discovers conflicts of interest and dishonesty amongst the credit rating agencies from an acquaintance at Standard & Poor's. Vennett invites the team to the American Securitization Forum in Las Vegas, where Baum learns from a CDO manager that the market for insuring mortgage bonds, including "synthetic CDOs" which are bets in favor of the faulty mortgage bonds, is significantly larger than the market for the mortgage loans themselves, leading a horrified Baum to realize the entire world economy is set to collapse.
+As the subprime bonds continue to fall, Baum learns that Morgan Stanley, under whose umbrella FrontPoint operates, had also taken short positions against mortgage derivatives. However, in order to offset the risk and the monthly premiums, it had sold short positions in higher-rated mortgage derivatives. Now that these are also collapsing in value, Morgan Stanley is facing severe liquidity problems. Despite pressure from his staff to sell their position before Morgan Stanley collapses, Baum refuses to sell until the economy is on the verge of collapsing, making over $1 billion in their swaps. Even so, Baum laments that the banks, as well as the government, will not admit what caused the economy to collapse, but will instead blame "immigrants and poor people".
+
+
+=== Brownfield Capital ===
+Young investors Charlie Geller and Jamie Shipley run a small firm called Brownfield Capital (based on the firm Cornwall Capital). They accidentally discover a marketing presentation by Vennett on a coffee table in the lobby of a large investment bank (the characters address the audience stating that in reality they had heard about Vennett's plan through word of mouth from friends and publications), convincing them to invest in swaps, as it fits their strategy of buying cheap insurance with big potential payouts. Below the capital threshold for an ISDA Master Agreement required to enter into trades like Burry's and Baum's, they enlist the aid of Ben Rickert, a retired securities trader who was based in Singapore. When the bond values and CDOs rise despite defaults, Geller suspects the banks of committing fraud. The trio also visit the American Securitization Forum, where they learn that the SEC has no regulations to monitor mortgage-backed security activity. They successfully make even more profit than Burry and Baum by shorting the higher-rated AA mortgage securities, as they were considered highly stable and carried a much higher payout ratio.
+Later, as home mortgage defaults increase, the price of the CDOs (the insurance against) does not rise nor does the price of the underlying mortgage bonds drop, and they realize the banks and the ratings agencies are secretly freezing the price of their CDOs in order to sell and short them before the inevitable crash. Outraged at the bank's cheating, Geller and Shipley try to tip off the press about the upcoming disaster and the rampant fraud, but a writer from The Wall Street Journal reveals his own personal conflict of interest and will not do his job so as to not endanger his relationships with the Wall Street investment banks. As the market starts collapsing, Ben, on vacation in England, sells their swaps. Ultimately, they turn their $30 million investment into $84 million, but their faith in the system is broken when Ben tells them of the severe consequences for the general public.
+
+
+=== Epilogue ===
+Jared Vennett receives a bonus of $47 million for all of his swap sales. Mark Baum becomes more gracious from the financial fallout, and his staff continue to operate their fund. Charlie Geller and Jamie Shipley go their separate ways after unsuccessfully trying to sue the ratings agencies, with Charlie moving to Charlotte to start a family, and Jamie still running the fund. Ben Rickert returns to his peaceful retirement. Michael Burry closes his fund after public backlash and multiple IRS audits, now only investing in water securities.
+The personnel of the banks responsible for the crisis escape any consequences for their actions, with the single exception of one trader, Kareem Serageldin. It is noted that as of 2015, banks are selling CDOs again under a new label: "Bespoke Tranche Opportunity".
+
+
+== Cast ==
+
+Christian Bale as Michael Burry: one of the first people to discover the American housing market bubble. Burry operates his own hedge fund, Scion Capital, and uses his liquidity to short the housing market.
+Steve Carell as Mark Baum: the leader of FrontPoint Partners, a small independent trading firm. Baum is in a state of constant disgust with the American banks. The character is based on Steve Eisman.
+Ryan Gosling as Jared Vennett: a salesman from Deutsche Bank who decides to sell Burry's credit default swaps for his own profit. The character of Vennett is based on Greg Lippmann.
+Brad Pitt as Ben Rickert: a retired former trader who helps Jamie and Charlie with their trades. The character is based on Ben Hockett.
+John Magaro as Charlie Geller: one half of Brownfield Fund (based on Cornwall Capital), who discover Vennett's prospectus and also decide to short the housing market. The character is based on Charlie Ledley.
+Finn Wittrock as Jamie Shipley: Charlie's partner in Brownfield Fund. The character is based on James Mai.
+Hamish Linklater as Porter Collins: one of Baum's team.
+Rafe Spall as Danny Moses: one of Baum's team.
+Jeremy Strong as Vinny Daniel: one of Baum's team.
+Marisa Tomei as Cynthia Baum: Mark Baum's wife.Tracy Letts appears as Lawrence Fields, an investor in Burry's hedge fund, a fictional composite of Joel Greenblatt and others who had invested with Burry but came to disagree with his strategy. Byron Mann appeared as Mr. Chau, a CDO specialist whom Baum interviews in Las Vegas, and Melissa Leo as Georgia Hale, an employee of Standard and Poor's who admits to giving inaccurate ratings for bonds. Adepero Oduye portrays Kathy Tao, an employee of Morgan Stanley, who oversees Baum's fund.
+In minor roles, Karen Gillan appears as Evie, an employee of the SEC and Jamie's brother's ex-girlfriend, whom he meets with in Las Vegas. Max Greenfield and Billy Magnussen appear as mortgage brokers taking advantage of people looking for homes. Jae Suh Park features as Burry's wife, and Margot Robbie, Anthony Bourdain, Richard Thaler and Selena Gomez make cameo appearances as themselves in non-sequiturs to explain different financial aspects of the film. The real Michael Burry made a cameo in the film as a Scion employee. At the beginning of the scene in which the fictional Burry's investors confront him at his office, he is briefly shown standing near the front door, talking on the phone.
+
+
+== Production ==
+
+
+=== Development ===
+In 2013, Paramount acquired the rights to the 2010 non-fiction book The Big Short: Inside the Doomsday Machine by Michael Lewis, to develop it into a film, which Brad Pitt's Plan B Entertainment would produce. On March 24, 2014, Adam McKay was hired to write and direct a film about the housing and economic bubble. Screenwriter Charles Randolph, who co-wrote the film with McKay, said one of the first challenges was finding the right tone for the film. He told Creative Screenwriting, "In general it was trying to find the right tone that was slightly funnier than your average Miloš Forman comedy, which is all grounded character-based but not so satirical where you got Wag the Dog. Somewhere between there was what I was shooting for. Once I got the tone down, then I went through the plot. The market's movements provided you with an underlying plot. You make your short deal, then the bank is trying to squeeze you out, and then it all breaks loose. So that was pretty easy, and it provided character arcs against that." Two years after Randolph wrote his draft, McKay, as director, rewrote Randolph's screenplay. It was McKay's idea to include the celebrity cameos in the film to explain the financial concepts.
+
+
+=== Casting ===
+On January 13, 2015, Variety reported that Brad Pitt, Christian Bale, and Ryan Gosling were set to star in the film, with Pitt producing the film along with Dede Gardner and Jeremy Kleiner. Plan B Entertainment would finance, with Paramount handling the distribution rights. Before this, Pitt had already starred in the adaptation of the author's Moneyball, for which he was nominated for an Oscar. On January 14, it was announced that Steve Carell would also star. On April 21, 2015, more cast was revealed by Deadline, including Melissa Leo, Marisa Tomei, Tracy Letts, Hamish Linklater, John Magaro, Byron Mann, Rafe Spall, Jeremy Strong, and Finn Wittrock. Charles Randolph wrote the initial draft. Max Greenfield joined the ensemble cast of the film on April 23, 2015. Karen Gillan tweeted about her involvement in the film on May 8, 2015. Jeffry Griffin, who plays Vennett's assistant Chris, was originally only planned to appear as an extra, and was cast to a speaking role after a production assistant picked him out of a crowd.
+
+
+=== Filming ===
+Principal photography on the film began on March 18, 2015, in New Orleans, Louisiana. On March 25, filming was taking place on General de Gaulle Boulevard in the Algiers section of New Orleans. On May 8, Gillan confirmed she was shooting her scenes. On May 20, 2015, filming took place on a short stretch of Mercer Street, between Prince Street and Spring Street, in Manhattan, New York City. On May 22, the production crew recreated the offices of failed investment firm Lehman Brothers in the lobby of the New York State Department of Financial Services in Manhattan. An assistant counsel for the Department of Financial Services played one of the extras in the scene.
+
+
+== Release ==
+On September 22, 2015, Paramount set the film for a limited release on December 11, 2015, and a wide release on December 23, 2015. The film was released on DVD and Blu-ray on March 15, 2016.
+
+
+== Reception ==
+
+
+=== Box office ===
+The Big Short grossed $70.3 million in the United States and Canada and $63.2 million in other countries for a worldwide total of $133.4 million, against a production budget of $50 million.The film was released in eight theaters in Los Angeles, New York, San Francisco and Chicago on December 11, 2015, and earned $705,527 (an average of $88,191 per theater). It set the record for the best ever per-screen gross for a film opening in eight locations, breaking the previous record held by Memoirs of a Geisha ($85,313 per theater), and was the third biggest theater average of 2015 behind the four screen debuts of Steve Jobs ($130,000) and The Revenant ($118,640).The film had its wide release on Wednesday December 23, 2015 and grossed $2.3 million on its first day. In its opening weekend it grossed $10.5 million, finishing 6th at the box office.
+
+
+=== Critical response ===
+On review aggregator website Rotten Tomatoes, the film has an approval rating of 89% based on 331 reviews, with an average rating of 7.80/10. The site's critical consensus reads, "The Big Short approaches a serious, complicated subject with an impressive attention to detail – and manages to deliver a well-acted, scathingly funny indictment of its real-life villains in the bargain." On Metacritic, the film has a score of 81 out of 100 based on 45 reviews, indicating "universal acclaim". Audiences polled by CinemaScore gave the film an average grade of "A−" on an A+ to F scale.IGN gave the film a score of 8.6/10, praising its "energetic direction" and making "a complicated tale palpable for the layperson even as it triggers outrage at the fatcats who helped cause it".The New York Times' "UpShot" series stated The Big Short offered the "strongest film explanation of the global financial crisis". The series also stated that it "wouldn't necessarily have been able to cash in as successfully as the characters in The Big Short. The success of this film is due to the work of the actors who played the characters.”
+
+
+=== Historical accuracy ===
+David McCandless's visual blog  Information is Beautiful deduced that, while taking creative licence into account, the film was 91.4% accurate when compared to real-life events, calling it a "shockingly truthful film" with "very little dramatization or fakery."Movie critics with backgrounds in finance also commented on the film. Many agreed with the public that The Big Short was entertaining and engaging, but also terrifying. Glenn Kenny reported that the film accurately got the message across that even though the lives of the characters were not interconnected, their stories were.While the general plot of the film is the same as the book, many of the character names have been changed. For example, Steve Eisman has become "Mark Baum" and Greg Lippmann has become "Jared Vennett". Some biographical information has also been slightly modified.Eisman has said that he respects Carell's portrayal but that it was not 100 percent true to his real character. Speaking to The Globe and Mail, Eisman said, "Eliminate my sense of humor and make me angry all the time, and that's [Carell's] portrayal. It's accurate enough, but it's not really me."The film, along with The Wolf of Wall Street, had a brief resurgence in the wake of the January 2021 GameStop short squeeze as the events shown in the films provided reference points for what was happening with the GameStop and related stocks.
+
+
+=== Accolades ===
+
+Adam McKay and Charles Randolph won the Academy Award, BAFTA Award, and Writers Guild of America Award for Best Adapted Screenplay. They also won an Empire Award for the Best Screenplay. Christian Bale won the Critics' Choice Movie Award for Best Actor in a Comedy and the Satellite Award for Best Supporting Actor (Motion Picture). Hank Corwin won the American Cinema Editors Award for Best Edited Feature Film (Comedy or Musical) and Los Angeles Film Critics Association Award for Best Editing.The film earned the Critics' Choice Movie Award for Best Comedy and was named one of the Top 10 Films of the Year at the American Film Institute Awards 2015. Dede Gardner, Jeremy Kleiner, and Brad Pitt won the Producers Guild of America Award for Best Theatrical Motion Picture. The cast also won the National Board of Review Award for Best Ensemble.
+
+
+== See also ==
+Bankruptcy of Lehman Brothers
+The Last Days of Lehman Brothers
+Great Recession
+Inside Job (2010 film)
+Margin Call
+Too Big to Fail (film)
+
+
+== References ==
+
+
+== External links ==
+
+Official website at the Wayback Machine (archived March 3, 2016)
+The Big Short at IMDb
+The Big Short at Box Office Mojo
+The Big Short at Rotten Tomatoes
+The Big Short at Metacritic 
+"The Big Short" at Second City Tzivi Archived September 27, 2019, at the Wayback Machine12 Years a Slave (film)
+1917 (2019 film)
+2007–2008 financial crisis
+21st Empire Awards
+A Mighty Heart (film)
+Academy Award for Best Adapted Screenplay
+Academy Award for Best Director
+Academy Award for Best Film Editing
+Academy Award for Best Picture
+Academy Award for Best Supporting Actor
+Ad Astra (film)
+Adam McKay
+Adepero Oduye
+Adjustable-rate mortgage
+Algiers, New Orleans
+American Beauty (1999 film)
+American Cinema Editors Award for Best Edited Feature Film – Comedy or Musical
+American Film Institute
+American Film Institute Awards 2015
+American Hustle
+Anchorman: The Legend of Ron Burgundy
+Anchorman 2: The Legend Continues
+Ant-Man (film)
+Anthony Bourdain
+Apollo 13 (film)
+Argo (2012 film)
+Arnon Milchan
+Audit
+BAFTA Award for Best Adapted Screenplay
+Bankruptcy of Lehman Brothers
+Barry Ackroyd
+Beautiful Boy (2018 film)
+Beetlejuice 2
+Bespoke portfolio (CDO)
+Billy Magnussen
+Biographical film
+Birdman (film)
+Blonde (2022 film)
+Blu-ray
+Bond credit rating
+Boomerang: Travels in the New Third World
+Borat
+Box Office Mojo
+Brad's Status
+Brad Grey
+Brad Pitt
+Bridesmaids (2011 film)
+British Board of Film Classification
+Brokeback Mountain
+Byron Mann
+CBS Interactive
+CODA (2021 film)
+Cameo appearance
+Capital asset
+Charles Randolph
+Charlie and the Chocolate Factory (film)
+Charlotte, North Carolina
+Chicago
+Chicago (2002 film)
+Chicago Tribune
+Christian Bale
+CinemaScore
+Closer (film)
+Collateralized debt obligation
+Collider (website)
+Comedy-drama
+Conflict of interest
+Cornwall Capital
+Crazy Rich Asians (film)
+Credit default swap
+Credit rating agencies and the subprime crisis
+Crime film
+Critics' Choice Movie Award for Best Actor in a Comedy
+Critics' Choice Movie Award for Best Comedy
+DVD
+Da 5 Bloods
+Dances with Wolves
+David McCandless
+Deadline Hollywood
+Deadpool (film)
+Dede Gardner
+Deutsche Bank
+Dolemite Is My Name
+Don't Look Up
+Doubt (2008 film)
+Driving Miss Daisy
+Easy A
+Eat Pray Love
+Economic bubble
+Empire (magazine)
+Entertainment Weekly
+Everything Everywhere All at Once
+Extra (acting)
+Fandango (company)
+Father of the Bride (2022 film)
+Financial crisis of 2007–2008
+Financial instrument
+Finn Wittrock
+Flash Boys
+Forbes
+Forrest Gump
+Fourth wall
+FrontPoint Partners
+Funny or Die
+Fury (2014 film)
+GameStop short squeeze
+Gary Sanchez Productions
+Get Hard
+Get Out
+Gladiator (2000 film)
+Glass Onion: A Knives Out Mystery
+Glenn Kenny
+Gravity (2013 film)
+Great Recession
+Green Book (film)
+Greg Lippmann
+Hamish Linklater
+Hank Corwin
+Happiness (1998 film)
+Hedge fund
+Hidden Figures
+Hyperobject Industries
+IGN
+IMDb (identifier)
+ISDA Master Agreement
+If Beale Street Could Talk (film)
+Inside Job (2010 film)
+Insurance
+Irresistible (2020 film)
+It's Complicated (film)
+Jae Suh Park
+Jennifer Aniston
+Jeremy Kleiner
+Jeremy Strong (actor)
+Joel Greenblatt
+John Magaro
+Juno (film)
+Kajillionaire
+Kareem Serageldin
+Karen Gillan
+Kick-Ass (film)
+Kick-Ass 2 (film)
+Killing Them Softly
+Knives Out
+Kristin Hahn
+La La Land
+Landscape with Invisible Hand
+Last Orders (film)
+Lehman Brothers
+Les Misérables (2012 film)
+Liar's Poker
+Licorice Pizza
+Limited release
+List of accolades received by The Big Short (film)
+List of awards and nominations received by Adam McKay
+Little Miss Sunshine
+Los Angeles
+Los Angeles Film Critics Association
+Louisiana
+Magnolia (film)
+Manhattan
+Margin Call
+Margot Robbie
+Marisa Tomei
+Max Greenfield
+Mediawan
+Melissa Leo
+Memoirs of a Geisha (film)
+Metacritic
+Michael Burry
+Michael Lewis
+Mickey 17
+Miloš Forman
+Minari (film)
+Moneyball
+Moneyball (film)
+Moonlight (2016 film)
+Morgan Stanley
+Mortgage-backed security
+Mortgage broker
+Moulin Rouge!
+Mrs Henderson Presents
+National Board of Review Award for Best Cast
+New Orleans
+New York City
+New York State Department of Financial Services
+Next: The Future Just Happened
+Nicholas Britell
+Nicholas Nickleby (2002 film)
+No Country for Old Men
+Nomadland
+Okja
+Palm Springs (2020 film)
+Panic: The Story of Modern Financial Insanity
+Paramount Pictures
+Plan B Entertainment
+Porter Collins
+Prince Street (BMT Broadway Line)
+Principal photography
+Prisoners (2013 film)
+Producers Guild of America
+Producers Guild of America Award for Best Theatrical Motion Picture
+Proprietary trading
+Prêt-à-Porter (film)
+Quantitative analyst
+Rafe Spall
+Real estate economics
+Regency Enterprises
+Review aggregator
+Richard Thaler
+Rotten Tomatoes
+Running with Scissors (film)
+Ryan Gosling
+San Francisco
+Satellite Award for Best Supporting Actor – Motion Picture
+Satellite Awards
+Saving Private Ryan
+Schindler's List
+Scion Capital
+Selena Gomez
+Selma (film)
+She Said (film)
+Short (finance)
+Silver Linings Playbook
+Singapore
+Slumdog Millionaire
+Spring Street (Manhattan)
+Standard & Poor's
+Standard and Poor's
+State and Main
+Step Brothers (film)
+Steve Carell
+Steve Eisman
+Steve Jobs (film)
+Subprime lending
+Synthetic CDO
+Talladega Nights: The Ballad of Ricky Bobby
+The 40-Year-Old Virgin
+The Artist (film)
+The Assassination of Jesse James by the Coward Robert Ford
+The Aviator (2004 film)
+The Big Short
+The Big Sick
+The Blind Side: Evolution of a Game
+The Blind Side (film)
+The Campaign (film)
+The Crying Game
+The Departed
+The English Patient (film)
+The Fifth Risk
+The First Wives Club
+The Globe and Mail
+The Grand Budapest Hotel
+The Hangover
+The Harder They Fall (2021 film)
+The Help (film)
+The Hollywood Reporter
+The Hurt Locker
+The King's Speech
+The King (2019 film)
+The Landlord (2007 film)
+The Last Black Man in San Francisco
+The Last Days of Lehman Brothers
+The Lord of the Rings: The Return of the King
+The Lost City of Z (film)
+The New New Thing
+The New York Times
+The Other Guys
+The Private Lives of Pippa Lee
+The Revenant (2015 film)
+The Shape of Water
+The Silence of the Lambs (film)
+The Sweet Hereafter (film)
+The Time Traveler's Wife (film)
+The Town (2010 film)
+The Tree of Life (film)
+The Undoing Project
+The Usual Suspects
+The Wall Street Journal
+The Wolf of Wall Street (2013 film)
+Titanic (1997 film)
+Too Big to Fail (film)
+Tracy Letts
+Trail Fever
+Tropic Thunder
+Troy (film)
+True Story (film)
+Twitter
+U.S. Securities and Exchange Commission
+United States housing bubble
+Untitled Joseph Kosinski film
+Variety (magazine)
+Vice (2018 film)
+Voyage of Time
+Wag the Dog
+Wake Up, Ron Burgundy: The Lost Movie
+Wall Street
+War Machine (film)
+Wayback Machine
+Weighted arithmetic mean
+Wide release
+Wired (magazine)
+Women Talking (film)
+World War Z (film)
+Writers Guild of America Award for Best Adapted Screenplay
+Year of the Dog (film)
+http://www.onlocationvacations.com/2015/02/10/brad-pitt-ryan-gosling-christian-bale-are-headed-to-new-orleans-for-the-big-shot/
+http://www.onlocationvacations.com/2015/03/23/the-big-short-starring-brad-pitt-ryan-gosling-christian-bale-begins-filming-in-new-orleans/
+http://www.onlocationvacations.com/2015/03/25/the-big-short-starring-brad-pitt-ryan-gosling-christian-bale-filming-in-algiers-la-today/
+https://twitter.com/karengillan/status/596799346303062016
+http://www.onlocationvacations.com/2015/05/16/the-big-short-starring-brad-pitt-and-ryan-gosling-is-filming-in-nyc-this-week/
+http://www.thebigshortmovie.com/
+http://www.thebigshortmovie.com/
+http://ff2media.com/secondcitytzivi/2015/12/11/the-big-short/
+http://creativescreenwriting.com/banking-on-the-big-short/
+https://www.nytimes.com/2015/12/23/upshot/what-the-big-short-gets-right-and-wrong-about-the-housing-bubble.html?smid=tw-nytimes&smtyp=cur
+https://blogs.wsj.com/moneybeat/2015/05/22/big-short-recreates-lehman-bros-offices-in-regulators-building/
+https://www.forbes.com/sites/scottmendelson/2015/12/13/box-office-in-the-heart-of-the-sea-is-a-whale-of-a-fail-big-short-strikes-it-rich/
+https://variety.com/2015/film/news/the-big-short-max-greenfield-cast-brad-pitt-ryan-gosling-1201477480/
+https://variety.com/2014/film/news/adam-mckay-big-short-brad-pitt-1201144582/
+https://variety.com/2015/film/news/brad-pitt-christian-bale-and-ryan-gosling-to-star-in-financial-drama-the-big-short-exclusive-1201404038/
+https://www.rogerebert.com/reviews/the-big-short-2015
+https://www.theglobeandmail.com/report-on-business/rob-magazine/invest-like-a-legend-the-skeptic-steve-eisman/article28378668/
+http://awards.wga.org/wga-awards/previous-nominees-winners
+http://www.pressacademy.com/award_cat/2015/
+http://www.producersguild.org/news/267997/Nominees-Announced-For-Theatrical-Motion-Picture-Animated-Motion-Picture-And-Long-Form-TV-.htm
+https://indd.adobe.com/view/87976431-f650-4be0-a9c3-392d676b5514
+https://www.imdb.com/title/tt1596363/
+https://www.bbc.co.uk/news/entertainment-arts-35313266
+https://www.bbc.co.uk/news/entertainment-arts-35260399
+https://www.boxofficemojo.com/movies/?id=bigshort.htm
+https://www.rottentomatoes.com/m/the_big_short
+https://dealbook.nytimes.com/2010/04/21/lippmann-deutsche-trader-steps-down
+https://web.archive.org/web/20160428104159/http://moviepilot.com/posts/3681535
+http://moviepilot.com/posts/3681535
+https://www.metacritic.com/movie/the-big-short
+https://web.archive.org/web/20160303180208/http://www.thebigshortmovie.com/
+https://www.informationisbeautiful.net/visualizations/based-on-a-true-true-story/
+https://www.rottentomatoes.com/m/the_big_short/
+https://deadline.com/2014/03/adam-mckay-big-short-movie-michael-lews-703473/
+https://www.chicagotribune.com/entertainment/sns-bc-us--film-the-big-short-20150922-story.html
+https://www.hollywoodreporter.com/news/steve-carell-talks-join-christian-763755
+https://deadline.com/2015/04/the-big-short-christian-bale-steve-carell-ryan-gosling-brad-pitt-1201413659/
+https://www.hollywoodreporter.com/news/heart-sea-capsizes-11m-debut-848308
+https://deadline.com/2015/12/star-wars-force-awakens-christmas-weekend-box-office-record-joy-daddys-home-concussion-point-break-1201672899/
+https://www.ign.com/articles/2015/12/08/the-big-short-review
+https://www.empireonline.com/movies/news/star-wars-mad-max-empire-awards-2016-nominations-2/
+https://www.ew.com/article/2016/01/17/critics-choice-awards-2016-winners-list
+https://collider.com/ace-eddie-awards-2016-star-wars-the-force-awakens/
+https://www.ew.com/article/2015/12/06/los-angeles-film-critics-association-awards-winners-2015
+https://deadline.com/2015/12/afi-awards-best-films-television-2015-1201668201/
+https://www.hollywoodreporter.com/news/national-board-review-2015-winners-844862
+http://screenprism.com/insights/article/which-real-life-people-are-the-characters-of-the-big-short-based-on
+https://www.imdb.com/title/tt1596363/trivia?item=tr2867495
+https://web.archive.org/web/20151116073303/http://bbfc.co.uk/releases/big-short-film
+https://web.archive.org/web/20160130175347/http://www.boxofficemojo.com/movies/?id=bigshort.htm
+https://web.archive.org/web/20150419032021/http://deadline.com/2014/03/adam-mckay-big-short-movie-michael-lews-703473/
+https://web.archive.org/web/20200614090319/https://www.chicagotribune.com/entertainment/sns-bc-us--film-the-big-short-20150922-story.html
+https://web.archive.org/web/20151230183944/http://www.thebigshortmovie.com/
+https://web.archive.org/web/20150122231841/http://www.hollywoodreporter.com/news/steve-carell-talks-join-christian-763755
+https://web.archive.org/web/20180624035829/https://dealbook.nytimes.com/2010/04/21/lippmann-deutsche-trader-steps-down/
+https://web.archive.org/web/20160909095209/http://www.imdb.com/title/tt1596363/trivia?item=tr2867495
+https://web.archive.org/web/20170704085656/http://variety.com/2014/film/news/adam-mckay-big-short-brad-pitt-1201144582/
+https://web.archive.org/web/20160508090559/http://creativescreenwriting.com/banking-on-the-big-short/
+https://web.archive.org/web/20150114172701/http://variety.com/2015/film/news/brad-pitt-christian-bale-and-ryan-gosling-to-star-in-financial-drama-the-big-short-exclusive-1201404038/
+https://web.archive.org/web/20150618152249/http://deadline.com/2015/04/the-big-short-christian-bale-steve-carell-ryan-gosling-brad-pitt-1201413659/
+https://web.archive.org/web/20150425021952/http://variety.com/2015/film/news/the-big-short-max-greenfield-cast-brad-pitt-ryan-gosling-1201477480/
+https://web.archive.org/web/20151213125535/https://twitter.com/karengillan/status/596799346303062016
+https://web.archive.org/web/20150212022440/http://www.onlocationvacations.com/2015/02/10/brad-pitt-ryan-gosling-christian-bale-are-headed-to-new-orleans-for-the-big-shot/
+https://web.archive.org/web/20150328005048/http://www.onlocationvacations.com/2015/03/23/the-big-short-starring-brad-pitt-ryan-gosling-christian-bale-begins-filming-in-new-orleans/
+https://web.archive.org/web/20150327150534/http://www.onlocationvacations.com/2015/03/25/the-big-short-starring-brad-pitt-ryan-gosling-christian-bale-filming-in-algiers-la-today/
+https://web.archive.org/web/20150522101426/http://www.onlocationvacations.com/2015/05/16/the-big-short-starring-brad-pitt-and-ryan-gosling-is-filming-in-nyc-this-week/
+https://web.archive.org/web/20171126061358/https://blogs.wsj.com/moneybeat/2015/05/22/big-short-recreates-lehman-bros-offices-in-regulators-building/
+https://web.archive.org/web/20151214214759/http://www.hollywoodreporter.com/news/heart-sea-capsizes-11m-debut-848308
+https://web.archive.org/web/20151214134801/http://www.forbes.com/sites/scottmendelson/2015/12/13/box-office-in-the-heart-of-the-sea-is-a-whale-of-a-fail-big-short-strikes-it-rich/
+https://web.archive.org/web/20180613000029/https://deadline.com/2015/12/star-wars-force-awakens-christmas-weekend-box-office-record-joy-daddys-home-concussion-point-break-1201672899/
+https://web.archive.org/web/20160120165025/http://www.rottentomatoes.com/m/the_big_short/
+https://web.archive.org/web/20160109150905/http://www.metacritic.com/movie/the-big-short
+https://web.archive.org/web/20200614152454/https://www.ign.com/articles/2015/12/08/the-big-short-review
+https://web.archive.org/web/20151225110732/http://www.nytimes.com/2015/12/23/upshot/what-the-big-short-gets-right-and-wrong-about-the-housing-bubble.html?smid=tw-nytimes&smtyp=cur
+https://web.archive.org/web/20201118143948/https://www.informationisbeautiful.net/visualizations/based-on-a-true-true-story/
+https://web.archive.org/web/20201116104110/https://www.rogerebert.com/reviews/the-big-short-2015
+https://web.archive.org/web/20200412080501/http://screenprism.com/insights/article/which-real-life-people-are-the-characters-of-the-big-short-based-on
+https://web.archive.org/web/20170505210249/http://www.theglobeandmail.com/report-on-business/rob-magazine/invest-like-a-legend-the-skeptic-steve-eisman/article28378668/
+https://web.archive.org/web/20160225011630/http://www.bbc.co.uk/news/entertainment-arts-35313266
+https://web.archive.org/web/20160214053026/http://www.bbc.co.uk/news/entertainment-arts-35260399
+https://web.archive.org/web/20160328130331/http://awards.wga.org/wga-awards/previous-nominees-winners
+https://web.archive.org/web/20160425142107/https://www.empireonline.com/movies/news/star-wars-mad-max-empire-awards-2016-nominations-2/
+https://web.archive.org/web/20201208192724/http://www.pressacademy.com/award_cat/2015/
+https://web.archive.org/web/20200109163635/https://collider.com/ace-eddie-awards-2016-star-wars-the-force-awakens/
+https://web.archive.org/web/20151207133302/http://www.ew.com/article/2015/12/06/los-angeles-film-critics-association-awards-winners-2015
+https://web.archive.org/web/20200425134843/https://deadline.com/2015/12/afi-awards-best-films-television-2015-1201668201/
+https://web.archive.org/web/20160108025631/http://www.producersguild.org/news/267997/Nominees-Announced-For-Theatrical-Motion-Picture-Animated-Motion-Picture-And-Long-Form-TV-.htm
+https://web.archive.org/web/20151203220125/http://www.hollywoodreporter.com/news/national-board-review-2015-winners-844862
+https://www.wired.com/story/the-big-short-gamestop-meme-stock/
+https://archive.today/20160704082640/https://indd.adobe.com/view/87976431-f650-4be0-a9c3-392d676b5514
+https://web.archive.org/web/20190927202316/https://ff2media.com/secondcitytzivi/2015/12/11/the-big-short/
+https://www.wikidata.org/wiki/Q19850715#P1712
+https://variety.com/2015/film/awards/big-short-ryan-gosling-assistant-jeffry-griffin-1201670141/
+https://www.backstage.com/magazine/article/big-short-extra-became-ryan-goslings-right-hand-man-8831/
+https://web.archive.org/web/20160118122332/http://www.ew.com/article/2016/01/17/critics-choice-awards-2016-winners-list
+https://www.dvdsreleasedates.com/movies/7468/the-big-short
+https://www.wikidata.org/wiki/Q19850715#identifiers
+https://viaf.org/viaf/114145911104027060960
+http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&authority_id=XX5647050
+https://cantic.bnc.cat/registre/981058611041706706
+https://id.loc.gov/authorities/no2016084033
+https://www.bbfc.co.uk/AVF331428
+https://dbn.bn.org.pl/descriptor-details/9810699777605606

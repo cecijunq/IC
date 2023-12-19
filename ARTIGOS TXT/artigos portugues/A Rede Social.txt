@@ -1,0 +1,426 @@
+A Rede Social
+The Social Network (bra/prt: A Rede Social) é um filme estadunidense de 2010, do gênero drama biográfico, dirigido por David Fincher, com roteiro de Aaron Sorkin e Ben Mezrich, baseado no livro de não ficção The Accidental Billionaires, escrito pelo próprio Mezrich. Este livro conta a história da origem da rede social Facebook, entre parcerias e processos judiciais que marcaram a empresa durante a sua ascensão, que levou o criador Mark Zuckerberg (protagonista biografado no filme) a ser o bilionário mais jovem do mundo até então. Embora nenhum funcionário da empresa tenha se envolvido na produção, o brasileiro Eduardo Saverin, ex-diretor de finanças da instituição, foi um consultor para o livro que inspirou o drama.O filme apareceu em 78 listas de melhores filmes do ano, 22 delas como número um. E recebeu oito indicações ao Oscar.
+
+
+== Enredo ==
+Em Outubro de 2003, Mark Zuckerberg, um jovem acadêmico da Universidade de Harvard, fica indignado ao levar um fora da sua namorada, Erica Albright, após esta questionar o seu comportamento egocêntrico. Ao voltar para o alojamento estudantil, Zuckerberg escreve um post insultante sobre Albright em seu blog pessoal no LiveJournal. Após hackear e utilizar os servidores da universidade, este cria um site chamado Facemash, onde os visitantes do site votam e classificam a atratividade de estudantes do sexo feminino; o tráfego no site é tamanho que a rede de computadores de Harvard é desligada por sobrecarga. Zuckerberg é punido pela reitoria com seis meses de suspensão acadêmica, mas a popularidade do Facemash atrai a atenção dos gêmeos Cameron e Tyler Winklevoss, atletas e líderes de uma fraternidade na instituição, que juntos de seu parceiro de negócios Divya Narendra, convidam Zuckerberg para trabalhar no projeto Harvard Connection, um site de relacionamentos exclusivo para estudantes da instituição. Zuckerberg aborda seu amigo Eduardo Saverin, um brasileiro estudante de Economia, com uma ideia chamada The Facebook, uma rede social para universitários da Ivy League; Saverin aceita depositar 1.000 dólares em financiamento inicial para o projeto, permitindo que Zuckerberg construa o site, que rapidamente torna-se popular.
+Ao descobrir sobre o The Facebook, Narendra e os gêmeos Winklevoss ficam furiosos, acreditando que Zuckerberg roubou sua ideia enquanto os enganava ao paralisar o desenvolvimento do Harvard Connection; ao levarem sua reclamação ao reitor Larry Summers, este desdenha da queixa, declarando que uma ação disciplinar ao The Facebook seria perda de tempo. Saverin e Zuckerberg conhecem uma colega de turma chamada Christy Lee, que os elogia pelo projeto e lhes diz "Facebook-me", uma frase que os deixam impressionados. À medida que a rede social cresce em popularidade, Saverin aumenta seu financiamento no projeto, permitindo que Zuckerberg expanda seu alcance para as universidades de Yale, Columbia e Stanford. Lee consegue que Saverin e Zuckerberg reúnam-se com Sean Parker, co-fundador do site Napster; este diz-lhes que a empresa tem potencial de valer um bilhão de dólares, também sugere renomear o site para apenas Facebook. Zuckerberg fica impressionado, mas Saverin considera-o alguém paranoico e narcisista. Zuckerberg transfere a empresa para a California, seguindo o conselho de Parker, enquanto Saverin permanece em Nova Iorque para obter parcerias e anunciantes para o negócio. Parker muda-se para a base de operações de Zuckerberg e envolve-se mais com a empresa, o que aborrece Saverin.
+Na Inglaterra, enquanto representam Harvard na Regata Real Henley, os gêmeos Winklevoss descobrem que o Facebook expandiu-se para a Europa, obtendo usuários em Oxford, Cambridge e na LSE; juntos com Narendra, decidem processar a empresa por roubo de propriedade intelectual. Enquanto isso, cansados de Parker liderando as decisões de negócios para o Facebook, Saverin congela a conta bancária da empresa, mas muda de ideia quando Zuckerberg lhe informa que o megainvestidor Peter Thiel aceitou em participar do projeto, injetando um capital extra de 500 mil dólares. Saverin assina um novo contrato de sociedade, sob a promessa de participação de 34% nas ações do Facebook; ao descobrir que na realidade sua participação foi reduzida para apenas 0,03% e seu título de co-fundador retirado do site, Saverin fica furioso e confronta Zuckerberg e Parker, jurando processa-los por fraude antes de ser expulso do prédio. Após o site atingir a marca de 1 milhão de usuários, Parker e alguns estagiários são detidos em flagrante por posse de cocaína durante uma festa comemoração. Parker tenta culpar Saverin pelo incidente, mas Zuckerberg resolve cortar laços, dizendo-lhe para "ir para casa".
+Em depoimentos separados na reunião judicial, os gêmeos Winklevoss alegam que Zuckerberg roubou sua ideia, enquanto Saverin afirma que sua participação do Facebook foi injustamente diluída durante construção da empresa. Após discussões entre os representantes das partes, Marylin Delpy, advogada de defesa de Zuckerberg, informa-o que será firmado um acordo com os requerentes, já que os detalhes sórdidos sobre fundação do Facebook e a atitude egocêntrica de Zuckerberg, o tornariam antipático diante de um júri popular, o que acarretaria em mais prejuízos. Sozinho na sala, Zuckerberg descobre o perfil de Albright no Facebook, envia-lhe uma solicitação de amizade e atualiza a página repetidamente. No final, é revelado ao espectador que os gêmeos Winklevoss assinaram um acordo de 65 milhões de dólares, incluindo um termo de confidencialidade, e remaram para os EUA nas Olimpíadas de Pequim, ficando em 6º lugar. Eduardo Saverin recebeu um valor desconhecido, mas seu nome foi restaurado nos registros públicos do Facebook como co-fundador. O Facebook chegou a 500 milhões de usuários em 207 países, com um valor na época de 25 bilhões de dólares, o que tornou Mark Zuckerberg o bilionário mais jovem do mundo.
+
+
+== Elenco ==
+Jesse Eisenberg como Mark Zuckerberg
+Andrew Garfield como Eduardo Saverin
+Justin Timberlake como Sean Parker
+Armie Hammer como Cameron e Tyler Winklevoss
+Josh Pence atuou como dublê de corpo para Hammer
+Max Minghella como Divya Narendra
+Joseph Mazzello como Dustin Moskovitz
+Patrick Mapel como Chris Hughes
+John Getz como Sy
+Denise Grayson como Gretchen
+David Selby como Gage
+Rashida Jones como Marylin Delpy
+Wallace Langham como Peter Thiel
+Rooney Mara como Erica Albright
+Brenda Song como Christy Lee
+Malese Jow como Alice Cantwell
+Shelby Young como K.C.
+Dakota Johnson como Amelia Ritter
+Trevor Wright como Josh Thompson
+Dustin Fitzsimons como presidente do Phoenix S-K Club
+Douglcomo Urbanski como Larry Summers
+
+
+== Produção ==
+
+
+=== Escolha do elenco ===
+O elenco começou a ser escolhido no início de agosto de 2009, e foram abertas audições em vários estados norte-americanos. Jesse Eisenberg foi o primeiro anunciado como parte do projeto, em setembro do mesmo ano. Em uma entrevista para o Baltimore Sun, o ator comentou, "Mesmo que eu tenha feito parte de vários filmes maravilhosos, esse personagem Mark Zuckerberg parece ser o mais evidentemente insensível em tantos sentidos que deve ser o mais real para mim. Eu não costumo interpretar pessoas insensíveis, estão é bastante confortável: novo e excitante, como se nunca tivesse que se preocupar com o público. Não que eu me preocupe de qualquer maneira - essa deve ser a menor coisa na sua cabeça". Justin Timberlake e Andrew Garfield foram confirmados nos papéis de Sean Parker e Eduardo Saverin no mesmo mês. Em outubro de 2009, Brenda Song, Rooney Mara, Armie Hammer, Shelby Young e Josh Pence também foram escolhidos, assim como Max Minghella e Dakota Johnson, mais tarde.
+
+
+=== Filmagens ===
+As filmagens começaram em outubro de 2009, em Cambridge, Massachusetts. As cenas foram filmadas no campus de duas escolas, a Phillips Academy e a Milton Academy. Cenas adicionais foram filmadas na Wheelock College, que serviu de locação para o campus de Harvard. A cena de abertura do filme, com Zuckerberg e sua namorada, levou 99 tomadas para ser terminada. A cena das regatas foram filmadas em Newton e na Henley Royal Regatta. Apesar de uma grande parte do filme se passar no Vale do Silício, os produtores decidiram filmar essas cenas em Los Angeles e em Pasadena.
+Armie Hammer, que interpretou os gêmeos Winklevoss, atuou ao lado do dublê de corpo Josh Pence enquanto filmava suas cenas. Seu rosto foi digitalmente colocado sobre o rosto de Pence durante a pós produção, enquanto em outras cenas foi usado a técnica de divisão de tela.
+
+
+=== Música ===
+
+Em 1 de junho de 2010 foi anunciado que Trent Reznor e Atticus Ross, da banda de rock industrial Nine Inch Nails, iriam compor a trilha sonora do filme. A trilha sonora foi lançada em 28 de setembro desse ano em diversos formatos. Antes do lançamento da trilha, um extended play com cinco faixas foi disponibilizado de graça para download. A canção "Baby, You're a Rich Man", dos Beatles, aparece nos créditos finais do filme, o que é notável porque a banda raramente libera suas músicas para serem tocadas em filmes ou outras Mídias; ela não está presente na trilha sonora.Em 2011, Trent Reznor e Atticus Ross ganharam um Oscar e um Globo de Ouro de melhor trilha sonora original, para o filme A Rede Social.
+
+
+== Recepção ==
+The Social Network foi aclamado pela crítica. No site Rotten Tomatoes o filme possui um índice de aprovação de 97%, baseado em 253 críticas. O  consenso foi, "Com um roteiro impecável, bela direção e cheio de ótimas performances, The Social Network é um ambicioso exemplo do melhor do cinema moderno". No Metacritic o filme recebeu uma média de 95/100, com base em 42 críticas, sendo classificado como "aclamação universal".Peter Travers, da revista Rolling Stone, disse "The Social Network é o filme do ano. Porém Fincher e Sorkin triunfam ao levá-lo além. Laçando suas sagacidades mordazes com uma dolorosa tristeza, eles definem a ironia negra da última década".Apesar disso, não foi apoiado pelo Facebook e seu diretor-executivo e cofundador Mark Zuckerberg, que é mostrado como um anti-herói; apesar do roteiro ter sido mostrado para os sócios da empresa e algumas edições terem sido feitas, eles não o aprovaram.
+
+
+=== Bilheteria ===
+Debutou na primeira posição em seu primeiro final de semana nos cinemas dos Estados Unidos, arrecadando US$23 milhões. Permaneceu nessa posição no final de semana seguinte, com US$15,5 milhões, acumulando 46 milhões em seus primeiros quinze dias.
+
+
+=== Prêmios e indicações ===
+OscarGolden Globe AwardsBAFTA AwardSatellite AwardScreen Actors Guild Award
+
+
+== Referências ==12 Years a Slave
+1917 (filme)
+1 de junho
+2010
+2010 no cinema
+28 de setembro
+A Few Good Men
+A Forma da Água
+A Lista de Schindler
+A Room with a View
+A Rosa Púrpura do Cairo
+A Star Is Born (2018)
+A Vida É Bela
+A Árvore da Vida (2011)
+A Árvore dos Tamancos
+Aaron Sorkin
+Alien 3
+AllMovie
+AlloCiné
+Amadeus
+American Film Institute
+Amor (2012)
+Andrew Garfield
+Angus Wall
+Anti-herói
+Apocalypse Now
+Argo (filme)
+Armie Hammer
+As Confissões de Schmidt
+As Horas (filme)
+As bestas
+Atonement
+Atticus Ross
+Avatar (filme)
+BAFTA Award
+Babe (1995)
+Babel (filme)
+Baby, You're a Rich Man
+Base Virtual Internacional de Autoridade
+Beatles
+Being John Malkovich
+Being the Ricardos
+Beleza Americana
+Ben Mezrich
+Biblioteca Nacional da Espanha
+Birdman or (The Unexpected Virtue of Ignorance)
+Bohemian Rhapsody (filme)
+Bowling for Columbine
+Box Office Mojo
+Boyhood
+Brasil
+Brasileiros
+Brassed Off
+Breaking the Waves
+Brenda Song
+C'eravamo tanto amati
+Califórnia
+Cambridge (Massachusetts)
+Chariots of Fire
+Charlie Wilson's War
+Chicago (filme de 2002)
+Chicago Tribune
+Chris Hughes
+Cinebiografia
+Cinema dos Estados Unidos
+Cocaína
+Columbia Pictures
+Confraria
+Crimes and Misdemeanors
+Critics' Choice Award de melhor filme
+César (cinema)
+César de melhor filme estrangeiro
+Dakota Johnson
+Das Leben der Anderen
+David Fincher
+David Selby
+Dead Poets Society
+Denise Grayson
+Depoimento
+Diretor de cinema
+Distant Voices, Still Lives
+Distribuição cinematográfica
+Douglcomo Urbanski
+Download
+Druk
+Dustin Fitzsimons
+Dustin Moskovitz
+Dólar dos Estados Unidos
+Eduardo Saverin
+Encyclopædia Britannica
+Era uma Vez em... Hollywood
+Esperança e Glória
+Estados Unidos
+Eternal Sunshine of the Spotless Mind
+Eu, Daniel Blake
+Everything Everywhere All at Once
+Extended play
+Faa yeung nin wa
+Fanny e Alexander
+Fargo (filme)
+Fight Club
+FilmAffinity
+Filme de drama
+Fraude
+Gemeinsame Normdatei
+Get Out
+Gisaengchung
+Gladiador (filme)
+Globo de Ouro de melhor filme dramático
+Globo de Ouro de melhor trilha sonora
+Golden Globe Award de melhor ator coadjuvante em cinema
+Golden Globe Award de melhor ator em filme dramático
+Golden Globe Award de melhor direção
+Golden Globe Award de melhor filme dramático
+Golden Globe Award de melhor roteiro
+Golden Globe Awards
+Gone Girl
+Gran Torino
+Gênero cinematográfico
+Harvard University
+Henley-on-Thames
+Hollywood Records
+House of Games
+IMDb
+Investidor-anjo
+Ivy League
+Jeff Cronenweth
+Jesse Eisenberg
+Jodaeiye Nader az Simin
+Jogos Olímpicos de Verão de 2008
+John Getz
+Joseph Mazzello
+Josh Pence
+Justin Timberlake
+Júri
+Kagemusha
+Kevin Spacey
+Kirk Baxter
+L.A. Confidential
+La La Land (filme)
+Larry Summers
+Lawrence Summers
+Letterboxd
+Ligações Perigosas (filme)
+Listas de bilionários
+Little Miss Sunshine
+LiveJournal
+London Film Critics' Circle
+Los Angeles
+Lost in Translation
+Língua inglesa
+Mad Max: Estrada da Fúria
+Malese Jow
+Malice
+Manbiki Kazoku
+Manhattan (filme)
+Mank (filme)
+Mark Zuckerberg
+Massachusetts
+Master and Commander: The Far Side of the World
+Max Minghella
+Metacritic
+Milk (filme)
+Million Dollar Baby
+Minuto
+Missing - O Desaparecido
+Molly's Game
+Mommy (filme)
+Moneyball
+Moonlight (filme)
+Moulin Rouge!
+Moviepilot
+Mulholland Drive (filme)
+Munique (filme)
+Mystic River
+Namoro
+Napster
+Nelyubov
+Netflix
+New York Magazine
+Newton (Massachusetts)
+Nine Inch Nails
+No Country for Old Men (filme)
+Nomadland
+Nova Iorque
+Não ficção
+Número de controle da Biblioteca do Congresso
+O Artista
+O Aviador
+O Homem Elefante
+O Nome da Rosa (filme)
+O Pianista
+O Piano
+O Rei da Comédia
+O Resgate do Soldado Ryan
+O Segredo de Brokeback Mountain
+O Último Imperador
+Observatório Europeu do Audiovisual
+Os 7 de Chicago
+Os Descendentes
+Oscar de melhor ator
+Oscar de melhor diretor
+Oscar de melhor edição
+Oscar de melhor filme
+Oscar de melhor fotografia
+Oscar de melhor mixagem de som
+Oscar de melhor roteiro adaptado
+Oscar de melhor trilha sonora
+Out of Rosenheim
+Panic Room
+Paris, Texas
+Pasadena (Califórnia)
+Patrick Mapel
+Pecados Íntimos
+Perfume de Mulher (1974)
+Peter Thiel
+Portugal
+Produtor executivo
+Produção cinematográfica
+Propriedade intelectual
+Prêmio Washington D.C. Area Film Critics Association de Melhor Filme
+Prêmios Critics' Choice Movie
+Prêmios Globo de Ouro
+Público (jornal)
+Quatro Casamentos e Um Funeral
+R7
+Rashida Jones
+Relativity Media
+Road to Perdition
+Rolling Stone
+Roma (filme de 2018)
+Rooney Mara
+Roteirista
+Rotten Tomatoes
+San Francisco Film Critics Circle
+Satellite Award
+Scott Rudin
+Screen Actors Guild Award
+Sean Parker
+Sense and Sensibility (filme)
+Seven (filme)
+Shelby Young
+Sideways
+Sistema Universitário de Documentação
+Slumdog Millionaire
+Sociedade empresária
+Sports Night
+Spotlight (filme)
+St. Louis Film Critics Association
+Steve Jobs (filme)
+Studio 60 on the Sunset Strip
+TV.com
+TV Guide
+Tacones lejanos
+Terra e Liberdade (filme)
+The Accidental Billionaires
+The American President
+The Assassination of Jesse James by the Coward Robert Ford
+The Broken Circle Breakdown
+The Curious Case of Benjamin Button
+The Departed
+The Father
+The Florida Project
+The Game (filme)
+The Girl with the Dragon Tattoo
+The Hurt Locker
+The Lord of the Rings: The Return of the King
+The Master (filme)
+The Movie Database
+The Newsroom
+The Numbers
+The Power of the Dog
+The Revenant
+The Social Network (álbum)
+The West Wing
+The Wrestler
+Thelma and Louise
+Three Billboards Outside Ebbing, Missouri
+Toto le héros
+Trent Reznor
+Trevor Wright
+Tudo sobre Minha Mãe
+Turner Classic Movies
+Tár
+Uma Mente Brilhante
+Un prophète
+Una giornata particolare
+Unforgiven
+United 93
+Universidade Harvard
+Up in the Air (2009)
+Vale do Silício
+Vals im Bashir
+Variety
+Victor/Victoria
+Wallace Langham
+Washington D.C. Area Film Critics Association
+Zero Dark Thirty
+Zodíaco (filme)
+Óscar
+http://nymag.com/movies/features/68319/index4.html
+http://theplaylist.blogspot.com/2009/10/max-minghella-rooney-mara-dakota.html
+http://entretenimento.r7.com/cinema/noticias/filme-a-rede-social-desagrada-criadores-do-facebook-20100823.html
+http://www2.wheelock.edu/wheelock/x2361.xml
+http://www.andover.edu/mediagallery/StudentLife/SocialNetwork/Pages/Default.aspx
+http://www.chicagotribune.com/business/yourmoney/bal-jesse-eisenberg-qa,0,951371.story
+http://www.imdb.com/title/tt1285016/soundtrack
+http://www.variety.com/article/VR1118008990.html?categoryid=13&cs=1
+http://www.slashfilm.com/2009/10/20/casting-notes-selena-gomez-in-teen-rom-com-the-social-network-gets-new-kids-the-whistleblower-gets-proven-talent/
+http://news.cnet.com/8301-13577_3-10385630-36.html
+http://nymag.com/daily/entertainment/2010/10/armie_hammer_interview.html
+http://www.wired.com/underwire/2010/09/trent-reznor-social-network
+http://www.rollingstone.com/movies/reviews/45905/210633
+http://techcrunch.com/2010/07/02/trent-reznor-facebook-movie/
+http://www.metacritic.com/movie/the-social-network
+http://boxofficemojo.com/news/?id=2944&p=.htm
+http://www.hollywoodreporter.com/hr/content_display/film/news/e3i5a116168a138e4ee7eee86d9bb93c216
+http://www.rottentomatoes.com/m/the-social-network/
+http://www.boxofficemojo.com/movies/?id=socialnetwork.htm
+https://archive.is/20120630064828/http://www.slashfilm.com/2009/10/20/casting-notes-selena-gomez-in-teen-rom-com-the-social-network-gets-new-kids-the-whistleblower-gets-proven-talent/
+https://web.archive.org/web/20100528075636/http://www.andover.edu/mediagallery/StudentLife/SocialNetwork/Pages/Default.aspx
+https://web.archive.org/web/20100527145138/http://www2.wheelock.edu/wheelock/x2361.xml
+http://www.cineplayers.com/filme/a-rede-social/5849
+https://www.cineplayers.com/premiacoes/oscar/83
+https://www.cineplayers.com/premiacoes/globo-de-ouro/68
+https://www.britannica.com/topic/The-Social-Network
+https://d-nb.info/gnd/1078088926
+https://id.loc.gov/authorities/no2010180476
+https://www.metacritic.com/movie/the-social-network
+https://www.moviemeter.nl/film/67205
+https://www.idref.fr/197941451
+https://www.the-numbers.com/movie/Social-Network-The
+https://www.rottentomatoes.com/m/the-social-network
+https://www.filmaffinity.com/en/film577699.html
+https://www.boxofficemojo.com/movies/?id=socialnetwork.htm
+https://www.allmovie.com/movie/v468401
+https://catalog.afi.com/Catalog/moviedetails/66175
+https://web.archive.org/web/20101006205241/http://www.variety.com/article/VR1118008990.html?categoryid=13&cs=1
+https://www.synchronkartei.de/film/18085
+https://www.moviepilot.de/movies/the-social-network
+https://web.archive.org/web/*/http://www.elfilm.com/title/1121933/
+https://wikidata-externalid-url.toolforge.org/?p=345&url_prefix=https://www.imdb.com/&id=tt1285016
+https://www.tcm.com/tcmdb/title/778035/wd
+https://viaf.org/viaf/253289157/
+https://datos.bne.es/resource/XX5230410
+https://web.archive.org/web/20080201113148/http://www.tv.com/movies/the-social-network/
+https://www.allocine.fr/film/fichefilm_gen_cfilm=147912.html
+https://www.netflix.com/title/70132721
+https://www.allcinema.net/cinema/337475
+https://letterboxd.com/film/the-social-network/
+https://www.themoviedb.org/movie/37799
+https://www.dfi.dk/viden-om-film/filmdatabasen/film/68144
+http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=41447
+https://moviewalker.jp/mv46159/
+https://www.tvguide.com/tvshows/wd/305921
+https://cinecartaz.publico.pt/filme/267717
+https://lumiere.obs.coe.int/movie/34910
+https://www.kinopoisk.ru/film/427198/
+https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4418&view=2-Film%20Title-Alpha
+https://www.ofdb.de/film/198935
+https://www.omdb.org/en/us/movie/18079
+https://www.worldcat.org/identities/containsVIAFID/253289157

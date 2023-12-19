@@ -1,0 +1,240 @@
+Apollo 13 (filme)
+Apollo 13 (bra: Apollo 13 - Do Desastre ao Triunfo; prt: Apollo 13) é um filme estadunidense, de 1995, dirigido por Ron Howard, com Tom Hanks no papel principal. Com roteiro baseado no livro Lost Moon: The Perilous Voyage of Apollo 13, de Jim Lovell e Jeffrey Kluger, o filme narra a história verídica da desastrosa missão Apollo 13, da NASA.
+
+
+== Enredo ==
+"Houston, we have a problem here "(Huston, temos um problema aqui) Essa frase marcou um dos mais dramáticos momentos da história da exploração espacial. Ela vinha da nave Apollo 13, avariada próxima à Lua, com três astronautas a bordo. A mensagem era endereçada ao centro de operações da NASA, em Houston, nos Estados Unidos. Foi o início da heroica missão de trazer a nave de volta a Terra. Diz a superstição que o número treze traz má sorte. Mas a Nasa, agência espacial do governo americano, não tinha escolha. A nave seguinte à Apollo 12 só poderia mesmo se chamar Apollo 13. Não seria razoável esperar um sinal de superstição por parte daqueles que apenas nove meses antes, em 20 de julho de 1969, haviam levado o homem à Lua, dando “um gigantesco passo para a humanidade”, na frase famosa do astronauta Neil Armstrong, o comandante da Apollo 11. Assim, a Nasa lançou a sua nave número treze, a terceira programada para pousar no satélite da Terra. Colocada na ponta do foguete Saturno 5, de 110 metros de altura (o tamanho de um prédio de 35 andares), ela partiu às 13h13min13s do dia 11 de abril de 1970, do Centro Espacial Kennedy, na Flórida. O número 13 aparecia ainda em dezenas de lugares no cronograma da missão, como nos horários de refeição e de descanso. Foi um corajoso desafio ao número do azar. Mas não deu sorte. A missão foi cheia de imprevistos, como o afastamento de um astronauta um dia antes da decolagem e um incêndio durante os testes de abastecimento do Saturno 5. Por fim, houve a explosão que destruiu peças importantes e impediu o pouso na Lua, colocando em risco a volta dos seus três tripulantes à Terra.
+A saga dos náufragos do espaço que sobreviveram e voltaram para casa reacendeu o interesse pelo projeto Apollo. O mundo todo ficou em suspense. Os problemas da Apollo 13 começaram ainda em Terra. Um dia antes da decolagem, uma suspeita de rubéola tirou da equipe o piloto Ken Mattingly. Às pressas, Jack Swigert foi chamado para o seu lugar e completou a tripulação ao lado de Fred Haise, o outro piloto, e do veterano Jim Lovell, comandante da missão. Mas a dor de cabeça que se mostraria decisiva foi um dos dois tanques de oxigênio da nave. Durante os testes, o gás liquefeito não saía do tanque na quantidade devida. Os técnicos consideraram que a falha não se repetiria no espaço e, em princípio, tinham razão: um ou outro defeito é mera rotina. Do ponto de vista dos técnicos da Nasa, na verdade, tudo corria muito bem. Tanto que, nos primeiros momentos do voo, mandavam mensagens brincalhonas à Apollo, reclamando de tédio. Na noite de 13 de abril, às 21h08 (hora de Houston), o tédio acabou. O tanque de oxigênio explodiu e mandou para o espaço um lado inteiro do módulo de serviço, com cerca de quatro metros de comprimento. O motivo é que, entre os testes e o lançamento, os construtores aumentaram a voltagem do aquecedor elétrico que forçava o oxigênio a sair do reservatório. Com isso, a temperatura passou largamente dos 25,5 °C previstos, chegando a mais de 500 °C, porque o controle automático também pifou, e o oxigênio expandiu-se até explodir o tanque. A 330 000 quilômetros da Terra, as luzes de alarme se acenderam. Foi quando Jack Swigert, e não Lovell, que muitos consideram o autor da frase, disse: “Houston, estamos com um problema aqui”. Num primeiro momento, os astronautas não perceberam a gravidade do caso: no vácuo o som não se propaga e eles ouviram a explosão como se fosse apenas a batida de uma porta. Até que Jim Lovell olhou por uma janela e falou: “Alguma coisa está vazando... É algum tipo de gás”. Era oxigênio. Que não servia apenas para respirar: misturado com hidrogênio, gerava eletricidade. Também gerava água para beber e para a refrigeração
+A decisão era inevitável e frustrante: a missão estava acabada. Restava outra missão, muito mais difícil e inédita: fazer a nave avariada voltar para a Terra e salvar os astronautas. Para os náufragos do espaço, a única chance de sobrevivência era buscar refúgio no “bote salva-vidas”, o módulo lunar. Lovell, Haise e Swigert desligaram os equipamentos e saíram do módulo de comando Odissey. Depois deveriam voltar, pois só o Odissey era reforçado o bastante para agüentar a reentrada na atmosfera terrestre. Por isso, as suas baterias de emergência, suficientes para os momentos finais do regresso, foram poupadas. O módulo lunar da Apollo 13 (conhecido como Aquarius) tinha oxigênio em quantidade suficiente para os três. Mas a energia elétrica e a água haviam sido planejadas para duas pessoas e teriam que ser economizadas. Cortou-se, assim, o suprimento diário de água para menos de um copo por pessoa e a temperatura interna da nave foi reduzida para perto de 4 °C. A falta de oxigênio havia sido reparada, mas a respiração continuava a preocupar: os homens poderiam morrer sufocados pelo próprio gás carbônico que expeliam dos pulmões. O módulo tinha sido planejado para duas pessoas, não três, e os filtros do Aquarius não davam conta do recado. A saída era aproveitar os filtros do módulo Odissey, mas eles precisavam ser adaptados. Isso foi feito com o que se tinha à mão: fitas adesivas, papelão e sacos plásticos, que serviram para confecionar um objeto apelidado de “caixa de correio”: um filtro improvisado.
+Depois disso, começaram a pensar no obstáculo mais difícil: como voltar. Inverter o movimento da nave com a força dos jatos para colocá-la na direção da Terra era inviável. O combustível não era suficiente. A alternativa era colocar a nave numa trajetória de retorno livre. Ou seja: a Apollo daria uma volta na Lua e entraria numa órbita que a levaria à Terra. Houston decidiu que os foguetes do Aquarius seriam usados para a impulsão. Para executar essa manobra, normalmente, os astronautas checam a posição de estrelas. Mas, desde a explosão, a visão das estrelas estava impossibilitada pelos detritos que saíam da nave. Houston sugeriu usar uma estrela que não poderia deixar de ser vista: o Sol. Às três horas do dia 14, Lovell levou a nave à posição certa, descoberta por Haise com o auxílio de filtros para não ser cegado pelo Sol. A Apollo 13 já estava no caminho de volta. Três dias depois caíam no Oceano Pacífico, próximo a ilha de Samoa, a seis quilômetros do porta-aviões americano Iwo Jima. Salvos.
+
+
+== Elenco ==
+Tom Hanks.... Jim Lovell
+Bill Paxton.... Fred Haise
+Kevin Bacon.... John Swigert
+Gary Sinise.... Ken Mattingly
+Ed Harris.... Gene Kranz
+Kathleen Quinlan.... Marilyn Lovell
+Mary Kate Schellhardt .... Barbara Lovell
+Emily Ann Lloyd .... Susan Lovell
+Miko Hughes .... Jeffrey Lovell
+Max Elliott Slade .... Jay Lovell
+Jean Speegle Howard .... Blanch Lovell
+David Andrews .... Pete Conrad
+Michele Little .... Jane Conrad
+Clint Howard... Sy Liebergot
+
+
+== Bilheteria ==
+Apollo 13 foi um mega-sucesso de bilheteria, faturando mais de 355 milhões de dólares em todo o mundo.
+
+
+== Prêmios e indicações ==
+O filme recebeu diversos prêmios e indicações, os principais foram:
+Oscar 1996 (EUA)
+especiais.
+
+Prêmios: melhor edição e melhor som.
+Indicações: melhor filme, melhor ator coadjuvante (Ed Harris), melhor atriz coadjuvante (Kathleen Quinlan), melhor roteiro adaptado, melhor trilha sonora, melhor direção de arte, melhores efeitosGlobo de Ouro 1996 (EUA)
+
+Indicações: melhor filme-drama, melhor diretor, melhor ator coadjuvante (Ed Harris) e melhor Atriz coadjuvante (Kathleen Quinlan).BAFTA 1996 (Reino Unido)
+
+Prêmios: melhores efeitos especiais e melhor direção de arte.Screen Actors Guild Awards 1996 (EUA)
+
+Prêmios: melhor ator coadjuvante (Ed Harris) e melhor elenco (Kevin Bacon, Tom Hanks, Ed Harris, Bill Paxton, Kathleen Quinlan, Gary Sinise)
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Apollo 13 no Adorocinema»12 Years a Slave
+1917 (filme)
+1995 no cinema
+A Forma da Água
+A Lista de Schindler
+AllMovie
+AlloCiné
+American Film Institute
+American Hustle
+Angels & Demons (filme)
+Apollo 11
+Apollo 12
+Apollo 13
+Argo (filme)
+BAFTA
+Backdraft
+Base Virtual Internacional de Autoridade
+Beleza Americana
+Biblioteca Nacional da França
+Bill Paxton
+Birdman or (The Unexpected Virtue of Ignorance)
+Black Panther (filme)
+Box Office Mojo
+Brasil
+Brian Grazer
+CODA (filme de 2021)
+Centro Espacial Kennedy
+Chicago (filme de 2002)
+Cinderella Man
+Cinémathèque Française
+Clint Howard
+Cocoon
+Crash (2004)
+Dances with Wolves
+Desaparecidas
+Diretor de cinema
+Distribuição cinematográfica
+Drama
+Driving Miss Daisy
+EDtv
+Ed Harris
+Estados Unidos
+Everything Everywhere All at Once
+Far and Away
+FilmAffinity
+Forrest Gump
+Fred Haise
+Frost/Nixon
+Gary Sinise
+Gene Kranz
+Gisaengchung
+Gladiador (filme)
+Golden Globe Awards
+Gosford Park
+Grand Theft Auto (filme)
+Gravidade (filme)
+Green Book
+Gung Ho
+Gênero cinematográfico
+Hidden Figures
+Hidrogénio
+Hillbilly Elegy (filme)
+How the Grinch Stole Christmas
+IMDb
+Imagine Entertainment
+Inferno (filme de 2016)
+Inglourious Basterds
+Jack Swigert
+James Lovell
+Jim Lovell
+John Swigert
+Kathleen Quinlan
+Ken Mattingly
+Kevin Bacon
+La La Land (filme)
+Letterboxd
+Little Miss Sunshine
+Lua
+Língua inglesa
+Made in America (2013)
+Metacritic
+Minuto
+Moulin Rouge!
+Moviepilot
+MusicBrainz
+NASA
+Neil Armstrong
+Netflix
+Night Shift (filme)
+No Coração do Mar (filme)
+No Country for Old Men (filme)
+Nomadland
+Número de controle da Biblioteca do Congresso
+O Artista
+O Aviador
+O Código Da Vinci (filme)
+O Discurso do Rei
+O Paciente Inglês (filme)
+O Resgate do Soldado Ryan
+O Segredo de Brokeback Mountain
+O Silêncio dos Inocentes
+Observatório Europeu do Audiovisual
+Os 7 de Chicago
+Oscar 1996
+Ou Tudo ou Nada
+Oxigénio
+Parenthood
+Pete Conrad
+Portugal
+Producers Guild of America de melhor filme
+Produção cinematográfica
+Prémio Screen Actors Guild para melhor elenco em cinema
+Prémios Screen Actors Guild
+Ransom
+Ron Howard
+Roteirista
+Roteiro
+Rotten Tomatoes
+Rush (2013)
+Screen Actors Guild Awards
+Shakespeare in Love
+Sideways
+Slumdog Millionaire
+Splash (filme)
+Spotlight (filme)
+TV.com
+TV Guide
+The Big Short
+The Birdcage
+The Crying Game
+The Dilemma
+The Help (filme)
+The Hurt Locker
+The Lord of the Rings: The Return of the King
+The Movie Database
+The Numbers
+The Paper
+Three Billboards Outside Ebbing, Missouri
+Titanic (filme de 1997)
+Tom Hanks
+Traffic (filme)
+Turner Classic Movies
+Uma Mente Brilhante
+Universal Pictures
+Vácuo
+Willow
+Óscar
+https://www.google.com/search?as_eq=wikipedia&as_epq=Apollo+13+(filme)
+https://www.google.com/search?hl=pt&tbm=nws&q=Apollo+13+(filme)&oq=Apollo+13+(filme)
+http://books.google.com/books?&as_brr=0&as_epq=Apollo+13+(filme)
+https://viaf.org/viaf/175632885/
+https://catalogue.bnf.fr/ark:/12148/cb16976257z
+https://web.archive.org/web/*/http://www.elfilm.com/title/111872/
+https://id.loc.gov/authorities/no2002106536
+https://www.metacritic.com/movie/apollo-13
+https://www.moviemeter.nl/film/481
+https://www.the-numbers.com/movie/Apollo-13
+https://web.archive.org/web/20080201113148/http://www.tv.com/movies/apollo-13/
+https://www.tvguide.com/tvshows/wd/130527
+https://wikidata-externalid-url.toolforge.org/?p=345&url_prefix=https://www.imdb.com/&id=tt0112384
+https://musicbrainz.org/work/ed916745-8613-4bd8-b1f0-ffd2b383ab79
+https://www.rottentomatoes.com/m/apollo_13
+https://catalog.afi.com/Catalog/moviedetails/55718
+https://www.allcinema.net/cinema/1146
+https://www.allmovie.com/movie/v134963
+https://www.allocine.fr/film/fichefilm_gen_cfilm=13211.html
+https://www.boxofficemojo.com/movies/?id=apollo13.htm
+http://cinema.encyclopedie.films.bifi.fr/index.php?pk=46882
+https://www.synchronkartei.de/film/189
+https://www.dfi.dk/viden-om-film/filmdatabasen/film/10798
+https://www.filmaffinity.com/en/film720320.html
+http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=10987
+https://letterboxd.com/film/apollo-13/
+https://www.moviepilot.de/movies/apollo-13
+https://moviewalker.jp/mv10948/
+https://www.netflix.com/title/262866
+https://www.tcm.com/tcmdb/title/67523/wd
+https://www.themoviedb.org/movie/568
+https://lumiere.obs.coe.int/movie/246
+https://www.kinopoisk.ru/film/2217/
+https://wikipedialibrary.wmflabs.org/
+https://scholar.google.com/scholar?hl=pt&q=Apollo+13+(filme)
+https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=1899&view=2-Film%20Title-Alpha
+https://www.ofdb.de/film/1549
+https://www.omdb.org/en/us/movie/568
+https://www.periodicos.capes.gov.br/
+http://www.boxofficemojo.com/movies/?id=apollo13.htm
+http://www.adorocinema.com/filmes/apollo-13/apollo-13.asp
+https://www.worldcat.org/identities/containsVIAFID/175632885
