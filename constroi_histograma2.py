@@ -236,6 +236,3 @@ plt.xlabel("Décadas")
 plt.ylabel("Número de contents")
 plt.title("Soma da quantidade de contents presentes por década")
 plt.show()
-
-# teste 
-# teste do repositório
