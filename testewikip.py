@@ -46,6 +46,24 @@ def counts_number_links(self):
 
 def main():
     wikipedia.set_lang("es")
+
+    nome = "David Copperfield (película de 1935)"
+    result = wikipedia.search(nome)
+
+    if similarity_test(nome.lower(), result[0]) > 0.6:
+        page_link = wikipedia.page(title=nome, auto_suggest=False)
+
+        with open("./ARTIGOS TXT/artigos espanhol/"+nome+".txt", 'w') as file:
+            file.write(page_link.title + '\n')
+            file.write(page_link.content)
+            file.write(f(page_link.links))
+            file.write(f(page_link.references))
+
+            print(counts_number_links(page_link.links))
+            print(counts_number_links(page_link.references))
+
+def main2():
+    wikipedia.set_lang("es")
     with open("nomes filmes espanhol.txt", 'r') as file:
         for line in file:
             vector_data_csv = line.split(';')

@@ -6,6 +6,7 @@ The Broadway Melody;320;18;11436
 In Old Arizona;152;15;4050
 The Hollywood Revue;210;10;7886
 The Patriot (1928 film);91;15;2822
+Alibi (1929 film);37;7;2673
 All Quiet on the Western Front (1930 film);252;39;13736
 The Big House (1930 film);161;13;7716
 Disraeli (1929 film);151;17;6347
@@ -29,36 +30,45 @@ A Farewell to Arms (1932 film);293;29;8841
 42nd Street (film);392;28;10183
 I Am a Fugitive from a Chain Gang;247;38;12604
 Lady for a Day;145;12;10014
+Little Men (1934 film);53;3;3408
 The Private Life of Henry VIII;241;33;10277
 Nanette Newman;84;30;5229
+Smilin' Through (1932 film);167;10;6305
 State Fair (1933 film);150;14;2471
 It Happened One Night;393;87;17177
 The Barretts of Wimpole Street (1934 film);241;18;6844
 Cleopatra (1934 film);184;25;8907
 Flirtation Walk;168;7;4540
 The Gay Divorcee;92;20;7649
+Here Comes the Navy;135;11;2995
+The House of Rothschild;138;8;8315
 Imitation of Life (1934 film);165;30;15058
 One Night of Love;169;15;5257
 The Thin Man;62;10;6931
 Viva Villa!;306;15;6629
+The White Parade;95;4;1573
 Mutiny on the Bounty (1935 film);439;19;15156
 Broadway Melody of 1936;119;12;4606
 Captain Blood (1935 film);294;34;11993
+David Copperfield (1935 film);214;13;7463
 Alice Adams (1935 film);119;7;6308
 The Informer (2019 film);83;33;6775
 Les Misérables;277;55;55958
 The Lives of a Bengal Lancer (film);178;25;14726
 A Midsummer Night's Dream (1935 film);236;28;16459
 Naughty Marietta (film);264;14;6691
+Ruggles of Red Gap;86;20;7215
 Top hat;880;47;19232
 The Great Ziegfeld;407;67;30432
 Anthony Adverse;169;19;11772
 Libeled Lady;147;15;4629
+Dodsworth (film);196;25;9959
 Mr. Deeds Goes to Town;326;22;9854
 Romeo and Juliet (1936 film);393;21;8596
 San Francisco (1936 film);243;16;7296
 The Story of Louis Pasteur;148;10;7256
 A Tale of Two Cities;276;54;39073
+Three Smart Girls;87;9;3350
 The Life of Emile Zola;399;14;12830
 The Awful Truth;197;59;41027
 Captains Courageous (1937 film);117;9;7403
@@ -74,6 +84,7 @@ The Adventures of Robin Hood;534;45;20996
 Alexander's Ragtime Band (film);462;15;5462
 Boys Town (film);150;11;7568
 The Citadel (1938 film);279;25;3817
+Four Daughters;229;12;9385
 La Grande Illusion;314;69;23098
 Jezebel (1938 film);121;23;7230
 Pygmalion (1938 film);183;10;9642
@@ -105,17 +116,23 @@ Here Comes Mr. Jordan;145;33;10127
 Hold Back the Dawn;105;15;6596
 The Little Foxes (film);234;22;12917
 The Maltese Falcon (1941 film);198;51;17667
+One Foot in Heaven;88;19;7600
 Sergeant York (film);129;34;6075
 Suspicion (1941 film);216;28;14461
 Mrs. Miniver;291;52;14253
 49th Parallel (film);163;35;13295
 Kings Row;207;18;17384
+The Magnificent Ambersons;279;25;4984
 The Pride of the Yankees;609;32;14402
+The Pied Piper (1942 film);81;10;4063
 Random Harvest (film);208;22;11168
+Wake Island (film);129;21;9365
 Yankee Doodle Dandy;334;24;14625
 Casablanca;839;206;44809
 For Whom the Bell Tolls;265;42;15196
 Heaven Can Wait (1978 film);361;28;9488
+The Human Comedy (film);125;22;6859
+In Which We Serve;359;31;12742
 The More the Merrier;117;26;10547
 The Ox-Bow Incident;539;28;7539
 Madame Curie (film);158;18;6363
@@ -275,6 +292,7 @@ Chinatown (1974 film);339;108;21720
 The Conversation;339;50;13233
 Lenny (film);148;23;2570
 The Towering Inferno;318;78;16565
+One Flew Over the Cuckoo's Nest (novel);130;27;19792
 Barry Lyndon;391;57;25380
 Dog Day Afternoon;381;99;36595
 Jaws (film);519;320;63535

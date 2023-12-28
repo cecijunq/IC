@@ -14,7 +14,7 @@ filmes_indicados = {} # chave: nome do filme, valor: id (que é o valor de 'i')
 grafo = nx.DiGraph()
 
 def get_indicados():
-    with open("./CSV METADADOS/metadados_es.csv", "r") as file_get_nomes_filmes: 
+    with open("./CSV METADADOS/metadados_es_todos.csv", "r") as file_get_nomes_filmes: 
         next(file_get_nomes_filmes) # pula a linha que contém o cabeçalho do arquivo .csv
         i = 0 # atua como o id do filme na lista
         for line in file_get_nomes_filmes:
@@ -28,7 +28,7 @@ def get_indicados():
 
 def get_vertices():
     # esse arquivo contém os nomes dos filmes e os números de links, references e o tamanho do content de cada filme
-    with open("./CSV METADADOS/metadados_es.csv", "r") as file:
+    with open("./CSV METADADOS/metadados_es_todos.csv", "r") as file:
         next(file) # pula a linha que contém o cabeçalho do arquivo .csv
         for line in file: # percorre cada linha do arquivo
             vector_data_csv = line.split(';')
@@ -95,17 +95,19 @@ def get_vertices():
 
         #diametro = nx.diameter(giant_component)
 
-        #soma_in_degree = 0
-        #for tuple in grafo.in_degree():
-        #    soma_in_degree += tuple[1]
+    soma_in_degree = 0
+    for tuple in grafo.in_degree():
+        soma_in_degree += tuple[1]
 
-        ## calcula o grau médio de saída do grafo
-        #soma_out_degree = 0
-        #for tuple in grafo.out_degree():
-        #    soma_out_degree += tuple[1]
+    #calcula o grau médio de saída do grafo
+    soma_out_degree = 0
+    for tuple in grafo.out_degree():
+        soma_out_degree += tuple[1]
 
-        #media_in_degree = soma_in_degree/grafo.number_of_nodes()
-        #media_out_degree = soma_out_degree/grafo.number_of_nodes()
+    media_in_degree = soma_in_degree/grafo.number_of_nodes()
+    media_out_degree = soma_out_degree/grafo.number_of_nodes()
+    print(media_in_degree)
+    print(media_out_degree)
 
             # calcula o betweenness médio
 #       soma = 0.0
@@ -133,7 +135,7 @@ def get_vertices():
 
 #       to_write.write("Espanhol;442;16845;{};{};{};{};{};{};{};{}\n".format(diametro, media_in_degree, media_out_degree, betw_md, clo_md, densidade, transitividade, pg_rnk))
 
-    nx.write_gexf(grafo, "grafo_es.gexf")
+    nx.write_gexf(grafo, "grafo_en.gexf")
     #print(grafo)
 
 def main():
