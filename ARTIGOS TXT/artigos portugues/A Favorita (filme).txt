@@ -73,6 +73,7 @@ Brasil
 Breaking the Waves
 Brendan Fraser
 British Academy Film Awards
+British Film Institute
 Brittany Snow
 Bryce Dallas Howard
 Caché (filme)
@@ -345,6 +346,7 @@ Topio stin omichli
 Trevante Rhodes
 Triângulo da Tristeza
 Tudo sobre Minha Mãe
+Turner Classic Movies
 Urga
 Victor Garber
 Viggo Mortensen
@@ -394,3 +396,5 @@ https://wikipedialibrary.wmflabs.org/
 https://scholar.google.com/scholar?hl=pt&q=A+Favorita+(filme)
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4858&view=2-Film%20Title-Alpha
 https://www.periodicos.capes.gov.br/
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154657920
+https://www.tcm.com/tcmdb/title/2140769/wd

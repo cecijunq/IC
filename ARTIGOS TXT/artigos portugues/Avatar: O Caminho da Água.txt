@@ -151,6 +151,7 @@ Bill Westenhofer
 Box Office Mojo
 Brian Johnson (efeitos visuais)
 Brian Van't Hul
+British Film Institute
 Bruce Nicholson
 Burt Dalton
 CCH Pounder
@@ -360,6 +361,7 @@ Tim Webber
 Titanic (filme de 1997)
 Tristan Myles
 True Lies
+Turner Classic Movies
 Vin Diesel
 Visual Effects Society
 Volker Engel
@@ -424,3 +426,5 @@ https://www.ofdb.de/film/365677
 https://www.omdb.org/en/us/movie/31510
 https://letterboxd.com/film/avatar-the-way-of-water/
 https://www.periodicos.capes.gov.br/
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/157736848
+https://www.tcm.com/tcmdb/title/2038254/wd

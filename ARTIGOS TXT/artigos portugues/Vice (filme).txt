@@ -177,6 +177,7 @@ The Guardian
 The Hollywood Reporter
 The Movie Database
 The Seattle Times
+Turner Classic Movies
 Tyler Perry
 Vanity Fair (revista)
 Variety
@@ -234,3 +235,4 @@ https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4890&view=2-Film%
 http://cinema.encyclopedie.films.bifi.fr/index.php?pk=141001
 https://www.bbc.co.uk/programmes/m0011p18
 https://www.periodicos.capes.gov.br/
+https://www.tcm.com/tcmdb/title/2140403/wd

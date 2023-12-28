@@ -159,7 +159,6 @@ Diego Luna
 Digital Spy
 Diretor de arte
 Diretor de cinema
-Diretor de fotografia
 Distribuição cinematográfica
 Dominic Monaghan
 Dominic West
@@ -403,6 +402,7 @@ Times Leader
 Tom Hollander
 Toni Collette
 Trevante Rhodes
+Turner Classic Movies
 Twitter
 Universal Studios
 Variety
@@ -546,3 +546,4 @@ https://lumiere.obs.coe.int/movie/83735
 https://www.kinopoisk.ru/film/462305/
 https://www.ofdb.de/film/329194
 https://www.omdb.org/en/us/movie/27582
+https://www.tcm.com/tcmdb/title/2133446/wd

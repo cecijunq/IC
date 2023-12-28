@@ -205,6 +205,7 @@ Brian De Palma
 British Academy of Film and Television Arts
 British Board of Film Classification
 British Broadcasting Corporation
+British Film Institute
 Broadway
 Brooklyn
 Bulgária
@@ -863,3 +864,4 @@ https://www.worldcat.org/issn/0458-3035
 https://www.worldcat.org/issn/0362-4331
 https://www.worldcat.org/issn/0190-8286
 https://www.worldcat.org/issn/0261-3077
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150760603

@@ -64,6 +64,7 @@ Brasil
 Cabo Horn
 Chariots of Fire
 Cinema dos Estados Unidos
+Cinémathèque Française
 Cormorão-das-galápagos
 Crimes and Misdemeanors
 Crítica de cinema
@@ -206,3 +207,5 @@ https://www.omdb.org/en/us/movie/8619
 https://www.periodicos.capes.gov.br/
 https://cinecartaz.publico.pt/filme/94278
 http://www.metacritic.com/movie/master-and-commander-the-far-side-of-the-world
+https://www.adorocinema.com/filmes/filme-28538
+http://cinema.encyclopedie.films.bifi.fr/index.php?pk=88453

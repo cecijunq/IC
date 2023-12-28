@@ -32,6 +32,7 @@ Box Office Mojo
 Bradley Cooper
 Brasil
 Brian Hallisay
+British Film Institute
 Califórnia
 Chris Kyle
 Chris Pratt
@@ -157,3 +158,4 @@ https://cinecartaz.publico.pt/filme/sniper-americano-342913
 https://www.boxofficemojo.com/title/tt2179136/
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4511&view=2-Film%20Title-Alpha
 https://www.ofdb.de/film/270859
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154361805

@@ -18,7 +18,7 @@ Skippy
 Trader Horn
 Grande Hotel (filme)
 Arrowsmith (filme)
-
+Bad Girl (filme)
 O Campeão (filme de 1931)
 Five Star Final
 Uma Hora Contigo
@@ -29,9 +29,8 @@ A Farewell to Arms (1932)
 Rua 42
 I Am a Fugitive from a Chain Gang
 Lady for a Day
-
 The Private Life of Henry VIII
-
+Uma Loira para Três
 Smilin' Through
 State Fair (1933)
 It Happened One Night
@@ -49,7 +48,7 @@ The White Parade
 Mutiny on the Bounty (1935)
 Broadway Melody of 1936
 O Capitão Blood
-
+David Copperfield (1935)
 Alice Adams
 The Informer
 Les Misérables (1935)
@@ -66,7 +65,7 @@ Mr. Deeds Goes to Town
 Romeo and Juliet (1936)
 San Francisco (filme)
 The Story of Louis Pasteur
-
+A Tale of Two Cities (1935)
 Three Smart Girls
 The Life of Emile Zola
 The Awful Truth
@@ -80,6 +79,7 @@ Stage Door
 A Star Is Born (1937)
 You Can't Take It with You
 The Adventures of Robin Hood
+Alexander's Ragtime Band
 Boys Town (filme)
 The Citadel (filme)
 Four Daughters
@@ -120,14 +120,14 @@ Suspeita
 Mrs. Miniver
 49th Parallel
 Em Cada Coração um Pecado
-
+The Magnificent Ambersons (1942)
 The Pride of the Yankees
 The Pied Piper
 Random Harvest
 Wake Island
 Yankee Doodle Dandy
-Casablanca
-Por Quem os Sinos Dobram
+Casablanca (filme)
+Por Quem os Sinos Dobram (filme)
 Heaven Can Wait (1943)
 A Comédia Humana (1943)
 In Which We Serve
@@ -249,7 +249,7 @@ A Man for All Seasons
 Alfie
 The Russians Are Coming, the Russians Are Coming
 The Sand Pebbles
-Who's Afraid of Virginia Woolf? (peça)
+Quem Tem Medo de Virginia Woolf?
 No Calor da Noite (filme)
 Bonnie and Clyde
 Doctor Dolittle (1967)
@@ -290,7 +290,7 @@ Chinatown (filme)
 The Conversation
 Lenny (filme)
 The Towering Inferno
-
+One Flew Over the Cuckoo's Nest
 Barry Lyndon
 Um Dia de Cão
 Tubarão (filme)
@@ -341,7 +341,7 @@ Passagem para a Índia (filme)
 Um Lugar no Coração
 A Soldier's Story
 Out of Africa
-A Cor Púrpura (filme)
+A Cor Púrpura (filme de 1985)
 O Beijo da Mulher Aranha
 Prizzi's Honor
 A Testemunha
@@ -384,7 +384,7 @@ A Lista de Schindler
 O Fugitivo (1993)
 The Remains of the Day (filme)
 O Piano
-
+Em Nome do Pai
 Forrest Gump
 Quatro Casamentos e Um Funeral
 Pulp Fiction
@@ -485,7 +485,7 @@ The Help (filme)
 Hugo (filme)
 Meia-Noite em Paris
 Moneyball
-A árvore da Vida (2011)
+A Árvore da Vida (2011)
 Cavalo de Guerra
 Os Miseráveis (2012)
 Argo (filme)
@@ -530,7 +530,7 @@ Hidden Figures
 La La Land (filme)
 Lion (filme)
 Manchester by the Sea
-A Forma da água
+A Forma da Água
 Call Me by Your Name
 Darkest Hour (filme)
 Dunkirk (filme)
@@ -567,7 +567,7 @@ Os 7 de Chicago
 CODA (filme de 2021)
 Belfast (filme)
 Don't Look Up
-Doraibu mai ka
+Doraibu mai kā
 Duna (2021)
 King Richard
 Licorice Pizza
@@ -576,7 +576,7 @@ The Power of the Dog
 West Side Story (2021)
 Everything Everywhere All at Once
 Im Westen nichts Neues (filme)
-Avatar: O Caminho da água
+Avatar: O Caminho da Água
 The Banshees of Inisherin
 Elvis (filme de 2022)
 Os Fabelmans

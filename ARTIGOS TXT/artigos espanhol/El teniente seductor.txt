@@ -69,3 +69,4 @@ https://www.allmovie.com/movie/v110694
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=1035&view=2-Film%20Title-Alpha
 https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%22Q1199446%22
 https://www.allocine.fr/film/fichefilm_gen_cfilm=13877.html
+https://commons.wikimedia.org/wiki/Category:The_Smiling_Lieutenant

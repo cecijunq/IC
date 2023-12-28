@@ -33,6 +33,7 @@ Borat Subsequent Moviefilm
 Box Office Mojo
 Brasil
 Breaking Away
+British Film Institute
 Cabaret (filme)
 Carmen Jones (filme)
 Carícias de Luxo
@@ -129,7 +130,7 @@ Scott Rudin
 Scott Rudin Productions
 Shakespeare in Love
 Sideways
-Snow White (2024)
+Snow White (2025)
 Sonho de Amor (filme)
 Stephanie Zacharek
 Stephen Henderson
@@ -153,6 +154,7 @@ Tom Jones (1963)
 Tootsie
 Toy Story 2
 Tracy Letts
+Turner Classic Movies
 Vicky Cristina Barcelona
 Walk the Line
 West Side Story (1961)
@@ -192,3 +194,5 @@ https://lumiere.obs.coe.int/movie/75180
 https://www.kinopoisk.ru/film/958293/
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4814&view=2-Film%20Title-Alpha
 https://www.ofdb.de/film/301643
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154603909
+https://www.tcm.com/tcmdb/title/2134439/wd

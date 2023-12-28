@@ -112,6 +112,7 @@ Brendan Fletcher
 Brett Ratner
 British Academy Film Awards
 British Academy of Film and Television Arts
+British Film Institute
 Bryce Dessner
 Burnaby
 Butch Cassidy and the Sundance Kid
@@ -142,6 +143,7 @@ Estados Unidos
 Figurino
 FilmAffinity
 Filme de drama
+Forrest Goodluck
 Gandhi (filme)
 Gervaise
 Gladiador (filme)
@@ -332,3 +334,4 @@ https://www.ofdb.de/film/281463
 https://www.omdb.org/en/us/movie/58106
 https://www.periodicos.capes.gov.br/
 https://www.worldcat.org/identities/containsVIAFID/226720826
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154461931

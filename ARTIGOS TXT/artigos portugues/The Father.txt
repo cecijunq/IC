@@ -38,6 +38,7 @@ Blu-ray
 Brasil
 California Filmes
 Christopher Hampton
+Cinémathèque Française
 David Parfitt
 Demência
 Diretor de cinema
@@ -128,3 +129,4 @@ http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=95000
 https://www.imdb.com/title/tt10272386/
 https://www.dfi.dk/viden-om-film/filmdatabasen/film/117753
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=5064&view=2-Film%20Title-Alpha
+http://cinema.encyclopedie.films.bifi.fr/index.php?pk=149862

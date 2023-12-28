@@ -57,6 +57,7 @@ Base Virtual Internacional de Autoridade
 Box Office Mojo
 Brasil
 British Academy Film Awards
+British Film Institute
 Bélgica
 Carmen (filme de 1983)
 Catálogo de autoridades de nomes e títulos da Catalunha
@@ -181,3 +182,4 @@ https://www.cineplayers.com/filmes/o-carteiro-e-o-poeta
 https://cinecartaz.publico.pt/Filme/28533_o-carteiro-de-pablo-neruda
 https://www.cineplayers.com/premiacoes/oscar/68
 https://www.worldcat.org/identities/containsVIAFID/316751829
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150403883

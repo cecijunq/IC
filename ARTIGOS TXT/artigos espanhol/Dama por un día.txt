@@ -18,6 +18,7 @@ Ned Sparks ..... Happy McGuire
 Jean Parker ..... Louise
 Barry Norton ..... Carlos
 Walter Connolly ..... Conde Romero
+Halliwell Hobbes ..... Butler
 
 
 == Producción ==
@@ -42,6 +43,7 @@ Año
 Banda sonora
 Barry Norton
 Bette Davis
+British Film Institute
 Carole Lombard
 Columbia Pictures
 Comedia cinematográfica
@@ -63,6 +65,7 @@ Glenn Ford
 Guionista
 Guy Kibbee
 Género cinematográfico
+Halliwell Hobbes
 Harry Cohn
 Hobart Bosworth
 Idioma
@@ -111,3 +114,4 @@ https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=1052&view=2-Film%
 https://www.allocine.fr/film/fichefilm_gen_cfilm=6859.html
 https://www.worldcat.org/identities/lccn-no2016-087749
 https://creativecommons.org/licenses/by-sa/4.0/deed.es
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150031615

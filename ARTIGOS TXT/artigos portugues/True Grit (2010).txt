@@ -73,6 +73,7 @@ Barton Fink
 Blood Simple
 Box Office Mojo
 Brasil
+British Film Institute
 Burn After Reading
 Carter Burwell
 Cinema Western
@@ -85,6 +86,7 @@ Diretor de cinema
 Distribuição cinematográfica
 Down from the Mountain
 Drama
+DreamWorks Pictures
 Dólar dos Estados Unidos
 Elizabeth Marvel
 Encyclopædia Britannica
@@ -205,3 +207,5 @@ https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4426&view=2-Film%
 https://www.ofdb.de/film/202998
 https://www.omdb.org/en/us/movie/21788
 https://www.worldcat.org/identities/lccn-no2011-020454
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150771397
+https://www.adorocinema.com/filmes/filme-145213

@@ -69,6 +69,7 @@ Box Office Mojo
 Brasil
 Breaking the Waves
 Brief Encounter
+British Film Institute
 CBS Interactive
 Charlie Wachtel
 Ciao maschio
@@ -224,6 +225,7 @@ To vlemma tou Odyssea
 Topher Grace
 Torment
 Trop belle pour toi
+Turner Classic Movies
 Twitter
 Two Cents Worth of Hope
 Tão Longe, Tão Perto
@@ -263,7 +265,6 @@ https://www.boxofficemojo.com/movies/?id=blackkklansman.htm
 https://www.hollywoodreporter.com/news/box-office-preview-big-budget-meg-heads-tepid-20m-us-debut-1133093
 https://deadline.com/2018/08/the-meg-chomps-a-huge-4m-on-thursday-night-box-office-1202443644/
 https://deadline.com/2018/08/august-audiences-get-hooked-on-meg-shelling-out-44m-45m-early-sunday-am-box-office-1202444210/
-https://mag.sapo.pt/cinema/filmes/blackkklansman-o-infiltrado-2
 https://www.roanoke.com/opinion/editorials/editorial-why-the-movie-blackkklansman-matters/article_d3389e35-06ee-5264-b5d7-e7269b2a640d.html
 https://deadline.com/2018/08/crazy-rich-asians-wednesday-opening-box-office-1202446094/
 https://deadline.com/2018/08/melissa-mccarthy-happytime-murders-crazy-rich-asians-meg-weekend-box-office-1202451694/
@@ -287,7 +288,6 @@ http://www.pressacademy.com/2018-nominees/
 https://deadline.com/2018/12/sag-awards-nominations-full-list-sag-award-nominees-1202518339/
 https://variety.com/2018/film/in-contention/afi-awards-black-panther-a-quiet-place-atlanta-1203079735/
 https://cineplayers.com/filmes/infiltrado-na-klan
-https://cinecartaz.publico.pt/Filme/389182_blackkklansman-o-infiltrado
 https://catalog.afi.com/Film/70981-BLACKKKLANSMAN
 https://oscars.org/oscars/ceremonies/2019
 https://www.goldenglobes.com/winners-nominees/2019/all
@@ -310,3 +310,8 @@ http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=91290
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4848&view=2-Film%20Title-Alpha
 http://cinema.encyclopedie.films.bifi.fr/index.php?pk=139239
 https://www.ofdb.de/film/311015
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154627253
+https://www.tcm.com/tcmdb/title/2159143/wd
+https://mag.sapo.pt/filmes/blackkklansman-o-infiltrado-2
+https://cinecartaz.publico.pt/filme/blackkklansman-o-infiltrado-389182
+https://www.boxofficemojo.com/title/tt7349662/

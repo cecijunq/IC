@@ -241,6 +241,7 @@ Brasil
 British Academy Film Awards
 British Academy of Film and Television Arts
 British Board of Film Classification
+British Film Institute
 C-4
 Cabine de pilotagem
 Cabo (militar)
@@ -617,6 +618,7 @@ Trauma psicológico
 Trem de pouso
 Trilha sonora
 Tríptico
+Turner Classic Movies
 Twitter
 Under the Skin (filme)
 Universal Studios
@@ -991,3 +993,5 @@ https://www.worldcat.org/issn/0028-792X
 https://www.worldcat.org/issn/1091-2339
 https://www.worldcat.org/issn/1170-0777
 https://www.worldcat.org/identities/containsVIAFID/2110151002102630280009
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154597669
+https://www.tcm.com/tcmdb/title/2115417/wd

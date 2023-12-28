@@ -52,6 +52,7 @@ Daniel Day-Lewis
 David Willis
 Dillon Freasier
 Diretor de cinema
+Distribuição cinematográfica
 Drama (cinema)
 Dylan Tichenor
 Embriagado de Amor
@@ -79,7 +80,6 @@ Mary Elizabeth Barrett
 Metacritic
 Minuto
 Moviepilot
-Netflix
 Nova Iorque
 Observatório Europeu do Audiovisual
 Oscar 2008
@@ -91,6 +91,7 @@ Oscar de melhor filme
 Oscar de melhor fotografia
 Oscar de melhor montagem
 Oscar de melhor roteiro adaptado
+Paramount Vantage
 Paul Dano
 Paul Thomas Anderson
 Petróleo!
@@ -136,7 +137,6 @@ https://www.tcm.com/tcmdb/title/649228/wd
 https://web.archive.org/web/20080201113148/http://www.tv.com/movies/there-will-be-blood/
 https://www.allocine.fr/film/fichefilm_gen_cfilm=109788.html
 https://www.adorocinema.com/filmes/filme-109788
-https://www.netflix.com/title/70075473
 https://www.allcinema.net/cinema/329715
 https://letterboxd.com/film/there-will-be-blood/
 https://www.themoviedb.org/movie/7345
@@ -150,14 +150,6 @@ https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4332&view=2-Film%
 https://www.ofdb.de/film/130354
 https://www.omdb.org/en/us/movie/7345
 http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150734170
-https://catalog.afi.com/Film/55177-THERE-WILLBEBLOOD
-http://web.archive.org/web/20200219190316/https://catalog.afi.com/Film/55177-THERE-WILLBEBLOOD
-https://mag.sapo.pt/filmes/havera-sangue
-https://cinecartaz.publico.pt/filme/havera-sangue-191770
-http://www.adorocinema.com/filmes/filme-109788/
-https://www.boxofficemojo.com/title/tt0469494/
-https://web.archive.org/web/20211201170130/https://www.boxofficemojo.com/title/tt0469494/
-https://cineplayers.com/filmes/sangue-negro
 http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/film/article2922563.ece
 http://www.nytimes.com/2007/11/11/magazine/11daylewis-t2.html?_r=2&adxnnl=1&oref=slogin&adxnnlx=1197697066-ZGxe5I9RiTtwkgTydXd2Dg&oref=slogin
 http://www.avclub.com/articles/paul-thomas-anderson,2120
@@ -187,3 +179,11 @@ http://www.emanuellevy.com/oscar/oscar-2007-writers-guild-calls-off-its-awards-s
 http://www.enotes.com/topic/Producers_Guild_of_America_Award_for_Best_Theatrical_Motion_Picture
 http://www.theasc.com/news/awards/awards_history.php
 https://web.archive.org/web/20101229223539/http://www.theasc.com/news/awards/awards_history.php
+https://catalog.afi.com/Film/55177-THERE-WILLBEBLOOD
+http://web.archive.org/web/20200219190316/https://catalog.afi.com/Film/55177-THERE-WILLBEBLOOD
+https://mag.sapo.pt/filmes/havera-sangue
+https://cinecartaz.publico.pt/filme/havera-sangue-191770
+http://www.adorocinema.com/filmes/filme-109788/
+https://www.boxofficemojo.com/title/tt0469494/
+https://web.archive.org/web/20211201170130/https://www.boxofficemojo.com/title/tt0469494/
+https://cineplayers.com/filmes/sangue-negro

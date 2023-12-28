@@ -96,6 +96,7 @@ Brad Pitt
 Brasil
 Brian Sacca
 Bringing Out the Dead
+British Film Institute
 Business Insider
 Cape Fear (1991)
 Casino (filme)
@@ -233,6 +234,7 @@ Reelz
 Ridley Scott
 Rizwan Manji
 Rob Reiner
+Robbie Robertson
 Robert Clohessy
 Rodrigo Antas
 Rodrigo Prieto
@@ -383,3 +385,4 @@ https://eiga.com/movie/78790
 https://www.ofdb.de/film/250255
 https://www.omdb.org/en/us/movie/35216
 https://www.worldcat.org/identities/containsVIAFID/307475636
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154104832

@@ -1,5 +1,5 @@
 A Rede Social
-The Social Network (bra/prt: A Rede Social) é um filme estadunidense de 2010, do gênero drama biográfico, dirigido por David Fincher, com roteiro de Aaron Sorkin e Ben Mezrich, baseado no livro de não ficção The Accidental Billionaires, escrito pelo próprio Mezrich. Este livro conta a história da origem da rede social Facebook, entre parcerias e processos judiciais que marcaram a empresa durante a sua ascensão, que levou o criador Mark Zuckerberg (protagonista biografado no filme) a ser o bilionário mais jovem do mundo até então. Embora nenhum funcionário da empresa tenha se envolvido na produção, o brasileiro Eduardo Saverin, ex-diretor de finanças da instituição, foi um consultor para o livro que inspirou o drama.O filme apareceu em 78 listas de melhores filmes do ano, 22 delas como número um. E recebeu oito indicações ao Oscar.
+The Social Network (bra/prt: A Rede Social) é um filme estadunidense de 2010, do gênero drama biográfico, dirigido por David Fincher, com roteiro de Aaron Sorkin e Ben Mezrich, baseado no livro de não ficção The Accidental Billionaires, escrito pelo próprio Mezrich. Este livro conta a história da origem da rede social Facebook, entre parcerias e processos judiciais que marcaram a empresa durante a sua ascensão, que levou o criador Mark Zuckerberg (protagonista biografado no filme) a ser o bilionário mais jovem do mundo até então. Embora nenhum funcionário da empresa tenha se envolvido na produção, o brasileiro Eduardo Saverin, ex-diretor de finanças da instituição, foi um consultor para o livro que inspirou o drama.O filme apareceu em 78 listas de melhores filmes do ano, 22 delas como número um. Recebeu oito indicações ao Oscar.
 
 
 == Enredo ==
@@ -117,6 +117,7 @@ Brasileiros
 Brassed Off
 Breaking the Waves
 Brenda Song
+British Film Institute
 C'eravamo tanto amati
 Califórnia
 Cambridge (Massachusetts)
@@ -424,3 +425,4 @@ https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4418&view=2-Film%
 https://www.ofdb.de/film/198935
 https://www.omdb.org/en/us/movie/18079
 https://www.worldcat.org/identities/containsVIAFID/253289157
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150772493

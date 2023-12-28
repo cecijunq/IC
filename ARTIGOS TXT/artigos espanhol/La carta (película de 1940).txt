@@ -92,6 +92,7 @@ Productor de cine
 Rebecca (película)
 Santa Fe Opera
 The letter (película de 1929)
+Tony Gaudio
 Vestuario
 Victor Sen Yung
 W. Somerset Maugham
@@ -115,7 +116,6 @@ http://www.youtube.com/watch?v=N73q-5QlJac
 https://www.imdb.com/title/tt0032701/fullcredits
 https://www.imdb.com/title/tt0032701/
 https://www.filmaffinity.com/es/film615353.html
-https://commons.wikimedia.org/wiki/Category:The_Letter
 https://www.britannica.com/topic/The-Letter-film-by-Wyler
 https://id.loc.gov/authorities/no2012103237
 https://wikidata-externalid-url.toolforge.org/?p=345&url_prefix=https://www.imdb.com/&id=tt0032701
@@ -126,3 +126,4 @@ https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%22Q116
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=1324&view=2-Film%20Title-Alpha
 https://www.allocine.fr/film/fichefilm_gen_cfilm=1318.html
 https://www.worldcat.org/identities/lccn-no2012-103237
+https://commons.wikimedia.org/wiki/Category:The_Letter_(1940_film)
