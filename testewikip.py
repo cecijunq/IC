@@ -45,7 +45,7 @@ def counts_number_links(self):
     return n
 
 def main():
-    wikipedia.set_lang("en")
+    wikipedia.set_lang("es")
 
     with open("nomes filmes pt.txt", "r") as file:
         for line in file:
@@ -59,7 +59,7 @@ def main():
             if similarity_test(nome.lower(), result[0]) > 0.6:
                 page_link = wikipedia.page(title=result[0], auto_suggest=False)
 
-                with open("./ARTIGOS TXT/artigos inglês/"+nome+".txt", 'w') as file:
+                with open("./ARTIGOS TXT/artigos espanhol/"+nome+".txt", 'w') as file:
                     file.write(page_link.title + '\n')
                     file.write(page_link.content)
                     file.write(f(page_link.links))
@@ -67,6 +67,12 @@ def main():
 
                     print(counts_number_links(page_link.links))
                     print(counts_number_links(page_link.references))
+
+                with open("./CSV METADADOS/metadados_es.csv", 'a') as file2:
+                    links = counts_number_links(page_link.links)
+                    references = counts_number_links(page_link.references)
+                    tamanho_content = len(page_link.content)
+                    file2.write("{};{};{};{}\n".format(page_link.title,links,references,tamanho_content))
 
 def main2():
     wikipedia.set_lang("es")
