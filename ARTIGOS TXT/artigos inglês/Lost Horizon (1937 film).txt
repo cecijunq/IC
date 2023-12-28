@@ -1,5 +1,5 @@
 Lost Horizon (1937 film)
-Lost Horizon is a 1937 American adventure drama fantasy film directed by Frank Capra. The screenplay by Robert Riskin is based on the 1933 novel of the same name by James Hilton.
+Lost Horizon (re-released in 1942 as The Lost Horizon of Shangri-La) is a 1937 American adventure drama fantasy film directed by Frank Capra. The screenplay by Robert Riskin is based on the 1933 novel of the same name by James Hilton.
 The film exceeded its original budget by more than $776,000 and took five years to earn back its cost. The serious financial crisis it created for Columbia Pictures damaged the partnership between Capra and studio head Harry Cohn, as well as the friendship between Capra and Riskin.In 2016, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being "culturally, historically, or aesthetically significant".
 
 
@@ -23,7 +23,7 @@ Frank Capra had read the James Hilton novel while filming It Happened One Night,
 
 
 == Reception ==
-Frank S. Nugent of The New York Times called it, "a grand adventure film, magnificently staged, beautifully photographed, and capitally played." He continued,
+When the movie premiered at the Radio City Music Hall, Frank S. Nugent of The New York Times called it, "a grand adventure film, magnificently staged, beautifully photographed, and capitally played." He continued,
 
 [T]here is no denying the opulence of the production, the impressiveness of the sets, the richness of the costuming, the satisfying attention to large and small detail which makes Hollywood at its best such a generous entertainer. We can deride the screen in its lesser moods, but when the West Coast impresarios decide to shoot the works the resulting pyrotechnics bathe us in a warm and cheerful glow. ... The penultimate scenes are as vivid, swift, and brilliantly achieved as the first. Only the conclusion itself is somehow disappointing. But perhaps that is inescapable, for there can be no truly satisfying end to any fantasy. ... Mr. Capra was guilty of a few directorial clichés, but otherwise it was a perfect job. Unquestionably the picture has the best photography and sets of the year. By all means it is worth seeing.
 Nugent later named it one of the 10 best films of the year.The Hollywood Reporter called it "an artistic tour de force ... in all ways, a triumph for Frank Capra." Variety called it a "sterling" adaptation of Hilton's novel that "can take its place with the best prestige pictures of the industry." The Film Daily declared it an "Impressive and artistic drama" and "distinctly a worthwhile contribution to the industry."Less enthusiastic was Otis Ferguson, who in his review for National Board of Review Magazine observed, "This film was made with obvious care and expense, but it will be notable in the future only as the first wrong step in a career that till now has been a denial of the very tendencies in pictures which this film represents." John Mosher of The New Yorker praised the "beautiful flying scenes" and the "wild and terrifying bits of struggle on mountain peaks and crags", but found the adaptation in general to be "somewhat longish and wearisome on the screen. I thought the old lama would go on talking forever." Joseph McBride in a later biography notes that Capra's emphasis on theme rather than people was evident in the film; he also considered the film a financial "debacle".
@@ -63,7 +63,7 @@ September 1937 general release version: 118 minutes
 1952 television version: 92 minutes — the only version in circulation for several decades.
 1986 photochemical restoration: 132 minutes — 125 minutes of footage synchronised to complete premiere version soundtrack; film freeze frames and on-set publicity photos fill in the blank sections.
 1998 digital restoration: 132 minutes — further work was carried out on the 1986 restoration.
-2016 all-new 4K digital restoration: 132 minutes – 126 minutes of footage synchronised to premiere soundtrack, after an extra minute of missing film was discovered.All three restorations have been released or licensed numerous times worldwide on home video by Sony and their predecessors Columbia Pictures. The 1986 restoration was released on VHS and LaserDisc, while the 1998 restoration was issued on DVD. The 2016 restoration has been released as a digital download and on Blu-ray in various territories, including Australia, the United States and much of Europe.
+2016 all-new 4K digital restoration: 132 minutes – 126 minutes of footage synchronised to premiere soundtrack, after an extra minute of missing film was discovered.All three restorations have been released or licensed numerous times worldwide on home video by Sony and its predecessor, Columbia Pictures. The 1986 restoration was released on VHS and LaserDisc, while the 1998 restoration was issued on DVD. The 2016 restoration has been released as a digital download and on Blu-ray in various territories, including Australia, the United States and much of Europe.
 
 
 == In popular culture ==
@@ -86,7 +86,7 @@ List of incomplete or partially lost films
 
 == External links ==
 
-Lost Horizon at IMDb
+Lost Horizon at IMDb 
 Lost Horizon at the TCM Movie Database
 Lost Horizon at AllMovie
 Lost Horizon at the American Film Institute Catalog
@@ -188,7 +188,7 @@ Harry E. Huffman
 Hemo the Magnificent
 Henry B. Walthall
 Herbert Marshall
-Here Comes the Groom
+Here Comes the Groom (1951 film)
 Here Is Germany
 Himalayas
 Hugh Buckler
@@ -224,6 +224,7 @@ List of Mad Men characters
 List of films cut over the director's opposition
 List of incomplete or partially lost films
 Liv Ullmann
+Living Together, Growing Together
 Long Pants
 Lost Horizon
 Lost Horizon (1973 film)
@@ -263,6 +264,7 @@ Peter Finch
 Platinum Blonde (film)
 Pocketful of Miracles
 Prelude to War
+Radio City Music Hall
 Rage in Heaven
 Rain or Shine (film)
 Random Harvest
@@ -398,3 +400,4 @@ https://www.tcm.com/tcmdb/title/3770/enwp
 https://www.worldcat.org/issn/0042-2738
 https://id.loc.gov/authorities/n85386049
 http://fireandwaterpodcast.com/podcast/film-water-90-lost-horizon-1937/
+https://www.wikidata.org/wiki/Q1619885#P345

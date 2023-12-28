@@ -1,408 +1,164 @@
-High Noon
-Ivanhoe (película de 1952)
-The Quiet Man
-Moulin Rouge (película de 1952)
-De aquí a la eternidad
-The Robe
-Roman Holiday
-Shane
-Julio César (película de 1953)
-On the Waterfront
-El motín del Caine
-La angustia de vivir
-Siete novias para siete hermanos
-Three Coins in the Fountain (película)
-Marty
-Love Is a Many-Splendored Thing
-Mister Roberts
-Picnic (película)
-La rosa tatuada (película)
-La vuelta al mundo en ochenta días (película de 1956)
-Friendly Persuasion
-El rey y yo (película de 1956)
-Gigante (película de 1956)
-Los diez mandamientos (película de 1956)
-El puente sobre el río Kwai
-Peyton Place (película de 1957)
-Sayonara (película)
-12 Angry Men (película de 1957)
-Testigo de cargo (película)
-Gigi
-Auntie Mame
-Cat on a Hot Tin Roof (película)
-Fugitivos (película de 1958)
-Mesas separadas
-Ben-Hur (película de 1959)
-Anatomía de un asesinato
-El diario de Ana Frank (película)
-Historia de una monja (película)
-Un lugar en la cumbre (película)
-The Apartment
-El Álamo (película de 1960)
-Elmer Gantry
-Hijos y amantes (película)
-Tres vidas errantes
-West Side Story (película de 1961)
-Fanny (película de 1961)
-Los cañones de Navarone
-The Hustler
-Judgment at Nuremberg
-Lawrence de Arabia (película)
-El día más largo (película)
-Vivir de ilusión
-Mutiny on the Bounty (película de 1962)
-To Kill a Mockingbird (película)
-Tom Jones (película)
-América, América (película)
-Cleopatra (película de 1963)
-La conquista del Oeste
-Los lirios del valle
-My Fair Lady (película de 1964)
-Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-Becket (película)
-Mary Poppins (película)
-Zorba, el griego (película)
-The Sound of Music
-Doctor Zhivago (película)
-Ship of Fools (película de 1965)
-Darling (película)
-El payaso de la ciudad
-A Man for All Seasons
-Alfie (película de 1966)
-¡Que vienen los rusos!
-The Sand Pebbles
-Who's Afraid of Virginia Woolf?
-In the Heat of the Night
-Bonnie y Clyde (película)
-Doctor Dolittle (película de 1967)
-El graduado
-Guess Who's Coming to Dinner
-Oliver (película)
-Funny Girl
-El león en invierno (película)
-Raquel, Raquel
-Romeo y Julieta (película de 1968)
-Midnight Cowboy
-Ana de los mil días
-Butch Cassidy and the Sundance Kid
-Hello, Dolly! (película)
-Z (película)
-Patton (película)
-Aeropuerto (película)
-MASH (película)
-Mi vida es mi vida
-Love Story (película)
-The French Connection
-La naranja mecánica (película)
-El violinista en el tejado (película)
-La última película
-Nicolás y Alejandra
-El padrino (película)
-Cabaret (película)
-Deliverance (película)
-Los emigrantes
-Sounder (película de 1972)
-El golpe (película de 1973)
-American Graffiti
-Gritos y susurros
-El exorcista (película)
-Un toque de distinción
-El padrino II
-Chinatown (película)
-La conversación
-Lenny (película)
-The Towering Inferno
-One Flew Over the Cuckoo's Nest
-Barry Lyndon
-Tarde de perros
-Tiburón (película)
-Nashville (película)
-Rocky (película)
-Todos los hombres del presidente
-Esta tierra es mi tierra (película)
-Network
-Taxi Driver
-Annie Hall
-La chica del adiós
-Julia (película de 1977)
-Star Wars: Episodio IV - Una nueva esperanza
-The Turning Point
-The Deer Hunter
-Coming Home (película)
-El cielo puede esperar (película)
-Midnight Express
-Una mujer descasada
-Kramer vs. Kramer
-All That Jazz (película)
-Apocalypse Now
-Breaking Away
-Norma Rae
-Ordinary People
-Coal Miner's Daughter
-El hombre elefante (película)
-Toro salvaje
-Tess (película de 1979)
-Chariots of Fire
-Atlantic City (película de 1980)
-On Golden Pond
-Raiders of the Lost Ark
-Reds
-Gandhi (película)
-E.T., el extraterrestre
-Desaparecido (película)
-Tootsie
-The Verdict
-La fuerza del cariño
-Reencuentro (película)
-The Dresser
-The Right Stuff
-Tender Mercies
-Amadeus
-The Killing Fields
-Pasaje a la India
-En un lugar del corazón
-Historia de un soldado (película de 1984)
-Out of Africa
-El color púrpura
-El beso de la mujer araña (película)
-El honor de los Prizzi
-Witness (película)
-Platoon
-Children of a Lesser God
-Hannah y sus hermanas
-La misión
-A Room with a View (película de 1985)
-El último emperador
-Broadcast News
-Atracción fatal
-Hope and Glory
-Hechizo de luna
-Rain Man
-The Accidental Tourist
-Dangerous Liaisons
-Mississippi Burning
-Working Girl
-Driving Miss Daisy
-Nacido el cuatro de julio
-Dead Poets Society
-Field of Dreams
-Mi pie izquierdo
-Dances with Wolves
-Despertares
-Ghost (película de 1990)
-El padrino III
-Goodfellas
-The Silence of the Lambs (película)
-La bella y la bestia (película de 1991)
-Bugsy (película de 1991)
-JFK (película)
-El príncipe de las mareas
-Unforgiven (película)
-The Crying Game
-A Few Good Men
-Howards End
-Scent of a Woman
-La lista de Schindler
-El fugitivo (película de 1993)
-Lo que queda del día (película)
-The Piano
-En el nombre del padre (película de 1993)
-Forrest Gump (película)
-Cuatro bodas y un funeral
-Pulp Fiction
-Quiz Show: El dilema
-The Shawshank Redemption
-Braveheart
-Apolo 13 (película)
-Babe
-Il Postino
-Sense and Sensibility (película)
-El paciente inglés
-Fargo (película)
-Jerry Maguire
-Secretos y mentiras
-Shine (película)
-Titanic (película de 1997)
-Mejor... imposible
-The Full Monty
-Good Will Hunting
-L.A. Confidential
-Shakespeare in Love
-Elizabeth (película)
-La vida es bella
-Saving Private Ryan
-La delgada línea roja (película de 1998)
-American Beauty
-The Cider House Rules
-The Green Mile
-The Insider
-The Sixth Sense
-Gladiator
-Chocolat (película de 2000)
-Wò hǔ cáng lóng
-Erin Brockovich (película)
-Traffic (película de 2000)
-A Beautiful Mind
-Gosford Park
-In the Bedroom (película)
-El Señor de los Anillos: la Comunidad del Anillo
-Moulin Rouge!
-Chicago (película de 2002)
-Gangs of New York
-Las horas
-El Señor de los Anillos: las dos torres
-El pianista
-El Señor de los Anillos: el retorno del Rey
-Lost in Translation
-Master and Commander: The Far Side of the World
-Mystic River
-Seabiscuit
-Million Dollar Baby
-El aviador
-Finding Neverland
-Ray (película)
-Crash (película de 2004)
-Brokeback Mountain
-Capote (película)
-Buenas noches, y buena suerte
-Múnich (película)
-The Departed
-Babel (película)
-Cartas desde Iwo Jima
-Little Miss Sunshine
-The Queen
-No Country for Old Men
-Atonement (película)
-Juno (película)
-Michael Clayton
-There Will Be Blood
-Slumdog Millionaire
-El curioso caso de Benjamin Button (película)
-Frost/Nixon
-Milk (película)
-The Reader
-The Hurt Locker
-Avatar (película)
-Un sueño posible
-District 9
-An Education
-Inglourious Basterds
-A Serious Man
-Up
-Up in the Air (película)
-El discurso del rey
-Black Swan
-The Fighter
+A_Beautiful_Mind_(film)
+Gosford_Park
+In_the_Bedroom
+The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring
+Moulin_Rouge!
+Chicago_(2002_film)
+Gangs_of_New_York
+The_Hours_(film)
+The_Lord_of_the_Rings:_The_Two_Towers
+The_Pianist_(2002_film)
+The_Lord_of_the_Rings:_The_Return_of_the_King
+Lost_in_Translation_(film)
+Master_and_Commander:_The_Far_Side_of_the_World
+Mystic_River_(film)
+Seabiscuit_(film)
+Million_Dollar_Baby
+The_Aviator_(2004_film)
+Finding_Neverland_(film)
+Ray_(film)
+Crash_(2004_film)
+Brokeback_Mountain
+Capote_(film)
+Good_Night,_and_Good_Luck
+Munich_(2005_film)
+The_Departed
+Babel_(film)
+Letters_from_Iwo_Jima
+Little_Miss_Sunshine
+The_Queen_(2006_film)
+No_Country_for_Old_Men
+Atonement_(2007_film)
+Juno_(film)
+Michael_Clayton
+There_Will_Be_Blood
+Slumdog_Millionaire
+The_Curious_Case_of_Benjamin_Button_(film)
+Frost/Nixon_(film)
+Milk_(2008_American_film)
+The_Reader_(2008_film)
+The_Hurt_Locker
+Avatar_(2009_film)
+The_Blind_Side_(film)
+District_9
+An_Education
+Inglourious_Basterds
+A_Serious_Man
+Up_(2009_film)
+Up_in_the_Air_(2009_film)
+The_King's_Speech
+Black_Swan_(film)
+The_Fighter
 Inception
-The Kids Are All Right
-127 horas
-The Social Network
-Toy Story 3
-True Grit (película de 2010)
-Winter's Bone
-The Artist
-Los descendientes
-Extremely Loud and Incredibly Close (película)
-The Help
-Hugo (película)
-Medianoche en París
-Moneyball
-El árbol de la vida (película de 2011)
-War Horse
-Los miserables (película de 2012)
-Argo (película de 2012)
-Amor (película de 2012)
-Beasts of the Southern Wild
-Django Unchained
-Life of Pi (película)
-Lincoln (película)
-Silver Linings Playbook
-La noche más oscura (película)
-12 Years a Slave
-American Hustle
-Capitán Phillips
-Dallas Buyers Club
-Gravity (película)
-Her
-Nebraska (película)
-Philomena
-El lobo de Wall Street
-Birdman o (la inesperada virtud de la ignorancia)
-American Sniper (película)
-Boyhood
-El Gran Hotel Budapest
-The Imitation Game
-Selma (película)
-La teoría del todo (película de 2014)
-Whiplash (película de 2014)
-Spotlight
-La gran apuesta
-Bridge of Spies
-Brooklyn (película de 2015)
-Mad Max: Fury Road
-The Martian
-El renacido
-La habitación (película)
-Moonlight (película)
-La llegada
-Fences (película)
-Hasta el último hombre
-Hell or High Water
-Hidden Figures
-La La Land (película)
-Lion (película)
-Manchester by the Sea (película)
-La forma del agua
-Call Me by Your Name
-Darkest Hour (película)
-Dunkerque (película)
-Get Out
-Lady Bird
-Phantom Thread
-The Post
-Three Billboards Outside Ebbing, Missouri
-Green Book (película)
-Black Panther (película)
+The_Kids_Are_All_Right_(film)
+127_Hours
+The_Social_Network
+Toy_Story_3
+True_Grit_(2010_film)
+Winter's_Bone
+The_Artist_(film)
+The_Descendants
+Extremely_Loud_&_Incredibly_Close_(film)
+The_Help_(film)
+Hugo_(film)
+Midnight_in_Paris
+Moneyball_(film)
+The_Tree_of_Life_(film)
+War_Horse_(film)
+Les_Misérables_(2012_film)
+Argo_(2012_film)
+Amour_(2012_film)
+Beasts_of_the_Southern_Wild
+Django_Unchained
+Life_of_Pi_(film)
+Lincoln_(film)
+Silver_Linings_Playbook
+Zero_Dark_Thirty
+12_Years_a_Slave_(film)
+American_Hustle
+Captain_Phillips_(film)
+Dallas_Buyers_Club
+Gravity_(2013_film)
+Her_(film)
+Nebraska_(film)
+Philomena_(film)
+The_Wolf_of_Wall_Street_(2013_film)
+Birdman_(film)
+American_Sniper
+Boyhood_(2014_film)
+The_Grand_Budapest_Hotel
+The_Imitation_Game
+Selma_(film)
+The_Theory_of_Everything_(2014_film)
+Whiplash_(2014_film)
+Spotlight_(film)
+The_Big_Short_(film)
+Bridge_of_Spies_(film)
+Brooklyn_(film)
+Mad_Max:_Fury_Road
+The_Martian_(film)
+The_Revenant_(2015_film)
+Room_(2015_film)
+Moonlight_(2016_film)
+Arrival_(film)
+Fences_(film)
+Hacksaw_Ridge
+Hell_or_High_Water_(film)
+Hidden_Figures
+La_La_Land
+Lion_(2016_film)
+Manchester_by_the_Sea_(film)
+The_Shape_of_Water
+Call_Me_by_Your_Name_(film)
+Darkest_Hour_(film)
+Dunkirk_(2017_film)
+Get_Out
+Lady_Bird_(film)
+Phantom_Thread
+The_Post_(film)
+Three_Billboards_Outside_Ebbing,_Missouri
+Green_Book_(film)
+Black_Panther_(film)
 BlacKkKlansman
-Bohemian Rhapsody (película)
-La favorita (película)
-Roma (película de 2018)
-A Star Is Born (película de 2018)
-Vice (película de 2018)
-Parásitos (película)
-Ford v Ferrari
-El irlandés
-Jojo Rabbit
-Joker (película)
-Mujercitas (película de 2019)
-Historia de un matrimonio
-1917 (película)
-Once Upon a Time in Hollywood
+Bohemian_Rhapsody_(film)
+The_Favourite
+Roma_(2018_film)
+A_Star_Is_Born_(2018_film)
+Vice_(2018_film)
+Parasite_(2019_film)
+Ford_v_Ferrari
+The_Irishman
+Jojo_Rabbit
+Joker_(2019_film)
+Little_Women_(2019_film)
+Marriage_Story
+1917_(2019_film)
+Once_Upon_a_Time_in_Hollywood
 Nomadland
-El Padre (película)
-Judas and the Black Messiah
-Mank (película)
-Minari
-Promising Young Woman
-Sound of Metal
-El juicio de los 7 de Chicago
-CODA (película)
-Belfast (película)
-Don't Look Up
-Drive My Car (película)
-Dune (película de 2021)
-King Richard
-Licorice Pizza
-El callejón de las almas perdidas (película de 2021)
-El poder del perro
-West Side Story (película de 2021)
-Everything Everywhere All at Once
-Sin novedad en el frente (película de 2022)
-Avatar: The Way of Water
-The Banshees of Inisherin
-Elvis (película de 2022)
-Los Fabelman
+The_Father_(2020_film)
+Judas_and_the_Black_Messiah
+Mank
+Minari_(film)
+Promising_Young_Woman
+Sound_of_Metal
+The_Trial_of_the_Chicago_7
+CODA_(2021_film)
+Belfast_(film)
+Don't_Look_Up
+Drive_My_Car_(film)
+Dune_(2021_film)
+King_Richard_(film)
+Licorice_Pizza
+Nightmare_Alley_(2021_film)
+The_Power_of_the_Dog_(film)
+West_Side_Story_(2021_film)
+Everything_Everywhere_All_at_Once
+All_Quiet_on_the_Western_Front_(2022_film)
+Avatar:_The_Way_of_Water
+The_Banshees_of_Inisherin
+Elvis_(2022_film)
+The_Fabelmans
 Tár
-Top Gun: Maverick
-Triangle of Sadness
-Ellas hablan
+Top_Gun:_Maverick
+Triangle_of_Sadness
+Women_Talking_(film)

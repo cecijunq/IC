@@ -3,11 +3,11 @@ Mr. Deeds Goes to Town is a 1936 American comedy-drama romance film directed by 
 
 
 == Plot ==
-During the Great Depression, Longfellow Deeds, the co-owner of a tallow works, part-time greeting card poet, and tuba-playing inhabitant of the hamlet of Mandrake Falls, Vermont, inherits 20 million dollars from his late uncle, Martin Semple. Semple's scheming attorney, John Cedar, locates Deeds and takes him to New York City. Cedar gives his cynical troubleshooter, ex-newspaperman Cornelius Cobb, the task of keeping reporters away from Deeds. 
+During the Great Depression, Longfellow Deeds, the co-owner of a tallow works, part-time greeting card poet, and tuba-playing inhabitant of the hamlet of Mandrake Falls, Vermont, inherits 20 million dollars from his late uncle, Martin Semple. Semple's scheming attorney, John Cedar, locates Deeds and takes him to New York City. Cedar gives his cynical troubleshooter, ex-newspaperman Cornelius Cobb, the task of keeping reporters away from Deeds.
 Cobb is outfoxed by star reporter Louise "Babe" Bennett, who appeals to Deeds' romantic fantasy of rescuing a damsel in distress by masquerading as a poor worker named Mary Dawson. She pretends to faint from exhaustion after "walking all day to find a job" and worms her way into his confidence. Bennett proceeds to write a series of enormously popular articles on Longfellow, portraying him as a yokel who has suddenly inherited riches, and giving him the nickname "Cinderella Man".
-Cedar tries to get Deeds' power of attorney in order to keep his own financial misdeeds secret. Deeds, however, proves to be a shrewd judge of character, easily fending off Cedar and other greedy opportunists. He wins Cobb's wholehearted respect and eventually Babe's love. She quits her job in shame, but before she can tell Deeds the truth about herself, Cobb finds it out and tells Deeds. Deeds is left heartbroken and decides to return to Mandrake Falls. 
+Cedar tries to get Deeds' power of attorney in order to keep his own financial misdeeds secret. Deeds, however, proves to be a shrewd judge of character, easily fending off Cedar and other greedy opportunists. He wins Cobb's wholehearted respect and eventually Babe's love. She quits her job in shame, but before she can tell Deeds the truth about herself, Cobb finds it out and tells Deeds. Deeds is left heartbroken and decides to return to Mandrake Falls.
 After he has packed and is about to leave, a dispossessed farmer stomps into his mansion and threatens him with a gun. He expresses his scorn for the seemingly heartless, ultra-rich man, who will not lift a finger to help the multitudes of desperate poor. After the intruder comes to his senses, Deeds realizes what he can do with his troublesome fortune. He decides to provide fully equipped 10-acre (4-hectare) farms free to thousands of homeless families if they will work the land for three years.
-Cedar joins forces with Deeds' only other relative, Semple, and his domineering wife, in an attempt to have Deeds declared mentally incompetent. A sanity hearing is scheduled to determine who should control the fortune. During the hearing, Cedar calls an expert who diagnoses Deeds with manic depression based on Babe's articles and witnesses to his recent behavior. Though Deeds has pledged to defend himself, he refuses to speak. 
+Cedar joins forces with Deeds' only other relative, Semple, and his domineering wife, in an attempt to have Deeds declared mentally incompetent. A sanity hearing is scheduled to determine who should control the fortune. During the hearing, Cedar calls an expert who diagnoses Deeds with manic depression based on Babe's articles and witnesses to his recent behavior. Though Deeds has pledged to defend himself, he refuses to speak.
 Babe speaks up passionately on his behalf, castigating herself for what she did to him. When he realizes that she truly loves him, he begins speaking, systematically punching holes in Cedar's case and then landing one in his face. The judge declares him to be not only sane, but "the sanest man who ever walked into this courtroom". Victorious, Deeds and Babe kiss.
 
 
@@ -63,7 +63,7 @@ In 2013 Mr. Deeds Goes to Town was slated for 4K-digital restoration and re-rele
 
 == Popular culture ==
 The bucolic Vermont town of Mandrake Falls, home of Longfellow Deeds, is now considered an archetype of small town America with Kelland creating a type of "cracker-barrel" view of rural values contrasted with that of sophisticated "city folk". The word pixilated, previously limited to New England (and attested there since 1848), "had a nationwide vogue in 1936" thanks to its prominent use in the film, although its use in the screenplay may not be an accurate interpretation.The word doodle, in its modern specific sense of drawing on paper rather than in its older more general sense of 'fooling around', may also owe its origin – or at least its entry into common usage – to the final courtroom scene in this film.  The Longfellow Deeds character, addressing the judge, explains the concept of a doodler – which the judge has not heard before – as being "a word we made up back home to describe someone who makes foolish designs on paper while they're thinking."
-The lyrics to the 1977 Rush song "Cinderella Man" on the A Farewell to Kings album are based on the story of Mr. Deeds Goes to Town.
+The courtroom scene inspired the publication in the year after its release of a book that incorporated both words, Everybody's Pixillated: A Book of Doodles. The lyrics to the 1977 Rush song "Cinderella Man" on the A Farewell to Kings album are based on the story of Mr. Deeds Goes to Town.
 In the movie Baby Boom, a babysitter refers to her hometown of Mandrake Falls.
 
 
@@ -82,7 +82,7 @@ In the movie Baby Boom, a babysitter refers to her hometown of Mandrake Falls.
 == External links ==
 
 Mr. Deeds Goes to Town at the TCM Movie Database
-Mr. Deeds Goes to Town at IMDb
+Mr. Deeds Goes to Town at IMDb 
 Mr. Deeds Goes to Town at AllMovie
 Mr. Deeds Goes to Town at the American Film Institute Catalog
 Mr. Deeds Goes to Town at Rotten Tomatoes
@@ -218,7 +218,7 @@ Hectare
 Hemo the Magnificent
 Henry V (1944 film)
 Her (film)
-Here Comes the Groom
+Here Comes the Groom (1951 film)
 Here Is Germany
 High Noon
 Howard Jackson (composer)
@@ -237,6 +237,7 @@ John P. Livadary
 John Wray (actor)
 Joseph Walker (cinematographer)
 Julius Caesar (1953 film)
+Killers of the Flower Moon (film)
 Know Your Enemy: Japan
 Kramer vs. Kramer
 L.A. Confidential (film)
@@ -438,3 +439,8 @@ http://postperspective.com/capras-classic-it-happened-one-night-restored-in-4k/
 https://www.variety.com/review/VE1117793273?refcatid=31
 https://www.rottentomatoes.com/m/mr_deeds_goes_to_town
 https://www.tcm.com/tcmdb/title/15985/enwp
+https://www.wikidata.org/wiki/Q475529#identifiers
+https://viaf.org/viaf/305887661
+https://id.loc.gov/authorities/no2011082375
+https://www.jstor.org/stable/pdf/532844.pdf
+https://www.wikidata.org/wiki/Q475529#P345

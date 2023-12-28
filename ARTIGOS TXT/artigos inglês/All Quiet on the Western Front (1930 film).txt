@@ -28,7 +28,7 @@ A great number of German Army veterans were living in Los Angeles at the time of
 
 
 == Releases ==
-The original international Sound Version of the film, lasting 152 minutes, was first shown in Los Angeles on April 21, 1930, and premiered in New York on April 25, 1930. This version has intertitles and a synchronized music and effects track. A sound version with dialogue was released in New York city on April 29, 1930. A 147-minute version was submitted to the British censors, which was cut to 145 minutes before the film premiered in London June 14, 1930. The film went on general release in the US on August 24, 1930. The sound version was re-released in 1939, though cut down to ten reels. This same version, running 102 minutes, was re-released very successfully by Realart Pictures in 1950, and Universal-International brought it back to theaters in 1958.
+The original version of this all talking picture, lasting 152 minutes, was first previewed in Los Angeles on April 21, 1930, and again in New York on April 25, 1930. The film was edited and some scenes reshot after these previews due to inappropriate laughter coming from audiences whenever ZaSu Pitts appeared on the screen. All scenes with ZaSu Pitts had to be reshot and she was replaced with Beryl Mercer. The re-edited all talking version of the film went on general release in the US on August 24, 1930. A 147-minute version was submitted to the British censors, which was cut to 145 minutes before the film premiered in London June 14, 1930.  The sound version was re-released in 1939, though cut down to ten reels. This same version, running 102 minutes, was re-released very successfully by Realart Pictures in 1950, and Universal-International brought it back to theaters in 1958.
 
 On its initial release, Variety wrote: The League of Nations could make no better investment than to buy up the master-print, reproduce it in every language, to be shown in all the nations until the word "war" is taken out of the dictionaries.
 Some of the credit for the film's success has been ascribed to the direction of Lewis Milestone:
@@ -37,8 +37,8 @@ Without diluting or denying any ... criticisms, it should be said that from Worl
 Later re-releases were substantially cut and the film's ending scored with new music against the wishes of director Lewis Milestone. Before he died in 1980, Milestone requested that Universal fully restore the film with the removal of the end music cue. Two decades later, Milestone's wishes were finally granted when the United States Library of Congress undertook an exhaustive restoration of the film in 2006. This version incorporates all known surviving footage and is 133 minutes long.
 
 
-=== Home video ===
-Various edited versions have been distributed on video, including a Japanese subtitled Laserdisc with a running time of 103 minutes. The US Laserdisc from 1987 and the first US DVD, released in 1999, use the same unrestored 131-minute British release print. Since 2007, there have been numerous international releases of the 2006 Library of Congress restoration on DVD and Blu-ray. The latter format additionally contains a 133-minute restoration of the international sound version, albeit mislabelled as the "silent version".
+=== Home media ===
+Various edited versions have been distributed on video, including a Japanese subtitled Laserdisc with a running time of 103 minutes. The US Laserdisc from 1987 and the first US DVD, released in 1999, use the same unrestored 131-minute British release print. Since 2007, there have been numerous international releases of the 2006 Library of Congress restoration on DVD and Blu-ray. The latter format additionally contains a 133-minute restoration of the International Sound Version, albeit mislabeled as the "silent version".
 
 
 == Reception ==
@@ -96,7 +96,7 @@ Eagan, Daniel. "All Quiet on the Western Front". America's Film Legacy: The Auth
 == External links ==
 
 All Quiet on the Western Front is available for free viewing and download at the Internet Archive
-All Quiet on the Western Front at IMDb
+All Quiet on the Western Front at IMDb 
 All Quiet on the Western Front at AllMovie
 All Quiet on the Western Front at the TCM Movie Database
 All Quiet on the Western Front at the American Film Institute Catalog12 Years a Slave (film)
@@ -135,6 +135,7 @@ Arnold Lucy
 Around the World in 80 Days (1956 film)
 Arthur Edeson
 Arthur Gardner (producer)
+Arthur Wheen
 Australian Classification Board
 Ben-Hur (1959 film)
 Ben Alexander (actor)
@@ -146,6 +147,7 @@ Bobbed Hair (1925 film)
 Bodil Rosing
 Box Office Mojo
 Braveheart
+Brian O. Murdoch
 C. Gardner Sullivan
 CBS Interactive
 CODA (2021 film)
@@ -390,3 +392,4 @@ https://www.worldcat.org/issn/0362-4331
 https://cantic.bnc.cat/registre/981058613069506706
 https://id.loc.gov/authorities/no2017115257
 https://archive.org/details/All.Quiet.on.the.Western.Front.1930_201605
+https://www.wikidata.org/wiki/Q272599#P345

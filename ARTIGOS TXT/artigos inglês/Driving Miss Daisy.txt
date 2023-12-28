@@ -23,7 +23,7 @@ Driving Miss Daisy was given a limited release on December 15, 1989, earning $73
 
 
 === Critical reaction ===
-Driving Miss Daisy was well received by critics, with particular emphasis on the screenplay and Freeman and Tandy's performances. The review aggregator Rotten Tomatoes gives the film a "Certified Fresh" 85% rating based on reviews from 104 critics, with an average score of 7.70/10. The website's critical consensus states: "While it's fueled in part by outdated stereotypes, Driving Miss Daisy takes audiences on a heartwarming journey with a pair of outstanding actors." On Metacritic, which assigns a rating out of 100 based on reviews from mainstream critics, the film has a score of 81 based on 17 reviews, indicating "universal acclaim". CinemaScore similarly reported that audiences gave the film a rare "A+" grade.Gene Siskel of the Chicago Tribune declared Driving Miss Daisy one of the best films of 1989. Roger Ebert of the Chicago Sun-Times called it "a film of great love and patience" and wrote, "It is an immensely subtle film, in which hardly any of the most important information is carried in the dialogue and in which body language, tone of voice or the look in an eye can be the most important thing in a scene. After so many movies in which shallow and violent people deny their humanity and ours, what a lesson to see a film that looks into the heart."Peter Travers of Rolling Stone also gave the film a positive review, calling Tandy's performance "glorious" and opining, "This is Tandy's finest two hours onscreen in a film career that goes back to 1932." The performances of Tandy and Freeman were also praised by Vincent Canby of The New York Times, who observed, "The two actors manage to be highly theatrical without breaking out of the realistic frame of the film."On the other hand, the film has been criticized for its handling of the issue of racism. Candice Russell of the South Florida Sun-Sentinel described Freeman's character as having a "toadying manner" which was "painful to see", and said that the film was ultimately "one scene after another of a pompous old lady issuing orders and a servant trying to comply by saying 'yassum.'" The film's nomination for Best Picture at the Academy Awards over Spike Lee's Do the Right Thing was controversial. Lee later reflected on the controversial decision by saying that Driving Miss Daisy was "not being taught in film schools all across the world like Do the Right Thing is."
+Driving Miss Daisy was well received by critics, with particular emphasis on the screenplay and Freeman, Tandy, and Aykroyd's performances. The review aggregator Rotten Tomatoes gives the film a "Certified Fresh" 85% rating based on reviews from 104 critics, with an average score of 7.70/10. The website's critical consensus states: "While it's fueled in part by outdated stereotypes, Driving Miss Daisy takes audiences on a heartwarming journey with a pair of outstanding actors." On Metacritic, which assigns a rating out of 100 based on reviews from mainstream critics, the film has a score of 81 based on 17 reviews, indicating "universal acclaim". CinemaScore similarly reported that audiences gave the film a rare "A+" grade.Gene Siskel of the Chicago Tribune declared Driving Miss Daisy one of the best films of 1989. Roger Ebert of the Chicago Sun-Times called it "a film of great love and patience" and wrote, "It is an immensely subtle film, in which hardly any of the most important information is carried in the dialogue and in which body language, tone of voice or the look in an eye can be the most important thing in a scene. After so many movies in which shallow and violent people deny their humanity and ours, what a lesson to see a film that looks into the heart."Peter Travers of Rolling Stone also gave the film a positive review, calling Tandy's performance "glorious" and opining, "This is Tandy's finest two hours onscreen in a film career that goes back to 1932." The performances of Tandy and Freeman were also praised by Vincent Canby of The New York Times, who observed, "The two actors manage to be highly theatrical without breaking out of the realistic frame of the film."On the other hand, the film has been criticized for its handling of the issue of racism. Candice Russell of the South Florida Sun-Sentinel described Freeman's character as having a "toadying manner" which was "painful to see", and said that the film was ultimately "one scene after another of a pompous old lady issuing orders and a servant trying to comply by saying 'yassum.'" The film's nomination for Best Picture at the Academy Awards over Spike Lee's Do the Right Thing was controversial. Lee later reflected on the controversial decision by saying that Driving Miss Daisy was "not being taught in film schools all across the world like Do the Right Thing is."
 
 
 === Awards and nominations ===
@@ -54,7 +54,7 @@ In the UK, Warner Home Video released Driving Miss Daisy on VHS in 1989. Driving
 
 == External links ==
 
-Driving Miss Daisy at IMDb
+Driving Miss Daisy at IMDb 
 Driving Miss Daisy at the TCM Movie Database
 Driving Miss Daisy at AllMovie
 Driving Miss Daisy at the American Film Institute Catalog
@@ -254,6 +254,7 @@ Jewish American
 Jo Ann Havrilla
 Julius Caesar (1953 film)
 Kevin Haney
+Killers of the Flower Moon (film)
 King David (film)
 Kramer vs. Kramer
 L.A. Confidential (film)
@@ -559,3 +560,4 @@ https://catalog.afi.com/Film/57977-DRIVING-MISSDAISY?sid=8eaf6390-2c07-4e1d-b8ff
 https://www.worldcat.org/issn/0190-8286
 https://id.loc.gov/authorities/no2016136569
 https://catalog.afi.com/Catalog/moviedetails/57977
+https://www.wikidata.org/wiki/Q211373#P345

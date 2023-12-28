@@ -1,7 +1,9 @@
 Apollo 13 (film)
-Apollo 13 is a 1995 American space docudrama film directed by Ron Howard and starring Tom Hanks, Kevin Bacon, Bill Paxton, Ed Harris, and Gary Sinise. The screenplay by William Broyles Jr. and Al Reinert dramatizes the aborted 1970 Apollo 13 lunar mission and is an adaptation of the 1994 book Lost Moon: The Perilous Voyage of Apollo 13, by astronaut Jim Lovell and Jeffrey Kluger. The film tells the story of astronauts Lovell, Jack Swigert, and Fred Haise aboard Apollo 13 for America's fifth crewed mission to the Moon, which was intended to be the third to land. En route, an on-board explosion deprives their spacecraft of much of its oxygen supply and electrical power, which forces NASA's flight controllers to abort the Moon landing mission and improvise scientific and mechanical solutions to get the three astronauts to Earth safely.
+Apollo 13 is a 1995 American space docudrama film directed by Ron Howard and starring Tom Hanks, Kevin Bacon, Bill Paxton, Ed Harris, and Gary Sinise. 
+The screenplay by William Broyles Jr. and Al Reinert dramatizes the aborted 1970 Apollo 13 lunar mission and is an adaptation of the 1994 book Lost Moon: The Perilous Voyage of Apollo 13, by astronaut Jim Lovell and Jeffrey Kluger. The film tells the story of astronauts Lovell, Jack Swigert, and Fred Haise aboard Apollo 13 for America's fifth crewed mission to the Moon, which was intended to be the third to land. En route, an on-board explosion deprives their spacecraft of much of its oxygen supply and electrical power, which forces NASA's flight controllers to abort the Moon landing mission and improvise scientific and mechanical solutions to get the three astronauts to Earth safely.
 Howard went to great lengths to create a technically accurate movie, employing NASA's assistance in astronaut and flight-controller training for his cast and obtaining permission to film scenes aboard a reduced-gravity aircraft for realistic depiction of the weightlessness experienced by the astronauts in space.
 Released to cinemas in the United States on June 30, 1995, Apollo 13 received critical acclaim and was nominated for nine Academy Awards, including Best Picture (winning for Best Film Editing and Best Sound). The film also won the Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture, as well as two British Academy Film Awards. In total, the film grossed over $355 million worldwide during its theatrical releases.
+Since then, it is considered to be among the best films of all time.In 2023, the film was selected for preservation in the United States National Film Registry by the Library of Congress as being "culturally, historically or aesthetically significant."
 
 
 == Plot ==
@@ -27,7 +29,7 @@ Mark Wheeler as Apollo 11 Commander Neil Armstrong
 Larry Williams as Apollo 11 Lunar Module Pilot Buzz Aldrin
 David Andrews as Apollo 12 Commander Pete Conrad
 Ben Marley as Apollo 13 backup Commander John Young
-Brett Cullen as Capsule communicator (CAPCOM) 1 (a composite astronaut)
+Brett Cullen as Capsule communicator (CAPCOM) 1 "Andy" (a composite astronaut, based on Jack Lousma and William Pogue)
 Ned Vaughn as CAPCOM 2 (a composite astronaut)NASA ground personnel:
 
 Ed Harris as White Team Flight Director Gene Kranz. Harris described the film as "cramming for a final exam." Harris described Gene Kranz as "corny and like a dinosaur", but respected by the crew.
@@ -37,8 +39,10 @@ Marc McClure as Black Team Flight Director Glynn Lunney
 Clint Howard as White Team Electrical, Environmental and Consumables Manager (EECOM) Sy Liebergot
 Ray McKinnon as White Team Flight Dynamics Officer (FIDO) Jerry Bostick
 Todd Louiso as White Team Flight Activities Officer (FAO)
-Loren Dean as EECOM John Aaron
+Gabriel Jarret as White Team Guidance, Navigation, and Controls Systems Engineer (GNC)
+Andy Milder as White Team Guidance Officer (GUIDO)
 Jim Meskimen as White Team Telemetry, Electrical, EVA Mobility Unit Officer (TELMU)
+Loren Dean as EECOM John Aaron
 Christian Clemenson as Flight Surgeon Dr. Charles Berry
 Carl Gabriel Yorke as SIM (Simulator) 1
 Xander Berkeley as Henry Hurt, a fictional NASA Office of Public Affairs staff memberCivilians:
@@ -58,7 +62,7 @@ Marilyn Lovell appears among the spectators during the launch sequence.
 Jeffrey Kluger appears as a television reporter.
 Horror film director Roger Corman, a mentor of Howard, appears as a congressman being given a VIP tour by Lovell of the Vehicle Assembly Building, as it had become something of a tradition for Corman to make a cameo appearance in his protégés' films.
 CBS News anchor Walter Cronkite appears in archive news footage and can be heard in newly recorded announcements, some of which he edited himself to sound more authentic.
-Cheryl Howard (Ron Howard's wife) and Bryce Dallas Howard as uncredited background performers in the scene where the astronauts wave goodbye to their families.
+Cheryl Howard (Ron Howard's wife) and Bryce Dallas Howard (Ron Howard's eldest daughter) as uncredited background performers in the scene where the astronauts wave goodbye to their families.
 
 
 == Production ==
@@ -76,26 +80,25 @@ Each member of the cast performed extensive research for the project to provide 
 === Filming ===
 
 Principal photography for Apollo 13 started in August 1994.
-Howard anticipated difficulty in portraying weightlessness in a realistic manner. He discussed this with Steven Spielberg, who suggested filming aboard the KC-135 airplane, which can be flown in such a way as to create about 23 seconds of weightlessness, a method NASA has always used to train its astronauts for space flight. Howard obtained NASA's permission and assistance to obtain three hours and 54 minutes of filming time in 612 zero-g maneuvers. Filming in this environment was a time and cost saver because the stage recreation and computer graphics would have been expensive.
+Howard anticipated difficulty in portraying weightlessness in a realistic manner. He discussed this with Steven Spielberg, who suggested filming aboard the KC-135 airplane, which can be flown in such a way as to create about 23 seconds of weightlessness, a method NASA has always used to train its astronauts for space flight. Howard obtained NASA's permission and assistance to obtain three hours and 54 minutes of filming time in 612 zero-g maneuvers. Filming in this environment was a time and cost saver because the stage recreation and computer graphics would have been expensive. The final three weeks of filming took place in the stages on the Universal Studios Lot in Universal City, California, where two life-size replicas of both the command module and the lunar module were built for simultaneous shooting on different soundstages. Air-cooling units lowered the temperatures inside each soundstage to around 38 degrees, to simulate the conditions necessary for condensation and the visibility of the actors' breath inside the spacecraft. Filming wrapped on February 25, 1995. The final scene to be filmed was the splashdown sequence at the film's conclusion, which was shot on a large, artificial lake on the Universal lot.
 
 
 ==== Safety ====
-While filming in a 25-second burst of weightlessness was "charged and frenetic", the cast and crew only suffered from bumps and bruises and most injuries occurred when they bumped on non-padded items. The cast and crew of Apollo 13 describe the weightlessness experience as being in a "vomit comet" and "roller coaster ride", but the motion sickness afflicted only a few members.
+While filming in a 25-second burst of weightlessness was "charged and frenetic", the cast and crew only suffered from bumps and bruises, and most injuries occurred when they bumped on non-padded items. The cast and crew of Apollo 13 describe the weightlessness experience as being in a "vomit comet" and "roller coaster ride", but the motion sickness afflicted only a few members.During filming of the low-temperature scenes in the Universal stages, signs that explained frostbite symptoms were posted on the stages' walls, and the crew worked in parkas.
 
 
 === Post-production ===
 The visual effects supervisor was Robert Legato.
-To avoid awkward visible switches to stock news footage in a live action film, he decided to produce the Saturn V launch sequence using miniature models and digital image stitching to create a panoramic background. On Howard's request to "shoot it like Martin Scorsese would shoot it", Legato studied Scorsese's scenes of pool games from The Color of Money, and copied his technique of creating a sense of rhythm by repeating two or three frames between each cut (just enough to be undetectable) for the engine ignition sequence. Legato says this scene inspired James Horner's soundtrack music for the launch. The long-range shot of the vehicle in flight was filmed using a $25 1:144 scale model Revell kit, with the camera realistically shaking, and it was digitized and re-filmed off of a high resolution monitor through a black filter, slightly overexposed to keep it from "looking like a video game".The exhaust of the attitude control thrusters was generated with computer-generated imagery (CGI). This was also attempted to show the astronaut's urine dump into space, but wasn't high enough resolution to look right, so droplets sprayed from an Evian bottle were photographed instead.The producers wanted to use CGI to render the splashdown, but Legato adamantly insisted this would not look realistic. Real parachutes were used with a prop capsule tossed out of a helicopter.
+To avoid awkward visible switches to stock news footage in a live action film, he decided to produce the Saturn V launch sequence using miniature models and digital image stitching to create a panoramic background. On Howard's request to "shoot it like Martin Scorsese would shoot it", Legato studied Scorsese's scenes of pool games from The Color of Money, and copied his technique of creating a sense of rhythm by repeating two or three frames between each cut (just enough to be undetectable) for the engine ignition sequence. Legato says this scene inspired James Horner's soundtrack music for the launch. The long-range shot of the vehicle in flight was filmed using a $25 1:144 scale model Revell kit, with the camera realistically shaking, and it was digitized and re-filmed off of a high resolution monitor through a black filter, slightly overexposed to keep it from "looking like a video game".The exhaust of the attitude control thrusters was generated with computer-generated imagery (CGI). This was also attempted to show the astronaut's urine dump into space, but wasn't high enough resolution to look right, so droplets sprayed from an Evian bottle were photographed instead.The producers wanted to use CGI to render the splashdown, but Legato adamantly insisted this would not look realistic. Real parachutes were used with a prop capsule tossed out of a helicopter.During weightless filming, all of the dialogue had been rendered unusable by the loudness of the plane. This required Hanks, Bacon and Paxton to attend ADR sessions, where they redubbed all of the lines for the weightless scenes.
 
 
 == Soundtrack ==
 
-The score to Apollo 13 was composed and conducted by James Horner. The soundtrack was released in 1995 by MCA Records and has seven tracks of score, eight period songs used in the film, and seven tracks of dialogue by the actors at a running time of nearly seventy-eight minutes. The music also features solos by vocalist Annie Lennox and Tim Morrison on the trumpet. The score was a critical success and garnered Horner an Academy Award nomination for Best Original Score.
+The score to Apollo 13 was composed and conducted by James Horner. The soundtrack was released in 1995 by MCA Records and has seven tracks of score, eight period songs used in the film, and seven tracks of dialogue by the actors at a total running time of nearly seventy-eight minutes. The music also features solos by vocalist Annie Lennox and Tim Morrison on the trumpet. The score was a critical success and garnered Horner an Academy Award nomination for Best Original Score.
 
 
 == Release ==
-Apollo 13 was released on June 30, 1995, in North America and on September 22, 1995, in the UK.
-In September 2002, the film was re-released in IMAX. It was the first film to be digitally remastered using IMAX DMR technology.
+Apollo 13 was released on June 30, 1995, in North America and on September 22, 1995, in the United Kingdom.In September 2002, the film was re-released in IMAX. It was the first film to be digitally remastered using IMAX DMR technology.
 
 
 === Box office ===
@@ -103,7 +106,7 @@ Apollo 13 earned $25,353,380 from 2,347 theaters during its opening weekend, whi
 
 
 === Reception ===
-Review aggregator Rotten Tomatoes reports that the film has an overall approval rating of 96%, based on 96 reviews, with a weighted average rating of 8.20/10. The site's critical consensus reads, "In recreating the troubled space mission, Apollo 13 pulls no punches: it's a masterfully told drama from director Ron Howard, bolstered by an ensemble of solid performances." Metacritic, which assigns a normalized rating to reviews from mainstream critics, gave the film an average score of 77 out of 100, based on 22 critics, indicating "generally favorable reviews". Audiences surveyed by CinemaScore gave the film a grade "A" on scale of A+ to F.Roger Ebert of the Chicago Sun-Times praised the film in his review saying: "This is a powerful story, one of the year's best films, told with great clarity and remarkable technical detail, and acted without pumped-up histrionics." Richard Corliss of Time highly praised the film, saying: "From lift-off to splashdown, Apollo 13 gives one hell of a ride." Edward Guthmann of San Francisco Chronicle gave a mixed review and wrote: "I just wish that Apollo 13 worked better as a movie, and that Howard's threshold for corn, mush and twinkly sentiment weren't so darn wide." Peter Travers of Rolling Stone praised the film and wrote: "Howard lays off the manipulation to tell the true story of the near-fatal 1970 Apollo 13 mission in painstaking and lively detail. It's easily Howard's best film."Janet Maslin made the film an NYT Critics' Pick, calling it an "absolutely thrilling" film that "unfolds with perfect immediacy, drawing viewers into the nail-biting suspense of a spellbinding true story." According to Maslin, "like Quiz Show, Apollo 13 beautifully evokes recent history in ways that resonate strongly today. Cleverly nostalgic in its visual style (Rita Ryack's costumes are especially right), it harks back to movie making without phony heroics and to the strong spirit of community that enveloped the astronauts and their families. Amazingly, this film manages to seem refreshingly honest while still conforming to the three-act dramatic format of a standard Hollywood hit. It is far and away the best thing Mr. Howard has done (and Far and Away was one of the other kind)."The academic critic Raymond Malewitz focuses on the DIY aspects of the "mailbox" filtration system to illustrate the emergence of an unlikely hero in late 20th-century American culture—"the creative, improvisational, but restrained thinker—who replaces the older prodigal cowboy heroes of American mythology and provides the country a better, more frugal example of an appropriate 'husband'."Marilyn Lovell praised Quinlan's portrayal of her, stating she felt she could feel what Quinlan's character was going through, and remembered how she felt in her mind.
+Review aggregator Rotten Tomatoes reports that the film has an overall approval rating of 96%, based on 96 reviews, with a weighted average rating of 8.20/10. The site's critical consensus reads, "In recreating the troubled space mission, Apollo 13 pulls no punches: it's a masterfully told drama from director Ron Howard, bolstered by an ensemble of solid performances." Metacritic, which assigns a normalized rating to reviews from mainstream critics, gave the film an average score of 77 out of 100, based on 22 critics, indicating "generally favorable reviews". Audiences surveyed by CinemaScore gave the film a grade "A" on scale of A+ to F.Roger Ebert of the Chicago Sun-Times praised the film in his review, saying: "This is a powerful story, one of the year's best films, told with great clarity and remarkable technical detail, and acted without pumped-up histrionics." Richard Corliss of Time highly praised the film, saying: "From lift-off to splashdown, Apollo 13 gives one hell of a ride." Edward Guthmann of San Francisco Chronicle gave a mixed review and wrote: "I just wish that Apollo 13 worked better as a movie, and that Howard's threshold for corn, mush and twinkly sentiment weren't so darn wide." Peter Travers of Rolling Stone praised the film and wrote: "Howard lays off the manipulation to tell the true story of the near-fatal 1970 Apollo 13 mission in painstaking and lively detail. It's easily Howard's best film."Janet Maslin made the film an NYT Critics' Pick, calling it an "absolutely thrilling" film that "unfolds with perfect immediacy, drawing viewers into the nail-biting suspense of a spellbinding true story." According to Maslin, "like Quiz Show, Apollo 13 beautifully evokes recent history in ways that resonate strongly today. Cleverly nostalgic in its visual style (Rita Ryack's costumes are especially right), it harks back to movie making without phony heroics and to the strong spirit of community that enveloped the astronauts and their families. Amazingly, this film manages to seem refreshingly honest while still conforming to the three-act dramatic format of a standard Hollywood hit. It is far and away the best thing Mr. Howard has done (and Far and Away was one of the other kind)."The academic critic Raymond Malewitz focuses on the DIY aspects of the "mailbox" filtration system to illustrate the emergence of an unlikely hero in late 20th-century American culture—"the creative, improvisational, but restrained thinker—who replaces the older prodigal cowboy heroes of American mythology and provides the country a better, more frugal example of an appropriate 'husband'."Marilyn Lovell praised Quinlan's portrayal of her, stating she felt she could feel what Quinlan's character was going through, and remembered how she felt in her mind.
 
 
 === Home media ===
@@ -142,7 +145,7 @@ Survival film
 
 == External links ==
 
-Apollo 13 at IMDb
+Apollo 13 at IMDb 
 Apollo 13 at the TCM Movie Database
 Apollo 13 at AllMovie
 Apollo 13 at Rotten Tomatoes
@@ -155,6 +158,8 @@ ACE Eddie Awards
 AFI's 100 Years... 100 Cheers
 AFI's 100 Years... 100 Movie Quotes
 A Beautiful Mind (film)
+Abbie Cornish
+Abigail Breslin
 Ablative heat shield
 Academy Award
 Academy Award for Best Adapted Screenplay
@@ -169,10 +174,18 @@ Academy Award for Best Supporting Actress
 Academy Award for Best Visual Effects
 Academy Awards
 Academy of Motion Picture Arts and Sciences
+Ahna O'Reilly
 Al Reinert
 Aladdin (1992 Disney film)
+Alan Arkin
+Alan Bates
 Alan Shepard
+Albert Finney
+Aldis Hodge
+Alessandro Nivola
+Alex Sharp
 AllMovie
+Allison Janney
 Almost Famous
 American Beauty (1999 film)
 American Film Institute
@@ -180,8 +193,19 @@ American Gangster (film)
 American Hustle
 American Made (film)
 American Society of Cinematographers
+Amy Adams
+Amy Irving
+Amy Ryan
+Andrea Riseborough
+Andy Milder
+Andy Serkis
+Angela Bassett
 Angels & Demons (film)
+Anil Kapoor
+Annette Bening
 Annie Lennox
+Anthony Andrews
+Antony Sher
 Apollo 11
 Apollo 13
 Apollo 13 (soundtrack)
@@ -194,43 +218,65 @@ Apollo service module
 Argo (2012 film)
 Armed and Dangerous (1986 film)
 Artistic license
+Ashutosh Lobo Gajiwala
 Aspect ratio (image)
 Astronaut
 Audio commentary (DVD)
+August Diehl
+Ayush Mahesh Khedekar
+Azharuddin Mohammed Ismail
 BBC
 Babe (film)
 Backdraft (film)
+Ben Affleck
+Benicio del Toro
+Benjamin Bratt
+Bernard Hill
+Best films of all time
 Beyond the Mat
 Bill Paxton
+Billy Boyd (actor)
+Billy Crudup
 Birdman (film)
 Black Panther (film)
 Blu-ray
 Blue Crush
+Bob Balaban
 Boeing KC-135 Stratotanker
 Boomerang (1992 film)
 Bowfinger
 Box Office Mojo
 Boyhood (2014 film)
 Brad Pitt
+Bradley Cooper
 Brantford Expositor
 Braveheart
+Brendan Fraser
 Brett Cullen
 Brian Grazer
+Brian d'Arcy James
 British Academy Film Awards
 British Academy of Film and Television Arts
 Brokeback Mountain
+Bruce Jones (actor)
+Bryan Cranston
 Bryce Dallas Howard
 Buzz Aldrin
 CBS News
 CNN
 CODA (2021 film)
+Caleb Landry Jones
 Candy Cane Lane (film)
 Capsule communicator
 Carbon dioxide
 Carl Gabriel Yorke
 Casting Society of America
+Cate Blanchett
+Catherine Zeta-Jones
+Chadwick Boseman
 Changeling (film)
 Charles A. Berry
+Charles Dance
 Charles Duke
 Chicago (2002 film)
 Chicago Film Critics Association
@@ -242,44 +288,95 @@ Chicago Film Critics Association Award for Best Supporting Actor
 Chicago Film Critics Association Award for Best Supporting Actress
 Chicago Sun-Times
 Chicago Tribune
+Cho Yeo-jeong
+Choi Woo-shik
+Chris Cooper
 Chris Ellis (actor)
+Chris Lowell
+Chris Messina
+Christian Bale
 Christian Clemenson
+Christine Baranski
+Christoph Waltz
 Christopher C. Kraft, Jr.
 Christopher C. Kraft Jr. Mission Control Center
+Christopher Denham
+Cicely Tyson
 Cinderella Man
 CinemaScore
+Clarke Peters
+Clea DuVall
 Clean and Sober
+Clifton Collins Jr.
 Clint Howard
+Clive Owen
 Closet Land
 Cocoon (film)
+Colin Firth
+Colm Feore
 Composite character
 Computer-generated imagery
 Cotton Candy (film)
+Courier News
 Cowboys & Aliens
 Crash (2004 film)
 Crawler-transporter
 Curious George (film)
 Cut (transition)
+D. W. Moffett
 DVD
 Dads (film)
+Dan Futterman
+Danai Gurira
 Dances with Wolves
+Daniel Brühl
+Daniel Durant
+Daniel Kaluuya
 Daniel P. Hanley
 David Andrews (actor)
 David MacMillan (sound engineer)
 David Scott
+David Wenham
 Dean Cundey
+Deidre Goodwin
 Deke Slayton
+Denis Ménochet
+Denise Faye
+Dennis Quaid
+Derek Jacobi
+Dev Patel
+Diane Kruger
+Dianne Wiest
 Die Hard with a Vengeance
 Directors Guild of America
 Do the Right Thing
 Docking and berthing of spacecraft
 Docudrama
+Dominic Monaghan
+Dominic West
+Don Cheadle
 Driving Miss Daisy
+Dubbing
 EDtv
 Ed Harris
+Eddie Redmayne
+Eden (upcoming film)
+Edward Norton
+Eileen Atkins
+Ekaterina Shchelkanova
 Electrical, Environmental, Consumables Manager
+Eli Roth
+Elijah Wood
+Elisabeth Röhm
+Emilia Jones
 Emily Ann Lloyd
+Emily Watson
+Emily Woof
+Emma Stone
+Erika Christensen
 Eugene F. Kranz
+Eugenio Derbez
+Evening Standard
 Everything Everywhere All at Once
 Evian
 Failure is not an option
@@ -287,25 +384,36 @@ Far and Away
 Far from Heaven
 Fargo (1996 film)
 Fear (1996 film)
+Ferdia Walsh-Peelo
 Flight Activities Officer
 Flight Dynamics Officer
 Flight Surgeon
 Flight controller
 Flightplan
 For Love or Money (1993 film)
+Forest Whitaker
 Forrest Gump
+Frances McDormand
+Frank Langella
 Fred Haise
 Fred W. Haise, Jr.
+Freida Pinto
 Friday Night Lights (film)
 From the Earth to the Moon (miniseries)
 Frost/Nixon (film)
 Fuel cell
 Fun with Dick and Jane (2005 film)
+Gabriel Jarret
+Garret Dillahunt
 Gary Sinise
+Gene Hackman
 Gene Kranz
+Geoffrey Rush
+Geraldine Somerville
 Gerry Griffin
 Get on Up (film)
 Gladiator (2000 film)
+Glen Powell
 Glynn Lunney
 Golden Globe Award
 Golden Globe Award for Best Director - Motion Picture
@@ -318,9 +426,16 @@ Grand Theft Auto (film)
 Gravity (2013 film)
 Greedy (film)
 Green Book (film)
+Greg Kinnear
 Gung Ho (film)
+Guy Pearce
+Gwyneth Paltrow
 HD DVD
+Hank Azaria
+Harry Shum Jr.
 Heartland Film Festival
+Helen Mirren
+Helena Bonham Carter
 Hidden Figures
 Hillbilly Elegy (film)
 Home Alone 2: Lost in New York
@@ -331,14 +446,19 @@ Houston, we have a problem
 How the Grinch Stole Christmas (2000 film)
 Hugo Award for Best Dramatic Presentation
 Hugo Awards
+Hugo Speer
+Hugo Weaving
 Huntsville, Alabama
 IMAX
 IMAX DMR
 IMDb (identifier)
 ISBN (identifier)
+Ian Holm
+Ian McKellen
 Il Postino
 Image stitching
 Imagine Entertainment
+Imelda Staunton
 In the Heart of the Sea (film)
 Inferno (2016 film)
 Inglourious Basterds
@@ -347,75 +467,158 @@ Inside Man
 Intolerable Cruelty
 Inventing the Abbotts
 Ionization blackout
+Irrfan Khan
 J. Edgar
+Jack Huston
+Jack Lousma
 Jack Swigert
+Jacky Ido
+Jacob Vargas
+James Brolin
+James Hong
 James Horner
+James Wilby
+Jamie Lee Curtis
 Jane Jenkins
+Janelle Monáe
 Janet Hirshenson
 Janet Maslin
+Jang Hye-jin (actress)
+Javier Bardem
 Jean Speegle Howard
 Jeffrey Kluger
+Jennifer Ehle
+Jennifer Esposito
+Jennifer Lawrence
+Jenny Slate
+Jeremy Northam
+Jeremy Renner
+Jeremy Strong
+Jessica Chastain
+Jim Carter (actor)
 Jim Lovell
 Jim Meskimen
+Jim Parsons
 Joe Kerwin
 Joe Spano
 John Aaron
+John C. Reilly
+John Carroll Lynch
 John Cusack
+John Goodman
+John Hawkes (actor)
+John Noble
+John Rhys-Davies
 John Sayles
+John Slattery
 John Travolta
 John Young (astronaut)
 Johnson Space Center
+Joseph Fiennes
+Joseph Gordon-Levitt
+Josh Brolin
+Judi Dench
+Julie Dreyfus
+Jung Hyeon-jun
+Jung Ji-so
 Kansas Cosmosphere and Space Center
+Karl Urban
 Kathleen Quinlan
 Katy Perry: Part of Me
+Ke Huy Quan
+Kelly Macdonald
+Kelvin Harrison Jr.
 Ken Mattingly
 Kennedy Space Center
+Kerry Bishé
 Kevin Bacon
 Kevin Costner
 Kevin Spacey
+Killers of the Flower Moon (film)
 Kindergarten Cop
+Kirsten Dunst
+Kristin Scott Thomas
+Kyle Chandler
 L.A. Confidential (film)
 La La Land
 Lady Bird (film)
+Larenz Tate
 LaserDisc
 Launch status check
+Lee Jung-eun (actress)
+Lee Sun-kyun
+Lesley Sharp
 Leslie Ekker
 Lethbridge Public Library
+Letitia Wright
 Liar Liar
+Library of Congress
+Liev Schreiber
 Life (1999 film)
 Like Father Like Son (1987 film)
 Liquid oxygen
 Little Miss Sunshine
+Liv Tyler
 Loren Dean
 Los Angeles Times
 Lost Moon
+Louis C.K.
 Lowriders (film)
+Lucas Hedges
+Lucy Liu
+Ludacris
+Luis Guzmán
 Lunar Module
+Lupita Nyong'o
 MCA Records
 MTV Movie Award for Best Actor in a Movie
 MTV Movie Award for Movie of the Year
 MTV Movie Awards
 Mad Max: Fury Road
 Made in America (2013 film)
+Madhur Mittal
+Maggie Smith
+Mahershala Ali
 Malcolm X (1992 film)
 Manned Spacecraft Center
 Marc McClure
+Mark Addy
+Mark Ruffalo
+Mark Rylance
+Marlee Matlin
 Marooned (1969 film)
+Martin Clunes
+Martin Freeman
 Martin Scorsese
+Martin Wuttke
 Mary Kate Schellhardt
+Mary Steenburgen
+Matt Dillon
 Matt Sweeney (special effects artist)
 Max Elliott Slade
+Mena Suvari
 Mercury Rising
 Merideth Boswell
 Metacritic
+Michael B. Jordan
 Michael Cassutt
 Michael Corenblith
+Michael Douglas
+Michael Fassbender
+Michael Gambon
 Michael Kanfer
+Michael Keaton
+Michael Peña
 Michele Little
+Michelle Yeoh
 Mighty Aphrodite
+Miguel Ferrer
 Mike Hill (film editor)
+Mike Myers
+Mike Vogel
 Miko Hughes
 Mira Sorvino
+Miranda Otto
 Mississippi Burning
 Mobile launcher platform
 Moon landing
@@ -424,10 +627,15 @@ Moulin Rouge!
 Mulholland Drive (film)
 My Girl (film)
 My Girl 2
+Mya (singer)
+Mélanie Laurent
 Ménière's disease
 NASA
 NPR
+Naomi Watts
+Nathan Lane
 National Aeronautics and Space Administration
+National Film Registry
 Ned Vaughn
 Neil Armstrong
 Newsday (Nassau Edition)
@@ -436,13 +644,24 @@ Night Shift (1982 film)
 No Country for Old Men
 Nomadland
 Nutty Professor II: The Klumps
+Octavia Spencer
 Open access
+Orlando Bloom
 Panorama
 Parasite (2019 film)
 Parenthood (film)
+Park Myung-hoon
+Park So-dam
 Parking orbit
+Paul Barber (actor)
+Paul Dano
+Paul Giamatti
+Paul Herman
 Pavarotti (film)
 Pete Conrad
+Peter Dinklage
+Peter Gallagher
+Peter Riegert
 Peter Travers
 Physics
 Pocahontas (1995 film)
@@ -452,7 +671,9 @@ Principal photography
 Producers Guild of America
 Producers Guild of America Award for Best Theatrical Motion Picture
 Psycho (1998 film)
+Queen Latifah
 Quiz Show (film)
+Rachel McAdams
 Rance Howard
 Ransom (1996 film)
 Ray McKinnon (actor)
@@ -461,35 +682,52 @@ Real Genius
 Rebuilding Paradise
 Reduced-gravity aircraft
 Reduced gravity aircraft
+Renée Zellweger
 Restless (2011 film)
 Restoration (1995 film)
 Revell
 Richard Corliss
+Richard E. Grant
+Richard Gere
 Rick Dior
 Rita Ryack
+Robert Carlyle
 Robert Legato
 Robin Hood (2010 film)
+Robin Williams
+Rod Taylor
 Roger Corman
 Roger Ebert
 Rolling Stone (magazine)
 Roma (2018 film)
 Ron Howard
+Rory Cochrane
 Rotten Tomatoes
 Rube Goldberg machine
 Rubella
+Rubina Ali
 Rush (2013 film)
+Ryan Phillippe
 S-II
+Sacha Baron Cohen
+Sam Rockwell
+Samara Weaving
 San Francisco Chronicle
+Sandra Bullock
+Sandra Oh
 Saturn Award
 Saturn Award for Best Action/Adventure/Thriller Film
 Saturn V
 Saving Private Ryan
 Scene (filmmaking)
 Schindler's List
+Scoot McNairy
 Scott Millan
 Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
 Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Supporting Role
 Screen Actors Guild Awards
+Sean Astin
+Sean Bean
 Sense and Sensibility (film)
 Sequence (filmmaking)
 Seven (1995 film)
@@ -497,11 +735,16 @@ Seymour Liebergot
 Sgt. Bilko
 Shadow Chasers
 Shakespeare in Love
+Shea Whigham
 Sideways
 Sikorsky SH-3D Sea King
+Simon Callow
+Sissy Spacek
 Skyward (film)
 Slumdog Millionaire
 Solo: A Star Wars Story
+Song Kang-ho
+Sophie Thompson
 Soundtrack
 Space Foundation
 Space Shuttle program
@@ -511,12 +754,29 @@ Splashdown
 Spotlight (film)
 Square peg in a round hole
 Standard score
+Stanley Tucci
+Stephanie Hsu
+Stephen Fry
+Sterling K. Brown
+Steve Carell
+Steve Huison
 Steve Pederson (sound engineer)
+Steven Bauer
 Steven Spielberg
 Survival film
+Susan Misner
 Sy Liebergot
+Sylvester Groth
 THX
+Tanay Chheda
+Tanvi Ganesh Lonkar
+Taraji P. Henson
+Tate Donovan
+Taye Diggs
 Terminator 2: Judgment Day
+Terrence Howard
+Tess Harper
+Thandiwe Newton
 Thanksgiving (United States)
 The Alamo (2004 film)
 The Artist (film)
@@ -557,45 +817,72 @@ The Tree of Life (film)
 The Trial of the Chicago 7
 The Usual Suspects
 Thirteen Lives
+Thomas Haden Church
+Thora Birch
 Three Billboards Outside Ebbing, Missouri
 Tick, Tick... Boom! (film)
+Til Schweiger
 Time (magazine)
+Timothy Spall
 Titanic (1997 film)
 Todd Louiso
 Tom Hanks
+Tom Hollander
+Tom Wilkinson
+Tomas Milian
+Tommy Lee Jones
+Toni Collette
+Topher Grace
 Tor Books
 Tower Heist
 Toy Story
 Tracy Reiner
 Traffic (2000 film)
 Transmission (medicine)
+Troy Kotsur
 Turner Classic Movies
 U.S. Space Camp
-UK
 USS Iwo Jima (LPH-2)
 USS New Orleans (LPH-11)
 Undercover Brother
+United Kingdom
 United Press International
 United States dollar
+Universal City, California
 Universal Pictures
 Universal Studios
+Universal Studios Lot
 Urinary tract infection
 VHS
+Variety (magazine)
 Vehicle Assembly Building
+Victor Garber
+Viggo Mortensen
+Viola Davis
+Virginia Madsen
 Visual effects
 WALL-E
+Wall Street Journal
 Walter Cronkite
 Waterworld
 Wayback Machine
 We Feed People
 Weighted average
 Weightlessness
+Wes Bentley
 William Broyles Jr.
-Willow (film)
+William Fichtner
+William Pogue
+Willow (1988 film)
+Winston Duke
+Woody Harrelson
 Writers Guild of America Award
 Xander Berkeley
+Yahya Abdul-Mateen II
 Young Artist Awards
+Zach Galifianakis
 Zero Dark Thirty
+Željko Ivanek
 http://www.cnn.com/SHOWBIZ/Movies/Apollo13/index.html
 http://www.boxofficemojo.com/movies/?id=apollo13.htm
 http://awardsdatabase.oscars.org/
@@ -633,7 +920,6 @@ https://www.rottentomatoes.com/m/apollo_13
 https://www.boxofficemojo.com/movies/?id=apollo13.htm
 https://web.archive.org/web/20111007053644/http://www.industrycentral.net/director_interviews/RH01.HTM
 https://archive.org/details/apollo1300love/page/118
-https://www.newspapers.com/clip/41798850/the_record/
 https://catalogue.bnf.fr/ark:/12148/cb16976257z
 https://data.bnf.fr/ark:/12148/cb16976257z
 https://viaf.org/viaf/175632885
@@ -644,7 +930,6 @@ https://www.cinemascore.com/publicsearch/index/title/
 https://web.archive.org/web/20200925235456/http://www.cnn.com/SHOWBIZ/Movies/Apollo13/index.html
 https://web.archive.org/web/20181116194505/https://www.boxofficemojo.com/movies/?id=apollo13.htm
 https://web.archive.org/web/20120119112207/http://www.tomhanks-online.com/media/video/detail/420/apollo-13-making-of
-https://web.archive.org/web/20210630021803/https://www.newspapers.com/clip/41798850/page-43/
 https://web.archive.org/web/20180201075421/https://www.npr.org/templates/story/story.php?storyId=128873305
 https://web.archive.org/web/20190413190715/https://creativescreenwriting.com/john-sayles-on-screenwriting/
 https://web.archive.org/web/20110209005330/http://www.imax.com/corporate/history/
@@ -689,3 +974,15 @@ https://www.mcall.com/news/
 https://web.archive.org/web/20230311210504/https://www.newspapers.com/clip/98855969/more-videos-present-movies-in-original/
 https://id.loc.gov/authorities/no2002106536
 https://www.bbc.co.uk/programmes/w3ct0v1r
+https://web.library.yale.edu/film/notes/fn00029
+https://www.latimes.com/archives/la-xpm-1995-02-26-ca-36184-story.html
+https://www.google.com/books/edition/Sound_Mixing_in_TV_and_Film/aPKCDwAAQBAJ?hl=en&gbpv=1&dq=apollo+13+1995+adr&pg=PA21&printsec=frontcover
+https://books.google.com/books?id=55qlWjbs14sC&pg=PA54&lpg=PA54&dq=apollo+13+best+films+of+all+time&source=bl&ots=OyVa93SYKK&sig=ACfU3U0bBpQ_RvEelM1Mhnz5f2aOnYio9Q&hl=en&sa=X&ved=2ahUKEwjfqIeq6IyDAxUjv4kEHe6qCuk4FBDoAXoECAIQAw#v=onepage&q=apollo%2013%20best%20films%20of%20all%20time&f=false
+https://web.archive.org/web/20210630021803/https://www.newspapers.com/clip/41798850/page-43/
+https://variety.com/2023/film/news/national-film-registry-2023-home-alone-terminator-12-years-a-slave-1235833815/
+https://www.newspapers.com/clip/41798850/the_record/
+https://www.wikidata.org/wiki/Q106428#P345
+https://web.archive.org/web/20231228160859/https://www.newspapers.com/article/the-courier-news-what-movies-will-make-y/137542852/
+https://web.archive.org/web/20231228160334/https://www.newspapers.com/article/evening-standard-nerd-superstar/137542353/
+https://www.newspapers.com/article/the-courier-news-what-movies-will-make-y/137542852/
+https://www.newspapers.com/article/evening-standard-nerd-superstar/137542353/

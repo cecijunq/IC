@@ -100,7 +100,7 @@ Whitewashing in film
 
 == External links ==
 
-West Side Story at IMDb
+West Side Story at IMDb 
 West Side Story at the TCM Movie Database
 West Side Story at AllMovie
 West Side Story at the American Film Institute Catalog
@@ -282,6 +282,7 @@ Day for Night (film)
 Deadline Hollywood
 Destination Gobi
 Diane Baker
+Dick Tracy (1990 film)
 Die in a Gunfight
 Directors Guild of America Award for Outstanding Directing – Feature Film
 Divertimento (Bernstein)
@@ -330,6 +331,7 @@ Gee, Officer Krupke
 Gentleman's Agreement
 George Chakiris
 Gershwin Piano Concerto
+Getting Away with Murder (play)
 Getting Married Today (song)
 Ghost singer
 Gigi (1958 film)
@@ -407,6 +409,7 @@ Justin Peck
 Kalisundam Raa
 Kenton's West Side Story
 Keyamat Theke Keyamat
+Killers of the Flower Moon (film)
 Kramer vs. Kramer
 Kuch Tum Kaho Kuch Hum Kahein
 L.A. Confidential (film)
@@ -635,6 +638,7 @@ Spotlight (film)
 Star! (film)
 Star Trek: The Motion Picture
 Stateside Puerto Ricans
+Stavisky
 Stephen Sondheim
 Stephen Sondheim's Old Friends
 Steven Spielberg
@@ -662,6 +666,7 @@ The Artist (film)
 The Arts Desk
 The Banshees of Inisherin
 The Best Years of Our Lives
+The Birdcage
 The Body Snatcher (1945 film)
 The Bridge on the River Kwai
 The Broadway Melody
@@ -710,6 +715,7 @@ The King and I (1956 film)
 The Ladies Who Lunch (song)
 The Lark (play)
 The Last Emperor
+The Last of Sheila
 The Life of Emile Zola
 The Lion King
 The Lion King II: Simba's Pride
@@ -732,6 +738,7 @@ The Sand Pebbles (film)
 The Sea Prince and the Fire Child
 The Secret of Santa Vittoria
 The Set-Up (1949 film)
+The Seven-Per-Cent Solution (film)
 The Shape of Water
 The Silence of the Lambs (film)
 The Social Network
@@ -755,6 +762,7 @@ Tonight Quintet
 Tony Kushner
 Tony Mordente
 Tootsie
+Topper (TV series)
 Topsy-Turvy
 Toshiko–Mariano Quartet (in West Side)
 Touches (Bernstein)
@@ -780,6 +788,7 @@ Upper West Side
 Upper West Side Story
 Urban renewal
 Valley Girl (1983 film)
+Valley Girl (2020 film)
 Vanity Fair (magazine)
 Variety (magazine)
 Ventura Film Festival
@@ -911,3 +920,4 @@ https://www.worldcat.org/oclc/950611437
 https://www.worldcat.org/oclc/1064225701
 https://www.allmovie.com/movie/v428549
 https://www.metacritic.com/movie/west-side-story
+https://www.wikidata.org/wiki/Q273704#P345

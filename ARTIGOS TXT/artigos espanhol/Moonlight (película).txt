@@ -320,3 +320,4 @@ https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%22Q215
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4755&view=2-Film%20Title-Alpha
 https://www.worldcat.org/identities/viaf-35148449618215690655
 https://www.allocine.fr/film/fichefilm_gen_cfilm=242054.html
+https://web.archive.org/web/20080609114144/http://www.metacritic.com/film/highscores.shtml

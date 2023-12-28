@@ -54,6 +54,7 @@ Anexo:Cine en 2020
 
 == Enlaces externos ==2020
 ABC News
+AFI Catalog of Feature Films
 Actuación
 Alcoholismo
 Alegoría
@@ -84,6 +85,7 @@ Director de cine
 Director de fotografía
 Douglas Urbanski
 Drama (cine y televisión)
+El asesino (película de 2023)
 Enfermedad de Parkinson
 Eric Roth
 Erik Messerschmidt
@@ -134,6 +136,7 @@ Orson Welles
 Owen Gleiberman
 País
 Películas de propaganda
+Perdida (película de 2014)
 Peter Travers
 Premios Óscar
 Productor de cine
@@ -185,3 +188,4 @@ https://wikidata-externalid-url.toolforge.org/?p=345&url_prefix=https://www.imdb
 https://www.allmovie.com/movie/v725072
 https://www.allocine.fr/film/fichefilm_gen_cfilm=275554.html
 https://creativecommons.org/licenses/by-sa/4.0/deed.es
+https://catalog.afi.com/Catalog/moviedetails/71056

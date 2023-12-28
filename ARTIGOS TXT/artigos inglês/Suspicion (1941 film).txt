@@ -1,6 +1,6 @@
 Suspicion (1941 film)
 Suspicion is a 1941 romantic psychological thriller film noir directed by Alfred Hitchcock and starring Cary Grant and Joan Fontaine as a married couple. It also features Sir Cedric Hardwicke, Nigel Bruce, Dame May Whitty, Isabel Jeans, Heather Angel, and Leo G. Carroll. Suspicion is based on Francis Iles's novel Before the Fact (1932).
-For her role as Lina, Joan Fontaine won the Academy Award for Best Actress in 1941. This is the only Oscar winning acting performance in a Alfred Hitchcock film.
+For her role as Lina, Joan Fontaine won the Academy Award for Best Actress in 1941. This is the only Oscar winning acting performance in an Alfred Hitchcock film.
 In the film, a romantically inexperienced woman marries a charming playboy after initially rejecting him. He turns out to be penniless, a gambler, and dishonest in the extreme. She comes to suspect that he is also a murderer, and that he is attempting to kill her.
 
 
@@ -95,7 +95,7 @@ Gothic romance film
 
 == External links ==
 
-Suspicion at IMDb
+Suspicion at IMDb 
 Suspicion at AllMovie
 Suspicion at the TCM Movie Database
 Suspicion at the American Film Institute Catalog
@@ -348,3 +348,4 @@ https://news.google.com/newspapers?id=krhQAAAAIBAJ&pg=1818,3568262&q=Cary+Grant+
 https://nationalboardofreview.org/award-years/1941/
 https://www.tcm.com/tcmdb/title/1177/enwp
 https://id.loc.gov/authorities/no2011002064
+https://www.wikidata.org/wiki/Q1509470#P345

@@ -121,6 +121,7 @@ Born This Way Foundation
 Box Office Mojo
 Bradley Cooper
 Brandi Carlile
+British Film Institute
 California
 Canadá
 Chicago Sun-Times
@@ -396,3 +397,4 @@ https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%22Q328
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4889&view=2-Film%20Title-Alpha
 https://www.allocine.fr/film/fichefilm_gen_cfilm=173109.html
 https://www.worldcat.org/identities/lccn-no2018-139772
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154655028

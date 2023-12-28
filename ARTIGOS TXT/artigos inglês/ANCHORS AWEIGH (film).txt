@@ -1,6 +1,6 @@
 Anchors Aweigh (film)
 Anchors Aweigh is a 1945 American musical comedy film directed by George Sidney, starring Frank Sinatra, Kathryn Grayson, and  Gene Kelly, with songs by Jule Styne and Sammy Cahn. The film also features José Iturbi, Pamela Britton, Dean Stockwell, and Sharon McManus.
-The plot concerns two sailors on a four-day shore leave in Hollywood, who meet a young boy and his aunt, an aspiring young singer, and try to help her get an audition at Metro-Goldwyn-Mayer. In a live-action/animated fantasy sequence, Kelly dances with Jerry Mouse, the cartoon mouse of the Tom and Jerry series, and Tom Cat has a brief cameo appearance.The film received mixed reviews but it became a financial success.
+The plot concerns two sailors on a four-day shore leave in Hollywood, who meet a young boy and his aunt, an aspiring young singer, and try to help her get an audition for José Iturbi  at Metro-Goldwyn-Mayer. In a live-action/animated fantasy sequence, Kelly dances with Jerry Mouse, the cartoon mouse of the Tom and Jerry series, and Tom Cat has a brief cameo appearance.The film received mixed reviews but it became a financial success.
 
 
 == Plot ==
@@ -44,7 +44,7 @@ There is also a memorable exterior scene at the Hollywood Bowl, where Sinatra si
 
 
 == Reception ==
-Bosley Crowther of The New York Times wrote: "Another humdinger of a musical has been produced by Joe Pasternak for Metro ... for a popular entertainment, 'Anchors Aweigh' is hard to beat." Variety called the film "solid musical fare for all situations. The production numbers are zingy; the songs are extremely listenable; the color treatment outstanding." Harrison's Reports wrote: "Very good mass entertainment. Photographed in Technicolor, the production is extremely lavish, has good comedy, a romance, tuneful songs, and effective dancing. The story is thin, but it has some human interest, and there are so many humorous situations that one is kept laughing most of the way." Film Daily wrote: "Everything that could possibly be crammed into a musical is in evidence in this production ... It is hard to think of an M-G-M musical excelling it. There is no reason why the film should not gain recognition as one of the year's best of its type."According to MGM records the film earned $4,498,000 in the US and Canada and $2,977,000 elsewhere, resulting in a profit of $2,123,000.Rotten Tomatoes gives a score of 57% based on 14 reviews.
+Bosley Crowther of The New York Times wrote: "Another humdinger of a musical has been produced by Joe Pasternak for Metro ... for a popular entertainment, 'Anchors Aweigh' is hard to beat." Variety called the film "solid musical fare for all situations. The production numbers are zingy; the songs are extremely listenable; the color treatment outstanding." Harrison's Reports wrote: "Very good mass entertainment. Photographed in Technicolor, the production is extremely lavish, has good comedy, a romance, tuneful songs, and effective dancing. The story is thin, but it has some human interest, and there are so many humorous situations that one is kept laughing most of the way." Film Daily wrote: "Everything that could possibly be crammed into a musical is in evidence in this production ... It is hard to think of an MGM musical excelling it. There is no reason why the film should not gain recognition as one of the year's best of its type."According to MGM records the film earned $4,498,000 in the US and Canada and $2,977,000 elsewhere, resulting in a profit of $2,123,000.Rotten Tomatoes gives a score of 57% based on 14 reviews.
 
 
 == Awards and honors ==
@@ -58,16 +58,15 @@ In 2001, Kevin Spacey purchased George Stoll's Oscar statuette at a Butterfield 
 
 
 == References ==
-Notes
 
-Further reading
 
-Monder, Eric (1994). George Sidney:a Bio-Bibliography. Greenwood Press. ISBN 9780313284571.
+== Further reading ==
+Monder, Eric (1994). George Sidney:a Bio-Bibliography. Greenwood Press. ISBN 978-0-313-28457-1. OCLC 30110273.
 
 
 == External links ==
 
-Anchors Aweigh at IMDb
+Anchors Aweigh at IMDb 
 Anchors Aweigh at the TCM Movie Database
 Anchors Aweigh at AllMovie
 Anchors Aweigh at the American Film Institute Catalog
@@ -165,6 +164,7 @@ MultiVersus
 Musical film
 Natalie Marcin
 Nibbles (Tom and Jerry)
+OCLC (identifier)
 Olvera Street
 On the Town (film)
 Pacific Rendezvous
@@ -241,6 +241,7 @@ Tom and Jerry and the Wizard of Oz
 Tom and Jerry filmography
 Tom and Jerry in Fists of Furry
 Tom and Jerry in House Trap
+Tom and Jerry in Infurnal Escape
 Tom and Jerry in New York
 Tom and Jerry in War of the Whiskers
 Turner Classic Movies
@@ -265,3 +266,5 @@ https://www.rottentomatoes.com/m/anchors_aweigh
 https://www.wikidata.org/wiki/Q542988#identifiers
 https://musicbrainz.org/release-group/8964bb96-8fc8-4882-b047-8829ce2a49dc
 https://www.tcm.com/tcmdb/title/10/enwp
+https://www.worldcat.org/oclc/30110273
+https://www.wikidata.org/wiki/Q542988#P345

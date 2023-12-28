@@ -38,6 +38,7 @@ Años 1970
 Banda sonora
 Biblioteca de Cataluña
 Box Office Mojo
+British Film Institute
 Chile
 Cine de Italia
 Control de autoridades
@@ -102,3 +103,4 @@ https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=3624&view=2-Film%
 https://cantic.bnc.cat/registre/981058515942506706
 https://www.worldcat.org/identities/viaf-316751829
 https://www.allocine.fr/film/fichefilm_gen_cfilm=12730.html
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150403883

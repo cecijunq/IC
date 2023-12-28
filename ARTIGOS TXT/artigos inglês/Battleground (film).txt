@@ -1,5 +1,5 @@
 Battleground (film)
-Battleground is a 1949 American war film that follows a company in the 327th Glider Infantry Regiment, 101st Airborne Division as they cope with the siege of Bastogne during the Battle of the Bulge, in World War II.  It stars Van Johnson, John Hodiak, Ricardo Montalbán, and George Murphy, features James Whitmore, and was directed by William A. Wellman from a script by Robert Pirosh.
+Battleground is a 1949 American war film that follows a company in the 327th Glider Infantry Regiment, 101st Airborne Division as they fight in the siege of Bastogne during the Battle of the Bulge, in World War II.  It stars Van Johnson, John Hodiak, Ricardo Montalbán, and George Murphy, features James Whitmore, and was directed by William A. Wellman from a script by Robert Pirosh.
 The film portrays American soldiers as vulnerable and human.  While they remain steadfast and courageous, each soldier has at least one moment in the film when he seriously considers running away, schemes to get sent back from the front line, slacks off, or complains about the situation he is in. One writer – discarding Warner's successful Fighter Squadron of 1948 – describes Battleground as the first significant American film about World War II to be made and released after the end of the war.
 
 
@@ -12,7 +12,7 @@ Kinnie informs the squad about the infiltration and dispatches a patrol comprisi
 Sgt. Wolowicz, wounded by shrapnel, and a sick Cpl. Standiferd are sent to a field hospital. Later, Doc informs the 2nd Squad that the hospital has been captured.
 Holley is appointed the new squad leader and partnered with Layton, while Pop is paired with Hansan. Pop's discharge finally comes in, but they learn from Kipp they are surrounded, meaning he's stuck and unable to leave.
 Moved repeatedly, the 3rd Platoon is attacked at dawn. When it appears, the platoon will be overrun, Hansan is wounded, Holley flees, and Layton follows Holley. Ashamed, Holley turns around and leads a flanking counterattack that stops the Germans, during which Abner Spudler is killed reaching for his boots, as he can't sleep with them on.
-After they get Hanson to an aid station, the squad runs into Bettis, who is doing K.P. duty. Holley finds Layton being entertained by Denise. Later, while on guard duty, they encounter some Germans who have come under a flag of truce to offer Brigadier General McAuliffe surrender terms; his famous reply - "Nuts!" - puzzles the Germans.The squad is short of supplies, as bad weather has grounded the supply transport aircraft. Several men attend impromptu outdoor Christmas services held by a chaplain. (The chaplain had previously served as clergy at a Hanukkah ceremony, and when he asks a Jewish soldier how he did he responds, "Not bad for a beginner, padre.") That night, the Luftwaffe bombs Bastogne. Denise dies, and Bettis, slowed by his fear of returning to the lines, is killed by a collapsing house. The "walking wounded", including Hansan and a mess sergeant he befriends, are recalled for a last-ditch defense of the town.
+After they get Hanson to an aid station, the squad runs into Bettis, who is doing K.P. duty. Holley finds Layton being entertained by Denise. Later, while on guard duty, they encounter some Germans who have come under a flag of truce to offer Brigadier General McAuliffe surrender terms; his famous reply - "Nuts!" - puzzles the Germans.The squad is short of supplies, as bad weather has grounded the supply transport aircraft. Several men attend impromptu outdoor Christmas services held by a chaplain. (The chaplain had previously served as clergy at a Hanukkah ceremony, and when he asks a Jewish soldier how he did he responds, "Not bad for a beginner, padre.") The chaplain gives a short speech on the importance of the fight against fascism. He then asks "The 64 thousand dollar question is: was this trip worth it?" After giving an affirmative explanation, he says that people will forget, but they won't, and "don't let anyone ever tell you that you were a sucker to fight against fascism." That night, the Luftwaffe bombs Bastogne. Denise dies, and Bettis, slowed by his fear of returning to the lines, is killed by a collapsing house. The "walking wounded", including Hansan and a mess sergeant he befriends, are recalled for a last-ditch defense of the town.
 As the platoon is down to its last few rounds of ammunition, the weather finally clears, allowing Allied fighter aircraft to attack the Germans and C-47 transports to drop supplies, enabling the 101st to hold. Afterward, Kinnie leads the platoon's survivors' rearward for a well-earned rest.
 
 
@@ -43,7 +43,7 @@ The unit portrayed in the film is the fictional "2nd Squad, 3rd Platoon of Item 
 == External links ==
 
 Battleground at the American Film Institute Catalog
-Battleground at IMDb
+Battleground at IMDb 
 Battleground at the TCM Movie Database
 Battleground at AllMovie
 Battleground at Rotten Tomatoes
@@ -143,6 +143,7 @@ Lt Col
 Luftwaffe
 MGM
 Magic Town
+Margaret Herrick Library
 Marshall Thompson
 Maybe It's Love (1930 film)
 Men with Wings
@@ -240,3 +241,4 @@ http://www.wga.org/awards/awardssub.aspx?id=1551
 https://www.tcm.com/tcmdb/title/2199/enwp
 https://web.archive.org/web/20190902012543/http://www.history.army.mil/books/wwii/Bastogne/bast-14.htm
 https://doi.org/10.1080%2F01439689200260081
+https://www.wikidata.org/wiki/Q1620831#P345

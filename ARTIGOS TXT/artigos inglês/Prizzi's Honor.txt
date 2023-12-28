@@ -48,7 +48,7 @@ In June 1990, it was announced Sidney Lumet had signed on to direct an adaptatio
 
 Prizzi's Honor at Rotten Tomatoes
 Prizzi's Honor at AllMovie
-Prizzi's Honor at IMDb
+Prizzi's Honor at IMDb 
 Prizzi's Honor at the TCM Movie Database1985 Los Angeles Film Critics Association Awards
 1985 National Society of Film Critics Awards
 1985 New York Film Critics Circle Awards
@@ -187,6 +187,7 @@ John Randolph (actor)
 Joseph Ruskin
 Kathleen Turner
 Key Largo (film)
+Killers of the Flower Moon (film)
 Kramer vs. Kramer
 L.A. Confidential (film)
 La La Land
@@ -388,3 +389,4 @@ https://www.afi.com/Docs/100Years/passions400.pdf
 https://web.archive.org/web/20110911161721/http://www.afi.com/drop/ballot.pdf
 https://www.latimes.com/archives/la-xpm-1990-06-17-ca-114-story.html
 https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id=1551
+https://www.wikidata.org/wiki/Q460664#P345

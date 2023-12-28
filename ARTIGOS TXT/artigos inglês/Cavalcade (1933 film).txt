@@ -55,7 +55,7 @@ In addition to several original compositions by Coward, more than fifty popular 
 Cavalcade was an instant commercial success, earning $1,004,000 in North American rentals, and $3.5 million in worldwide rentals. It made over US$1 million in the UK. It ended up making an estimated profit of £2,500,000 during its initial theatrical release.
 
 
-=== Critcal reception ===
+=== Critical reception ===
 Mordaunt Hall of The New York Times called the film "most affecting and impressive" and added, "In all its scenes there is a meticulous attention to detail, not only in the settings ... but also in the selection of players ... It is unfurled with such marked good taste and restraint that many an eye will be misty after witnessing this production."The film was reportedly Adolf Hitler's favorite film. During 1934, he and Joseph Goebbels, director of Nazi propaganda films, watched the film twice in March and May.The film holds a 67% approval rating on the review aggregation website Rotten Tomatoes based on 36 reviews, with an average rating of 5.90/10. The site's consensus reads: "Though solidly acted and pleasant to look at, Cavalcade lacks cohesion, and sacrifices true emotion for mawkishness." On Metacritic, the film holds a weighted average score of 73 out of 100 based on 13 critics, indicating "generally favorable reviews".
 
 
@@ -82,7 +82,7 @@ Glancy, H. Mark.When Hollywood Loved Britain: The Hollywood 'British' Film 1939�
 
 == External links ==
 
-Cavalcade at IMDb
+Cavalcade at IMDb 
 Cavalcade at AllMovie
 Cavalcade at the TCM Movie Database
 Cavalcade at the American Film Institute Catalog
@@ -139,8 +139,8 @@ Bitter Sweet (1940 film)
 Bitter Sweet (operetta)
 Black Oxen
 Blithe Spirit (1945 film)
-Blithe Spirit (1956 film)
 Blithe Spirit (2020 film)
+Blithe Spirit (Ford Star Jubilee)
 Blithe Spirit (play)
 Blood on the Sun
 Bonita Granville
@@ -256,7 +256,7 @@ Les Misérables (1917 film)
 Leslie Stuart
 London Calling! (musical)
 Look After Lulu!
-Look After Lulu! (TV play)
+Look After Lulu! (Brian Rix Presents...)
 Louis Blériot
 Lowell Mason
 Lux Radio Theater
@@ -314,7 +314,7 @@ Post-Mortem (Coward play)
 Pre-Code Hollywood
 Present Indicative (book)
 Present Laughter
-Present Laughter (1967 TV play)
+Present Laughter (Play of the Week)
 Pretty Polly (film)
 Private Lives
 Private Lives (film)
@@ -496,3 +496,4 @@ https://www.tcm.com/tcmdb/title/70523/enwp
 https://web.archive.org/web/20120210205805/http://movies.nytimes.com/movie/8678/Cavalcade/details
 https://newscomwc.newspapers.com/image/742429711/?terms=%22triumph%20of%20the%20will%22%20leni&pqsid=UBCusiagzG8djHYLmr4Gtg:95000:1914495095&match=1
 https://www.metacritic.com/movie/cavalcade
+https://www.wikidata.org/wiki/Q753107#P345

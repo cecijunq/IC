@@ -1,11 +1,11 @@
 The Caine Mutiny (film)
-The Caine Mutiny is a 1954 American military trial film directed by Edward Dmytryk, produced by Stanley Kramer, and starring Humphrey Bogart, José Ferrer, Van Johnson, Robert Francis, and Fred MacMurray.  It is based on Herman Wouk’s Pulitzer Prize-winning 1951 novel of the same name.
+The Caine Mutiny is a 1954 American military trial film directed by Edward Dmytryk, produced by Stanley Kramer, and starring Humphrey Bogart, José Ferrer, Van Johnson, Robert Francis, and Fred MacMurray.  It is based on Herman Wouk's Pulitzer Prize-winning 1951 novel of the same name.
 Set in the Pacific theatre of World War II, the film depicts the events on board a fictitious U.S. Navy destroyer-minesweeper and the subsequent court-martial of its executive officer for mutiny.
 The film was well-received by critics and was the second highest-grossing film in the United States in 1954.
 
 
 == Plot ==
-During World War II, newly commissioned Ensign Willis Seward "Willie" Keith reports to the minesweeper USS Caine, commanded by Lieutenant Commander William De Vriess, also meeting the executive officer (XO), Lieutenant Stephen Maryk, and the communications officer, Lieutenant Thomas Keefer. De Vriess, popular with the men but disliked by Keith, is relieved by Lieutenant Commander Queeg. Keith is freshly out of college and officer candidate school and is courting May Wynn, who is not approved by his mother. Maryk is a career officer and Keefer is an aspiring novelist.
+During World War II, newly commissioned Ensign Willis Seward "Willie" Keith reports to the minesweeper USS Caine, commanded by Lieutenant Commander William De Vriess, also meeting the executive officer (XO), Lieutenant Stephen Maryk, and the communications officer, Lieutenant Thomas Keefer. De Vriess, popular with the men but disliked by Keith, is relieved by Lieutenant Commander Queeg. Keith is freshly out of college and officer candidate school and is courting May Wynn, who is not approved of by his mother. Maryk is a career officer and Keefer is an aspiring novelist.
 Queeg attempts to instill strict discipline on the Caine's lax crew, which makes him unpopular with the officers and men.
 After a day of gunnery target towing, Queeg orders a turn to head back to Pearl Harbor, but distracts himself by berating Keith and Keefer over a crewman's appearance. Ignoring the helmsman's repeated warnings, he allows the Caine to turn in a full circle and cut the towline, setting the target adrift. Queeg tries to cover up the incident.
 During a shore leave, May breaks off her relationship with Keith after she asks him to essentially choose between her and his mother, and he makes the wrong choice. Keith returns to the ship for its next assignment. 
@@ -61,7 +61,7 @@ AFI's 10 Top 10 – Nominated Courtroom Drama
 
 
 == Legacy ==
-In his book American Literature on Stage and Film, historian Thomas S. Hischak says that Dmytryk handled both the action sequences and character portrayals deftly, and calls Queeg's breakdown during the trial "the stuff of movie legend."The film and novel influenced the drafters of the 25th Article Of Amendment to the U.S. Constitution, which set forth conditions for removing the President of the United States. John D. Feerick, former dean of Fordham University School of Law, who assisted in drafting the amendment, told The Washington Post in 2018 that the film was a “live depiction” of the type of crisis that could arise "if a president ever faced questions about physical or mental inabilities but disagreed completely with the judgment", which was not dealt with in the Constitution. Lawmakers and lawyers drafting the amendment wanted no such "Article 184 situation" as depicted in the film, in which the Vice President of the U.S. or others could topple the President by merely saying that the President was "disabled".
+In his book American Literature on Stage and Film, historian Thomas S. Hischak says that Dmytryk handled both the action sequences and character portrayals deftly, and calls Queeg's breakdown during the trial "the stuff of movie legend."The film and novel influenced the drafters of the 25th Article Of Amendment to the U.S. Constitution, which set forth conditions for removing the President of the United States. John D. Feerick, former dean of Fordham University School of Law, who assisted in drafting the amendment, told The Washington Post in 2018 that the film was a "live depiction" of the type of crisis that could arise "if a president ever faced questions about physical or mental inabilities but disagreed completely with the judgment", which was not dealt with in the Constitution. Lawmakers and lawyers drafting the amendment wanted no such "Article 184 situation" as depicted in the film, in which the Vice President of the U.S. or others could topple the President by merely saying that the President was "disabled".
 
 
 === Cultural influence ===
@@ -89,7 +89,7 @@ Tibbetts, John C., and James M. Welsh, eds. The Encyclopedia of Novels Into Film
 == External links ==
 
 The Caine Mutiny at the American Film Institute Catalog
-The Caine Mutiny at IMDb
+The Caine Mutiny at IMDb 
 The Caine Mutiny at the TCM Movie Database
 The Caine Mutiny at AllMovie
 The Caine Mutiny at Rotten Tomatoes
@@ -121,16 +121,16 @@ BAFTA
 BAFTA Award for Best Actor in a Leading Role
 BAFTA Award for Best Film
 Back to Bataan
-Ball (bearing)
 Baoding balls
 Battle of Saipan
+Bearing balls
 Behind the Rising Sun (film)
 Better Call Saul
 Bluebeard (1972 film)
-Bob Hope Airport
 Bosley Crowther
 Breaking Bad
 Broken Lance
+Burbank Airport
 Captain
 Captive Wild Woman
 Cary Grant
@@ -182,7 +182,7 @@ Intrada Records
 James Best
 James Edwards (actor)
 Jerry Paris
-John Feerick
+John D. Feerick
 John P. Livadary
 José Ferrer
 Judge Advocate General's Corps (United States)
@@ -194,7 +194,7 @@ Leapfrogging (strategy)
 Lee Marvin
 Leicester Square
 Lieutenant
-Lieutenant Commander
+Lieutenant commander (United States)
 Lieutenant junior grade
 List of American films of 1954
 London
@@ -219,7 +219,7 @@ New York Film Critics Circle Award for Best Director
 Obsession (1949 film)
 One Hundred and One Dalmatians
 Pacific War
-Paranoia
+Paranoid
 Pearl Harbor
 Post-traumatic stress disorder
 Pulitzer Prize for Fiction
@@ -344,3 +344,4 @@ http://awards.bafta.org/award/1955/film
 https://www.dga.org/Awards/History/1950s/1954.aspx?value=1954
 https://www.nyfcc.com/awards/?awardyear=1954
 https://id.loc.gov/authorities/no2010066668
+https://www.wikidata.org/wiki/Q5435430#P345

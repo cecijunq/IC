@@ -113,8 +113,8 @@ Fandango (compañía)
 Fantastic Fest
 Festival Internacional de Cine de Chicago
 Festival Internacional de Cine de Hawái
-Festival Internacional de Cine de San Diego
 Festival Internacional de Cine de Toronto
+Festival de cine
 FilmAffinity
 Fox Searchlight Pictures
 Fusilamiento
@@ -170,6 +170,7 @@ Richard Roeper
 Roman Griffin Davis
 Rotten Tomatoes
 Sam Rockwell
+San Diego (California)
 Scarlett Johansson
 Segunda Guerra Mundial
 Slant Magazine
@@ -209,23 +210,6 @@ https://www.pikifilms.com/updates/2019/7/24/jojo-rabbit-premieres-at-tiff-amp-re
 https://tiff.net/events/jojo-rabbit
 https://web.archive.org/web/20191112090945/https://www.hollywoodreporter.com/features/making-jojo-rabbit-how-taika-waititi-scored-beatles-music-his-hitler-satire-1252528
 https://www.hollywoodreporter.com/features/making-jojo-rabbit-how-taika-waititi-scored-beatles-music-his-hitler-satire-1252528
-https://web.archive.org/web/20190915191920/https://deadline.com/2019/09/jojo-rabbit-wins-torontos-grolsch-peoples-choice-award-best-picture-oscar-predictor-1202735101/
-https://deadline.com/2019/09/jojo-rabbit-wins-torontos-grolsch-peoples-choice-award-best-picture-oscar-predictor-1202735101/
-https://web.archive.org/web/20190910122937/https://www.telegraph.co.uk/films/2019/09/09/disney-hitler-movie-jojo-rabbit-divides-critics-angers-germany/
-https://www.telegraph.co.uk/films/2019/09/09/disney-hitler-movie-jojo-rabbit-divides-critics-angers-germany/
-https://web.archive.org/web/20190911041253/https://www.indiewire.com/2019/09/jojo-rabbit-divides-tiff-oscar-buzz-negative-reviews-1202172101/
-https://www.indiewire.com/2019/09/jojo-rabbit-divides-tiff-oscar-buzz-negative-reviews-1202172101/
-https://web.archive.org/web/20191108080929/https://www.flicks.co.nz/news/jojo-rabbit-tickets-are-now-on-sale/
-https://www.flicks.co.nz/news/jojo-rabbit-tickets-are-now-on-sale/
-https://web.archive.org/web/20191203194830/https://www.indiewire.com/2019/12/national-board-of-review-2019-winners-irishman-1202193897/
-https://www.indiewire.com/2019/12/national-board-of-review-2019-winners-irishman-1202193897/
-https://web.archive.org/web/20191210160159/https://www.afi.com/news/afi-awards-2019-honorees-announced/
-https://www.afi.com/news/afi-awards-2019-honorees-announced/
-https://www.vulture.com/2019/09/jojo-rabbit-trailer-taika-waititi-hitler.html
-https://web.archive.org/web/20190920044742/https://www.latimes.com/entertainment-arts/movies/story/2019-09-08/taika-waititi-jojo-rabbit-nazi-comedy
-https://www.latimes.com/entertainment-arts/movies/story/2019-09-08/taika-waititi-jojo-rabbit-nazi-comedy
-https://web.archive.org/web/20190807185024/https://booktrib.com/2019/08/in-conversation-with-christine-leunens/
-https://booktrib.com/2019/08/in-conversation-with-christine-leunens/
 https://web.archive.org/web/20190723140739/https://variety.com/2019/film/news/toronto-film-festival-joker-ford-v-ferrari-hustlers-lineup-1203275868/
 https://variety.com/2019/film/news/toronto-film-festival-joker-ford-v-ferrari-hustlers-lineup-1203275868/
 https://web.archive.org/web/20190923002115/https://birthmoviesdeath.com/2019/09/20/fantastic-fest-review-jojo-rabbit-empire-of-the-sun
@@ -292,3 +276,20 @@ https://web.archive.org/web/20191022042305/https://www.pikifilms.com/updates/201
 https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%22Q54862508%22
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=5020&view=2-Film%20Title-Alpha
 https://www.allocine.fr/film/fichefilm_gen_cfilm=258998.html
+https://www.vulture.com/2019/09/jojo-rabbit-trailer-taika-waititi-hitler.html
+https://web.archive.org/web/20190920044742/https://www.latimes.com/entertainment-arts/movies/story/2019-09-08/taika-waititi-jojo-rabbit-nazi-comedy
+https://www.latimes.com/entertainment-arts/movies/story/2019-09-08/taika-waititi-jojo-rabbit-nazi-comedy
+https://web.archive.org/web/20190807185024/https://booktrib.com/2019/08/in-conversation-with-christine-leunens/
+https://booktrib.com/2019/08/in-conversation-with-christine-leunens/
+https://web.archive.org/web/20190915191920/https://deadline.com/2019/09/jojo-rabbit-wins-torontos-grolsch-peoples-choice-award-best-picture-oscar-predictor-1202735101/
+https://deadline.com/2019/09/jojo-rabbit-wins-torontos-grolsch-peoples-choice-award-best-picture-oscar-predictor-1202735101/
+https://web.archive.org/web/20190910122937/https://www.telegraph.co.uk/films/2019/09/09/disney-hitler-movie-jojo-rabbit-divides-critics-angers-germany/
+https://www.telegraph.co.uk/films/2019/09/09/disney-hitler-movie-jojo-rabbit-divides-critics-angers-germany/
+https://web.archive.org/web/20190911041253/https://www.indiewire.com/2019/09/jojo-rabbit-divides-tiff-oscar-buzz-negative-reviews-1202172101/
+https://www.indiewire.com/2019/09/jojo-rabbit-divides-tiff-oscar-buzz-negative-reviews-1202172101/
+https://web.archive.org/web/20191108080929/https://www.flicks.co.nz/news/jojo-rabbit-tickets-are-now-on-sale/
+https://www.flicks.co.nz/news/jojo-rabbit-tickets-are-now-on-sale/
+https://web.archive.org/web/20191203194830/https://www.indiewire.com/2019/12/national-board-of-review-2019-winners-irishman-1202193897/
+https://www.indiewire.com/2019/12/national-board-of-review-2019-winners-irishman-1202193897/
+https://web.archive.org/web/20191210160159/https://www.afi.com/news/afi-awards-2019-honorees-announced/
+https://www.afi.com/news/afi-awards-2019-honorees-announced/

@@ -1,5 +1,5 @@
 The Patriot (1928 film)
-The Patriot is a 1928 semi-biographical film that was directed by Ernst Lubitsch and released by Paramount Pictures. While mainly a silent film, the film did have a synchronized soundtrack as well as some talking sequences. The movie is a biographical story of Emperor Paul I of Russia, starring Emil Jannings, Florence Vidor and Lewis Stone.
+The Patriot is a 1928 sound part-talkie semi-biographical film that was directed by Ernst Lubitsch and released by Paramount Pictures. The film featured a synchronized musical soundtrack with sound effects along with some talking sequences using the Western Electric sound-on-film recording process. The movie is a biographical story of Emperor Paul I of Russia, starring Emil Jannings, Florence Vidor, and Lewis Stone.
 
 
 == Plot ==
@@ -15,6 +15,10 @@ Neil Hamilton as Crown Prince Alexander
 Harry Cording as StefanTullio Carminati and Carmencita Johnson appear uncredited in this movie.
 
 
+== Music ==
+The musical score for the film was composed by Max Bergunker, Gerard Carbonara and Domenico Savino.
+
+
 == Production ==
 
 
@@ -26,7 +30,7 @@ The film was written by Hanns Kräly; it is an adaptation of two plays: Paul I b
 
 
 === Awards ===
-It won the Academy Award for Best Writing and was nominated for Best Picture,  Best Director, Best Actor (Lewis Stone) and Best Art Direction. It was the last silent film nominated for Best Picture.
+It won the Academy Award for Best Writing and was nominated for Best Picture,  Best Director, Best Actor (Lewis Stone) and Best Art Direction. It was the last Part-talkie that was nominated for Best Picture.
 
 
 == Remake ==
@@ -47,7 +51,8 @@ List of early sound feature films (1926–1929)
 
 
 == External links ==
-The Patriot at IMDb
+
+The Patriot at IMDb 
 The Patriot at Rotten TomatoesA Royal Scandal (1945 film)
 Academy Award
 Academy Award for Best Actor
@@ -102,14 +107,15 @@ Ninotchka
 One Hour with You
 Paramount Pictures
 Paramount on Parade
+Part-talkie
 Paul I of Russia
 Peter Ludwig von der Pahlen
 Romeo and Juliet in the Snow
 Rosita (film)
 Rotten Tomatoes
 Shoe Palace Pinkus
-Silent film
 So This Is Paris (1926 film)
+Sound film
 Sumurun
 That Lady in Ermine
 That Uncertain Feeling (film)
@@ -154,3 +160,4 @@ https://www.google.com/search?tbm=nws&q=%22The+Patriot%22+1928+film+-wikipedia&t
 https://www.google.com/search?&q=%22The+Patriot%22+1928+film&tbs=bkt:s&tbm=bks
 https://www.google.com/search?tbs=bks:1&q=%22The+Patriot%22+1928+film+-wikipedia
 https://scholar.google.com/scholar?q=%22The+Patriot%22+1928+film
+https://www.wikidata.org/wiki/Q1109750#P345

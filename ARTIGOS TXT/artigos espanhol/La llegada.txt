@@ -207,3 +207,4 @@ https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%22Q203
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4721&view=2-Film%20Title-Alpha
 https://www.allocine.fr/film/fichefilm_gen_cfilm=226509.html
 https://creativecommons.org/licenses/by-sa/4.0/deed.es
+https://web.archive.org/web/20170517162403/http://www.lanacion.com.ar/1974532-premios-bafta-2017-todos-los-nominados

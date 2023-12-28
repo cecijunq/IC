@@ -91,12 +91,16 @@ AlloCiné
 American Film Institute
 Anuario
 Año
+BAFTA Award for Best Actress in a Leading Role
+BAFTA Award for Best Actress in a Supporting Role
+BAFTA Award for Best Original Screenplay
 Baile de graduación
 Banda sonora
 Bayne Gibby
 Beanie Feldstein
 Box Office Mojo
 Boyhood (película)
+British Film Institute
 Broadway
 Brooklyn (película de 2015)
 California
@@ -119,6 +123,10 @@ Globo de Oro a la mejor actriz - Comedia o musical
 Globo de Oro a la mejor actriz de reparto
 Globo de Oro a la mejor película - Comedia o musical
 Globo de Oro al mejor guion
+Golden Globe Award for Best Actress – Motion Picture Musical or Comedy
+Golden Globe Award for Best Motion Picture – Musical or Comedy
+Golden Globe Award for Best Screenplay
+Golden Globe Award for Best Supporting Actress – Motion Picture
 Greta Gerwig
 Guionista
 Género cinematográfico
@@ -222,3 +230,4 @@ https://www.wikidata.org/wiki/Q27480769#P856
 https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%22Q27480769%22
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=4814&view=2-Film%20Title-Alpha
 https://www.allocine.fr/film/fichefilm_gen_cfilm=32941.html
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154603909

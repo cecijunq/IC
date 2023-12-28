@@ -71,7 +71,7 @@ Lionel Barrymore filmography
 
 
 == External links ==
-The Hollywood Revue of 1929 at IMDb
+The Hollywood Revue of 1929 at IMDb 
 The Hollywood Revue of 1929 at the TCM Movie Database
 The Hollywood Revue of 1929 at AllMovie
 The Hollywood Revue at the American Film Institute Catalog
@@ -232,7 +232,7 @@ The Broadway Melody
 The Brox Sisters
 The Champ (1931 film)
 The Chief (film)
-The Cobra Strikes (1948 film)
+The Cobra Strikes
 The Crowd (1928 film)
 The Divorcee
 The Fortune Hunter (1927 film)
@@ -296,3 +296,6 @@ https://archive.org/details/realtinsel00rose/page/189
 https://www.rottentomatoes.com/m/hollywood_revue_of_1929
 https://www.tcm.com/tcmdb/title/211/enwp
 https://catalog.afi.com/Catalog/moviedetails/9787
+https://www.wikidata.org/wiki/Q981032#identifiers
+https://musicbrainz.org/work/13df51e7-5eae-4e6d-b68c-b9d10d0e0759
+https://www.wikidata.org/wiki/Q981032#P345

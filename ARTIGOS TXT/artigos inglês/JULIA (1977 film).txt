@@ -1,6 +1,6 @@
 Julia (1977 film)
 Julia is a 1977 American WWII drama film directed by Fred Zinnemann, from a screenplay by Alvin Sargent. It is based on a chapter from Lillian Hellman's 1973 book Pentimento about the author's relationship with a lifelong friend, Julia, who fought against the Nazis in the years prior to World War II. The film stars Jane Fonda, Vanessa Redgrave, Jason Robards, Hal Holbrook, Rosemary Murphy, Maximilian Schell, and Meryl Streep in her film debut.
-Julia was released theatrically on October 2, 1977 by 20th Century Fox. The film received generally positive reviews from critics and grossed $20.7 million against its $7 million budget. It received a leading 11 nominations at the 50th Academy Awards, including Best Picture, and won three awards: Best Supporting Actor (for Robards), Best Supporting Actress (for Redgrave) and Best Adapted Screenplay. 
+Julia was released theatrically on October 2, 1977 by 20th Century Fox. The film received generally positive reviews from critics and grossed $20.7 million against its $7 million budget. It received a leading 11 nominations at the 50th Academy Awards, including Best Picture, and won three awards: Best Supporting Actor (for Robards), Best Supporting Actress (for Redgrave) and Best Adapted Screenplay.
 At the 35th Golden Globe Awards it received a leading seven nominations, including for the Best Motion Picture – Drama, with Fonda and Redgrave winning for Best Actress and Best Supporting Actress, respectively. The film also received a leading ten nominations at the 32nd British Academy Film Awards and won four: Best Film, Best Actress (for Fonda), Best Screenplay, and Best Cinematography.
 
 
@@ -39,7 +39,7 @@ After Redgrave was nominated for Best Supporting Actress, the Jewish Defense Lea
 
 
 == External links ==
-Julia at IMDb
+Julia at IMDb 
 Julia at AllMovie
 Julia at the TCM Movie Database
 Julia at the American Film Institute Catalog
@@ -72,6 +72,7 @@ Academy Award for Best Supporting Actor
 Academy Award for Best Supporting Actress
 Act of Violence
 After the Thin Man
+Alan Campbell (screenwriter)
 Alice Doesn't Live Here Anymore
 AllMovie
 All About Eve
@@ -314,3 +315,4 @@ https://www.rottentomatoes.com/m/julia1977
 https://books.google.com/books?id=SiK_3d6a7DQC&q=zinnemann+%22ended+in+pure+hatred%22&pg=PA156
 https://www.tcm.com/tcmdb/title/79965/enwp
 https://archive.today/20140219045633/http://awardsdatabase.oscars.org/ampas_awards/DisplayMain.jsp?curTime=1392734629247
+https://www.wikidata.org/wiki/Q1166180#P345

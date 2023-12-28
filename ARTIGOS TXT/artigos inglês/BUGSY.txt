@@ -14,14 +14,14 @@ The end title cards state that one week after Bugsy's death, Virginia returned a
 
 
 == Cast ==
-Warren Beatty as Ben "Bugsy" Siegel
+Warren Beatty as Benjamin "Bugsy" Siegel
 Annette Bening as Virginia Hill
 Harvey Keitel as Mickey Cohen
 Ben Kingsley as Meyer Lansky
 Elliott Gould as Harry Greenberg
 Joe Mantegna as George Raft
 Bebe Neuwirth as Countess Dorothy di Frasso
-Bill Graham as Charlie Luciano
+Bill Graham as Charlie "Lucky" Luciano
 Lewis Van Bergen as Joe Adonis
 Wendy Phillips as Esta Siegel, Bugsy's first wife
 Richard C. Sarafian as Jack Dragna
@@ -34,8 +34,8 @@ Don Calfa as Louie Dragna, Jack Dragna's nephew and cohort
 Ray McKinnon as David Hinton, architectural designer of the Flamingo
 Joe Baker as Lawrence Tibbett, a famed opera singer whose house Bugsy buys
 Ksenia Prohaska as Marlene Dietrich, George Raft's co-star in Manpower
-Gian-Carlo Scandiuzzi as Count di Frasso, an Italian aristocrat and personal friend of Benito Mussolini
-Joseph Roman and James Toback as Moe Sedway and Gus Greenbaum, the mobsters who take control of The Flamingo after Bugsy's murderOther cast members in smaller roles include Robert Glaudini as Dominic Manzella, Jack Dragna's hatchet man; Eric Christmas as Ronald the butler, Robert Beltran as Alejandro, Don Carrara as Vito Genovese, Bryan Smith as Chick Hill, Virginia's brother; Traci Lind as Natalie St. Clair, and Debrah Farentino and Wendie Malick as two of Bugsy's one-night stands.
+Giancarlo Scandiuzzi as Count di Frasso, an Italian aristocrat and personal friend of Benito Mussolini
+Joseph Roman and James Toback as Moe Sedway and Gus Greenbaum, the mobsters who take control of The Flamingo after Bugsy's murderOther cast members in smaller roles include Robert Glaudini as Dominic Manzella, Jack Dragna's hatchet man; Eric Christmas as Ronald the butler, Robert Beltran as Alejandro, Don Carrara as Vito Genovese, Bryan Smith as Chick Hill, Virginia's brother; Traci Lind as Natalie St. Clair, and Debrah Farentino and Bugsy's one-night stand.
 
 
 == Production ==
@@ -76,7 +76,7 @@ List of films set in Las Vegas
 
 
 == External links ==
-Bugsy at IMDb
+Bugsy at IMDb 
 bugsy at AllMovie
 Bugsy at the TCM Movie Database
 Bugsy at the American Film Institute Catalog
@@ -112,6 +112,7 @@ Albert Wolsky
 AllMovie
 All the King's Men (1949 film)
 Allen Daviau
+Alto Knights
 Amadeus (film)
 American Beauty (1999 film)
 American Film Institute
@@ -368,6 +369,7 @@ The Survivor (2021 film)
 The Treasure of the Sierra Madre (film)
 The Turning Point (1977 film)
 The Wizard of Lies
+The Zone of Interest (film)
 Thelma & Louise
 There Will Be Blood
 Three Billboards Outside Ebbing, Missouri
@@ -388,7 +390,6 @@ Warren Beatty
 Wendie Malick
 Wendy Phillips
 What Just Happened (2008 film)
-Wise Guys (2024 film)
 Writers Guild of America Award for Best Original Screenplay
 You Don't Know Jack (film)
 Young Sherlock Holmes
@@ -428,3 +429,4 @@ https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id
 https://www.tcm.com/tcmdb/title/23698/enwp
 https://catalog.afi.com/Catalog/moviedetails/58790
 https://www.allmovie.com/movie/v454940
+https://www.wikidata.org/wiki/Q241085#P345

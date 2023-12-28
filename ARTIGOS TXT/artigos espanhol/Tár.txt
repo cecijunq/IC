@@ -5,7 +5,7 @@ A pesar de las críticas positivas, la película ha recaudado 5.5 millones de d�
 
 
 == Premisa ==
-La protagonista de la película es el personaje ficticio Lydia Tár (Blanchett), una de las mejores compositoras / directoras vivas y la primera directora titular de una importante orquesta alemana. La película es un «retrato excepcionalmente detallado de una artista prometeica que eventualmente se izó en su propio cohete».[11]​
+La protagonista de la película es el personaje ficticio Lydia Tár (Blanchett), una de las mejores compositoras / directoras vivas y la primera directora titular de una importante orquesta alemana. La película es un «retrato excepcionalmente detallado de una artista prometeica que al final se izó en su propio cohete».[11]​
 
 
 == Producción ==
@@ -21,8 +21,8 @@ Tár tuvo su estreno mundial en el 79.ª edición del Festival Internacional de 
 
 
 === Crítica ===
-Tár recibió reseñas generalmente positivas de parte de la crítica y de la audiencia. En el sitio web especializado Rotten Tomatoes, la película posee una aprobación de 90%, basada en 272 reseñas, con una calificación de 8.4/10 y con un consenso crítico que dice: "Dirigida por la melodía altísima de la interpretación de notas perfectas de Cate Blanchett, Tár toca brillantemente el lado discordante del poder alimentado por la fama." De parte de la audiencia tiene una aprobación de 68%, basada en más de 1000 votos, con una calificación de 3.7/5.[23]​
-El sitio web Metacritic le dio a la película una puntuación de 92 de 100, basada en 57 reseñas, indicando "aclamación universal".[24]​ En el sitio IMDb los usuarios le asignaron una calificación de 7.7/10, sobre la base de 18 429 votos,[25]​ mientras que en la página web FilmAffinity la cinta tiene una calificación de 7.1/10, basada en 739 votos.[26]​
+Tár recibió reseñas generalmente positivas de parte de la crítica y de la audiencia. En el sitio web especializado Rotten Tomatoes, la película posee una aprobación de 91%, basada en 348 reseñas, con una calificación de 8.3/10 y con un consenso crítico que dice: "Dirigida por la melodía altísima de la interpretación de notas perfectas de Cate Blanchett, Tár toca brillantemente el lado discordante del poder alimentado por la fama." De parte de la audiencia tiene una aprobación de 66%, basada en más de 2500 votos, con una calificación de 3.6/5.[23]​
+El sitio web Metacritic le dio a la película una puntuación de 92 de 100, basada en 59 reseñas, indicando "aclamación universal".[24]​ En el sitio IMDb los usuarios le asignaron una calificación de 7.4/10, sobre la base de 86 000 votos,[25]​ mientras que en la página web FilmAffinity la cinta tiene una calificación de 6.8/10, basada en 7467 votos.[26]​
 Tras su trabajo en Tár, en 2023 Cate Blanchett fue nombrada "la mejor actriz viva" por la revista Rolling Stone.[27]​ Además, se alzó con la Copa Volpi del Festival Internacional de Cine de Venecia, el Globo de Oro, BAFTA y Critics' Choice Award a la Mejor Actriz.
 
 
@@ -37,7 +37,9 @@ Tár en IMDb2022
 Actuación
 Alemania
 Alianza de Mujeres Periodistas de Cine
+AllMovie
 Allan Corduner
+AlloCiné
 American Film Institute
 Asociación de Críticos de Cine de Chicago
 Asociación de Críticos de Cine de Dallas-Fort Worth
@@ -53,6 +55,7 @@ Cate Blanchett
 Cine musical
 Clasificación por edades
 Clasificación por edades (cine)
+Control de autoridades
 Critics' Choice Award
 Director de cine
 Director de fotografía
@@ -77,6 +80,7 @@ ISSN
 Idioma
 Idioma inglés
 IndieWire
+Instituto de la Cinematografía y de las Artes Audiovisuales
 Internet Movie Database
 Julian Glover
 León de Oro (Festival Internacional de Cine de Venecia)
@@ -109,6 +113,8 @@ Universal Pictures
 Vanity Fair (revista)
 Variety
 Washington D.C. Area Film Critics Association
+Wikidata
+Wikimedia Commons
 https://deadline.com/2022/09/tar-review-cate-blanchett-todd-field-venice-film-festival-1235105330/
 https://deadline.com/2021/04/cate-blanchett-todd-field-tar-movie-focus-features-this-fall-in-berlin-1234732687/
 https://www.indiewire.com/2021/04/todd-field-cate-blanchett-tar-1234629897/
@@ -166,3 +172,9 @@ https://www.imdb.com/title/tt14444726/?ref_=nv_sr_srsg_0
 http://www.rollingstone.com/tv-movies/tv-movie-features/cate-blanchett-greatest-living-actor-1234600769/amp/
 https://camerimage.pl/en/laureaci-energacamerimage-2022/
 https://portal.issn.org/resource/issn/0362-4331
+https://commons.wikimedia.org/wiki/Category:T%C3%A1r
+https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%22Q108649516%22
+https://wikidata-externalid-url.toolforge.org/?p=345&url_prefix=https://www.imdb.com/&id=tt14444726
+https://www.allmovie.com/movie/v732406
+https://www.allocine.fr/film/fichefilm_gen_cfilm=291967.html
+https://sede.mcu.gob.es/CatalogoICAA/Peliculas/Detalle?pelicula=159822

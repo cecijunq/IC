@@ -34,7 +34,7 @@ BFI Top 100 British films
 
 
 == External links ==
-My Left Foot at IMDb
+My Left Foot at IMDb 
 My Left Foot at Box Office Mojo
 My Left Foot at Rotten Tomatoes
 My Left Foot at the TCM Movie Database11th Youth in Film Awards
@@ -138,13 +138,13 @@ Golden Globe Award for Best Actor – Motion Picture Drama
 Golden Globe Award for Best Supporting Actress – Motion Picture
 Golden Globe Awards
 Goodfellas
+Granada plc
 Gulf Daily News
 Hannah and Her Sisters
 High Noon
 Hollywood Foreign Press Association
 Hugh O'Conor
 IMDb (identifier)
-ITV Granada
 Ida (film)
 In America (film)
 In Which We Serve
@@ -154,6 +154,7 @@ Independent Spirit Award for Best International Film
 Independent Spirit Awards
 Jim Sheridan
 Joyland (film)
+Killers of the Flower Moon (film)
 Kirsten Sheridan
 Kiss of the Spider Woman (film)
 Kramer vs. Kramer
@@ -228,7 +229,7 @@ The Crying Game
 The Daily Telegraph
 The Deer Hunter
 The Defiant Ones
-The Field (film)
+The Field (1990 film)
 The Grapes of Wrath (film)
 The Hollywood Reporter
 The Hurt Locker
@@ -320,3 +321,4 @@ https://www.cinemarealm.com/best-of-cinema/top-100-british-films/
 https://web.archive.org/web/20180112022753/https://www.cinemarealm.com/best-of-cinema/top-100-british-films/
 https://www.wikidata.org/wiki/Q746574#P444
 https://www.metacritic.com/movie/my-left-foot/critic-reviews
+https://www.wikidata.org/wiki/Q746574#P345

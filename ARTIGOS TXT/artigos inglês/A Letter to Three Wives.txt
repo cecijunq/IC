@@ -54,7 +54,7 @@ In 2010, The Simpsons made its own version of the story in an episode titled "Mo
 
 A Letter to Three Wives at AllMovie
 A Letter to Three Wives at the TCM Movie Database
-A Letter to Three Wives at IMDb
+A Letter to Three Wives at IMDb 
 A Letter to Three Wives at the American Film Institute Catalog
 A Letter to Three Wives at Rotten Tomatoes
 A Letter to Three Wives on Lux Radio Theater: February 20, 195020th Century-Fox
@@ -164,3 +164,4 @@ https://www.rogerebert.com/far-flung-correspondents/youve-got-mail
 https://www.tcm.com/tcmdb/title/81295/a-letter-to-three-wives/#overview
 https://www.tvguide.com/movies/a-letter-to-three-wives/2000113034/
 https://www.tcm.com/tcmdb/title/81295/enwp
+https://www.wikidata.org/wiki/Q988004#P345

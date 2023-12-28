@@ -85,7 +85,7 @@ Bibliography
 == External links ==
 
 The Great Ziegfeld at the American Film Institute Catalog
-The Great Ziegfeld at IMDb
+The Great Ziegfeld at IMDb 
 The Great Ziegfeld at the TCM Movie Database
 The Great Ziegfeld at AllMovie
 The Great Ziegfeld at Rotten Tomatoes
@@ -200,7 +200,7 @@ Fandom, Inc.
 Fanny Brice
 Fascination (1922 film)
 Fashion Row
-Five and Ten
+Five and Ten (1931 film)
 Florenz Ziegfeld Jr.
 Follow the Fleet
 Forrest Gump
@@ -453,7 +453,7 @@ The Way of a Woman
 The Wizard of Oz (1939 film)
 The Women (1939 film)
 The Ziegfeld Follies of the Air
-Third Finger, Left Hand (film)
+Third Finger, Left Hand
 Time, the Comedian
 Titanic (1997 film)
 Tom Jones (1963 film)
@@ -470,7 +470,7 @@ Vincente Minnelli
 Virginia Bruce
 Virginia Grey
 Wall Street Crash of 1929
-Walter Donaldson
+Walter Donaldson (songwriter)
 Warner Brothers
 Warwick New York Hotel
 We Were Dancing (film)
@@ -563,3 +563,4 @@ http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=9870
 https://www.tcm.com/tcmdb/title/186/enwp
 https://catalog.afi.com/Film/8351-THE-GREATZIEGFELD?sid=0d55af25-fd92-493a-8f1a-a52b315f48b2&sr=8.501102&cp=1&pos=0
 https://www.metacritic.com/movie/the-great-ziegfeld
+https://www.wikidata.org/wiki/Q470218#P345

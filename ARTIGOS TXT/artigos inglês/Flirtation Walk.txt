@@ -41,7 +41,7 @@ Music and Lyrics by Allie Wrubel and Mort Dixon
 
 == External links ==
 Flirtation Walk at the American Film Institute Catalog
-Flirtation Walk at IMDb
+Flirtation Walk at IMDb 
 Flirtation Walk at AllMovie
 Flirtation Walk at the TCM Movie Database
 Flirtation Walk at Rotten Tomatoes
@@ -220,3 +220,4 @@ https://www.imdb.com/title/tt0025124/
 https://catalog.afi.com/Catalog/moviedetails/6594
 https://www.rottentomatoes.com/m/flirtation_walk
 https://www.tcm.com/tcmdb/title/883/enwp
+https://www.wikidata.org/wiki/Q949642#P345

@@ -53,7 +53,7 @@ One Hour with You at the American Film Institute Catalog
 One Hour with You at the TCM Movie Database
 One Hour with You at AllMovie
 One Hour With You at Rotten Tomatoes
-One Hour with You at IMDb
+One Hour with You at IMDb 
 various One Hour with You reviews IMDbAFI Catalog of Feature Films
 A Lady's Morals
 A Royal Scandal (1945 film)
@@ -179,3 +179,4 @@ https://www.rottentomatoes.com/m/one_hour_with_you
 https://catalog.afi.com/Catalog/moviedetails/4377
 https://www.tcm.com/tcmdb/title/85681/enwp
 https://archive.org/details/one.-hour.with.-you.-1932.720p.-blu-ray.x-264-x-0r
+https://www.wikidata.org/wiki/Q1306660#P345

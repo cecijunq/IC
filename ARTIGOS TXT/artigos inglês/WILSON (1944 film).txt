@@ -1,6 +1,6 @@
 Wilson (1944 film)
 Wilson is a 1944 biographical film about Woodrow Wilson, the 28th president of the United States. Shot in Technicolor and directed by Henry King, the film stars Alexander Knox, Charles Coburn, Geraldine Fitzgerald, Thomas Mitchell, Ruth Nelson, Sir Cedric Hardwicke, Vincent Price, William Eythe and Mary Anderson.
-A deep admirer of Wilson, distributor 20th Century Fox president Darryl F. Zanuck personally oversaw production. Character actor Knox was given one of his few chances to play a lead.
+Darryl F. Zanuck, head of 20th Century-Fox was an ardent admirer of Wilson and personally oversaw production. Character actor Alexander Knox was cast in a rare leading role as Wilson.
 Wilson received critical acclaim, earning ten nominations at the 17th Academy Awards and winning five, including Best Writing, Original Screenplay. However, it was a box office bomb due to its unusually high budget. This upset Zanuck to the point that for years, he forbade employees from mentioning the film in his presence.
 
 
@@ -26,18 +26,18 @@ Before Knox was cast as Wilson, Ronald Colman and Frank Conroy were considered. 
 
 
 === Filming ===
-With a budget of $5.2 million, Wilson was Fox's then most expensive film. Much of the costs went to constructing accurate sets for White House locations such as the East Room, the Blue Room, the Oval Office and the Lincoln Bedroom. Scenes of the Democratic National Convention were shot at Shrine Auditorium in Los Angeles while scenes set at Princeton were shot on-location in Trenton, New Jersey. Other scenes were shot at the Biltmore Theater in Los Angeles; Pueblo, Colorado; and Midwick Country Club in Alhambra, California.
+With a budget of $5.2 million, Wilson was the  most expensive film produced by Fox at that time. Much of the budget went to constructing accurate and detailed sets for White House locations such as the East Room, the Blue Room, the Oval Office and the Lincoln Bedroom. Scenes of the Democratic National Convention were shot at Shrine Auditorium in Los Angeles while scenes set at Princeton were shot on-location in Trenton, New Jersey. Other scenes were shot at the Biltmore Theater in Los Angeles; Pueblo, Colorado; and Midwick Country Club in Alhambra, California.
 
 
 == Reception ==
 
 
 === Box office ===
-Wilson was promoted by the NBC Blue Network radio show Hall of Fame Broadcast with a radio adaptation of sections of the script.It reportedly lost $2 million for Fox. Sales were damaged due to the United States Department of War prohibiting its exhibition on Armed Forces bases during World War II under provisions of the Soldier Voting Act against the screening of political material that could influence elections such as the ones about to be held on November 7, 1944.
+Wilson was promoted by the NBC Blue Network radio show Hall of Fame Broadcast with a radio adaptation of sections of the script.Wilson  reportedly lost $2 million for Fox. Ticket sales were damaged due to the United States Department of War prohibiting the film's exhibition on Armed Forces bases during World War II under provisions of the Soldier Voting Act against the screening of political material that could influence elections such as the ones about to be held on November 7, 1944.
 
 
 === Responses ===
-The film received generally positive reviews but was not without its detractors. The New Republic film critic Manny Farber was particularly unenthusiastic, calling the production "costly, tedious and impotent" while writing: "The effect of the movie is similar to the one produced by the sterile post-card albums you buy in railroad stations, which unfold like accordions and show you the points of interest in the city ... The producers must have known far more about the World War, the peace-making at Versailles, and Wilson himself, but that is kept out of the movie in the same way that slum sections are kept out of post-card albums ... About three-quarters of the way through, a large amount of actual newsreel from the first World War is run off and the strength of it makes the film that comes before and after seem comical."President Franklin D. Roosevelt, a protege of Wilson's, screened the film for guests at the Second Quebec Conference in 1944. British Prime Minister Winston S. Churchill, however, was no fan, excusing himself mid-film before going to bed.
+The film received generally positive reviews but was not without its detractors. The New Republic film critic Manny Farber was particularly unenthusiastic, calling the production "costly, tedious and impotent" while writing: "The effect of the movie is similar to the one produced by the sterile post-card albums you buy in railroad stations, which unfold like accordions and show you the points of interest in the city ... The producers must have known far more about the World War, the peace-making at Versailles, and Wilson himself, but that is kept out of the movie in the same way that slum sections are kept out of post-card albums ... About three-quarters of the way through, a large amount of actual newsreel from the first World War is run off and the strength of it makes the film that comes before and after seem comical."President Franklin D. Roosevelt, a protege of Wilson's, screened the film for guests at the Second Quebec Conference in 1944. British Prime Minister Winston Churchill, however, was no fan. He excused himself in the middle of the film and went to bed.
 
 
 === Awards ===
@@ -65,7 +65,7 @@ The Academy Film Archive preserved Wilson in 2006.
 
 == External links ==
 Wilson at the American Film Institute Catalog
-Wilson at IMDb
+Wilson at IMDb 
 Wilson at AllMovie
 Wilson at the TCM Movie Database
 Wilson at Rotten Tomatoes17th Academy Awards
@@ -83,6 +83,7 @@ Wilson at Rotten Tomatoes17th Academy Awards
 1920 State of the Union Address
 1944 United States elections
 20,000 Years in Sing Sing
+20th Century-Fox
 20th Century Studios
 23 1/2 Hours' Leave
 42nd Street (film)
@@ -505,6 +506,7 @@ United States campaigns in World War I
 United States occupation of Haiti
 Untamed (1955 film)
 Up Romance Road
+Variety (magazine)
 Vengeance of the Dead
 Vincent Price
 Virginia Fox
@@ -532,7 +534,7 @@ Wilson Square
 Wilsonian Armenia
 Wilsonianism
 Winged Victory (film)
-Winston S. Churchill
+Winston Churchill
 Woman Suffrage Procession
 Woodrow Wilson
 Woodrow Wilson Awards
@@ -566,3 +568,4 @@ https://web.archive.org/web/20131112062137/http://www.nytimes.com/movies/movie/5
 https://books.google.com/books?id=hNtqmyR-MNMC&q=%22Dwight+Frye%22&pg=PA468
 https://www.tcm.com/tcmdb/title/95931/enwp
 https://id.loc.gov/authorities/no2020045208
+https://www.wikidata.org/wiki/Q606928#P345

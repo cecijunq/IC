@@ -76,7 +76,7 @@ BFI Top 100 British films
 
 == External links ==
 
-A Man for All Seasons at IMDb
+A Man for All Seasons at IMDb 
 A Man for All Seasons at the American Film Institute Catalog
 A Man for All Seasons at AllMovie
 A Man for All Seasons at the TCM Movie Database
@@ -295,6 +295,7 @@ Johnny Belinda (1948 film)
 Julia (1977 film)
 Julius Caesar (1953 film)
 Kid Glove Killer
+Killers of the Flower Moon (film)
 Kramer vs. Kramer
 L.A. Confidential (film)
 La La Land
@@ -611,3 +612,4 @@ http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=9870
 https://books.google.com/books?id=FbtZAAAAMAAJ&q=all+seasons
 https://id.loc.gov/authorities/n98049184
 https://www.metacritic.com/movie/a-man-for-all-seasons
+https://www.wikidata.org/wiki/Q218999#P345

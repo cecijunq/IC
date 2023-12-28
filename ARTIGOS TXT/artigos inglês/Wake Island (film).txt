@@ -56,7 +56,7 @@ In addition to the critical acclaim, it was also one of the biggest box office h
 == External links ==
 
 Wake Island at the American Film Institute Catalog
-Wake Island at IMDb
+Wake Island at IMDb 
 Wake Island at AllMovie
 Wake Island at the TCM Movie Database
 Wake Island at Rotten Tomatoes
@@ -120,14 +120,21 @@ Honolulu
 IMDb (identifier)
 James Brown (actor)
 James P. S. Devereux
+Japanese destroyer Aoi (1920)
+Japanese destroyer Hagi (1920)
+Japanese destroyer Hayate (1925)
+Japanese destroyer Kisaragi (1925)
+Japanese submarine Ro-60
+Japanese submarine Ro-66
 John Farrow
 John Marston (USMC)
 John Paul Jones (film)
 Joyce Arleen
+KEAD
 LeRoy Stone
 Leo D. Hermle
+Libelle (barque)
 Little Miss Thoroughbred
-Los Angeles
 Lux Radio Theatre
 Macdonald Carey
 Maritime patrol aircraft
@@ -141,6 +148,7 @@ Norfolk Tars
 Pan Am Clipper
 Paramount Pictures
 Patti McCarty
+Peale Island
 Pearl Harbor
 Philip Van Zandt
 Piedmont League
@@ -155,11 +163,15 @@ Robert Preston (actor)
 Rod Cameron (actor)
 Rotten Tomatoes
 Rudy Robles
+SS Suremico
 Salton Sea
 Sandy Beach, California
 She Loved a Fireman
+Shigematsu Sakaibara
 Sorority House (film)
 Submarine Command
+Suwa Maru
+Takasago Maru
 Tarzan Escapes
 The Big Clock (film)
 The Hitler Gang
@@ -173,6 +185,9 @@ Theodor Sparkuhl
 Trenches
 Turner Classic Movies
 Two Years Before the Mast (film)
+Typhoon
+Typhoon Ioke
+Typhoon Olive (1952)
 United States Armed Forces
 United States Department of the Navy
 United States Marine Corps
@@ -180,10 +195,16 @@ United States Navy
 Variety (magazine)
 W. R. Burnett
 Wake Island
+Wake Island Airfield
+Wake Island Conference
+Wake Island Device
+Wake Island Rail
+Wake Island Time Zone
 Walter Abel
 War film
 West of Shanghai
 Where Danger Lives
+Wilkes Island
 William Bendix
 William C. Mellor
 Winfield S. Cunningham
@@ -210,3 +231,4 @@ https://www.rottentomatoes.com/m/wake_island
 https://archive.org/details/variety149-1943-01/page/n57/mode/2up
 http://www.oscars.org/oscars/ceremonies/1943
 https://www.tcm.com/tcmdb/title/94977/enwp
+https://www.wikidata.org/wiki/Q1581633#P345

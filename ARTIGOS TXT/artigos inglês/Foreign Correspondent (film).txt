@@ -60,7 +60,7 @@ Foreign Correspondent was adapted to the radio program Academy Award Theater on 
 
 == External links ==
 
-Foreign Correspondent at IMDb
+Foreign Correspondent at IMDb 
 Foreign Correspondent at the TCM Movie Database
 Foreign Correspondent at AllMovie
 Foreign Correspondent at the American Film Institute Catalog
@@ -367,3 +367,4 @@ https://www.tcm.com/tcmdb/title/75400/foreign-correspondent#articles-reviews
 https://www.tcm.com/tcmdb/title/75400/foreign-correspondent#overview
 https://www.allmovie.com/movie/foreign-correspondent-v18199/awards
 https://id.loc.gov/authorities/no2010147089
+https://www.wikidata.org/wiki/Q848388#P345

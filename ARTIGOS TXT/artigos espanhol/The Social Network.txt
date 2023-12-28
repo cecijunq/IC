@@ -1,21 +1,21 @@
 The Social Network
 The Social Network (conocida como Red social en Hispanoamérica y La red social en España) es una película biográfica dirigida por David Fincher, estrenada el 24 de septiembre de 2010, en el Festival de Cine de Nueva York.[6]​ Esta narra un drama de tribunales, sobre las implicaciones morales del entonces ascendente Mark Zuckerberg (interpretado por Jesse Eisenberg), cuyas peripecias lo encaminaron en la construcción de un imperio billonario, y de cómo alguien poco sociable logró conectar a cientos de millones de personas a través de su creación, Facebook.
-Ganadora de más de 122 premios internacionales, destaca el récord de ser la única película que ha ganado en absolutamente todas las premiaciones (en las categorías de mejor guion), con un total de 30 victorias. [7]​ Además fue nombrada la mejor película del 2010, por más de 400 medios y críticos internacionales[8]​ así como ulteriormente catalogada la mejor película de la década de 2010.
+Ganadora de más de 122 premios internacionales, destaca el récord de ser la única película que ha ganado en absolutamente todas las premiaciones (en las categorías de mejor guion), con un total de 30 victorias.[7]​ Además fue nombrada la mejor película del 2010, por más de 400 medios y críticos internacionales[8]​ así como ulteriormente catalogada la mejor película de la década de 2010.
 
 
 == Argumento ==
-En el año 2003, el estudiante de la Universidad de Harvard, Mark Zuckerberg (Jesse Eisenberg), tuvo la idea de crear un sitio web para calificar el atractivo de sus compañeras de universidad después de que su novia Erica Albright (Rooney Mara) terminara con él. Con sus habilidades informáticas, Mark logró extraer nombres y fotografías de varias estudiantes desde las bases de datos de los servidores de Harvard. Usando un algoritmo de ranking suministrado por su mejor amigo, Eduardo Saverin (Andrew Garfield), Mark creó una página llamada FaceMash, donde sus compañeros elegían a la chica más atractiva. Finalmente, Mark fue castigado con seis meses de suspensión académica cuando el tráfico de su sitio colapsó la red de Harvard, mientras la mayoría de sus compañeras lo vilipendiaban.
-A pesar de todo, la popularidad de FaceMash y el hecho de que fue creado en una noche, mientras Mark estaba ebrio, llamó la atención de los dos hermanos gemelos Cameron y Tyler Winklevoss (Armie Hammer y Josh Pence), miembros del equipo de remo de Harvard, y su compañero de negocios Divya Narendra (Max Minghella). Los tres le explicaron a Mark que estaban buscando un programador que llevara a cabo su idea de un nuevo sitio web: Harvard Connection. Mark decidió ayudarlos.
-Poco tiempo después, Mark se acercó a su amigo Eduardo, quien recientemente había sido invitado al club social de pregrado The Phoenix – S K Club. Mark tenía una idea de lo que él llamaba «thefacebook», una herramienta de conexiones sociales en línea exclusiva para los estudiantes de Harvard. Según él, este sistema permitiría a las personas compartir cierta información sin que invadieran su privacidad. Eduardo estuvo de acuerdo en ayudarlo, suministrándole mil dólares para comenzar el proyecto. Mark y Eduardo finalmente crearon thefacebook (lo que más tarde sería Facebook), distribuyendo el enlace con los contactos de Eduardo en The Phoenix – S K Club.
-El sitio se hizo popular rápidamente entre el alumnado de Harvard. Cuando Narendra supo sobre el lanzamiento de thefacebook, le dijo a los gemelos Winklevoss que Mark les había robado su idea. Tyler y Divya querían demandar a Mark por robo de propiedad intelectual, pero Cameron se opuso.
+En el año 2003, el estudiante de la Universidad de Harvard, Mark Zuckerberg (Jesse Eisenberg), tuvo la idea de crear un sitio web para calificar el atractivo de sus compañeras de universidad después de que su novia Erica Albright (Rooney Mara) terminara con él. Con sus habilidades informáticas, Mark logró extraer nombres y fotografías de varias estudiantes desde las bases de datos de los servidores de Harvard. Usando un algoritmo de ranking suministrado por su mejor amigo, Eduardo Saverin (Andrew Garfield), Mark creó una página llamada FaceMash, donde sus compañeros elegían a la chica más atractiva. Finalmente, Mark fue castigado con seis meses de suspensión académica cuando el tráfico de su sitio colapsó la red de Harvard, mientras la mayoría de sus compañeras lo recriminaban.
+A pesar de todo, la popularidad de FaceMash y el hecho de que fue creado en una noche, mientras Mark estaba ebrio, llamó la atención de los hermanos gemelos Cameron y Tyler Winklevoss (Armie Hammer y Josh Pence), miembros del equipo de remo de Harvard, y su compañero de negocios Divya Narendra (Max Minghella). Los tres le explicaron a Mark que estaban buscando un programador que llevara a cabo su idea de un nuevo sitio web: Harvard Connection. Al presentarle la idea, Mark decidió ayudarlos.
+Poco tiempo después, Mark se acercó a su amigo Eduardo, quien recientemente había sido invitado al club social The Phoenix – S K Club. Mark tenía una idea de lo que él llamaba «thefacebook», una herramienta de conexiones sociales en línea exclusiva para los estudiantes de Harvard. Según él, este sistema permitiría a las personas compartir cierta información sin que invadieran su privacidad. Eduardo estuvo de acuerdo en ayudarlo, suministrándole mil dólares para comenzar el proyecto. Mark y Eduardo finalmente crearon thefacebook (lo que más tarde sería Facebook), distribuyendo el enlace con los contactos de Eduardo en The Phoenix – S K Club.
+El sitio se hizo popular rápidamente entre el alumnado de Harvard. Cuando Narendra supo sobre el lanzamiento de thefacebook, le dijo a los gemelos Winklevoss que Mark les había robado su idea, por lo que Tyler y Divya planean demandar a Mark por robo de propiedad intelectual, pero Cameron se opone.
 
-Durante una conferencia de Bill Gates (Steve Sires); la estudiante de Harvard, Christy Lee (Brenda Song), y su mejor amiga, Alice (Malese Jow), se presentaron ante Eduardo y Mark. Lee les pidió que las buscaran en thefacebook, lo cual los impresionó. Mientras bebían con Christy y Alice, Mark corrió hacia su exnovia, que no sabía de la existencia de thefacebook. Mark decidió expandir el sitio a más escuelas. Mark, Christy y Eduardo regresaron después a la habitación de Mark, donde perfilaron la estructura de la compañía y el plan para progresar.
-La popularidad de thefacebook creció y llegó a otros centros académicos del noreste de Estados Unidos, como la Yale, Columbia y Stanford, mientras los hermanos Winklevoss y Narendra se ofuscaban cada vez más al ver que «su» idea avanzaba sin ellos. Tyler se negaba a demandarlos, pero acusó a Mark de vulnerar el código de conducta de los estudiantes de Harvard. Gracias a los contactos de sus padres, lograron reunirse con el presidente de Harvard, Larry Summers (Douglas Urbanski), quien desestimó cualquier acción disciplinaria contra el sitio The Facebook. A través de Christy Lee, ahora novia de Eduardo, este y Mark se reunieron con el cofundador del sitio Napster, Sean Parker (Justin Timberlake). Eduardo desconfió de este por su problemática historia personal y profesional. Mark, sin embargo, quedó impresionado con Parker desde que le presentó una visión similar de Facebook. Aunque no se llegó a ningún acuerdo, Parker sugirió que quitaran la palabra «the» de thefacebook para hacer el nombre más simple: Facebook.
-Mientras Eduardo permanecía en Nueva York, Mark y Dustin Moskovitz (Joseph Mazzello) mudaron las oficinas de la compañía a Palo Alto. Cuando Eduardo los visitó desde Nueva York, se enfureció al ver a Sean Parker viviendo en la casa y tomando decisiones sobre el negocio de Facebook. Luego de una discusión con Mark, Eduardo congeló la cuenta bancaria que había abierto para la compañía y regresó a Nueva York. Una vez allí, Eduardo y Christy tuvieron una discusión por el perfil de él en Facebook y Christy terminó quemando un pañuelo que él le había regalado. Mientras Eduardo extinguía el fuego, Mark le reveló por teléfono que ellos tenían dinero asegurado gracias a un inversor ángel por Peter Thiel (Wallace Langham). Posteriormente, Eduardo le informó a Christy que la relación había terminado.
-En Inglaterra, los gemelos Winklevoss se enfurecieron al ver que Facebook se había expandido a otras universidades del Reino Unido y decidieron presentar una demanda. Mientras tanto, Eduardo se enteró de que Mark y Sean habían reducido su participación en la compañía del 30% a un 0.03% y decidió demandarlos también. En una fiesta donde se celebraba el primer millón de miembros de Facebook, Sean y varios colegas suyos fueron arrestados por posesión de cocaína.
-Durante la película, se muestran escenas de Mark testificando por dos demandas: la de los hermanos Winklevoss y la de Eduardo. En la escena final, una abogada defensora, Marylin Delpy (Rashida Jones) le informa a Mark que llegarán a un acuerdo con Eduardo, debido a que los sórdidos detalles sobre la creación de Facebook jugarían en contra suya frente al jurado.
-Cuando su abogada se va, se ve a Mark enviando por Facebook una solicitud de amistad a su exnovia, Erica, y actualizando la página de su navegador repetidas veces.
-La película termina con un epílogo: Cameron y Tyler Winklevoss recibieron un acuerdo de 65 millones de dólares y firmaron un acuerdo de no divulgación, compitieron en remo en los Juegos Olímpicos de Beijing 2008 y quedaron en sexto lugar; Eduardo Saverin recibió un acuerdo desconocido, fue vuelto a colocar su nombre como cofundador en el encabezado de Facebook; Facebook tiene más de 500 millones de miembros en más de 207 países y está valuado en 25 mil millones de dólares; y Mark Zuckerberg es el multimillonario más joven del mundo.
+Durante una conferencia de Bill Gates (Steve Sires) la estudiante de Harvard, Christy Lee (Brenda Song) y su mejor amiga, Alice (Malese Jow), se presentaron ante Eduardo y Mark. Lee les pidió que las buscaran en thefacebook, lo cual los impresionó. Mientras bebían con Christy y Alice, Mark fue hasta donde su exnovia Erica, que no sabía de la existencia de thefacebook para disculparse con ella. Mark decidió expandir el sitio a más escuelas. Mark, Christy y Eduardo regresaron después a la habitación de Mark, donde perfilaron la estructura de la compañía y el plan para progresar.
+La popularidad de thefacebook seguia creciendo al llegar a otros centros académicos del noreste de Estados Unidos, como Yale, Columbia y Stanford, mientras los hermanos Winklevoss y Narendra se ofuscaban cada vez más al ver que «su» idea avanzaba sin ellos. Tyler se negaba a demandarlos, pero acusó a Mark de vulnerar el código de conducta de los estudiantes de Harvard. Gracias a los contactos de sus padres, lograron reunirse con el presidente de Harvard, Larry Summers (Douglas Urbanski), quien desestimó cualquier acción disciplinaria contra el sitio The Facebook. A través de Christy Lee, ahora novia de Eduardo, este y Mark se reunieron con el cofundador del sitio Napster, Sean Parker (Justin Timberlake), pero Eduardo desconfia de este por su problemática historia personal y profesional. Mark, sin embargo, quedó impresionado con Parker desde que le presentó una visión similar de Facebook y aunque no se llegó a ningún acuerdo, Parker sugirió que quitaran la palabra «the» de thefacebook para hacer el nombre más simple: Facebook.
+Mientras Eduardo permanecía en Nueva York, Mark y Dustin Moskovitz (Joseph Mazzello) mudaron las oficinas de la compañía a Palo Alto por sugerencia de Sean. Cuando Eduardo los visitó desde Nueva York, se enfureció al ver a Sean Parker viviendo en la casa y tomando decisiones sobre el negocio de Facebook. Luego de una discusión con Mark, Eduardo congeló la cuenta bancaria que había abierto para la compañía y regresó a Nueva York. Una vez allí, Eduardo y Christy tuvieron una discusión por el perfil de él en Facebook al ver que salia como soltero, por lo que Christy terminó quemando un pañuelo que él le había regalado. Mientras Eduardo extinguía el fuego, Mark le reveló por teléfono que ellos tenían el dinero asegurado gracias a un inversor ángel llamado Peter Thiel (Wallace Langham). Posteriormente, Eduardo le informó a Christy que la relación había terminado.
+En Inglaterra, después de una competición de remo, los Winklevoss se enfurecieron al ver que Facebook se había expandido a otras universidades del Reino Unido y decidieron presentar una demanda. Mientras tanto, Eduardo se enteró de que Mark y Sean habían reducido su participación en la compañía del 30% a un 0.03% y decidió demandarlos también. En una fiesta donde se celebraba el primer millón de miembros de Facebook, Sean y varios colegas suyos fueron arrestados por posesión de cocaína. Luego Sean habla por telefono con Sean diciendo que logró pagar la fianza.
+Durante la película, se muestran escenas de Mark testificando por dos demandas: la de los hermanos Winklevoss y la de Eduardo, este ultimo demandandolo por 600 millones de dólares. En la escena final, su abogada defensora, Marylin Delpy (Rashida Jones) le dice a Mark que llegarán a un acuerdo con Eduardo, debido a que los sórdidos detalles sobre la creación de Facebook jugarían en contra suya frente al jurado.
+Cuando su abogada se va, se ve a Mark enviando por Facebook una solicitud de amistad a su exnovia Erica y actualizando la página de su navegador repetidas veces, esperando que ella acepte.
+La película termina con un epílogo: Cameron y Tyler Winklevoss recibieron un acuerdo de 65 millones de dólares y firmaron un acuerdo de no divulgación, compitieron en remo en los Juegos Olímpicos de Beijing 2008 quedando en sexto lugar; Eduardo Saverin recibió un acuerdo desconocido en donde fue vuelto a colocar su nombre como cofundador en el encabezado de Facebook; Facebook tiene más de 500 millones de miembros en más de 207 países y está valuado en 25 mil millones de dólares; y Mark Zuckerberg es el multimillonario más joven del mundo.
 
 
 == Reparto ==
@@ -106,7 +106,6 @@ Aaron Sorkin
 Academia Británica de las Artes Cinematográficas y de la Televisión
 Academia de Artes y Ciencias Cinematográficas
 Actuación
-Algoritmo
 AllMovie
 Allcinema
 AlloCiné
@@ -123,11 +122,10 @@ Bill Gates
 Bob Marley
 Box Office Mojo
 Brenda Song
+British Film Institute
 Cambridge (Massachusetts)
-Cameron Winklevoss
 Chris Hughes
 Clasificación por edades (cine)
-Cocaína
 College Media Network
 Columbia Pictures
 Computadora
@@ -141,7 +139,6 @@ Descarga digital
 Director de cine
 Director de fotografía
 Divya Narendra
-Douglas Urbanski
 Drama
 Dustin Moskovitz
 Década de 2010
@@ -150,7 +147,6 @@ Educación digital
 Efe Eme
 El Mundo (España)
 El curioso caso de Benjamin Button (película)
-En línea
 Enciclopedia Británica
 Estados Unidos
 Facebook
@@ -165,7 +161,6 @@ Guion cinematográfico
 Guionista
 Género cinematográfico
 Hacker
-Hiperenlace
 IMDb
 Idioma
 Informática
@@ -174,7 +169,6 @@ Internet
 Internet Archive
 Internet Movie Database
 Internet en la ciencia ficción
-Inversor ángel
 Jackass 3D
 Jeff Cronenweth
 Jesse Eisenberg
@@ -182,7 +176,6 @@ John Getz
 Joseph Mazzello
 Josh Pence
 Juegos Olímpicos de Beijing 2008
-Jurado
 Justin Timberlake
 Kanye West
 Kevin Spacey
@@ -203,7 +196,6 @@ Montaje
 NYFCC
 Napster
 National Board of Review
-Navegador web
 New York (revista)
 Nine Inch Nails
 Nueva York
@@ -223,7 +215,6 @@ RTVE
 Radiohead
 Rashida Jones
 Reino Unido
-Remo (deporte)
 Rolling Stone
 Rolling stone
 Rooney Mara
@@ -236,7 +227,6 @@ Shelby Young
 Shia LaBeouf
 Sin Permiso
 Sony Pictures
-Steve Sires
 Système universitaire de documentation
 Taquilla
 Teaser
@@ -251,7 +241,6 @@ The White Stripes
 Time
 Trent Reznor
 Trevor Wright
-Tyler Winklevoss
 Universidad Harvard
 Universidad Johns Hopkins
 Universidad Stanford
@@ -364,3 +353,4 @@ https://web.archive.org/web/*/http://www.variety.com/article/VR1118017509.html?c
 https://web.archive.org/web/1/http://www.variety.com/article/VR1118017509.html?categoryid=2520&cs=1&query=social+network+october
 https://web.archive.org/web/2/http://www.variety.com/article/VR1118017509.html?categoryid=2520&cs=1&query=social+network+october
 https://archive.today/20120630064828/http://www.slashfilm.com/2009/10/20/casting-notes-selena-gomez-in-teen-rom-com-the-social-network-gets-new-kids-the-whistleblower-gets-proven-talent/
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150772493

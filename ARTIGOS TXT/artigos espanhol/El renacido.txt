@@ -73,6 +73,7 @@ Banda sonora
 Birdman o (la inesperada virtud de la ignorancia)
 Box Office Mojo
 Brett Ratner
+British Film Institute
 CBS Interactive
 Christian Bale
 Cine de acción
@@ -132,7 +133,6 @@ Ryuichi Sakamoto
 Río Olivia
 Santa Barbara Independent
 Sean Penn
-Siglo XIX
 Sonido
 Territorio no organizado
 Tom Hardy
@@ -176,3 +176,4 @@ https://www.independent.com/2016/01/13/revenant-is-slow-paced-suffering//
 https://www.worldcat.org/identities/viaf-226720826
 https://www.allocine.fr/film/fichefilm_gen_cfilm=182266.html
 https://web.archive.org/web/20181011031308/https://www.lanacion.com.ar/1860512-premios-bafta-2016-todos-los-nominados
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154461931

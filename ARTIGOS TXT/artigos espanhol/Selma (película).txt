@@ -144,6 +144,7 @@ Tim Roth
 Tom Wilkinson
 Variety
 Walt Disney Studios Motion Pictures
+Wayback Machine
 Wendell Pierce
 Wikidata
 http://cfm40.middlebury.edu/node/287
@@ -236,3 +237,5 @@ https://web.archive.org/web/20101218024227/http://www.collider.com/2010/03/11/hu
 https://www.filmaffinity.com/es/film583944.html
 https://www.allocine.fr/film/fichefilm_gen_cfilm=175581.html
 https://creativecommons.org/licenses/by-sa/4.0/deed.es
+https://web.archive.org/web/20160303174523/http://cfm40.middlebury.edu/node/287
+https://web.archive.org/web/20141112144251/http://www.comingsoon.net/news/movienews.php?id=118587

@@ -48,7 +48,7 @@ List of boxing films
 
 
 == External links ==
-The Champ at IMDb
+The Champ at IMDb 
 The Champ at the TCM Movie Database
 The Champ at AllMovie
 The Champ at the American Film Institute Catalog
@@ -86,7 +86,7 @@ Chick flick
 China Seas (film)
 Comrade X
 Conquering the Woman
-Cynara (film)
+Cynara (1932 film)
 D.W. Griffith
 Dr. Jekyll and Mr. Hyde (1931 film)
 Duel in the Sun (film)
@@ -282,3 +282,4 @@ https://www.berlinale.de/en/press/press-releases/detail_8008.html
 https://www.wikidata.org/wiki/Q463733#identifiers
 https://www.tcm.com/tcmdb/title/12500/enwp
 https://id.loc.gov/authorities/no2019097794
+https://www.wikidata.org/wiki/Q463733#P345

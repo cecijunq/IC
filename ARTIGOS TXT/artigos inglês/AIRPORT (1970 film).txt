@@ -100,7 +100,7 @@ Starflight: The Plane That Couldn't Land, a 1983 ABC television movie, starring 
 
 Airport at the American Film Institute Catalog
 Airport at AllMovie
-Airport at IMDb
+Airport at IMDb 
 Airport at Rotten Tomatoes
 Airport at the TCM Movie Database
 Airliners.net Photos of the aircraft used in the film
@@ -360,3 +360,4 @@ https://archive.today/20121205095022/http://www.wga.org/awards/awardssub.aspx?id
 http://www.wga.org/awards/awardssub.aspx?id=1551
 https://www.britannica.com/topic/Airport-film-by-Seaton
 https://www.boxofficemojo.com/title/tt0065377/
+https://www.wikidata.org/wiki/Q409022#P345

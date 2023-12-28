@@ -65,7 +65,7 @@ King Solomon's Mines was presented on Lux Radio Theatre on December 1, 1952. The
 == External links ==
 King Solomon's Mines at AllMovie
 King Solomon's Mines at the TCM Movie Database
-King Solomon's Mines at IMDb
+King Solomon's Mines at IMDb 
 King Solomon's Mines at the American Film Institute Catalog
 King Solomon's Mines at Rotten Tomatoes
 King Solomon's Mines on Lux Radio Theater: December 1, 1952
@@ -151,6 +151,7 @@ Marie (novel)
 Men of the Fighting Lady
 Metro-Goldwyn-Mayer
 Mischa Spoliansky
+Miss President
 Murchison Falls
 My Own True Love
 New Mexico
@@ -228,3 +229,4 @@ https://www.tcm.com/tcmdb/title/3254/enwp
 https://www.rottentomatoes.com/m/1011638-king_solomons_mines/reviews
 https://archive.today/20130615084010/http://www.zonetroopers.com/5/post/2011/10/king-solomons-mines-1985-1986.html
 https://id.loc.gov/authorities/no98117338
+https://www.wikidata.org/wiki/Q1471671#P345

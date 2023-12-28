@@ -1,6 +1,6 @@
 The Barretts of Wimpole Street (1934 film)
 The Barretts of Wimpole Street is a 1934 American romantic drama film directed by Sidney Franklin based on the 1930 play of the same title by Rudolf Besier. It depicts the real-life romance between poets Elizabeth Barrett (Norma Shearer) and Robert Browning (Fredric March), despite the opposition of her abusive father Edward Moulton-Barrett (Charles Laughton). The film was nominated for the Academy Award for Best Picture and Shearer was nominated for the Academy Award for Best Actress. It was written by Ernest Vajda, Claudine West, and Donald Ogden Stewart, from the successful 1930 play The Barretts of Wimpole Street by Rudolf Besier, and starring Katharine Cornell.
-In 1957, Franklin directed a color remake starring Jennifer Jones, John Gielgud, and Bill Travers.
+In 1957, Franklin directed a color remake in CinemaScope and Metrocolor starring Jennifer Jones, John Gielgud, and Bill Travers.
 
 
 == Plot ==
@@ -35,7 +35,7 @@ It was also adapted in the Hindi language as the Indian film Aaj Aur Kal (1963).
 
 == External links ==
 
-The Barretts of Wimpole Street at IMDb
+The Barretts of Wimpole Street at IMDb 
 The Barretts of Wimpole Street at the TCM Movie Database
 The Barretts of Wimpole Street at AllMovie
 The Barretts of Wimpole Street at the American Film Institute Catalog
@@ -300,3 +300,4 @@ https://doi.org/10.1080%2F01439689200260081
 https://doi.org/10.1080%2F01439689208604539
 https://books.google.com/books?id=VvYdAAAAMAAJ&q=%22They+can't+censor+the+gleam+in+my+eye%22
 https://id.loc.gov/authorities/no2019039010
+https://www.wikidata.org/wiki/Q1263583#P345

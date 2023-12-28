@@ -1,5 +1,5 @@
 Henry V (1944 film)
-Henry V is a 1944 British Technicolor epic  film adaptation of William Shakespeare's play of the same title. The on-screen title is The Chronicle History of King Henry the Fifth with His Battell Fought at Agincourt in France (derived from the title of the 1600 quarto edition of the play, though changing the spelling from "Agin Court"). It stars Laurence Olivier, who also directed. The play was adapted for the screen by Olivier, Dallas Bower, and Alan Dent. The score is by William Walton.
+Henry V is a 1944 British Technicolor epic  film adaptation of William Shakespeare's play of the same title. The on-screen title is The Chronicle History of King Henry the Fift with his battell fought at Agincourt in France (derived from the title of the 1600 quarto edition of the play, though changing the spelling from "Agin Court"). It stars Laurence Olivier, who also directed. The play was adapted for the screen by Olivier, Dallas Bower, and Alan Dent. The score is by William Walton.
 The film was made near the end of World War II and was intended as a morale booster for Britain. Consequently, it was partly funded by the British government. The film was originally "dedicated to the 'Commandos and Airborne Troops of Great Britain the spirit of whose ancestors it has been humbly attempted to recapture.'"  The film won Olivier an Academy Honorary Award for "his Outstanding achievement as actor, producer and director in bringing Henry V to the screen."
 
 
@@ -82,7 +82,7 @@ Sargeant, Amy. British Cinema: a Critical History. London: BFI Publishing, 2005.
 
 
 == External links ==
-Henry V at IMDb
+Henry V at IMDb 
 https://www.allmovie.com/movie/henry-v-vm465221
 Henry V at the TCM Movie Database
 Henry V at AllMovie
@@ -221,6 +221,7 @@ John Laurie
 John Oldcastle
 Julius Caesar (1953 film)
 Katherine of Valois
+Killers of the Flower Moon (film)
 King Richard II (1954 film)
 L.A. Confidential (film)
 Laurence Olivier
@@ -402,3 +403,4 @@ https://id.loc.gov/authorities/n86802664
 https://www.tcm.com/tcmdb/title/77778/enwp
 https://www.allmovie.com/movie/henry-v-vm465221
 https://www.allmovie.com/movie/v465221
+https://www.wikidata.org/wiki/Q268055#P345

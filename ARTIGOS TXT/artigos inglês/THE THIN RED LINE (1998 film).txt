@@ -95,7 +95,7 @@ Rijsdijk, Ian-Malcolm (2011). "Terrence Malick's The Thin Red Line: Some Histori
 == External links ==
 
 "The Thin Red Line - Official website". Archived from the original on February 28, 2009. Retrieved January 31, 2006.{{cite web}}:  CS1 maint: bot: original URL status unknown (link)
-The Thin Red Line at IMDb
+The Thin Red Line at IMDb 
 The Thin Red Line at AllMovie
 The Thin Red Line at the TCM Movie Database
 The Thin Red Line at the American Film Institute Catalog
@@ -274,10 +274,9 @@ Ford v Ferrari
 Four in a Jeep
 Fox 2000 Pictures
 From Here to Eternity
-From Here to Eternity (TV series)
 From Here to Eternity (miniseries)
+From Here to Eternity (musical)
 From Here to Eternity (novel)
-From Here to Eternity the Musical
 Gabriel Fauré
 Garden of Eden
 Gary Oldman
@@ -420,6 +419,7 @@ Online Film Critics Society
 Online Film Critics Society Award for Best Cinematography
 Online Film Critics Society Award for Best Director
 Online Film Critics Society Awards 1998
+Oppenheimer (film)
 Owen Gleiberman
 Pacific War
 Palermo or Wolfsburg
@@ -475,9 +475,9 @@ Sideways
 Silver Linings Playbook
 Simon Critchley
 Siskel & Ebert
-Siskel and Ebert
 Slumdog Millionaire
 Solomon Islands
+Some Came Running (novel)
 Song to Song
 Sony Pictures
 Spirited Away
@@ -514,6 +514,7 @@ The Hurt Locker
 The Independent
 The Insider (film)
 The Lord of the Rings: The Two Towers
+The Merry Month of May (novel)
 The Milk of Sorrow
 The New World (2005 film)
 The New York Times
@@ -694,3 +695,4 @@ https://www.washingtonpost.com/wp-srv/style/movies/reviews/thinredlineosullivan.
 https://web.archive.org/web/20110621002520/http://www.ew.com/ew/article/0,,274092,00.html
 http://www.ew.com/ew/article/0,,274092,00.html
 http://uli.nli.org.il/F/?func=find-b&local_base=NLX10&find_code=UID&request=987007591075105171
+https://www.wikidata.org/wiki/Q221491#P345

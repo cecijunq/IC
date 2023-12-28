@@ -1,7 +1,7 @@
 The Pride of the Yankees
 The Pride of the Yankees is a 1942 American sports drama film produced by Samuel Goldwyn, directed by Sam Wood, and starring Gary Cooper, Teresa Wright, and Walter Brennan. It is a tribute to the legendary New York Yankees first baseman Lou Gehrig, who died a year before its release, at age 37, from amyotrophic lateral sclerosis, which later became known to the lay public as "Lou Gehrig's disease".
 Though subtitled The Life of Lou Gehrig, the film is less a sports biography than an homage to a heroic and widely loved sports figure whose tragic and premature death touched the entire nation. It emphasizes Gehrig's relationship with his parents (particularly his strong-willed mother), his friendships with players and journalists, and his storybook romance with the woman who became his "companion for life," Eleanor Twitchell. Details of his baseball career—which were still fresh in most fans' minds in 1942—are limited to montages of ballparks, pennants, and Cooper swinging bats and running bases, though Gehrig's best-known major league record—2,130 consecutive games played—is prominently cited.
-Yankee teammates Babe Ruth, Bob Meusel, Mark Koenig, and Bill Dickey play themselves, as does sportscaster Bill Stern. The film was adapted by Herman J. Mankiewicz, Jo Swerling, and an uncredited Casey Robinson from a story by Paul Gallico, and received 11 Oscar nominations. It ends with a re-enactment of Gehrig's poignant 1939 farewell speech at Yankee Stadium. The film's iconic closing line—"Today, I consider myself the luckiest man on the face of the Earth"—was voted 38th on the American Film Institute's list of 100 greatest movie quotes.
+Yankee teammates Babe Ruth, Bob Meusel, Mark Koenig, and Bill Dickey play themselves, as does sportscaster Bill Stern. The film was adapted by Herman J. Mankiewicz, Jo Swerling, and an uncredited Casey Robinson from a story by Paul Gallico, and received 11 Oscar nominations. It ends with a re-enactment of Gehrig's poignant 1939 farewell speech at Yankee Stadium. The film's iconic closing line—"Today, I consider myself the luckiest man on the face of the Earth"—was voted 38th on the American Film Institute's list of 100 greatest movie quotes. The film was also ranked 22nd on AFI's list of most inspiring movies.
 
 
 == Plot ==
@@ -60,7 +60,7 @@ Best Picture
 Best Sound Recording (Thomas T. Moulton)
 Best Writing, Original Story
 Best Writing, Adapted ScreenplayThe American Film Institute ranked The Pride of the Yankees 22nd on its list of the 100 most inspiring films in American cinema.
-In AFI's 2008 "Ten Top Tens"—the top ten films in ten "classic" American film genres—The Pride of the Yankees was ranked third in the sports category. Gehrig was named the 25th greatest hero in American cinema by the AFI in 2003.
+In AFI's 2008 "Ten Top Tens"—the top ten films in ten "classic" American film genres—The Pride of the Yankees was ranked third in the sports category. The film was also ranked 22nd in AFI's 2006 100 Years... 100 Cheers list of most inspirational movies. Gehrig was named the 25th greatest hero in American cinema by the AFI in 2003. 
 
 
 == Inaccuracies/artistic license ==
@@ -86,7 +86,7 @@ List of baseball films
 
 == External links ==
 
-The Pride of the Yankees at IMDb
+The Pride of the Yankees at IMDb 
 The Pride of the Yankees at AllMovie
 The Pride of the Yankees at the TCM Movie Database
 The Pride of the Yankees at the American Film Institute Catalog
@@ -300,7 +300,6 @@ Amyotrophic lateral sclerosis
 Andy Pettitte
 Arrowsmith (film)
 Astor Theatre (New York)
-Astros–Yankees rivalry
 Attorney for the Defense
 Babe Herman
 Babe Ruth
@@ -346,7 +345,7 @@ Confirm or Deny
 Core Four
 Crash Dive
 Curse of the Bambino
-Cynara (film)
+Cynara (1932 film)
 Cytherea (film)
 Damn Yankees
 Damn Yankees (1958 film)
@@ -609,6 +608,7 @@ The Defense Rests
 The Devil Dancer
 The Devil and Miss Jones
 The Devil to Pay! (film)
+The Double (Seattle Mariners)
 The Eternal City (1923 film)
 The Fair Co-Ed
 The Female (1924 film)
@@ -705,7 +705,6 @@ http://moregehrig.tripod.com/id3.html
 http://baseballresearcher.blogspot.com/2013/02/the-pride-of-yankees-seeknay.html?showComment=1360016904537
 http://sabr.org/bioproj/person/8bb96875
 http://espn.go.com/mlb/flash/gehrigletters#/letters/seekinghope/eleanor/letter26
-http://www.afi.com/members/catalog/DetailView.aspx?s=&Movie=27411
 http://www.oscars.org/oscars/ceremonies/1943
 https://movies.nytimes.com/movie/review?res=9E0DEFD71E31E53BBC4E52DFB1668389659EDE
 https://www.nytimes.com/1987/06/13/obituaries/daniel-mandell-won-3-film-editing-oscars.html
@@ -713,11 +712,9 @@ https://movies.nytimes.com/movie/39137/The-Pride-of-the-Yankees/awards
 https://www.nytimes.com/2011/05/29/sports/baseball/for-the-columbia-class-of-41-it-is-always-the-day-after.html
 https://www.nytimes.com/2013/02/09/sports/baseball/researcher-concludes-pride-of-the-yankees-film-was-not-flipped.html
 http://www.ultimatemovierankings.com/1942-top-grossing-movies/
-http://www.tcm.com/this-month/article/18600%7C0/The-Pride-of-the-Yankees.html
 https://www.allmovie.com/movie/v39137
 https://www.imdb.com/title/tt0035211/
 https://www.youtube.com/watch?v=_SKyfGK9brs
-https://www.variety.com/review/VE1117794132.html
 https://www.comingsoon.net/news/movienews.php?id=46072
 https://www.rottentomatoes.com/m/pride_of_the_yankees
 https://www.baseball-reference.com/boxes/CHN/CHN193210010.shtml
@@ -731,3 +728,7 @@ https://www.bestmoviesof.com/year/1942
 https://doi.org/10.1080%2F01439689400260031
 https://doi.org/10.1080%2F01439689408604545
 https://www.wikidata.org/wiki/Q1198860#P444
+https://www.tcm.com/tcmdb/title/87109/the-pride-of-the-yankees#articles-reviews?articleId=18600
+https://variety.com/2017/film/news/authorized-lou-gehrig-biopic-luckiest-man-1202475552
+https://www.afi.com/afis-100-years-100-cheers/
+https://www.wikidata.org/wiki/Q1198860#P345

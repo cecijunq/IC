@@ -64,7 +64,7 @@ Hiro, Molly (Winter 2010). ""'Tain't no tragedy unless you make it one": Imitati
 Imitation of Life essay by Ariel Schudson on the National Film Registry website
 Imitation of Life essay by Daniel Eagan in America's Film Legacy: The Authoritative Guide to the Landmark Movies in the National Film Registry A&C Black, 2010 ISBN 0826429777, pages 231-232
 Imitation of Life at the American Film Institute Catalog
-Imitation of Life (1934) at IMDb
+Imitation of Life (1934) at IMDb 
 Imitation of Life (1934) at the TCM Movie Database
 Imitation of Life (1934) at AllMovie
 Imitation of Life (1934) at Rotten Tomatoes
@@ -263,3 +263,4 @@ https://www.tcm.com/tcmdb/title/79028/imitation-of-life#overview
 https://www.rottentomatoes.com/m/1082542-imitation_of_life
 https://www.criterion.com/current/posts/8038-imitation-of-life-on-passing-between
 https://id.loc.gov/authorities/no00078365
+https://www.wikidata.org/wiki/Q391541#P345

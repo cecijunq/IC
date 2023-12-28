@@ -38,7 +38,7 @@ List of films with a 100% rating on Rotten Tomatoes, a film review aggregator we
 == External links ==
 
 Of Mice and Men at the American Film Institute Catalog
-Of Mice and Men at IMDb
+Of Mice and Men at IMDb 
 Of Mice and Men at AllMovie
 Of Mice and Men at the TCM Movie Database
 Of Mice and Men at Rotten Tomatoes
@@ -211,3 +211,4 @@ https://www.tcm.com/tcmdb/title/85392/enwp
 https://www.afi.com/afis-100-years-of-film-scores
 https://id.loc.gov/authorities/no97075120
 https://viaf.org/viaf/174394756
+https://www.wikidata.org/wiki/Q1620093#P345

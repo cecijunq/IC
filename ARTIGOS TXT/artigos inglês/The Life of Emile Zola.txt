@@ -24,7 +24,7 @@ In 1936, literary agent Heinz Herald first proposed the story to producer Henry 
 
 
 == Reception and interpretation ==
-Following a successful preview screening that did not yet include Max Steiner's musical score, The Life of Emile Zola premiered on August 11, 1937 and became an immediate sensation. Soon after, Warner Bros. placed full-page advertisements in several Los Angeles newspapers congratulating the cast and crew.Contemporary reviews were nearly unanimous in their praise. Frank S. Nugent of The New York Times wrote: 
+Following a successful preview screening that did not yet include Max Steiner's musical score, The Life of Emile Zola premiered on August 11, 1937, and became an immediate sensation. Soon after, Warner Bros. placed full-page advertisements in several Los Angeles newspapers congratulating the cast and crew.Contemporary reviews were nearly unanimous in their praise. Frank S. Nugent of The New York Times wrote: 
 
 "Rich, dignified, honest, and strong, it is at once the finest historical film ever made and the greatest screen biography, greater even than The Story of Louis Pasteur with which the Warners squared their conscience last year ... Paul Muni's portrayal of Zola is, without doubt, the best thing he has done."
 Variety wrote that the film was "a vibrant, tense and emotional story ... It is finely made and merits high rating as cinema art and significant recognition as major showmanship." Harrison's Reports described it as "A dignified, powerful, and at times stirring historical drama, brilliantly directed, and superbly acted by Paul Muni, as Zola, the great French writer."John Mosher of The New Yorker praised the film as "a picture of considerable distinction" with "no nonsense."Writing for Night and Day, Graham Greene offered a neutral review, noting that despite its inaccuracies, "truth to the film mind is the word you see on news-posters." Greene commented that appearances from seemingly significant characters such as Cézanne were largely irrelevant to the plot and that all of the events in the film happen suddenly.The Life of Emile Zola topped Film Daily's year-end poll of 531 critics as the best film of 1937.Certain scenes were interpreted at the time as "indirect attacks on Nazi Germany." As David Denby writes about the movie in 2013, "At the end, in an outpouring of the progressive rhetoric that was typical of the thirties, Zola makes a grandiloquent speech on behalf of justice and truth and against nationalist war frenzy." However, the film is silent about the fact that Dreyfus was Jewish and the victim of French antisemitism.The French government allegedly banned the movie in 1939, possibly because of the sensitivity of the Dreyfus affair.On Rotten Tomatoes, the film holds a score of 92% from 72 reviews, with an average rating of 7.5/10. The website's critics consensus reads, "Urgently relevant in an era of escalating bigotry and fascism, The Life of Emile Zola is a respectful and staid tribute to the French novelist, enlivened by Paul Muni's chameleonic prowess."
@@ -44,7 +44,7 @@ In his 2013 book titled The Collaboration: Hollywood's Pact with Hitler, Ben Urw
 == External links ==
 
 The Life of Emile Zola at the American Film Institute Catalog
-The Life of Emile Zola at IMDb
+The Life of Emile Zola at IMDb 
 The Life of Emile Zola at AllMovie
 The Life of Emile Zola at the TCM Movie Database
 The Life of Emile Zola at Rotten Tomatoes
@@ -198,7 +198,7 @@ In Secret (film)
 In Which We Serve
 In the Heat of the Night (film)
 It Happened One Night
-J'Accuse…!
+J'Accuse...!
 J'accuse (letter)
 Jack L. Warner
 Jacques Marie Eugène Godefroy Cavaignac
@@ -210,6 +210,7 @@ John Russell Taylor
 Joseph Schildkraut
 Josephine Hutchinson
 Juarez (film)
+Killers of the Flower Moon (film)
 Kismet (1931 film)
 Kismet (1944 film)
 Kramer vs. Kramer
@@ -388,6 +389,7 @@ The Hurt Locker
 The Informer (1935 film)
 The Irishman
 The King's Speech
+The Ladies' Paradise (TV series)
 The Last Emperor
 The Last Flight (1931 film)
 The Lion in Winter (1968 film)
@@ -461,3 +463,4 @@ https://www.loc.gov/item/prn-00-200/librarian-of-congress-names-25-more-films-to
 https://www.loc.gov/programs/national-film-preservation-board/film-registry/complete-national-film-registry-listing/
 https://www.tcm.com/tcmdb/title/81353/enwp
 https://books.google.com/books?id=deq3xI8OmCkC
+https://www.wikidata.org/wiki/Q738552#P345

@@ -1,8 +1,6 @@
 State Fair (1933 film)
-State Fair (1933) is an American pre-Code comedy-drama film directed by Henry King and starring Janet Gaynor, Will Rogers, and Lew Ayres. The picture tells the story of a farm family's multi-day visit to the Iowa State Fair, where the parents seek to win prizes in agricultural and cooking competitions, and their teenage daughter and son each find unexpected romance. Based on the bestselling 1932 novel by Phil Stong, this was the first of three film versions of the novel released to theaters, the others being the movie musicals State Fair (1945) starring Jeanne Crain and Dana Andrews, and State Fair (1962) starring Ann-Margret and Pat Boone.
-The 1933 version was nominated for an Academy Award for Best Picture. The film, made pre-Code and despite its seemingly tame plot, has some scenes that were censored a few years later, when it was re-released due to the Breen Office's Production Code that took effect in 1934. One scene that was cut showed a disheveled bed and a negligee on the floor while Norman Foster and Sally Eilers are heard speaking off-screen. Additionally, a sexual relationship between the daughter and a reporter was eliminated in the adaptation, however the son's seduction by a trapeze artist was kept.Rogers was accorded top billing on some posters, but Gaynor was billed above Rogers in the film itself.
-Victor Jory also appears as the hoop toss barker at the carnival, at the beginning of a screen career spanning 57 years.
-In 2014, State Fair was deemed "culturally, historically, or aesthetically significant" by the Library of Congress and selected for preservation in the National Film Registry.
+State Fair (1933) is an American pre-Code comedy-drama film directed by Henry King and starring Janet Gaynor, Will Rogers, and Lew Ayres. The film tells the story of a farm family's multi-day visit to the Iowa State Fair, where the parents seek to win prizes in agricultural and cooking competitions, and their teenage daughter and son each find unexpected romance. Based on the bestselling 1932 novel by Phil Stong, this was the first of three film versions of the novel released to theaters, the others being the movie musicals State Fair (1945) starring Jeanne Crain and Dana Andrews, and State Fair (1962) starring Ann-Margret and Pat Boone. The 1933 version was nominated for an Academy Award for Best Picture and another for Best Adapted Screenplay, losing to Cavalcade and Little Women respectively.
+Though the adaptation deleted a storyline about a sexual relationship between the daughter and a journalist, it retained a similar storyline about the seduction of the son (Norman Foster) by a trapeze artist (Sally Eilers). This caused trouble with the Hays Commission when Fox re-released the film in 1935. The censors insisted on the deletion of a scene where Foster and Eilers are heard talking off screen while the camera shows a rumpled bed and a discarded negligee. The cut scene has never been restored.Rogers was accorded top billing on some posters, but Gaynor was billed above Rogers in the film itself. In 2014, State Fair was deemed "culturally, historically, or aesthetically significant" by the Library of Congress and selected for preservation in the National Film Registry.
 
 
 == Cast ==
@@ -24,9 +22,10 @@ Harry Holman as Professor Tyler Cramp (uncredited)
 
 
 == External links ==
+State Fair is available for free viewing and download at the Internet Archive
 State Fair essay [1] by Aubrey Solomon at National Film Registry
 Flyrope.com page (stage version)
-State Fair at IMDb (1933 version)
+State Fair at IMDb  (1933 version)
 State Fair at AllMovie
 State Fair at the TCM Movie Database
 State Fair at the American Film Institute Catalog
@@ -39,6 +38,7 @@ A Fugitive from Matrimony
 A Game of Wits
 A Sporting Chance (1919 Pathe film)
 A Yank in the R.A.F.
+Academy Award for Best Adapted Screenplay
 Academy Award for Best Picture
 Alexander's Ragtime Band (film)
 AllMovie
@@ -51,7 +51,7 @@ Brass Buttons
 Captain from Castile
 Carolina (1934 film)
 Carousel (film)
-Censorship
+Cavalcade (1933 film)
 Chad Hanna
 Comedy-drama
 Dana Andrews
@@ -66,6 +66,7 @@ Fury (1923 film)
 Hal Mohr
 Harry Holman
 Haunting Shadows
+Hays Code
 Hearts or Diamonds?
 Hell Harbor
 Help Wanted – Male
@@ -74,8 +75,10 @@ Hobart Cavanaugh
 Hobbs in a Hurry
 I'd Climb the Highest Mountain
 IMDb (identifier)
+ISBN (identifier)
 I Loved You Wednesday
 In Old Chicago
+Internet Archive
 Iowa State Fair
 It Might as Well Be Spring
 Janet Gaynor
@@ -88,6 +91,7 @@ Library of Congress
 Lightnin' (1930 film)
 Little Mary Sunshine (1916 film)
 Little Old New York (1940 film)
+Little Women (1933 film)
 Lloyd's of London (film)
 Louise Dresser
 Love Is a Many-Splendored Thing (film)
@@ -107,10 +111,8 @@ Paul Green (playwright)
 Pay Dirt
 Phil Stong
 Powers That Prey
-Pre-Code
 Pre-Code Hollywood
 Prince of Foxes (film)
-Production Code
 Ramona (1936 film)
 Remember the Day
 Romola (film)
@@ -196,3 +198,8 @@ https://www.rottentomatoes.com/m/state_fair1933
 https://www.wikidata.org/wiki/Q1618931#identifiers
 https://www.tcm.com/tcmdb/title/91336/enwp
 https://id.loc.gov/authorities/n2013020810
+https://web.archive.org/web/20140222221413/http://www.tcm.com/this-month/article.html?id=455912%7C463931
+https://books.google.com/books?id=sr0vAQAAIAAJ
+https://books.google.com/books?id=x9vNDwAAQBAJ&pg=PA92
+https://archive.org/details/state-fair-1933
+https://www.wikidata.org/wiki/Q1618931#P345

@@ -80,6 +80,7 @@ Biblioteca de Cataluña
 Bob Gunton
 Box Office Mojo
 Broadcast Music, Inc.
+Bruce MacVittie
 California
 Chicago Film Critics Association
 Cine bélico
@@ -164,7 +165,6 @@ http://www.boxofficemojo.com/movies/?id=bornonthefourthofjuly.htm
 http://www.filmaffinity.com/es/film349399.html
 http://cineultramundo.blogspot.de/2014/04/critica-de-nacido-el-4-de-julio-tom.html
 http://www.fotogramas.es/Oscar/Mas-sobre-los-Oscar/Oscar-1989-Nacido-el-4-de-julio-vs.-Paseando-a-Miss-Daisy
-https://www.imdb.com/title/tt0096969/fullcredits
 https://www.imdb.com/title/tt0096969/
 https://www.filmaffinity.com/es/film349399.html
 https://d-nb.info/gnd/4531962-5
@@ -193,3 +193,4 @@ https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=2459&view=2-Film%
 https://www.worldcat.org/identities/viaf-194764576
 https://datos.bne.es/resource/XX4206128
 https://www.allocine.fr/film/fichefilm_gen_cfilm=5455.html
+https://www.imdb.com/title/tt0096969/fullcredits

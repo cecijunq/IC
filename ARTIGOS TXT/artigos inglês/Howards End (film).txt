@@ -1,6 +1,6 @@
 Howards End (film)
 Howards End is a 1992 period romantic drama film directed by James Ivory, from a screenplay written by Ruth Prawer Jhabvala based on the 1910 novel of the same name by E. M. Forster. Marking Merchant Ivory Productions' third adaptation of a Forster novel (following 1985's A Room with a View, and 1987's Maurice), it was the first film to be released by Sony Pictures Classics. The film's narrative explores class relations in turn-of-the-20th-century Britain, through events in the lives of the Schlegel sisters.
-Howards End premiered at the 1992 Cannes Film Festival, where it competed for the Palme d'Or and won the 45th Anniversary Award. The film was theatrically released on March 13, 1992 in the United States and on May 1, in the United Kingdom to critical acclaim and commercial success, grossing over $32 million on an $8 million budget. At the 65th Academy Awards, the film received a leading nine nominations including for the Best Picture, and won three; Best Actress (for Thompson), Best Screenplay Based on Material Previously Produced or Published and Best Art Direction. At the 46th British Academy Film Awards, it garnered a leading eleven nominations, winning two awards; Best Film, and Best Actress (for Thompson).
+Howards End premiered at the 1992 Cannes Film Festival, where it competed for the Palme d'Or and won the 45th Anniversary Award. The film was theatrically released on March 13, 1992 in the United States and on May 1, in the United Kingdom to critical acclaim and commercial success, grossing over $32 million on an $8 million budget. At the 65th Academy Awards, the film received a leading nine nominations including for the Best Picture, and won three: Best Actress (for Thompson), Best Screenplay Based on Material Previously Produced or Published and Best Art Direction. At the 46th British Academy Film Awards, it garnered a leading eleven nominations, winning two awards; Best Film, and Best Actress (for Thompson).
 
 
 == Plot ==
@@ -50,18 +50,21 @@ The film received massive critical acclaim. On 5 June 2005, Roger Ebert included
 The film grossed $26.3 million in the United States and Canada. In the United Kingdom it grossed over £3.7 million ($5.5 million).
 
 
+=== Awards and nominations ===
+
+
 === Home media ===
 The Criterion Collection released Blu-ray and DVD versions of the film on 3 November 2009, which have since gone out of print. The release was unfortunately subject to a bronzing issue which would discolor the disc bronze and render it unplayable, due to a pressing issue at the factory, though not every disc was subject to bronzing. Cohen Film Collection released their own special edition Blu-ray on 6 December 2016. Although this edition was labelled as remastered in 4k, it is a 1080p Blu Ray disc. However in 2018, Concord Video released a 4K Ultra HD Region Free edition in Germany.
 
 
-== Awards and nominations ==
+== Notes ==
 
 
 == References ==
 
 
 == External links ==
-Howards End at IMDb
+Howards End at IMDb 
 Howards End at Rotten Tomatoes
 Howards End: All Is Grace an essay by Kenneth Turan at the Criterion Collection12 Years a Slave (film)
 18th César Awards
@@ -97,6 +100,7 @@ Academy Award for Best Original Score
 Academy Award for Best Picture
 Academy Award for Best Production Design
 Academy Award for Best Supporting Actress
+Academy of Motion Picture Arts and Sciences
 Admiralty Arch
 Adulterer
 Adventures of a Brown Man in Search of Civilization
@@ -115,7 +119,6 @@ Argo (2012 film)
 Around the World in 80 Days (1956 film)
 Atonement (2007 film)
 Autobiography of a Princess
-BAFTA
 BAFTA Award for Best Actor in a Supporting Role
 BAFTA Award for Best Actress in a Leading Role
 BAFTA Award for Best Actress in a Supporting Role
@@ -149,12 +152,14 @@ Boston Society of Film Critics Awards 1992
 Bourgeoisie
 Boyhood (2014 film)
 Brampton Bryan Hall
+British Academy Film Awards
 British Society of Cinematographers
 Brokeback Mountain
 Butch Cassidy and the Sundance Kid
 Cabaret (1972 film)
 Call Me by Your Name (film)
 Camerimage
+Cannes Film Festival
 Chariots of Fire
 Chicago Film Critics Association
 Chicago Film Critics Association Award for Best Actress
@@ -222,12 +227,12 @@ Golden Globe Award for Best Actress in a Motion Picture – Drama
 Golden Globe Award for Best Director
 Golden Globe Award for Best Motion Picture – Drama
 Golden Globe Award for Best Screenplay
+Golden Globe Awards
 Goldene Kamera
 Good Night, and Good Luck
 Goodfellas
 Gosford Park
 Green Book (film)
-HFPA
 Hamlet (1948 film)
 Harry Rabinowitz
 Heat and Dust (film)
@@ -267,6 +272,7 @@ Joseph A. Bennett
 Julia (1977 film)
 Julius Caesar (1953 film)
 Kenneth Turan
+Killers of the Flower Moon (film)
 L.A. Confidential (film)
 La La Land
 La Ronde (1950 film)
@@ -469,7 +475,6 @@ Tom Jones (1963 film)
 Tony Pierce-Roberts
 Top Gun: Maverick
 Topaze (1933 American film)
-USC Scripter Award
 USC Scripter Awards
 Under the Skin (2013 film)
 Unforgiven
@@ -480,6 +485,7 @@ Victoria Square, London
 We Need to Talk About Kevin (film)
 Who's Afraid of Virginia Woolf? (film)
 Writers Guild of America Award for Best Adapted Screenplay
+Writers Guild of America Awards
 Yeoman
 Young Catherine
 Zero Dark Thirty
@@ -510,16 +516,13 @@ https://www.blu-ray.com/movies/Howards-End-Blu-ray/5698/
 https://www.blu-ray.com/movies/Howards-End-Blu-ray/142539/
 https://www.chicagotribune.com/news/ct-xpm-1992-05-01-9202080722-story.html
 http://www.oscars.org/oscars/ceremonies/1993
-https://web.archive.org/web/20141109220926/http://www.oscars.org/oscars/ceremonies/1993
 http://www.bodilprisen.dk/aar-for-aar/1993-2/
 https://bostonfilmcritics.org/past-winners-1990s/
 http://awards.bafta.org/award/1993/film
-https://bscine.com/media/uploads/awards/bsc-cinematography-feature-film.pdf?v
 https://camerimage.pl/en/archiwum/kronika-nagrod/camerimage-1993/
 https://chicagofilmcritics.org/awards-blog/archives
 https://www.dga.org/Awards/History/1990s/1992.aspx?value=1992
 https://www.goldenglobes.com/film/howards-end
-https://s3.amazonaws.com/SA_SubForm_etc/2021_SA_ALLNomineesWinners_063021.pdf
 https://kcfcc.org/kcfcc-award-winners-1990-99/
 http://www.lafca.net/Years/1992.php
 https://nationalboardofreview.org/award-years/1992/
@@ -530,6 +533,12 @@ http://www.wga.org/awards/awardssub.aspx?id=1551
 https://ghostarchive.org/varchive/youtube/20211211/Vp0jtO-Os3A
 https://www.soundtrack.net/album/howards-end/
 https://www.allmusic.com/artist/teddy-peiro-mn0001826638
-https://www.nyfcc.com/awards/?awardyear=1992
 https://libraries.usc.edu/scripter/past-scripter-awards
 https://www.academie-cinema.org/evenements/ceremonie-des-cesar-1993/
+https://web.archive.org/web/20110802060537/http://www.theasc.com/asc_news/awards/awards_history.php
+http://www.theasc.com/asc_news/awards/awards_history.php
+https://bscine.com/media/uploads/Awards/bsc-cinematography-feature-film.pdf?v=1696018822
+https://s3.amazonaws.com/SA_SubForm_etc/2023_SA_ALLNomineesWinners_051623.pdf
+https://www.nyfcc.com/awards/
+https://www.daviddidonatello.it/motore-di-ricerca/schedasola.php?idfilm=57&annovinci=1993
+https://www.wikidata.org/wiki/Q913389#P345

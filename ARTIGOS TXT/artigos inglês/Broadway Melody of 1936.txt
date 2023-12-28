@@ -81,7 +81,7 @@ Green, Stanley (1999) Hollywood Musicals Year by Year (2nd ed.), pub. Hal Leonar
 
 
 == External links ==
-Broadway Melody of 1936 at IMDb
+Broadway Melody of 1936 at IMDb 
 Broadway Melody of 1936 at the TCM Movie Database
 Broadway Melody of 1936 at AllMovie
 Broadway Melody of 1936 at the American Film Institute Catalog
@@ -216,3 +216,4 @@ https://www.wikidata.org/wiki/Q1619460#identifiers
 https://musicbrainz.org/work/72912ee4-01d2-3aba-9e3a-09c64d029978
 https://musicbrainz.org/work/0d2b74a0-2744-4003-986c-1b33fe6426d2
 https://www.tcm.com/tcmdb/title/69748/enwp
+https://www.wikidata.org/wiki/Q1619460#P345

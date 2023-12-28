@@ -5,9 +5,9 @@ Filming of Spellbound took place in the summer of 1944 in Vermont, Utah, and Los
 
 == Plot ==
 Dr. Constance Petersen is a psychoanalyst at a mental hospital in Vermont. The hospital's director, Dr. Murchison, is forced into retirement shortly after returning from an absence due to nervous exhaustion. His replacement, Dr. Anthony Edwardes, turns out to be surprisingly young. Petersen is immediately smitten with him.
-They fall in love. One day, while kissing him, Petersen notices that this Edwardes has a peculiar phobia about sets of parallel lines against a white background. She compares his signature with an autographed copy of one of his books, realizing that they do not match and he is an impostor. He confides to her that he has killed the real Edwardes and taken his place. Suffering from amnesia, he does not know who he really is. Petersen believes he is an innocent man with a guilt complex. Overnight, he disappears. At the same time, it becomes public knowledge that the man is an impostor, and that the real Edwardes is missing and may have been killed.
+They fall in love. One day, while kissing him, Petersen notices that this Edwardes has a peculiar phobia about sets of parallel lines against a white background. She compares his signature with an autographed copy of one of his books, realizing that they do not match, and he is an impostor. He confides to her that he has killed the real Edwardes and taken his place. Suffering from amnesia, he does not know who he really is. Petersen believes he is an innocent man with a guilt complex. Overnight, he disappears. At the same time, it becomes public knowledge that the man is an impostor, and that the real Edwardes is missing and may have been killed.
 Petersen tracks him down to a New York City hotel, where he is living under the pseudonym John Brown. Despite his insistence for her to leave, she convinces him that psychoanalysis can break through his amnesia and uncover his former memories. The two travel to Rochester, New York, and stay with Dr. Alexander Brulov, Petersen's former mentor.
-The two doctors analyze a dream that Brown had. He is playing cards in a mysterious club when a scantily-clad woman resembling Petersen starts kissing everybody there. His card partner, an older man, is accused of cheating and threatened by the club's masked proprietor. The scene changes to the older man standing on the precipice of a sloped roof and falling off. The proprietor is found to be standing behind a chimney and dropping a wheel he held in his hands. Brown's dream concludes with him being chased down a hill by a great pair of wings.
+The two doctors analyze a dream that Brown had. He is playing cards in a mysterious club when a scantily clad woman resembling Petersen starts kissing everybody there. His card partner, an older man, is accused of cheating and threatened by the club's masked proprietor. The scene changes to the older man standing on the precipice of a sloped roof and falling off. The proprietor is found to be standing behind a chimney and dropping a wheel he held in his hands. Brown's dream concludes with him being chased down a hill by a great pair of wings.
 Brown's phobia of dark lines on white turns out to be based on ski tracks in the snow and the older man in his dream is the real Edwardes, who met his demise in a skiing accident. The detail of the wings makes them deduce that it must have been the Gabriel Valley ski lodge. Brown and Petersen travel there to recreate the circumstances of Edwardes' death. However, Brown fears that, if he really was Edwardes' murderer, he may impulsively kill again in the same situation.
 As they go down the slope, Brown remembers details of his former life: he has a guilt complex, rooted in a childhood accident where he killed his brother by knocking him onto a spiked fence. He also recognizes the cliff where Edwardes fell off and recalls his real name: John Ballantyne. Petersen and John later meet with the police, who find Edwardes' body with Ballantyne's directions. However, the corpse has a bullet wound in his back. Ballantyne is arrested, tried, and convicted of murder.
 Heartbroken, Petersen returns to the hospital. Murchison, once again the director, lets slip that he knew Edwardes slightly and did not like him, contradicting his earlier statement that they had never met. This inspires Petersen to re-examine her notes of Ballantyne's dream: the masked proprietor represents Murchison and the wheel represents a revolver. Murchison therefore murdered Edwardes and left the gun on the ski slope.
@@ -98,13 +98,13 @@ Mental illness in films
 
 == External links ==
 
-Spellbound at IMDb
+Spellbound at IMDb 
 Spellbound at the TCM Movie Database
 Spellbound at Rotten Tomatoes
 Spellbound Concerto by Miklós Rózsa on YouTube Music to the film arranged by Rózsa
 Spellbound on Lux Radio Theater: March 8, 1948
-Photos of Ingrid Bergman in Spellbound by Ned Scott
-Photos of Rhonda Fleming in Spellbound by Ned Scott
+Photos of Ingrid Bergman in Spellbound Archived 2022-10-12 at the Wayback Machine by Ned Scott
+Photos of Rhonda Fleming in Spellbound Archived 2013-12-13 at the Wayback Machine by Ned Scott
 Selznick International’s Spellbound an essay by Leonard Leff at the Criterion Collection
 Spellbound: Love and Psychoanalysis an essay by Lesley Brill at the Criterion Collection2919 Dali
 7 Faces of Dr. Lao
@@ -166,6 +166,7 @@ Cabaret Scene
 Cartel de Don Juan Tenorio
 Castle of Púbol
 Champagne (1928 film)
+Champagne Standard Lamps
 China Girl (1942 film)
 Chinatown Nights (1929 film)
 Christ of Saint John of the Cross
@@ -181,6 +182,7 @@ DVD
 Dali's Mustache
 Dali (crater)
 Dali cross
+Dalí Atomicus
 Dalí Seen from the Back Painting Gala from the Back Eternalised by Six Virtual Corneas Provisionally Reflected by Six Real Mirrors
 Dalí Theatre and Museum
 Dalí Universe
@@ -424,7 +426,7 @@ The Florentine Dagger
 The Four Feathers (1929 film)
 The Front Page
 The Garden of Allah (1936 film)
-The Ghost of Vermeer of Delft Which Can Be Used As a Table
+The Ghost of Vermeer of Delft Which Can Be Used as a Table
 The Girl (2012 TV film)
 The Goldwyn Follies
 The Great Gabbo
@@ -501,6 +503,7 @@ Vilabertran (Dalí)
 Viva Villa!
 Wallace Ford
 Waltzes from Vienna
+Wayback Machine
 What Price Hollywood?
 Where the Sidewalk Ends (film)
 Whirlpool (1949 film)
@@ -557,3 +560,6 @@ https://cantic.bnc.cat/registre/981058515652106706
 https://www.tcm.com/tcmdb/title/91049/enwp
 https://www.theage.com.au/entertainment/movies/top-five-films-best-of-the-big-screen-20180924-h15s5f.html
 https://id.loc.gov/authorities/no98057320
+https://web.archive.org/web/20221012192125/https://www.thenedscottarchive.com/hollywood/films/movie-spellbound.html
+https://web.archive.org/web/20131213112519/http://thenedscottarchive.com/galleries/film-stars/rhonda-fleming-pictures
+https://www.wikidata.org/wiki/Q497311#P345

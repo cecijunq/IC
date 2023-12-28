@@ -27,14 +27,14 @@ The citizens of the cities of Würzburg, Nürnberg, and Mannheim, where some of 
 == Reception ==
 At the 24th Academy Awards, Decision Before Dawn was nominated for the Best Picture Oscar, with Dorothy Spencer nominated for Best Film Editing.
 Bob Thomas praised the film in his 1951 newspaper column, describing it as "movie-making at its best. ... By using the real German cities and people, this film has created a stirring and realistic picture of a dying nation." He also praised the performances of Basehart, Merrill and Werner.
-Upon seeing the film, General Douglas MacArthur said "This is the finest picture I have seen this year, and I nominate it for an Academy Award."In a 2000s review, Chicago Reader film critic J. R. Jones was less enthused, writing "By the time Fox released this 1952 feature, the patriotic orthodoxy of Hollywood war movies had softened enough to allow for a German hero, but not a very engaging one; the inherent drama of his divided loyalty is mostly bypassed in favor of a slack espionage plot." However, Jones applauded Werner's "magnetic performance" and thought that Knef "is devastating in her brief turn as a war-weary hooker."In 2008 Emanuel Levy called Decision Before Dawn a "stirring drama ... And while not made as an explicitly agit-prop, it does convey its humanist anti-war message, without the usual sentimentality."
+Upon seeing the film, General Douglas MacArthur said "This is the finest picture I have seen this year, and I nominate it for an Academy Award."In a 2006 review, Chicago Reader film critic J. R. Jones was less enthused, writing "By the time Fox released this 1952 feature, the patriotic orthodoxy of Hollywood war movies had softened enough to allow for a German hero, but not a very engaging one; the inherent drama of his divided loyalty is mostly bypassed in favor of a slack espionage plot." However, Jones applauded Werner's "magnetic performance" and thought that Knef "is devastating in her brief turn as a war-weary hooker."In 2008 Emanuel Levy called Decision Before Dawn a "stirring drama ... And while not made as an explicitly agit-prop, it does convey its humanist anti-war message, without the usual sentimentality."
 
 
 == References ==
 
 
 == External links ==
-Decision Before Dawn at IMDb
+Decision Before Dawn at IMDb 
 Decision Before Dawn at the TCM Movie Database
 Decision Before Dawn at AllMovie
 Decision Before Dawn at the American Film Institute Catalog
@@ -52,7 +52,7 @@ Anastasia (1956 film)
 Anatole Litvak
 Blues in the Night (film)
 Bob Thomas (reporter)
-Calais-Dover (film)
+Calais-Dover
 Castle on the Hudson
 Chicago Reader
 City for Conquest
@@ -76,6 +76,7 @@ Hans Christian Blech
 Helene Thimig
 Hildegard Knef
 IMDb (identifier)
+Lilac (film)
 Mannheim
 Mayerling (1936 film)
 Mayerling (1957 film)
@@ -84,6 +85,7 @@ No More Love (film)
 Nürnberg
 O.E. Hasse
 Obergefreiter
+One Night's Song
 Oskar Werner
 Out of the Fog (1941 film)
 Peter Viertel
@@ -128,3 +130,4 @@ https://www.chicagoreader.com/chicago/decision-before-dawn/Film?oid=1058603
 https://www.wikidata.org/wiki/Q1345327#identifiers
 https://www.rottentomatoes.com/m/decision_before_dawn/reviews
 https://www.tcm.com/tcmdb/title/72701/enwp
+https://www.wikidata.org/wiki/Q1345327#P345

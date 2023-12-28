@@ -107,7 +107,7 @@ Lanham, Richard (2003). Introduction: The Domain of Style analyzing prose. New Y
 
 == External links ==
 
-12 Angry Men at IMDb
+12 Angry Men at IMDb 
 12 Angry Men at the TCM Movie Database
 12 Angry Men at AllMovie
 12 Angry Men at the American Film Institute Catalog
@@ -559,3 +559,4 @@ https://www.loc.gov/static/programs/national-film-preservation-board/documents/1
 https://www.loc.gov/programs/national-film-preservation-board/film-registry/index-of-essays/
 https://web.archive.org/web/20120219003525/http://cinemahochi.yomiuri.co.jp/b_award/1959/
 https://dbn.bn.org.pl/descriptor-details/9810624294605606
+https://www.wikidata.org/wiki/Q2345#P345

@@ -46,8 +46,8 @@ Dressed to Kill(1928)
 
 
 == External links ==
-The Racket at IMDb
-The Racket at AllMovie
+The Racket at IMDb 
+allmovie.com
 The Racket at the TCM Movie Database
 The Racket at the American Film Institute Catalog
 Australian daybill long poster1st Academy Awards
@@ -57,7 +57,6 @@ Academy Award for Best Picture
 Academy Film Archive
 Academy of Motion Pictures Arts and Sciences
 Al Capone
-AllMovie
 All Quiet on the Western Front (1930 film)
 Anything Goes (1936 film)
 Arch of Triumph (1948 film)
@@ -192,6 +191,7 @@ https://www.rottentomatoes.com/m/the_racket_1928
 https://www.oscars.org/academy-film-archive/preserved-projects?title=racket&filmmaker=&category=All&collection=All
 https://www.oscars.org/oscars/ceremonies/1929
 https://variety.com/1927/film/reviews/the-racket-1200410035/
-https://www.allmovie.com/movie/v1731327
 https://www.tcm.com/tcmdb/title/499953/enwp
 https://catalog.afi.com/Catalog/moviedetails/11516
+https://www.allmovie.com/movie/the-racket-vm1731327
+https://www.wikidata.org/wiki/Q1434610#P345

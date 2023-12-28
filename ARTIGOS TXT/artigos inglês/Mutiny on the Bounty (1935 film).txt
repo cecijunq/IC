@@ -23,7 +23,7 @@ Meanwhile, Christian has found Pitcairn, an uninhabited yet sustainable island t
 == Historical accuracy ==
 The movie contains several historical inaccuracies. Captain Bligh was never on board HMS Pandora, nor was he present at the trial of the mutineers who stayed on Tahiti.
 At the time, he was halfway around the world on a second voyage for breadfruit plants. Fletcher Christian's father had died many years before Christian's travels on board Bounty, whereas the film shows the elder Christian at the trial. The movie was always presented as an adaptation of the Nordhoff and Hall trilogy, which already differed from the actual story of the mutiny.
-Bligh is initially depicted as a brutal, sadistic disciplinarian, only becoming more sympathetic during the voyage to Timor. Particular episodes include a keelhauling and flogging a dead man. Neither of these happened. Keelhauling was used rarely, if at all, and had been abandoned long before Bligh's time. Indeed, the meticulous record of Bounty's log reveals that the flogging rate was lower than the average for that time.Prior to the mutiny, Bounty had only two deaths. One seaman, James Valentine, died of an ill-defined respiratory illness; logs indicate he was "seized with a violent hollow Cough and spit much." And the ship's surgeon, Thomas Huggan, apparently died of complications due to his chronic alcoholism, not as a result of abuse by Bligh. In fact, Bligh had threatened to seize and impound Huggan's alcohol stocks on account of him regularly being intoxicated while on duty, a threat Bligh eventually carried out. Huggan's constant drunkenness left Bligh little choice but to oversee key health issues himself. Notably, the crew had been examined constantly for scurvy, and Bligh – his expertise in this matter developed under Captain James Cook – had detected no verified signs of the illness at any time.
+Bligh is initially depicted as a brutal, sadistic disciplinarian, only becoming more sympathetic during the voyage to Timor. Particular episodes include a keelhauling and flogging a dead man. Neither of these happened. Keelhauling was used rarely, if at all, and had been abandoned long before Bligh's time. Indeed, the meticulous record of Bounty's log reveals that the flogging rate was lower than the average for that time. Neither was Bligh then the middle-aged man that Laughton portrayed or an actual Royal Navy Captain: in fact he was then a relatively young man aged 33 when the voyage began, who was then a Lieutenant but was customarily addressed as "Captain" because he commanded the ship.Prior to the mutiny, Bounty had only two deaths. One seaman, James Valentine, died of an ill-defined respiratory illness; logs indicate he was "seized with a violent hollow Cough and spit much." And the ship's surgeon, Thomas Huggan, apparently died of complications due to his chronic alcoholism, not as a result of abuse by Bligh. In fact, Bligh had threatened to seize and impound Huggan's alcohol stocks on account of him regularly being intoxicated while on duty, a threat Bligh eventually carried out. Huggan's constant drunkenness left Bligh little choice but to oversee key health issues himself. Notably, the crew had been examined constantly for scurvy, and Bligh – whose expertise in this matter developed under Captain James Cook – had detected no verified signs of the illness at any time.
 Likewise, the film shows the mutineers taking over the ship only after killing several loyal crewmen, when in fact none died (although one crewman came very close to shooting Bligh until stopped by Christian). Lastly, Christian is shown being inspired to take over the ship after several crewmen have unjustly been put into irons by Bligh; this is fictional.In the final scene of the film, Christian gives a rousing speech to his fellow mutineers, speaking of creating a perfect society of free men on Pitcairn, away from Bligh and the navy. The reality was very different as mutineers enslaved Tahitian men.For historical accuracy, Clark Gable reluctantly had to shave off his moustache because the sailors in the Royal Navy in the 18th century had to be clean-shaven. Midshipman Roger Byam was based on a real person, Midshipman Peter Heywood, who is not listed in the novel or motion picture. Just as the fictional Byam is pardoned at the end of the film, the real-life Peter Heywood was pardoned for his part in the mutiny. MGM trailers in 1935 made an error calling Midshipman Byam an ensign.
 Mutineer Thomas Ellison is depicted as being allowed to see his wife before his execution. There is no record to indicate that the real Ellison was married, and in any case, a consolation visit of this type never would have been permitted in real life.
 
@@ -97,7 +97,7 @@ The Simpsons episode "The Wettest Stories Ever Told" features the family telling
 
 == External links ==
 
-Mutiny on the Bounty (1935) at IMDb
+Mutiny on the Bounty (1935) at IMDb 
 Mutiny on the Bounty at the TCM Movie Database
 Synopsis at AllMovie
 Mutiny on the Bounty at the American Film Institute Catalog
@@ -129,6 +129,7 @@ Academy Award for Best Picture
 Academy Award for Best Supporting Actor
 Academy Award for Best Writing (Adapted Screenplay)
 Adoration (1928 film)
+Alcoholism
 Alec Craig
 Alexander Hood, 1st Viscount Bridport
 AllMovie
@@ -173,6 +174,7 @@ Bugs Bunny
 Byron Russell (actor)
 CODA (2021 film)
 Camille (1936 film)
+Captain (Royal Navy)
 Captain (nautical)
 Captain Bligh
 Captain Mainwaring
@@ -257,6 +259,7 @@ History of the Pitcairn Islands
 Hoop-La
 How Green Was My Valley (film)
 IMDb (identifier)
+ISBN (identifier)
 Ian Wolfe
 If I Were King
 Impressment
@@ -270,6 +273,7 @@ It Ain't Half Hot Mum
 It Happened One Night
 Ivan F. Simpson
 James Cagney
+James Cook
 James Morrison (mutineer)
 James Norman Hall
 Jane (1915 film)
@@ -288,6 +292,7 @@ Lawrence of Arabia (film)
 Les Misérables (1917 film)
 Let Us Be Gay
 Letty Lynton
+Lieutenant (Royal Navy)
 Lily (ship)
 List of Lost in Space episodes
 London After Midnight (film)
@@ -378,6 +383,7 @@ Santa Barbara Channel
 Santa Catalina Island, California
 Schindler's List
 Schooner
+Scurvy
 Servants' Entrance
 Shakespeare in Love
 Show People
@@ -561,3 +567,4 @@ https://id.loc.gov/authorities/no2007043646
 https://web.archive.org/web/20120222032844/http://www.winthrop.dk/bounty/lily.html
 https://catalog.afi.com/Film/7072-MUTINY-ONTHEBOUNTY?sid=9d846edf-7655-405b-875b-421f78b9630b&sr=13.675284&cp=1&pos=0
 https://jayseaarchaeology.wordpress.com/2023/01/29/the-first-replica-bounty/
+https://www.wikidata.org/wiki/Q329709#P345

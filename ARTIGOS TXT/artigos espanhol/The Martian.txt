@@ -3,7 +3,7 @@ The Martian (conocida en Hispanoamérica como Misión rescate y en España como 
 
 
 == Resumen ==
-En 2035, drante una misión a Marte de la nave tripulada Ares III, una fuerte tormenta se desata, por lo que, tras haber dado por desaparecido y muerto  pero está solo y con pocos recursos en el planeta. Con muy pocos medios, deberá recurrir a sus conocimientos, su sentido del humor y un gran instinto de supervivencia para lograr sobrevivir y comunicar a la NASA que todavía está vivo, esperando que acudan en su rescate, mientras que los científicos de la NASA necesitan la ayuda de otras agencias espaciales y de las mentes más brillantes del Planeta Tierra para realizar una misión de rescate.
+En 2035, durante una misión a Marte de la nave tripulada Ares III, una fuerte tormenta se desata, por lo que, tras haber dado por desaparecido y muerto  pero está solo y con pocos recursos en el planeta. Con muy pocos medios, deberá recurrir a sus conocimientos, su sentido del humor y un gran instinto de supervivencia para lograr sobrevivir y comunicar a la NASA que todavía está vivo, esperando que acudan en su rescate, mientras que los científicos de la NASA necesitan la ayuda de otras agencias espaciales y de las mentes más brillantes del Planeta Tierra para realizar una misión de rescate.
 
 
 == Argumento ==
@@ -57,8 +57,8 @@ Un chiste en la película es el amor de la comandante Melissa Lewis por las canc
 
 
 === Rodaje ===
-Los Korda Studios 26 kilómetros (16,2 mi) al oeste de Budapest, Hungría, en el pueblo vinícola de Etyek fueron elegidos para filmar escenas interiores de  The Martian . Fue favorecido por tener uno de los escenarios de sonido más grandes del mundo.[15]​ [16]​ El rodaje comenzó en Hungría el 24 de noviembre de 2014.[17]​ Se construyeron alrededor de 20 decorados para la película, que se filmó con cámaras 3D.[16]​ Se cultivaron patatas reales en un escenario de sonido junto al usado para filmar. Se plantaron en diferentes momentos para que se pudieran mostrar diferentes etapas de crecimiento en las escenas de la película.[18]​ Un equipo de seis personas construyó 15 trajes para la película. Las escenas externas, algunas con Matt Damon, fueron filmadas en Wadi Rum, un sitio del patrimonio mundial de UNESCO ubicado en Jordania, durante ocho días en marzo de 2015.[16]​ [19]​ [20]​ Wadi Rum se había utilizado como locación para otras películas ambientadas en Marte, incluyendo  Misión a Marte  (2000),  Planeta rojo (2000) y  The Last Days on Mars  (2013).[21]​ El tiempo total de filmación de la película duró aproximadamente 70 días.[16]​
-Se construyó un modelo especial de un rover de Marte para la filmación; el elenco y el equipo de la película regalaron el modelo rover a Jordanía en agradecimiento por la hospitalidad que habían recibido. El rover ahora se exhibe en el Museo Real del Automóvil de Jordania.[22]​ [23]​
+Los Korda Studios 26 kilómetros (16,2 mi) al oeste de Budapest, Hungría, en el pueblo vinícola de Etyek fueron elegidos para filmar escenas interiores de  The Martian . Fue favorecido por tener uno de los escenarios de sonido más grandes del mundo.[15]​[16]​ El rodaje comenzó en Hungría el 24 de noviembre de 2014.[17]​ Se construyeron alrededor de 20 decorados para la película, que se filmó con cámaras 3D.[16]​ Se cultivaron patatas reales en un escenario de sonido junto al usado para filmar. Se plantaron en diferentes momentos para que se pudieran mostrar diferentes etapas de crecimiento en las escenas de la película.[18]​ Un equipo de seis personas construyó 15 trajes para la película. Las escenas externas, algunas con Matt Damon, fueron filmadas en Wadi Rum, un sitio del patrimonio mundial de UNESCO ubicado en Jordania, durante ocho días en marzo de 2015.[16]​[19]​[20]​ Wadi Rum se había utilizado como locación para otras películas ambientadas en Marte, incluyendo  Misión a Marte  (2000),  Planeta rojo (2000) y  The Last Days on Mars  (2013).[21]​ El tiempo total de filmación de la película duró aproximadamente 70 días.[16]​
+Se construyó un modelo especial de un rover de Marte para la filmación; el elenco y el equipo de la película regalaron el modelo rover a Jordanía en agradecimiento por la hospitalidad que habían recibido. El rover ahora se exhibe en el Museo Real del Automóvil de Jordania.[22]​[23]​
 Weir evitó escribir a Watney como solitario y deprimido en su novela. Si bien el humor de Watney se conserva en la película, Scott también describió el aislamiento del personaje en el vasto y polvoriento paisaje marciano. Todd McCarthy de  The Hollywood Reporter  escribió: "Las escenas en la Tierra proporcionan un contrapeso agitado y densamente poblado a la aridez marciana, que está magníficamente representada por exteriores filmados en las cercanías de Wadi Rum en Jordania. "[24]​ Damon dijo que él y Scott se inspiraron en la película documental   Touching the Void  (2003), que presentaba escaladores de montañas atrapados.[25]​ Scott también esperaba filmar a Watney como un Robinson Crusoe, un personaje en total aislamiento, pero aprendió a filmar a Watney de manera diferente, ya que el personaje controlaría a sí mismo su comportamiento bajo la vigilancia de varias cámaras de la misión.[18]​
 
 
@@ -123,6 +123,7 @@ Banda sonora
 Banda sonora de la película
 Benedict Wong
 Box Office Mojo
+British Film Institute
 Budapest
 Chen Shu
 Chiwetel Ejiofor
@@ -301,3 +302,4 @@ https://www.worldcat.org/identities/viaf-335144782718811088101
 https://www.allocine.fr/film/fichefilm_gen_cfilm=221524.html
 https://portal.issn.org/resource/issn/0952-9136
 https://portal.issn.org/resource/issn/0028-0836
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/154443720

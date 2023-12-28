@@ -79,6 +79,7 @@ Apollo 13 en AllMovie (en inglés).1995
 6 de octubre
 AFI Catalog of Feature Films
 Actuación
+Adrian Palacios
 Al Reinert
 Alemania
 AllMovie
@@ -98,6 +99,7 @@ Bill Paxton
 Box Office Mojo
 Brasil
 Brian Grazer
+British Film Institute
 Bulgaria
 Bélgica
 Canadá
@@ -255,3 +257,4 @@ https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=%22Q106
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=1899&view=2-Film%20Title-Alpha
 https://www.worldcat.org/identities/viaf-175632885
 https://www.allocine.fr/film/fichefilm_gen_cfilm=13211.html
+http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150426399

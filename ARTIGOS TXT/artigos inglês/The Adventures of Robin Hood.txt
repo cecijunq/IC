@@ -1,5 +1,5 @@
 The Adventures of Robin Hood
-The Adventures of Robin Hood is a 1938 American Technicolor epic swashbuckler film from Warner Bros. Pictures. It was produced by Hal B. Wallis and Henry Blanke, directed by Michael Curtiz, and stars Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains, Patric Knowles, Eugene Pallette, and Alan Hale. The film is particularly noted for its Academy Award-winning score by Erich Wolfgang Korngold.
+The Adventures of Robin Hood is a 1938 American Technicolor epic swashbuckler film from Warner Bros. Pictures. It was produced by Hal B. Wallis and Henry Blanke, directed by Michael Curtiz and William Keighley, and stars Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains, Patric Knowles, Eugene Pallette, and Alan Hale. The film is particularly noted for its Academy Award-winning score by Erich Wolfgang Korngold.
 The film was written by Norman Reilly Raine and Seton I. Miller. The storyline depicts the legendary Saxon knight Robin Hood, who in King Richard the Lionheart's absence in the Holy Land during the Crusades, fights back as the outlaw leader of a rebel guerrilla band against Prince John and the Norman lords oppressing the Saxon commoners.
 The Adventures of Robin Hood has been acclaimed by critics since its release. In 1995, the film was deemed "culturally, historically, or aesthetically significant" by the United States Library of Congress and selected for preservation by the National Film Registry.Alan Hale, who plays Little John, had played the same character in Douglas Fairbanks's 1922 version of the film and went on to play him again in Rogues of Sherwood Forest, released by Columbia in 1950, a 28-year span.
 
@@ -73,7 +73,7 @@ Contemporary reviews were highly positive. "A richly produced, bravely bedecked,
 
 
 === Box office ===
-The Adventures of Robin Hood became the sixth-highest grossing film of the year, with just over $4 million in revenues at a time when the average ticket price was less than 25 cents.According to Warner Bros records, the film earned $1,928,000 domestically and $2,053,000 overseas.In  1938, The Adventures of Robin Hood was the seventh-highest grossing film nationally in the U.S., and the highest-grossing film the same year in the southern states of Kentucky, Tennessee, West Virginia, Alabama, Mississippi, and Arkansas.Warner Bros. was so pleased with the results that the studio cast Flynn in two more color epics before the end of the decade: Dodge City and The Private Lives of Elizabeth and Essex.A sequel, Sir Robin of Locksley, was announced, but never developed.
+The Adventures of Robin Hood became the sixth-highest-grossing film of the year, with just over $4 million in revenues at a time when the average ticket price was less than 25 cents.According to Warner Bros records, the film earned $1,928,000 domestically and $2,053,000 overseas.In 1938, The Adventures of Robin Hood was the seventh-highest-grossing film nationally in the U.S., and the highest-grossing film the same year in the southern states of Kentucky, Tennessee, West Virginia, Alabama, Mississippi, and Arkansas.Warner Bros. was so pleased with the results that the studio cast Flynn in two more color epics before the end of the decade: Dodge City and The Private Lives of Elizabeth and Essex.A sequel, Sir Robin of Locksley, was announced, but never developed.
 
 
 === Awards and nominations ===
@@ -109,7 +109,7 @@ List of films with a 100% rating on Rotten Tomatoes, a film review aggregator we
 
 == External links ==
 
-The Adventures of Robin Hood at IMDb
+The Adventures of Robin Hood at IMDb 
 The Adventures of Robin Hood at AllMovie
 The Adventures of Robin Hood at the TCM Movie Database
 The Adventures of Robin Hood at the American Film Institute Catalog
@@ -694,3 +694,4 @@ https://www.worldcat.org/issn/0307-1235
 https://web.archive.org/web/20211122114130/https://news.google.com/newspapers?id=6TEMAAAAIBAJ&pg=4800,2630781
 https://books.google.com/books?id=deq3xI8OmCkC
 https://id.loc.gov/authorities/n89622800
+https://www.wikidata.org/wiki/Q201234#P345

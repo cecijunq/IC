@@ -1,5 +1,5 @@
 William Shakespeare's Julius Caesar
-Julius Caesar (billed on-screen as William Shakespeare's Julius Caesar) is a 1953 American film adaptation of the Shakespearean play, directed by Joseph L. Mankiewicz and produced by John Houseman for Metro-Goldwyn-Mayer. It stars Marlon Brando as Mark Antony, James Mason as Brutus, John Gielgud as Cassius, Louis Calhern as Caesar, Edmond O'Brien as Casca,  Greer Garson as Calpurnia, and Deborah Kerr as Portia.
+Julius Caesar (billed on-screen as William Shakespeare's Julius Caesar) is a 1953 American film adaptation of the Shakespearean play, directed by Joseph L. Mankiewicz and produced by John Houseman for Metro-Goldwyn-Mayer. It stars Marlon Brando as Mark Antony, James Mason as Brutus, Louis Calhern as Caesar, John Gielgud as Cassius, Edmond O'Brien as Casca,  Greer Garson as Calpurnia, and Deborah Kerr as Portia.
 The film opened to positive reviews, and was nominated in five categories at the 26th Academy Awards (including Best Picture and Best Actor for Brando), winning Best Art Direction - Black-and-White. Brando and Gielgud both won BAFTA Awards, Brando for Best Foreign Actor and Gielgud for Best British Actor.
 
 
@@ -65,7 +65,7 @@ Julius Caesar (1970 film)
 
 == External links ==
 
-Julius Caesar at IMDb
+Julius Caesar at IMDb 
 William Shakespeare's Julius Caesar at the American Film Institute Catalog
 Julius Caesar at the TCM Movie Database
 Julius Caesar at AllMovie
@@ -128,7 +128,6 @@ Broadway theatre
 Bruce Broughton
 Brutus
 Cabaret (1972 film)
-Caesar
 Caesar's Comet
 Caesar (Mercury Theatre)
 Caesar Must Die
@@ -147,6 +146,7 @@ Citizen Kane
 Cleopatra (1963 film)
 Confessions of a Nazi Spy
 Courage for Every Day
+Critical Zone
 Cultural depictions of Julius Caesar
 Culver City
 Da 5 Bloods
@@ -181,7 +181,7 @@ Film adaptation
 Finding Neverland (film)
 Fires on the Plain (1959 film)
 Forrest Gump
-Four in the Morning (film)
+Four in the Morning (1965 film)
 Friends, Romans, countrymen, lend me your ears
 From What Is Before
 Gaius Cassius Longinus
@@ -244,6 +244,7 @@ Julius Caesar (play)
 Khamosh Pani
 Khomreh
 Killer's Kiss
+Killers of the Flower Moon (film)
 L.A. Confidential (film)
 La morte di Cesare
 Laurence Olivier
@@ -470,3 +471,4 @@ https://books.google.com/books?id=Ufj7vvPLiIgC
 https://web.archive.org/web/20090910013030/http://movies.nytimes.com/movie/26734/Julius-Caesar/details
 https://www.wikidata.org/wiki/Q734950#identifiers
 https://id.loc.gov/authorities/no2007026658
+https://www.wikidata.org/wiki/Q734950#P345

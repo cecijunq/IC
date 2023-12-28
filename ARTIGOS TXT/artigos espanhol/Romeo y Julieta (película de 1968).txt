@@ -195,7 +195,6 @@ Festival Internacional de Cine de Berlín
 FilmAffinity
 Francisco Colmenero
 Franco Zeffirelli
-Franco Zefirelli
 Fray Lorenzo
 Gabriel Cobayassi
 George Cukor
@@ -339,7 +338,7 @@ https://www.allmovie.com/movie/v42021
 http://collections-search.bfi.org.uk/web/Details/ChoiceFilmWorks/150050031
 https://www.boxofficemojo.com/movies/?id=romeoandjuliet68.htm
 https://www.filmaffinity.com/es/film838194.html
-https://www.imdb.com/title/tt0063518/fullcredits
 https://awardsdatabase.oscars.org/Search/Nominations%5C?filmId=3179&view=2-Film%20Title-Alpha
 https://www.allocine.fr/film/fichefilm_gen_cfilm=40171.html
 https://www.worldcat.org/identities/lccn-no99-048332
+https://www.imdb.com/title/tt0063518/fullcredits

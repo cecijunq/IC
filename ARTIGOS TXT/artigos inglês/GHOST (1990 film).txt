@@ -57,7 +57,7 @@ List of ghost films
 
 == External links ==
 
-Ghost at IMDb
+Ghost at IMDb 
 Ghost at the TCM Movie Database
 Ghost at AllMovie
 Ghost at Rotten Tomatoes
@@ -108,6 +108,7 @@ BAFTA Award for Best Special Visual Effects
 BASEketball
 BET+
 Babe (film)
+Barbie (film)
 Basic Instinct
 Batman Begins
 Bedford–Stuyvesant
@@ -456,3 +457,4 @@ http://onthesetofnewyork.com/ghostapartment.html#:~:text=Address:%20102%20Prince
 http://onthesetofnewyork.com/ghost.html
 https://dbn.bn.org.pl/descriptor-details/9810584811905606
 https://www2.bfi.org.uk/sites/bfi.org.uk/files/downloads/bfi-statistical-yearbook-2013.pdf
+https://www.wikidata.org/wiki/Q49003#P345

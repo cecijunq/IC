@@ -88,7 +88,7 @@ In 1981, PostNord Sverige issued a postage stamp of the scene where Anna holds A
 
 
 == External links ==
-Cries and Whispers at IMDb
+Cries and Whispers at IMDb 
 Cries and Whispers at Rotten Tomatoes
 Cries and Whispers at the Swedish Film Institute Database 
 Cries and Whispers at AllMovie1972 New York Film Critics Circle Awards
@@ -105,7 +105,7 @@ A Clockwork Orange (film)
 A Few Days from the Life of I. I. Oblomov
 A Handful of Love (film)
 A Hero
-A Lesson in Love
+A Lesson in Love (1954 film)
 A Man for All Seasons (1966 film)
 A Passage to India (film)
 A Pizza in Jordbro
@@ -139,6 +139,7 @@ Amarcord
 American Hustle
 Amores perros
 Amour (2012 film)
+Anatomy of a Fall
 And Then We Danced
 Anders Ek
 Andrei Șerban
@@ -313,6 +314,7 @@ Karin's Face
 Katinka (film)
 Ken Dancyger
 Kidz in da Hood
+Killers of the Flower Moon (film)
 Kramer vs. Kramer
 Käbi Laretei
 L.A. Confidential (film)
@@ -703,3 +705,4 @@ https://id.loc.gov/authorities/n85117345
 https://archive.org/details/americanfilmdist0000dona/page/294/mode/1up
 https://doi.org/10.7312/tapp17652
 https://doi.org/10.7312%2Ftapp17652
+https://www.wikidata.org/wiki/Q830874#P345

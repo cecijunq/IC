@@ -73,7 +73,7 @@ List of American films of 1952
 
 
 == External links ==
-Ivanhoe at IMDb
+Ivanhoe at IMDb 
 Ivanhoe at the TCM Movie Database
 Ivanhoe at AllMovie
 Ivanhoe at the American Film Institute Catalog
@@ -367,3 +367,4 @@ http://www.archive.org/stream/variety191-1953-09#page/n208/mode/1up
 https://www.tcm.com/tcmdb/title/237/enwp
 https://www.wikidata.org/wiki/Q735410#identifiers
 https://id.loc.gov/authorities/no2005030244
+https://www.wikidata.org/wiki/Q735410#P345

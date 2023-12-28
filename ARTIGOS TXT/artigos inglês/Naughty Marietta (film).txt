@@ -39,7 +39,7 @@ The film and a song were nominated for the following American Film Institute lis
 In the All in the Family episode "Archie the Gambler", "Ah! Sweet Mystery of Life" is sung by cast members Jean Stapleton, Rob Reiner and Sally Struthers.
 In the 1971 Woody Allen film Bananas, a political prisoner is tortured by being forced to endlessly listen to the Naughty Marietta score.
 The song "Ah! Sweet Mystery of Life" was used in Mel Brooks' 1974 comedy Young Frankenstein, with parts of the refrain sung by Madeline Kahn and Teri Garr.
-In a second season episode of The Muppet Show, guest starring Zero Mostel, Miss Piggy expresses interest in performing Naughty Marietta.
+In a second-season episode of The Muppet Show, guest starring Zero Mostel, Miss Piggy expresses interest in performing Naughty Marietta.
 A 1978 episode of The Waltons, "Spring Fever", has the Walton children in a cinema watching Naughty Marietta, and listening to "Ah! Sweet Mystery of Life".
 In the 1980 film Bon Voyage, Charlie Brown (and Don't Come Back!!), Naughty Marietta is the in-flight movie on the plane when Charlie Brown, Linus Van Pelt, Peppermint Patty, Marcie, Snoopy and Woodstock travel to England.
 In a 1983 episode of Fantasy Island, a visitor asks Mr. Roarke to have her daughter sing in an operetta, Naughty Marietta.
@@ -53,7 +53,7 @@ Green, Stanley (1999) Hollywood Musicals Year by Year (2nd ed.), pub. Hal Leonar
 == External links ==
 
 Naughty Marietta at the American Film Institute Catalog
-Naughty Marietta at IMDb
+Naughty Marietta at IMDb 
 Naughty Marietta at AllMovie
 Naughty Marietta at the TCM Movie Database
 Naughty Marietta at Rotten TomatoesAFI's 100 Years...100 Passions
@@ -121,7 +121,7 @@ Face Value (1918 film)
 Fantasy Island
 Fascination (1922 film)
 Fashion Row
-Five and Ten
+Five and Ten (1931 film)
 Foreign Devils (1927 film)
 Forget Me Not (1922 film)
 Forsaking All Others
@@ -292,7 +292,7 @@ The Waltons
 The Waning Sex
 The Way of a Woman
 They Gave Him a Gun
-Third Finger, Left Hand (film)
+Third Finger, Left Hand
 Thoroughly Modern Millie (musical)
 Time, the Comedian
 Too Young to Kiss
@@ -334,3 +334,4 @@ https://data.bnf.fr/ark:/12148/cb164629137
 https://viaf.org/viaf/305898310
 https://www.tcm.com/tcmdb/title/341/enwp
 https://www.bbfc.co.uk/release/naughty-marietta-q29sbgvjdglvbjpwwc0ynzc0mza
+https://www.wikidata.org/wiki/Q1246938#P345
