@@ -14,12 +14,12 @@ A Divorciada;142;27;1805
 The Love Parade;40;24;972
 Cimarron (1931);152;29;826
 East Lynne (1931);83;2;1562
-The Front Page;79;32;1583
+The Front Page (1931);126;23;2251
 Skippy;139;2;1332
 Trader Horn;93;20;2257
 Grande Hotel (filme);183;50;10591
 Arrowsmith (filme);186;24;565
-Bad Girls (filme);62;35;1371
+Bad Girl (filme);65;8;1558
 O Campeão (filme de 1931);41;32;686
 Five Star Final;71;4;1855
 Uma Hora Contigo;63;25;962
@@ -29,6 +29,7 @@ Cavalgada (filme);170;32;4599
 A Farewell to Arms (1932);78;33;1453
 Rua 42;261;49;10243
 I Am a Fugitive from a Chain Gang;40;35;797
+Lady for a Day;59;0;1465
 The Private Life of Henry VIII;67;31;1302
 Uma Loira para Três;74;31;1753
 Smilin' Through;84;19;1735
@@ -93,9 +94,10 @@ Adeus, Mr. Chips;74;32;1892
 Love Affair (1939);51;30;754
 Mr. Smith Goes to Washington;94;45;1178
 Ninotchka;110;66;6803
+Of Mice and Men (1939);35;26;1036
 Stagecoach (1939);271;87;9770
 The Wizard of Oz (1939);407;163;31160
-Wuthering Heights;84;25;18913
+Wuthering Heights (filme de 1939);105;11;1973
 Rebecca (1940);232;40;3716
 All This, and Heaven Too;76;34;4603
 Foreign Correspondent;131;40;2278
@@ -132,6 +134,7 @@ A Comédia Humana (1943);83;7;2024
 In Which We Serve;156;27;3369
 The More the Merrier;55;29;1365
 Consciências Mortas;47;30;1873
+Madame Curie (filme);54;31;1669
 A Canção de Bernadette;273;37;1128
 Watch on the Rhine;90;41;10066
 O Bom Pastor (1944);194;36;405
@@ -197,7 +200,7 @@ A Volta ao Mundo em 80 Dias (1956);224;43;2661
 Friendly Persuasion;46;27;1267
 O Rei e Eu;201;30;1597
 Giant (filme);61;41;1925
-Dez Mandamentos;319;10;8495
+Os Dez Mandamentos (filme de 1956);90;37;2292
 A Ponte do Rio Kwai;246;50;3625
 Peyton Place (filme);74;31;1935
 Sayonara;40;27;1483
@@ -205,7 +208,7 @@ Sayonara;40;27;1483
 Testemunha de Acusação (filme);122;39;6200
 Gigi (filme);274;35;2646
 Auntie Mame;114;30;550
-Cat on a Hot Tin Roof;75;6;1365
+Cat on a Hot Tin Roof (filme);24;3;1869
 The Defiant Ones;35;1;652
 Vidas Separadas;57;38;1791
 Ben-Hur;398;41;15782
@@ -229,6 +232,7 @@ The Music Man;147;28;614
 Mutiny on the Bounty (1962);161;39;1644
 To Kill a Mockingbird;51;19;6412
 Tom Jones (1963);351;33;2467
+America, America;65;38;1888
 Cleópatra (1963);201;63;13170
 A Conquista do Oeste;241;38;3363
 Lilies of the Field (1963);71;26;1598
@@ -252,15 +256,16 @@ Bonnie e Clyde;59;11;6909
 Dr. Dolittle;134;33;5078
 The Graduate;164;48;4736
 Guess Who's Coming to Dinner;83;45;7130
+Oliver!;231;42;2504
 Funny Girl;323;95;20316
 O Leão no Inverno (1968);102;38;1089
-Rachel Weisz;644;87;6246
+Rachel, Rachel;42;3;2880
 Romeu e Julieta (1968);45;2;2236
 Midnight Cowboy;245;41;3246
 Anne of the Thousand Days;102;32;694
 Butch Cassidy and the Sundance Kid;291;38;2471
 Hello, Dolly!;85;38;1644
-World War Z (filme);153;123;17276
+Z (filme);277;35;538
 Patton (filme);176;44;3839
 Aeroporto (filme);132;46;7731
 MASH (filme);267;43;2169
@@ -283,6 +288,7 @@ O Exorcista;189;58;12006
 Um Toque de Classe;42;26;1573
 The Godfather Part II;246;49;2814
 Chinatown (filme);173;60;12751
+The Conversation;118;0;750
 Lenny (filme);60;33;709
 The Towering Inferno;57;31;2731
 One Flew Over the Cuckoo's Nest;246;60;14731
@@ -383,6 +389,7 @@ Em Nome do Pai;248;41;706
 Forrest Gump;393;145;34213
 Quatro Casamentos e Um Funeral;108;43;1569
 Pulp Fiction;451;135;62279
+Quiz Show;26;0;907
 The Shawshank Redemption;268;161;52729
 Braveheart;207;21;9153
 Apollo 13 (filme);148;43;8053
@@ -410,6 +417,7 @@ The Cider House Rules;90;45;2593
 The Insider;81;37;557
 O Sexto Sentido;157;57;3667
 Gladiador (filme);402;113;22627
+Chocolate (filme);95;43;571
 O Tigre e o Dragão (filme);334;13;2873
 Erin Brockovich (filme);141;52;4534
 Traffic (filme);125;6;2328
@@ -421,8 +429,9 @@ Moulin Rouge!;289;46;5355
 Chicago (filme de 2002);324;43;8888
 Gangs of New York;144;47;1549
 As Horas (filme);141;48;3534
-O Senhor dos Anéis (série de filmes);290;98;30325
+O Senhor dos Anéis: As Duas Torres;252;19;6616
 O Pianista;280;50;7859
+The Lord of the Rings: The Return of the King;412;13;7203
 Lost in Translation;297;48;2443
 Master and Commander: The Far Side of the World;128;43;5679
 Mystic River;157;49;318
@@ -467,7 +476,7 @@ A Origem;213;34;21179
 The Kids Are All Right;188;42;3553
 127 Horas;117;45;5374
 A Rede Social;301;63;10576
-Toy Story;572;483;71639
+Toy Story 3;633;466;65721
 True Grit (2010);116;41;3022
 Winter's Bone;74;46;5253
 O Artista;429;51;4447
@@ -508,6 +517,7 @@ Whiplash (filme);111;47;2022
 Spotlight (filme);374;53;4853
 The Big Short;123;53;1263
 Bridge of Spies;156;43;2540
+Brooklyn (filme);60;39;1627
 Mad Max: Estrada da Fúria;205;68;9405
 Perdido em Marte;296;194;23871
 The Revenant;212;67;8184
