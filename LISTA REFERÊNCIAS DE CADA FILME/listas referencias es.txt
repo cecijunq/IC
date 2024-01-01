@@ -3,30 +3,30 @@ El séptimo cielo (película) La La Land (película)
 Melodías de Broadway Alas (película)
 Melodías de Broadway Sin novedad en el frente (película de 1930)
 El patriota (película de 1928) The Artist
-1930 El presidio
-1930 Sin novedad en el frente (película de 1930)
-Sin novedad en el frente (película de 1930) 1930
 Sin novedad en el frente (película de 1930) Cimarrón (película de 1931)
 Sin novedad en el frente (película de 1930) Melodías de Broadway
 Sin novedad en el frente (película de 1930) Sin novedad en el frente (película de 2022)
-El presidio 1930
-Disraeli (película) 1930
-La divorciada 1930
 Cimarrón (película de 1931) Sin novedad en el frente (película de 1930)
 Vidas truncadas (película) Cimarrón (película de 1931)
 Grand Hotel (película de 1932) Cabalgata (película)
 Grand Hotel (película de 1932) Cimarrón (película de 1931)
 Grand Hotel (película de 1932) Gosford Park
 Arrowsmith (película) Adiós a las armas (película de 1932)
+Arrowsmith (película) Bad Girl (película)
 Arrowsmith (película) El rey y yo (película de 1956)
 Arrowsmith (película) La canción de Bernadette
 Arrowsmith (película) La diligencia
 Arrowsmith (película) Lo que el viento se llevó (película)
 Arrowsmith (película) Love Is a Many-Splendored Thing
 Arrowsmith (película) The Grapes of Wrath (película)
+Arrowsmith (película) The Magnificent Ambersons
+Arrowsmith (película) ¡Qué verde era mi valle!
+El expreso de Shanghai Bad Girl (película)
 Cabalgata (película) It Happened One Night
+She Done Him Wrong Cabalgata (película)
 It Happened One Night Cabalgata (película)
 It Happened One Night Mutiny on the Bounty (película de 1935)
+It Happened One Night One Flew Over the Cuckoo's Nest
 It Happened One Night The Silence of the Lambs (película)
 Una noche de amor El delator
 Mutiny on the Bounty (película de 1935) El gran Ziegfeld
@@ -87,11 +87,15 @@ Rebecca (película) Spellbound
 Rebecca (película) Sunset Boulevard (película)
 Rebecca (película) The Grapes of Wrath (película)
 Rebecca (película) The Philadelphia Story
+Rebecca (película) ¡Qué verde era mi valle!
 Foreign Correspondent Rebecca (película)
 El gran dictador Sergeant York
 La carta (película de 1940) Jezabel (película de 1938)
 La carta (película de 1940) La loba (película de 1941)
 La carta (película de 1940) Rebecca (película)
+¡Qué verde era mi valle! Citizen Kane
+¡Qué verde era mi valle! La señora Miniver
+¡Qué verde era mi valle! Rebecca (película)
 Citizen Kane Cimarrón (película de 1931)
 Citizen Kane El gran Ziegfeld
 Citizen Kane El motín del Caine
@@ -102,19 +106,33 @@ Citizen Kane Mr. Smith Goes to Washington
 Citizen Kane Mutiny on the Bounty (película de 1935)
 Citizen Kane Raiders of the Lost Ark
 Citizen Kane Rebecca (película)
-Citizen Kane San Francisco (California)
 Citizen Kane The Grapes of Wrath (película)
 Citizen Kane The Life of Emile Zola
 Citizen Kane The Lives of a Bengal Lancer
+Citizen Kane The Magnificent Ambersons
 Citizen Kane You Can't Take It With You
 Here Comes Mr. Jordan El cielo puede esperar (película)
-El halcón maltés (película de 1941) San Francisco (California)
 El halcón maltés (película de 1941) Siete novias para siete hermanos
 El halcón maltés (película de 1941) The Apartment
+La señora Miniver Casablanca (película)
+La señora Miniver ¡Qué verde era mi valle!
 Kings Row Star Wars: Episodio IV - Una nueva esperanza
+The Magnificent Ambersons Citizen Kane
+Casablanca (película) Citizen Kane
+Casablanca (película) El halcón maltés (película de 1941)
+Casablanca (película) Going My Way
+Casablanca (película) La gran ilusión
+Casablanca (película) La señora Miniver
+Casablanca (película) Lo que el viento se llevó (película)
+Casablanca (película) Patton (película)
+Casablanca (película) Por quién doblan las campanas (película)
+The Ox-Bow Incident Casablanca (película)
 The Ox-Bow Incident The Grapes of Wrath (película)
 Madame Curie (película de 1943) La señora Miniver
 Madame Curie (película de 1943) Ninotchka
+Watch on the Rhine Casablanca (película)
+Watch on the Rhine Por quién doblan las campanas (película)
+Going My Way Casablanca (película)
 Going My Way Días sin huella
 Going My Way Las campanas de Santa María
 Días sin huella Going My Way
@@ -155,7 +173,6 @@ Marty La vuelta al mundo en ochenta días (película de 1956)
 Marty On the Waterfront
 La vuelta al mundo en ochenta días (película de 1956) El puente sobre el río Kwai
 La vuelta al mundo en ochenta días (película de 1956) Marty
-La vuelta al mundo en ochenta días (película de 1956) San Francisco (California)
 Los diez mandamientos (película de 1956) El rey y yo (película de 1956)
 El puente sobre el río Kwai Gigi
 El puente sobre el río Kwai La vuelta al mundo en ochenta días (película de 1956)
@@ -212,10 +229,12 @@ The Sound of Music West Side Story (película de 1961)
 Doctor Zhivago (película) Lawrence de Arabia (película)
 Doctor Zhivago (película) Lo que el viento se llevó (película)
 Doctor Zhivago (película) The Sound of Music
+Who's Afraid of Virginia Woolf? A Man for All Seasons
+Who's Afraid of Virginia Woolf? Cimarrón (película de 1931)
+Who's Afraid of Virginia Woolf? El graduado
 In the Heat of the Night A Man for All Seasons
 In the Heat of the Night Oliver (película)
 Doctor Dolittle (película de 1967) In the Heat of the Night
-Guess Who's Coming to Dinner San Francisco (California)
 Oliver (película) Midnight Cowboy
 Funny Girl Hello, Dolly! (película)
 El león en invierno (película) A Man for All Seasons
@@ -233,13 +252,11 @@ La naranja mecánica (película) Barry Lyndon
 La naranja mecánica (película) The French Connection
 El padrino (película) Aeropuerto (película)
 El padrino (película) Apocalypse Now
-El padrino (película) Casablanca
 El padrino (película) El golpe (película de 1973)
 El padrino (película) El padrino II
 El padrino (película) El padrino III
 El padrino (película) Love Story (película)
 El padrino (película) Patton (película)
-El padrino (película) San Francisco (California)
 El padrino (película) The French Connection
 Cabaret (película) El padrino (película)
 Deliverance (película) El padrino (película)
@@ -248,34 +265,41 @@ El golpe (película de 1973) El padrino (película)
 El golpe (película de 1973) El padrino II
 American Graffiti Apocalypse Now
 American Graffiti El padrino (película)
-American Graffiti San Francisco (California)
 American Graffiti Star Wars: Episodio IV - Una nueva esperanza
 Gritos y susurros Los emigrantes
+El exorcista (película) Casablanca (película)
 El exorcista (película) The French Connection
 El padrino II El Señor de los Anillos: el retorno del Rey
 El padrino II El golpe (película de 1973)
 El padrino II El padrino (película)
 El padrino II El padrino III
+El padrino II One Flew Over the Cuckoo's Nest
 El padrino II Tarde de perros
-The Towering Inferno San Francisco (California)
+One Flew Over the Cuckoo's Nest El padrino II
+One Flew Over the Cuckoo's Nest It Happened One Night
+One Flew Over the Cuckoo's Nest Rocky (película)
+One Flew Over the Cuckoo's Nest Tarde de perros
+One Flew Over the Cuckoo's Nest The Silence of the Lambs (película)
 Barry Lyndon Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
 Barry Lyndon La naranja mecánica (película)
 Barry Lyndon Love Story (película)
 Tarde de perros 12 Angry Men (película de 1957)
 Tarde de perros El padrino (película)
 Tarde de perros El padrino II
+Tarde de perros One Flew Over the Cuckoo's Nest
 Tiburón (película) American Graffiti
 Tiburón (película) El color púrpura
 Tiburón (película) El golpe (película de 1973)
 Tiburón (película) El padrino (película)
 Tiburón (película) Lo que el viento se llevó (película)
+Tiburón (película) One Flew Over the Cuckoo's Nest
 Tiburón (película) Taxi Driver
 Tiburón (película) The French Connection
 Rocky (película) Annie Hall
+Rocky (película) One Flew Over the Cuckoo's Nest
 Rocky (película) Toro salvaje
 Todos los hombres del presidente The Post
 Network Silver Linings Playbook
-Network ¿Quién teme a Virginia Woolf?
 Annie Hall Rocky (película)
 Annie Hall The Deer Hunter
 Star Wars: Episodio IV - Una nueva esperanza American Graffiti
@@ -339,7 +363,6 @@ El último emperador Rain Man
 Atracción fatal Hechizo de luna
 Rain Man Driving Miss Daisy
 Rain Man El último emperador
-Dangerous Liaisons San Francisco (California)
 Driving Miss Daisy Dances with Wolves
 Driving Miss Daisy Rain Man
 Nacido el cuatro de julio Coming Home (película)
@@ -352,11 +375,11 @@ El padrino III El padrino II
 The Silence of the Lambs (película) Dances with Wolves
 The Silence of the Lambs (película) El exorcista (película)
 The Silence of the Lambs (película) It Happened One Night
+The Silence of the Lambs (película) One Flew Over the Cuckoo's Nest
 The Silence of the Lambs (película) Unforgiven (película)
 La bella y la bestia (película de 1991) JFK (película)
 JFK (película) Dances with Wolves
 Unforgiven (película) La lista de Schindler
-Unforgiven (película) San Francisco (California)
 Unforgiven (película) The Silence of the Lambs (película)
 La lista de Schindler El pianista
 La lista de Schindler Forrest Gump (película)
@@ -374,6 +397,7 @@ The Shawshank Redemption Forrest Gump (película)
 The Shawshank Redemption Goodfellas
 The Shawshank Redemption Lo que el viento se llevó (película)
 The Shawshank Redemption Mr. Smith Goes to Washington
+The Shawshank Redemption One Flew Over the Cuckoo's Nest
 The Shawshank Redemption Pulp Fiction
 The Shawshank Redemption Quiz Show: El dilema
 The Shawshank Redemption Qué bello es vivir
@@ -392,7 +416,6 @@ Titanic (película de 1997) El Señor de los Anillos: el retorno del Rey
 Titanic (película de 1997) El paciente inglés
 Titanic (película de 1997) Good Will Hunting
 Titanic (película de 1997) Lo que el viento se llevó (película)
-Titanic (película de 1997) San Francisco (California)
 Titanic (película de 1997) Shakespeare in Love
 The Full Monty Titanic (película de 1997)
 Shakespeare in Love American Beauty
@@ -427,7 +450,6 @@ Moulin Rouge! The Sound of Music
 Chicago (película de 2002) A Beautiful Mind
 Chicago (película de 2002) Cabaret (película)
 Chicago (película de 2002) El Señor de los Anillos: el retorno del Rey
-Gangs of New York San Francisco (California)
 Gangs of New York Taxi Driver
 El Señor de los Anillos: las dos torres El Señor de los Anillos: el retorno del Rey
 El Señor de los Anillos: las dos torres El Señor de los Anillos: la Comunidad del Anillo
@@ -470,12 +492,12 @@ No Country for Old Men Slumdog Millionaire
 No Country for Old Men The Departed
 No Country for Old Men True Grit (película de 2010)
 Juno (película) Titanic (película de 1997)
+There Will Be Blood Casablanca (película)
 There Will Be Blood No Country for Old Men
 Slumdog Millionaire No Country for Old Men
 Slumdog Millionaire The Full Monty
 Slumdog Millionaire The Hurt Locker
 El curioso caso de Benjamin Button (película) The Social Network
-Milk (película) San Francisco (California)
 The Hurt Locker Avatar (película)
 The Hurt Locker El discurso del rey
 The Hurt Locker Nomadland
@@ -491,9 +513,15 @@ Inglourious Basterds Django Unchained
 Inglourious Basterds Los cañones de Navarone
 Inglourious Basterds Pulp Fiction
 A Serious Man True Grit (película de 2010)
+Up Avatar (película)
+Up Casablanca (película)
+Up El mago de Oz
+Up Guess Who's Coming to Dinner
+Up Inglourious Basterds
+Up La bella y la bestia (película de 1991)
+Up La misión
+Up Toy Story 3
 Up in the Air (película) Juno (película)
-Up in the Air (película) San Francisco (California)
-El discurso del rey 1930
 El discurso del rey Slumdog Millionaire
 El discurso del rey The Artist
 El discurso del rey The Hurt Locker
@@ -506,7 +534,7 @@ The Fighter Toro salvaje
 Inception Toy Story 3
 127 horas Slumdog Millionaire
 The Social Network El curioso caso de Benjamin Button (película)
-Toy Story 3 San Francisco (California)
+Toy Story 3 Up
 True Grit (película de 2010) A Serious Man
 True Grit (película de 2010) Dances with Wolves
 True Grit (película de 2010) No Country for Old Men
@@ -523,7 +551,6 @@ Extremely Loud and Incredibly Close (película) Forrest Gump (película)
 Extremely Loud and Incredibly Close (película) La bella y la bestia (película de 1991)
 Extremely Loud and Incredibly Close (película) The Artist
 Extremely Loud and Incredibly Close (película) The Reader
-Hugo (película) 1930
 El árbol de la vida (película de 2011) Amor (película de 2012)
 War Horse Hugo (película)
 War Horse Lincoln (película)
@@ -585,6 +612,7 @@ La La Land (película) All About Eve
 La La Land (película) El mago de Oz
 La La Land (película) Hidden Figures
 La La Land (película) Moonlight (película)
+La La Land (película) One Flew Over the Cuckoo's Nest
 La La Land (película) Titanic (película de 1997)
 La La Land (película) Whiplash (película de 2014)
 La forma del agua Darkest Hour (película)
@@ -675,4 +703,7 @@ Elvis (película de 2022) Bohemian Rhapsody (película)
 Los Fabelman Moonlight (película)
 Los Fabelman Múnich (película)
 Los Fabelman West Side Story (película de 2021)
-Triangle of Sadness San Francisco (California)
+2.031700288184438
+2.031700288184438
+{0: 0.00423294993680313, 3: 0.0076529876619273705, 2: 0.0009782112688687457, 514: 0.006056034952632966, 7: 0.011894636945725394, 6: 0.0006938062254686164, 465: 0.003011194718720985, 12: 0.005283631414942536, 562: 0.004059460079890735, 13: 0.0006938062254686164, 17: 0.000890389398537601, 25: 0.0035404257666750674, 408: 0.0009460891786279651, 18: 0.0006938062254686164, 26: 0.0007527811773893117, 19: 0.0013425306965962661, 184: 0.0021209133635866637, 121: 0.0007527811773893117, 86: 0.0029099327884765692, 79: 0.00863417829092053, 178: 0.0007527811773893117, 92: 0.0014227386165678298, 111: 0.0009383368670058255, 99: 0.001789101566364263, 23: 0.0006938062254686164, 33: 0.009432757600586532, 31: 0.0006938062254686164, 42: 0.007776718740617583, 277: 0.010693971832050541, 357: 0.010039011341363323, 39: 0.002067770049447677, 47: 0.0032325157613641415, 53: 0.00621185922072249, 215: 0.0028975840600905163, 44: 0.002649674688758226, 54: 0.002756107854142935, 60: 0.005973028070757857, 67: 0.00323893875962683, 55: 0.0006938062254686164, 56: 0.0006938062254686164, 159: 0.0009886809850720934, 262: 0.015417363905580916, 70: 0.004152310390116488, 65: 0.0006938062254686164, 72: 0.004150642157808553, 87: 0.0033867912529743807, 71: 0.0013821440301638743, 69: 0.0016051312480175948, 532: 0.0020582281225560812, 77: 0.0022617262945453017, 222: 0.009220448513320637, 81: 0.001635213831999633, 152: 0.007976104005956799, 197: 0.011849010923964455, 228: 0.0018066968797989548, 192: 0.008328443525069106, 89: 0.0031214195046505465, 227: 0.004011570324646497, 80: 0.0006938062254686164, 83: 0.0009761078406107088, 101: 0.0032743710511073526, 88: 0.0008833332154271434, 93: 0.0014730827346340976, 94: 0.0008833332154271434, 91: 0.0008833332154271434, 95: 0.0008833332154271434, 97: 0.0008833332154271434, 132: 0.0016541604878632218, 154: 0.0012644841843528515, 98: 0.0008833332154271434, 106: 0.0019459635268924945, 76: 0.0009440926523388168, 104: 0.0009440926523388168, 108: 0.0019923596455138364, 173: 0.0008793619150851302, 212: 0.008353430082707225, 310: 0.003237930673787332, 49: 0.0008793619150851302, 102: 0.004618044858369944, 294: 0.004618044858369944, 105: 0.001190551527048596, 175: 0.0011998164117513082, 202: 0.002423004646105543, 115: 0.004674952289405966, 110: 0.0009051796054459398, 290: 0.002735271227709345, 123: 0.003360609503497066, 75: 0.002747825700602617, 252: 0.010823070256598117, 116: 0.001485426286652073, 119: 0.0006938062254686164, 120: 0.0006938062254686164, 84: 0.001167823400861742, 122: 0.0006938062254686164, 128: 0.0036273150663449555, 130: 0.0016460970436524146, 133: 0.004011700224719316, 177: 0.010833525836351767, 138: 0.004411837671129965, 134: 0.0006938062254686164, 143: 0.004734558408045652, 246: 0.0009886809850720934, 135: 0.0007905521509941949, 148: 0.004401688194492988, 387: 0.015781883055119725, 157: 0.002585569603277937, 124: 0.0008729486412582649, 150: 0.0008729486412582649, 162: 0.0006938062254686164, 167: 0.006298374554652045, 500: 0.0028697701443174063, 163: 0.0006938062254686164, 232: 0.004227158019600785, 172: 0.010661648848577388, 182: 0.01027950291916178, 187: 0.011703167596808898, 186: 0.0016096695282143115, 190: 0.001514167607800618, 196: 0.0006938062254686164, 283: 0.0012835557446755706, 417: 0.011857973537435692, 169: 0.0016096695282143115, 280: 0.0022297926360320625, 201: 0.0016096695282143115, 199: 0.0006938062254686164, 367: 0.00736814376665337, 200: 0.0006938062254686164, 203: 0.0006938062254686164, 207: 0.0014461123432035945, 560: 0.0017570904648295561, 209: 0.0016305193981048767, 213: 0.0022338989575448336, 210: 0.0006938062254686164, 305: 0.006334301935527685, 217: 0.00936380544586564, 216: 0.0006938062254686164, 137: 0.0012835557446755706, 219: 0.0026406384256527898, 243: 0.012588469829767954, 225: 0.0026406384256527898, 230: 0.0010727183565761038, 235: 0.0010727183565761038, 236: 0.0006938062254686164, 240: 0.000890389398537601, 237: 0.0012835557446755706, 242: 0.005462111847235137, 239: 0.0006938062254686164, 247: 0.009933587318009371, 250: 0.011420835481008775, 244: 0.0006938062254686164, 58: 0.001534204755082209, 249: 0.0023760811396743285, 267: 0.005936575859937557, 251: 0.0018319816025423987, 257: 0.008872854114786454, 258: 0.0011490515672719845, 278: 0.00160668662529792, 253: 0.0023319165616848734, 299: 0.0030535159596123975, 272: 0.009515052649861406, 355: 0.003679958347642339, 256: 0.0027871619034882415, 263: 0.0013539270958551506, 264: 0.0022456118967777447, 268: 0.00254662284401765, 269: 0.002000431388615999, 265: 0.0023943001347822342, 270: 0.0024007066656542213, 279: 0.003860292190799009, 282: 0.01077063755443532, 223: 0.0011490515672719845, 328: 0.0019234336071917955, 286: 0.002501955088291504, 287: 0.00675593539636594, 524: 0.0017848537654888475, 285: 0.0009880128703899005, 481: 0.0024227806807238478, 292: 0.0065894849376063385, 447: 0.0087745731466312, 313: 0.002612785161349559, 291: 0.0011678754854935948, 297: 0.005982279893646121, 293: 0.0011728729370042404, 348: 0.001690776589135911, 302: 0.004470483885683948, 298: 0.001991668898292369, 275: 0.002386773308162271, 307: 0.005799176557256431, 304: 0.0006938062254686164, 312: 0.006251064155937086, 295: 0.001926639907000289, 309: 0.0006938062254686164, 66: 0.001244246675246224, 317: 0.006671257359145479, 165: 0.0011380124343777403, 322: 0.007588392775265854, 327: 0.009545927676630633, 332: 0.009404052793356557, 329: 0.0006938062254686164, 337: 0.009815613745940954, 336: 0.0006938062254686164, 324: 0.0012835557446755706, 342: 0.008404808291732449, 339: 0.0006938062254686164, 341: 0.0012835557446755706, 347: 0.008322830337826225, 352: 0.009548989703880736, 362: 0.0034446173992794633, 358: 0.0011815369164868198, 360: 0.001698143334806171, 416: 0.0017377169590938582, 372: 0.0026412577338761224, 370: 0.0017377169590938582, 377: 0.002805147608970206, 374: 0.0018255569101649478, 376: 0.00136579222395805, 356: 0.0014428882029170803, 375: 0.0007905521509941949, 399: 0.0007905521509941949, 407: 0.003259437864159787, 382: 0.003206467397711501, 380: 0.0015371068429389215, 390: 0.002610325831391741, 392: 0.005442873613828846, 389: 0.0016915107341107113, 397: 0.00490647608108103, 394: 0.0019840334681681757, 395: 0.00243608236439479, 402: 0.006160879250780888, 451: 0.004407747721928107, 401: 0.0006938062254686164, 404: 0.0045533443998433554, 534: 0.004952652825448048, 531: 0.0038331640491086304, 406: 0.0006938062254686164, 254: 0.0014980016386391562, 410: 0.0037340111691902436, 415: 0.0047808876516729285, 411: 0.0006938062254686164, 427: 0.0016347539287136705, 412: 0.0023296284781685536, 413: 0.0006938062254686164, 423: 0.0017018582021780112, 422: 0.00285253110161879, 420: 0.001124041587665683, 493: 0.0010122927244021805, 433: 0.0010122927244021805, 421: 0.0006938062254686164, 426: 0.0032220301320233856, 431: 0.002995597045187544, 446: 0.004670862010482231, 429: 0.0006938062254686164, 428: 0.000890389398537601, 434: 0.0011182057640599882, 436: 0.003085660270439935, 432: 0.0006938062254686164, 383: 0.001218392179716851, 438: 0.0018081416989238052, 441: 0.0035211475930473812, 463: 0.002381814547269911, 440: 0.0006938062254686164, 442: 0.005525444069881833, 461: 0.005672764963308718, 455: 0.002464879632714951, 543: 0.004540116477671237, 563: 0.0021856464424392353, 449: 0.0016305193981048767, 478: 0.0019253941577083537, 452: 0.0013686814636029905, 453: 0.0026076863969375116, 241: 0.0009708836335498947, 335: 0.0009708836335498947, 462: 0.002251544337029005, 454: 0.0006938062254686164, 456: 0.001115426341883084, 457: 0.0018000295683013806, 458: 0.000890389398537601, 460: 0.0006938062254686164, 475: 0.0013998313852832136, 467: 0.0009912805391923082, 445: 0.0009044595084055414, 472: 0.002090172719504304, 476: 0.0032852207207929042, 473: 0.0024552390462762963, 469: 0.002296557291039654, 480: 0.004144204990552325, 474: 0.0006938062254686164, 483: 0.001984036492678047, 479: 0.0015084273789526602, 502: 0.0024552390462762963, 484: 0.0013379953216684098, 238: 0.0009880128703899005, 311: 0.0009880128703899005, 482: 0.0006938062254686164, 466: 0.001115426341883084, 533: 0.0010729159864387994, 487: 0.004210837090884833, 488: 0.0011267131624099135, 491: 0.0008234511522656376, 492: 0.0018733052638825248, 497: 0.001124041587665683, 495: 0.0006938062254686164, 496: 0.0006938062254686164, 499: 0.0014292252698494836, 508: 0.0041757264112519035, 501: 0.0006938062254686164, 471: 0.0014132006714725918, 505: 0.0011311992146589385, 506: 0.0006938062254686164, 517: 0.0043210423347789725, 513: 0.0014292252698494836, 519: 0.0019182066742481512, 526: 0.00244453118254408, 518: 0.0006938062254686164, 520: 0.0025462524784226584, 437: 0.0011267131624099135, 522: 0.0006938062254686164, 503: 0.0012835557446755706, 523: 0.0015479023940075376, 557: 0.002009568361929357, 525: 0.0010267017418556816, 564: 0.0015665261537117843, 527: 0.0006938062254686164, 529: 0.0012835557446755706, 443: 0.001239329995478732, 435: 0.001239329995478732, 530: 0.0012835557446755706, 541: 0.0012201307337645448, 536: 0.0012201307337645448, 538: 0.0012201307337645448, 542: 0.0012201307337645448, 537: 0.0006938062254686164, 539: 0.0006938062254686164, 540: 0.0006938062254686164, 551: 0.005474473283547141, 546: 0.0006938062254686164, 561: 0.003354076608708847, 552: 0.0010672002120961069, 559: 0.0011473818101200562, 554: 0.0006938062254686164, 281: 0.0007920978120031087, 555: 0.0006938062254686164, 509: 0.000890389398537601, 558: 0.0006938062254686164, 566: 0.0010672002120961069, 565: 0.0006938062254686164, 430: 0.0009961899485695762}
+DiGraph with 347 nodes and 705 edges
