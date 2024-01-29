@@ -2,6 +2,7 @@ import wikipedia as wp
 import networkx as nx
 import matplotlib.pyplot as plt
 import pandas as pd
+from html.parser import HTMLParser
 
 n_indegree = []
 n_outdegree = []
@@ -24,6 +25,7 @@ def get_indicados():
             with open("./LEGENDAS GRAFOS/legenda grafo en.txt", "a") as file_leg:
                 file_leg.write(str(i) + " " + nome + "\n")
             i+=1
+        
 
 
 def get_vertices():
