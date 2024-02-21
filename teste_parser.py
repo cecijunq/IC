@@ -21,10 +21,15 @@ print(type(html_doc))
 
 referenciados = []
 
-"""for a in soup.select('a:not(h2#See_also ~ a)', href=True):
-    url = a.attrs['href']
-    url = url.replace("/wiki/", "https://en.wikipedia.org/wiki/")
+for tag in soup.select('a:not(h2#See_also ~ a)', href=True):
+    url = tag.get("href")
     print(url)
+    print(type(url))
+    #url = a.attrs['href']
+    if url is not None:
+        print("entrou")
+        url = url.replace("/wiki/", "https://en.wikipedia.org/wiki/")
+    #print(url)
     #soup2 = BeautifulSoup(urlopen(url))
     #f = requests.get(url)
     # displaying the title
@@ -32,11 +37,12 @@ referenciados = []
     #print (soup2.title.get_text())
     #print(a.text)
     #print(a.attrs)
-    referenciados.append(a.string)
-"""
+    referenciados.append(tag.string)
 
-for a in soup.find_all('a:not(h2#See_also ~ a)', href=True):
+
+"""for a in soup.find_all('a:not(h2#See_also ~ a)', href=True):
     print("Found the URL:", a['href'])
+"""
 
 """i = 0
 for character in mystr:

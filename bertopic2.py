@@ -46,7 +46,7 @@ def main():
     sentences_articles = []
 
     # lê cada um dos arquivos .txt do seguinte diretório
-    path = "./ARTIGOS TXT/artigos espanhol"
+    path = "./ARTIGOS TXT/artigos portugues"
 
     # lista o nome de todos os arquivos do diretório passado como parâmetro à função chamada
     list_files = os.listdir(path)
@@ -102,13 +102,15 @@ def main():
     print(type(tf_idf))
     top_n_words = extract_top_n_words_per_topic(tf_idf, count, docs_per_topic, n=10)
     topic_sizes = extract_topic_sizes(docs_df) 
-    print(topic_sizes.head(10))
+    #print(topic_sizes.head(10))
+    print(type(tf_idf.T))
 
     #print(top_n_words)
     #print(topic_sizes)
 
-    with open("topics_es.txt", "a") as write_topics:
+    with open("topics_pt", "w") as write_topics:
         write_topics.write(str(top_n_words))
+        write_topics.write("\n")
         pd.set_option('display.max_rows', None)
         write_topics.write(str(topic_sizes))
 
