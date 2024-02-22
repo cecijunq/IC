@@ -41,6 +41,7 @@ def get_vertices():
 
             filme = wp.page(title=nome_filme, auto_suggest=False) # busca a página da wikipedia, cujo título é igual ao título do filme lido naquela linha do .csv
             
+            # ESSA PARTE DO CÓDIGO REALIZA O PARSER DE CADA ARTIGO ARMAZENADO NA PASTA "ARTIGOS TXT"
             fp = urllib.request.urlopen(filme.url)
             html_doc = fp.read()
             soup = BeautifulSoup(html_doc, 'html.parser')
@@ -48,6 +49,7 @@ def get_vertices():
 
             arr_article = []
 
+            # esse bloco do código seleciona apenas a parte do artigo que é até antes de conter apenas links
             if '<span class="mw-headline" id="See_also">' in str_article:
                 arr_article = str_article.split('<span class="mw-headline" id="See_also">')
             elif '<span class="mw-headline" id="Notes">' in str_article:
@@ -60,8 +62,7 @@ def get_vertices():
                 arr_article = str_article.split('<span class="mw-headline" id="External_links">')
 
             content_str = arr_article[0]
-            content_str = content_str[0:len(content_str)-4]
-            content_str += "<\h2></div></div></div></main></div></div></div></body></html>"
+            content_str += "<\h2></div></div></div></main></div></div></div></body></html>" # adiciona as tags que foram "perdidas" ao chamar o método 'split'
 
             article_encoded = content_str.encode(encoding = 'UTF-8')
 
@@ -69,6 +70,7 @@ def get_vertices():
 
             referenciados = {}
 
+            # seleciona o atributo 'href' de todas as tags <a> que existem no html do artigo em questão
             for tag in soup.select('a', href=True):
                 url = tag.get("href")
                 if url is not None and '/' in url:
@@ -82,16 +84,19 @@ def get_vertices():
 
                     else:
                         continue
-
+                    
+                    print(url)
                     html_page = urlopen(url)
                     soup = BeautifulSoup(html_page, 'html.parser')
+                    # obtém o nome de cada página que é referenciada no artigo em questão
                     title = soup.title.string
                     title = title.split(" - Wikipedia")
-                    print(title[0])
+                    #print(nome_filme, title[0])
                     
                     referenciado = str(title[0])
                     referenciado = referenciado.strip()
                     if referenciado != 'None':
+                        # checa se o título da página referenciada está na lista dos filmes indicados à categoria de "Melhor Filme"
                         if referenciado in filmes_indicados.keys() and referenciado != nome_filme:
                             print(nome_filme, referenciado)
                             grafo.add_edge(filmes_indicados[nome_filme], filmes_indicados[referenciado])
@@ -101,14 +106,8 @@ def get_vertices():
             #print(referenciados)
             fp.close()
 
+            # FIM DO PARSER
             
-            #lista_references = list(filme.links) # armazena em uma lista o nome de todas as páginas que a página atual referencia
-
-            # percorre cada elemento da lista que armazena os "references" do filme de "line"
-            """for link in lista_references:
-                if link in filmes_indicados.keys():
-                    print(nome_filme, link)
-                    grafo.add_edge(filmes_indicados[nome_filme], filmes_indicados[link])"""
 
     plt.figure(1, figsize=(12,8))
     plt.axis('off')

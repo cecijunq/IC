@@ -20,7 +20,7 @@ def c_tf_idf(documents, m, ngram_range=(1, 1)):
 
     return tf_idf, count
 
-def extract_top_n_words_per_topic(tf_idf, count, docs_per_topic, n=10):
+def extract_top_n_words_per_topic(tf_idf, count, docs_per_topic, n=8):
     words = count.get_feature_names_out()
     labels = list(docs_per_topic.Topic)
     tf_idf_transposed = tf_idf.T
@@ -46,7 +46,7 @@ def main():
     sentences_articles = []
 
     # lê cada um dos arquivos .txt do seguinte diretório
-    path = "./ARTIGOS TXT/artigos portugues"
+    path = "./ARTIGOS TXT/artigos inglês"
 
     # lista o nome de todos os arquivos do diretório passado como parâmetro à função chamada
     list_files = os.listdir(path)
@@ -56,14 +56,23 @@ def main():
         article = open(path + "/" + file, 'r')
         content = article.read()
 
+        """if "== See also ==" in content:
+            article_as_vector_of_sentences = content.split("== See also ==")
+        elif "== References ==" in content:
+            article_as_vector_of_sentences = content.split("== References ==")
+        elif "== External links ==" in content:
+            article_as_vector_of_sentences = content.split("== External links ==")
+        
+        sentences_articles.append(article_as_vector_of_sentences[0])"""
+        
         article_as_vector_of_sentences = content.split("\n")
 
         # adiciona essa lista como um elemento da lista 'sentences_article'
         for element in article_as_vector_of_sentences:
             #sentences_articles.append(element)
-            if element == "== Referencias ==":
+            if element == "== See also ==" or element == "== References ==":
                 break
-            if element != "\n" or "== " not in element:
+            if element != "\n" or "== " not in element or "https://" not in element:
                 sentences_articles.append(element)
 
     print(len(sentences_articles))
@@ -100,7 +109,7 @@ def main():
     tf_idf, count = c_tf_idf(docs_per_topic.Doc.values, m=len(sentences_articles))
 
     print(type(tf_idf))
-    top_n_words = extract_top_n_words_per_topic(tf_idf, count, docs_per_topic, n=10)
+    top_n_words = extract_top_n_words_per_topic(tf_idf, count, docs_per_topic, n=8)
     topic_sizes = extract_topic_sizes(docs_df) 
     #print(topic_sizes.head(10))
     print(type(tf_idf.T))
@@ -108,7 +117,7 @@ def main():
     #print(top_n_words)
     #print(topic_sizes)
 
-    with open("topics_pt", "w") as write_topics:
+    with open("topics_en_t", "w") as write_topics:
         write_topics.write(str(top_n_words))
         write_topics.write("\n")
         pd.set_option('display.max_rows', None)
