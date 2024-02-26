@@ -8,15 +8,16 @@ import pandas as pd
 import codecs 
 
 
-n_indegree = []
-n_outdegree = []
+n_indegree = [] # armazena o grau de saída de cada vértice 
+n_outdegree = [] # armazena o grau de entrada de cada vértice
+
 def top_five_page_rank(ranks):
     top = list(reversed(sorted((rank, node) for node, rank in ranks.items()))) [:5]
     return [node for rank, node in top]
 
 wp.set_lang("en")
 filmes_indicados = {} # chave: nome do filme, valor: id (que é o valor de 'i')
-grafo = nx.DiGraph()
+grafo = nx.DiGraph() # variável que guarda o grafo
 
 # ARMAZENA EM UM DICIONÁRIO TODOS OS FILMES QUE TÊM PÁGINA NA WIKIPEDIA NO IDIOMA
 def get_indicados():
@@ -30,12 +31,13 @@ def get_indicados():
             with open("./LEGENDAS GRAFOS/legenda grafo en.txt", "a") as file_leg:
                 file_leg.write(str(i) + " " + nome + "\n")
             i+=1
+    #print(filmes_indicados)
         
     
 def get_vertices():
     # lista todos os arquivos armazenados no diretório 'ARTIGOS HTML/inglês'
     path = "./ARTIGOS HTML/inglês"
-    list_files = os.listdir(path)
+    list_files = os.listdir(path) # lista o nome de todos os documentos do diretório "./ARTIGOS HTML/inglês"
     
     # acessa cada arquivo .html para lê-lo e realizar o parser
     for file in list_files:
@@ -47,6 +49,11 @@ def get_vertices():
             content = fp.read()
 
             arr_article = []
+
+            soup = BeautifulSoup(content, 'html.parser')
+
+            for tag in soup.select('main', href=True):
+                content = tag
 
             # esse bloco do código seleciona apenas a parte do artigo que é até antes de conter apenas links
             if '<span class="mw-headline" id="See_also">' in content:
@@ -60,8 +67,10 @@ def get_vertices():
             elif '<span class="mw-headline" id="External_links">' in content:
                 arr_article = content.split('<span class="mw-headline" id="External_links">')
 
+            # content_parser: armazena
             content_parser = arr_article[0]
-            content_parser += "<\h2></div></div></div></main></div></div></div></body></html>" # adiciona as tags que foram "perdidas" ao chamar o método 'split'
+            content_parser += "<\h2></main>" # adiciona as tags que foram "perdidas" ao chamar o método 'split'
+            #content_parser += "<\h2></div></div></div></main></div></div></div></body></html>" # adiciona as tags que foram "perdidas" ao chamar o método 'split'
 
             #print(content_parser)
             article_encoded = content_parser.encode(encoding = 'UTF-8')
@@ -94,7 +103,7 @@ def get_vertices():
                     #print(title[0])
                     #print(nome_filme, title[0])
                     
-                    referenciado = str(title[0])
+                    referenciado = title[0]
                     referenciado = referenciado.strip()
                     if referenciado != 'None':
                         # checa se o título da página referenciada está na lista dos filmes indicados à categoria de "Melhor Filme"
@@ -103,11 +112,15 @@ def get_vertices():
                             grafo.add_edge(filmes_indicados[nome_filme], filmes_indicados[referenciado])
                         #referenciados.append(referenciado)
 
+            
             #referenciados = list(dict.fromkeys(referenciados))
             #print(referenciados)
             fp.close()
+    nx.write_gexf(grafo, "grafo_en.gexf")
+    plt.show()
 
 def main():
+    get_indicados()
     get_vertices()
 
 if __name__ == "__main__":

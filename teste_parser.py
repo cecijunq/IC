@@ -5,75 +5,84 @@ import requests, re
 
 from urllib.request import urlopen
 
+filmes_indicados = {'Wings (1927 film)': 0, 'The Racket (1928 film)': 1, '7th Heaven (1927 film)': 2, 'The Broadway Melody': 3, 'In Old Arizona': 4, 'The Hollywood Revue': 5, 'The Patriot (1928 film)': 6, 'Alibi (1929 film)': 7, 'All Quiet on the Western Front (1930 film)': 8, 'The Big House (1930 film)': 9, 'Disraeli (1929 film)': 10, 'The Divorcee': 11, 'The Love Parade': 12, 'Cimarron (1931 film)': 13, 'East Lynne (1931 film)': 14, 'The Front Page (1931 film)': 15, 'Skippy (film)': 16, 'Trader Horn (1931 film)': 17, 'Grand Hotel (1932 film)': 18, 'Arrowsmith (film)': 19, 'Bad Girl (1931 film)': 20, 'The Champ (1931 film)': 21, 'Five Star Final': 22, 'One Hour with You': 23, 'Shanghai Express (film)': 24, 'The Smiling Lieutenant': 25, 'Cavalcade (1933 film)': 26, 'A Farewell to Arms (1932 film)': 27, '42nd Street (film)': 28, 'I Am a Fugitive from a Chain Gang': 29, 'Lady for a Day': 30, 'Little Men (1934 film)': 31, 'The Private Life of Henry VIII': 32, 'She Done Him Wrong': 33, "Smilin' Through (1932 film)": 34, 'State Fair (1933 film)': 35, 'It Happened One Night': 36, 'The Barretts of Wimpole Street (1934 film)': 37, 'Cleopatra (1934 film)': 38, 'Flirtation Walk': 39, 'The Gay Divorcee': 40, 'Here Comes the Navy': 41, 'The House of Rothschild': 42, 'Imitation of Life (1934 film)': 43, 'One Night of Love': 44, 'The Thin Man (film)': 45, 'Viva Villa!': 46, 'The White Parade': 47, 'Mutiny on the Bounty (1935 film)': 48, 'Broadway Melody of 1936': 49, 'Captain Blood (1935 film)': 50, 'David Copperfield (1935 film)': 51, 'Alice Adams (1935 film)': 52, 'The Informer (1935 film)': 53, 'Les Misérables (1935 film)': 54, 'The Lives of a Bengal Lancer (film)': 55, "A Midsummer Night's Dream (1935 film)": 56, 'Naughty Marietta (film)': 57, 'Ruggles of Red Gap': 58, 'Top hat': 59, 'The Great Ziegfeld': 60, 'Anthony Adverse': 61, 'Libeled Lady': 62, 'Dodsworth (film)': 63, 'Mr. Deeds Goes to Town': 64, 'Romeo and Juliet (1936 film)': 65, 'San Francisco (1936 film)': 66, 'The Story of Louis Pasteur': 67, 'A Tale of Two Cities (1935 film)': 68, 'Three Smart Girls': 69, 'The Life of Emile Zola': 70, 'The Awful Truth': 71, 'Captains Courageous (1937 film)': 72, 'Dead End (1937 film)': 73, 'The Good Earth (film)': 74, 'In Old Chicago': 75, 'Lost Horizon (1937 film)': 76, 'One Hundred Men and a Girl': 77, 'Stage Door': 78, 'A Star Is Born (1937 film)': 79, "You Can't Take It with You (film)": 80, 'The Adventures of Robin Hood': 81, "Alexander's Ragtime Band (film)": 82, 'Boys Town (film)': 83, 'The Citadel (1938 film)': 84, 'Four Daughters': 85, 'La Grande Illusion': 86, 'Jezebel (1938 film)': 87, 'Pygmalion (1938 film)': 88, 'Test Pilot (film)': 89, 'Gone with the Wind (film)': 90, 'Dark Victory': 91, 'Goodbye, Mr. Chips (1939 film)': 92, 'Love Affair (1939 film)': 93, 'Mr. Smith Goes to Washington': 94, 'Ninotchka': 95, 'Of Mice and Men (1939 film)': 96, 'Stagecoach (1939 film)': 97, 'The Wizard of Oz (1939 film)': 98, 'Wuthering Heights (1939 film)': 99, 'Rebecca (1940 film)': 100, 'All This, and Heaven Too': 101, 'Foreign Correspondent (film)': 102, 'The Grapes of Wrath (film)': 103, 'The Great Dictator': 104, 'Kitty Foyle (film)': 105, 'The Letter (1940 film)': 106, 'The Long Voyage Home': 107, 'Our Town (1940 film)': 108, 'The Philadelphia Story (film)': 109, 'How Green Was My Valley (film)': 110, 'Blossoms in the Dust': 111, 'Citizen Kane': 112, 'Here Comes Mr. Jordan': 113, 'Hold Back the Dawn': 114, 'The Little Foxes (film)': 115, 'The Maltese Falcon (1941 film)': 116, 'One Foot in Heaven': 117, 'Sergeant York (film)': 118, 'Suspicion (1941 film)': 119, 'Mrs. Miniver': 120, '49th Parallel (film)': 121, 'Kings Row': 122, 'The Magnificent Ambersons (film)': 123, 'The Pride of the Yankees': 124, 'The Pied Piper (1942 film)': 125, 'Random Harvest (film)': 126, 'Wake Island (film)': 127, 'Yankee Doodle Dandy': 128, 'Casablanca (film)': 129, 'For Whom the Bell Tolls (film)': 130, 'Heaven Can Wait (1943 film)': 131, 'The Human Comedy (film)': 132, 'In Which We Serve': 133, 'The More the Merrier': 134, 'The Ox-Bow Incident': 135, 'Madame Curie (film)': 136, 'The Song of Bernadette (film)': 137, 'Watch on the Rhine': 138, 'Going My Way': 139, 'Double Indemnity': 140, 'Gaslight (1944 film)': 141, 'Wilson (1944 film)': 142, 'Since You Went Away': 143, 'The Lost Weekend': 144, 'Anchors Aweigh (film)': 145, "The Bells of St. Mary's": 146, 'Mildred Pierce (film)': 147, 'Spellbound (1945 film)': 148, 'The Best Years of Our Lives': 149, 'Henry V (1944 film)': 150, "It's a Wonderful Life": 151, "The Razor's Edge (1946 film)": 152, 'The Yearling (1946 film)': 153, "Gentleman's Agreement": 154, "The Bishop's Wife": 155, 'Crossfire (film)': 156, 'Great Expectations (1946 film)': 157, 'Miracle on 34th Street': 158, 'Hamlet (1948 film)': 159, 'Johnny Belinda (1948 film)': 160, 'The Red Shoes (1948 film)': 161, 'The Treasure of the Sierra Madre (film)': 162, 'The Snake Pit': 163, "All the King's Men (1949 film)": 164, 'Battleground (film)': 165, 'The Heiress': 166, 'A Letter to Three Wives': 167, 'All About Eve': 168, 'Born Yesterday (1950 film)': 169, 'Sunset Boulevard (film)': 170, 'Father of the Bride (1950 film)': 171, "King Solomon's Mines (1950 film)": 172, 'An American in Paris (film)': 173, 'Decision Before Dawn': 174, 'A Place in the Sun (1951 film)': 175, 'A Streetcar Named Desire (1951 film)': 176, 'Quo Vadis (1951 film)': 177, 'The Greatest Show on Earth (film)': 178, 'High Noon': 179, 'Ivanhoe (1952 film)': 180, 'The Quiet Man': 181, 'Moulin Rouge (1952 film)': 182, 'From Here to Eternity': 183, 'The Robe (film)': 184, 'Roman Holiday': 185, 'Shane (film)': 186, "William Shakespeare's Julius Caesar": 187, 'On the Waterfront': 188, 'The Caine Mutiny (film)': 189, 'The Country Girl (1954 film)': 190, 'Seven Brides for Seven Brothers': 191, 'Three Coins in the Fountain (film)': 192, 'Marty (film)': 193, 'Love Is a Many-Splendored Thing (film)': 194, 'Mister Roberts (1955 film)': 195, 'Picnic (1955 film)': 196, 'The Rose Tattoo (film)': 197, 'Around the World in 80 Days (1956 film)': 198, 'Friendly Persuasion (1956 film)': 199, 'The King and I (1956 film)': 200, 'Giant (1956 film)': 201, 'The Ten Commandments (1956 film)': 202, 'The Bridge on the River Kwai': 203, 'Peyton Place (film)': 204, 'Sayonara': 205, '12 Angry Men (1957 film)': 206, 'Witness for the Prosecution (1957 film)': 207, 'Gigi (1958 film)': 208, 'Auntie Mame (film)': 209, 'Cat on a Hot Tin Roof (1958 film)': 210, 'The Defiant Ones': 211, 'Separate Tables (film)': 212, 'Ben-Hur (1959 film)': 213, 'Anatomy of a Murder': 214, 'The Diary of Anne Frank (1959 film)': 215, "The Nun's Story (film)": 216, 'Room at the Top (1959 film)': 217, 'The Apartment': 218, 'The Alamo (1960 film)': 219, 'Elmer Gantry (film)': 220, 'Sons and Lovers (film)': 221, 'The Sundowners (1960 film)': 222, 'West Side Story (1961 film)': 223, 'Fanny (1961 film)': 224, 'The Guns of Navarone (film)': 225, 'The Hustler': 226, 'Judgment at Nuremberg': 227, 'Lawrence of Arabia (film)': 228, 'The Longest Day (film)': 229, 'The Music Man (1962 film)': 230, 'Mutiny on the Bounty (1962 film)': 231, 'To Kill a Mockingbird (film)': 232, 'Tom Jones (1963 film)': 233, 'America America': 234, 'Cleopatra (1963 film)': 235, 'How the West Was Won (film)': 236, 'Lilies of the Field (1963 film)': 237, 'My Fair Lady (film)': 238, 'Dr. Strangelove': 239, 'Becket (1964 film)': 240, 'Mary Poppins (film)': 241, 'Zorba the Greek (film)': 242, 'The Sound of Music (film)': 243, 'Doctor Zhivago (film)': 244, 'Ship of Fools (film)': 245, 'Darling (1965 film)': 246, 'A Thousand Clowns': 247, 'A Man for All Seasons (1966 film)': 248, 'Alfie (1966 film)': 249, 'The Russians Are Coming, the Russians Are Coming': 250, 'The Sand Pebbles (film)': 251, "Who's Afraid of Virginia Woolf? (film)": 252, 'In the Heat of the Night (film)': 253, 'Bonnie and Clyde (film)': 254, 'Doctor Dolittle (1967 film)': 255, 'The Graduate': 256, "Guess Who's Coming to Dinner": 257, 'Oliver! (film)': 258, 'Funny Girl (film)': 259, 'The Lion in Winter (1968 film)': 260, 'Rachel, Rachel': 261, 'Romeo and Juliet (1968 film)': 262, 'Midnight Cowboy': 263, 'Anne of the Thousand Days': 264, 'Butch Cassidy and the Sundance Kid': 265, 'Hello, Dolly! (film)': 266, 'Z (1969 film)': 267, 'Patton (film)': 268, 'Airport (1970 film)': 269, 'M*A*S*H (film)': 270, 'Five Easy Pieces': 271, 'Love Story (1970 film)': 272, 'The French Connection (film)': 273, 'A Clockwork Orange (film)': 274, 'Fiddler on the Roof (film)': 275, 'The Last Picture Show': 276, 'Nicholas and Alexandra': 277, 'The Godfather': 278, 'Cabaret (1972 film)': 279, 'Deliverance': 280, 'The Emigrants (film)': 281, 'Sounder (film)': 282, 'The Sting': 283, 'American Graffiti': 284, 'Cries and Whispers': 285, 'The Exorcist': 286, 'A Touch of Class (film)': 287, 'The Godfather Part II': 288, 'Chinatown (1974 film)': 289, 'The Conversation': 290, 'Lenny (film)': 291, 'The Towering Inferno': 292, "One Flew Over the Cuckoo's Nest (film)": 293, 'Barry Lyndon': 294, 'Dog Day Afternoon': 295, 'Jaws (film)': 296, 'Nashville (film)': 297, 'Rocky': 298, "All the President's Men (film)": 299, 'Bound for Glory (1976 film)': 300, 'Network (1976 film)': 301, 'Taxi Driver': 302, 'Annie Hall': 303, 'The Goodbye Girl': 304, 'Julia (1977 film)': 305, 'Star Wars (film)': 306, 'The Turning Point (1977 film)': 307, 'The Deer Hunter': 308, 'Coming Home (1978 film)': 309, 'Heaven Can Wait (1978 film)': 310, 'Midnight Express (film)': 311, 'An Unmarried Woman': 312, 'Kramer vs. Kramer': 313, 'All That Jazz (film)': 314, 'Apocalypse Now': 315, 'Breaking Away': 316, 'Norma Rae': 317, 'Ordinary People': 318, "Coal Miner's Daughter (film)": 319, 'The Elephant Man (film)': 320, 'Raging Bull': 321, 'Tess (1979 film)': 322, 'Chariots of Fire': 323, 'Atlantic City (1980 film)': 324, 'On Golden Pond (1981 film)': 325, 'Raiders of the Lost Ark': 326, 'Reds (film)': 327, 'Gandhi (film)': 328, 'E.T. the Extra-Terrestrial': 329, 'Missing (1982 film)': 330, 'Tootsie': 331, 'The Verdict': 332, 'Terms of Endearment': 333, 'The Big Chill (film)': 334, 'The Dresser (1983 film)': 335, 'The Right Stuff (film)': 336, 'Tender Mercies': 337, 'Amadeus (film)': 338, 'The Killing Fields (film)': 339, 'A Passage to India (film)': 340, 'Places in the Heart': 341, "A Soldier's Story": 342, 'Out of Africa (film)': 343, 'The Color Purple (1985 film)': 344, 'Kiss of the Spider Woman (film)': 345, "Prizzi's Honor": 346, 'Witness (1985 film)': 347, 'Platoon (film)': 348, 'Children of a Lesser God (film)': 349, 'Hannah and Her Sisters': 350, 'The Mission (1986 film)': 351, 'A Room with a View (1985 film)': 352, 'The Last Emperor': 353, 'Broadcast News (film)': 354, 'Fatal Attraction': 355, 'Hope and Glory (film)': 356, 'Moonstruck': 357, 'Rain Man': 358, 'The Accidental Tourist (film)': 359, 'Dangerous Liaisons': 360, 'Mississippi Burning': 361, 'Working Girl': 362, 'Driving Miss Daisy': 363, 'Born on the Fourth of July (film)': 364, 'Dead Poets Society': 365, 'Field of Dreams': 366, 'My Left Foot': 367, 'Dances with Wolves': 368, 'Awakenings': 369, 'Ghost (1990 film)': 370, 'The Godfather Part III': 371, 'Goodfellas': 372, 'The Silence of the Lambs (film)': 373, 'Beauty and the Beast (1991 film)': 374, 'Bugsy': 375, 'JFK (film)': 376, 'The Prince of Tides': 377, 'Unforgiven': 378, 'The Crying Game': 379, 'A Few Good Men': 380, 'Howards End (film)': 381, 'Scent of a Woman (1992 film)': 382, "Schindler's List": 383, 'The Fugitive (1993 film)': 384, 'The Remains of the Day (film)': 385, 'The Piano': 386, 'In the Name of the Father (film)': 387, 'Forrest Gump': 388, 'Four Weddings and a Funeral': 389, 'Pulp Fiction': 390, 'Quiz Show (film)': 391, 'The Shawshank Redemption': 392, 'Braveheart': 393, 'Apollo 13 (film)': 394, 'Babe (film)': 395, 'Il Postino: The Postman': 396, 'Sense and Sensibility (film)': 397, 'The English Patient (film)': 398, 'Fargo (1996 film)': 399, 'Jerry Maguire': 400, 'Secrets & Lies (film)': 401, 'Shine (film)': 402, 'Titanic (1997 film)': 403, 'As Good as It Gets': 404, 'The Full Monty': 405, 'Good Will Hunting': 406, 'L.A. Confidential (film)': 407, 'Shakespeare in Love': 408, 'Elizabeth (film)': 409, 'Life Is Beautiful': 410, 'Saving Private Ryan': 411, 'The Thin Red Line (1998 film)': 412, 'American Beauty (1999 film)': 413, 'The Cider House Rules (film)': 414, 'The Green Mile (film)': 415, 'The Insider (film)': 416, 'The Sixth Sense': 417, 'Gladiator (2000 film)': 418, 'Chocolat (2000 film)': 419, 'Crouching Tiger, Hidden Dragon': 420, 'Erin Brockovich (film)': 421, 'Traffic (2000 film)': 422, 'A Beautiful Mind (film)': 423, 'Gosford Park': 424, 'In the Bedroom': 425, 'The Lord of the Rings: The Fellowship of the Ring': 426, 'Moulin Rouge!': 427, 'Chicago (2002 film)': 428, 'Gangs of New York': 429, 'The Hours (film)': 430, 'The Lord of the Rings: The Two Towers': 431, 'The Pianist (2002 film)': 432, 'The Lord of the Rings: The Return of the King': 433, 'Lost in Translation (film)': 434, 'Master and Commander: The Far Side of the World': 435, 'Mystic River (film)': 436, 'Seabiscuit (film)': 437, 'Million Dollar Baby': 438, 'The Aviator (2004 film)': 439, 'Finding Neverland (film)': 440, 'Ray (film)': 441, 'Crash (2004 film)': 442, 'Brokeback Mountain': 443, 'Capote (film)': 444, 'Good Night, and Good Luck': 445, 'Munich (2005 film)': 446, 'The Departed': 447, 'Babel (film)': 448, 'Letters from Iwo Jima': 449, 'Little Miss Sunshine': 450, 'The Queen (2006 film)': 451, 'No Country for Old Men': 452, 'Atonement (2007 film)': 453, 'Juno (film)': 454, 'Michael Clayton': 455, 'There Will Be Blood': 456, 'Slumdog Millionaire': 457, 'The Curious Case of Benjamin Button (film)': 458, 'Frost/Nixon (film)': 459, 'Milk (2008 American film)': 460, 'The Reader (2008 film)': 461, 'The Hurt Locker': 462, 'Avatar (2009 film)': 463, 'The Blind Side (film)': 464, 'District 9': 465, 'An Education': 466, 'Inglourious Basterds': 467, 'A Serious Man': 468, 'Up (2009 film)': 469, 'Up in the Air (2009 film)': 470, "The King's Speech": 471, 'Black Swan (film)': 472, 'The Fighter': 473, 'Inception': 474, 'The Kids Are All Right (film)': 475, '127 Hours': 476, 'The Social Network': 477, 'Toy Story 3': 478, 'True Grit (2010 film)': 479, "Winter's Bone": 480, 'The Artist (film)': 481, 'The Descendants': 482, 'Extremely Loud & Incredibly Close (film)': 483, 'The Help (film)': 484, 'Hugo (film)': 485, 'Midnight in Paris': 486, 'Moneyball (film)': 487, 'The Tree of Life (film)': 488, 'War Horse (film)': 489, 'Les Misérables (2012 film)': 490, 'Argo (2012 film)': 491, 'Amour (2012 film)': 492, 'Beasts of the Southern Wild': 493, 'Django Unchained': 494, 'Life of Pi (film)': 495, 'Lincoln (film)': 496, 'Silver Linings Playbook': 497, 'Zero Dark Thirty': 498, '12 Years a Slave (film)': 499, 'American Hustle': 500, 'Captain Phillips (film)': 501, 'Dallas Buyers Club': 502, 'Gravity (2013 film)': 503, 'Her (film)': 504, 'Nebraska (film)': 505, 'Philomena (film)': 506, 'The Wolf of Wall Street (2013 film)': 507, 'Birdman (film)': 508, 'American Sniper': 509, 'Boyhood (2014 film)': 510, 'The Grand Budapest Hotel': 511, 'The Imitation Game': 512, 'Selma (film)': 513, 'The Theory of Everything (2014 film)': 514, 'Whiplash (2014 film)': 515, 'Spotlight (film)': 516, 'The Big Short (film)': 517, 'Bridge of Spies (film)': 518, 'Brooklyn (film)': 519, 'Mad Max: Fury Road': 520, 'The Martian (film)': 521, 'The Revenant (2015 film)': 522, 'Room (2015 film)': 523, 'Moonlight (2016 film)': 524, 'Arrival (film)': 525, 'Fences (film)': 526, 'Hacksaw Ridge': 527, 'Hell or High Water (film)': 528, 'Hidden Figures': 529, 'La La Land': 530, 'Lion (2016 film)': 531, 'Manchester by the Sea (film)': 532, 'The Shape of Water': 533, 'Call Me by Your Name (film)': 534, 'Darkest Hour (film)': 535, 'Dunkirk (2017 film)': 536, 'Get Out': 537, 'Lady Bird (film)': 538, 'Phantom Thread': 539, 'The Post (film)': 540, 'Three Billboards Outside Ebbing, Missouri': 541, 'Green Book (film)': 542, 'Black Panther (film)': 543, 'BlacKkKlansman': 544, 'Bohemian Rhapsody (film)': 545, 'The Favourite': 546, 'Roma (2018 film)': 547, 'A Star Is Born (2018 film)': 548, 'Vice (2018 film)': 549, 'Parasite (2019 film)': 550, 'Ford v Ferrari': 551, 'The Irishman': 552, 'Jojo Rabbit': 553, 'Joker (2019 film)': 554, 'Little Women (2019 film)': 555, 'Marriage Story': 556, '1917 (2019 film)': 557, 'Once Upon a Time in Hollywood': 558, 'Nomadland': 559, 'The Father (2020 film)': 560, 'Judas and the Black Messiah': 561, 'Mank': 562, 'Minari (film)': 563, 'Promising Young Woman': 564, 'Sound of Metal': 565, 'The Trial of the Chicago 7': 566, 'CODA (2021 film)': 567, 'Belfast (film)': 568, "Don't Look Up": 569, 'Drive My Car (film)': 570, 'Dune (2021 film)': 571, 'King Richard (film)': 572, 'Licorice Pizza': 573, 'Nightmare Alley (2021 film)': 574, 'The Power of the Dog (film)': 575, 'West Side Story (2021 film)': 576, 'Everything Everywhere All at Once': 577, 'All Quiet on the Western Front (2022 film)': 578, 'Avatar: The Way of Water': 579, 'The Banshees of Inisherin': 580, 'Elvis (2022 film)': 581, 'The Fabelmans': 582, 'Tár': 583, 'Top Gun: Maverick': 584, 'Triangle of Sadness': 585, 'Women Talking (film)': 586}
 #def removeOneTag(text, tag):
     #return text[:text.find("<"+tag+">")] + text[text.find("</"+tag+">") + len(tag)+3:]
 
 filme = wp.page(title="Titanic (1997 film)", auto_suggest=False)
-fp = urllib.request.urlopen(filme.url)
-html_doc = fp.read()
-mystr = html_doc.decode("utf8")
+with open("teste_parser.html", "w") as f_out:
+    f_out.write(filme.html())
 
-soup = BeautifulSoup(mystr, 'html.parser')
-#soup = BeautifulSoup(html_doc, 'html.parser')
+with open("teste_parser.html", 'r') as fp:
+    content = fp.read()
 
-print(type(html_doc))
-#print(type(mystr))
+    arr_article = []
 
-referenciados = []
+    soup = BeautifulSoup(content, 'html.parser')
 
-for tag in soup.select('a:not(h2#See_also ~ a)', href=True):
-    url = tag.get("href")
-    print(url)
-    print(type(url))
-    #url = a.attrs['href']
-    if url is not None:
-        print("entrou")
-        url = url.replace("/wiki/", "https://en.wikipedia.org/wiki/")
-    #print(url)
-    #soup2 = BeautifulSoup(urlopen(url))
-    #f = requests.get(url)
-    # displaying the title
-    #print("Title of the website is : ")
-    #print (soup2.title.get_text())
-    #print(a.text)
-    #print(a.attrs)
-    referenciados.append(tag.string)
+    for tag in soup.select('main', href=True):
+        content = tag
 
+    # esse bloco do código seleciona apenas a parte do artigo que é até antes de conter apenas links
+    if '<span class="mw-headline" id="See_also">' in content:
+        arr_article = content.split('<span class="mw-headline" id="See_also">')
+    elif '<span class="mw-headline" id="Notes">' in content:
+        arr_article = content.split('<span class="mw-headline" id="Notes">')
+    elif '<span class="mw-headline" id="References">' in content:
+        arr_article = content.split('<span class="mw-headline" id="References">')
+    elif '<span class="mw-headline" id="Further_reading">' in content:
+        arr_article = content.split('<span class="mw-headline" id="Further_reading">')
+    elif '<span class="mw-headline" id="External_links">' in content:
+        arr_article = content.split('<span class="mw-headline" id="External_links">')
 
-"""for a in soup.find_all('a:not(h2#See_also ~ a)', href=True):
-    print("Found the URL:", a['href'])
-"""
+    # content_parser: armazena
+    content_parser = arr_article[0]
+    content_parser += "<\h2></main>" # adiciona as tags que foram "perdidas" ao chamar o método 'split'
+    #content_parser += "<\h2></div></div></div></main></div></div></div></body></html>" # adiciona as tags que foram "perdidas" ao chamar o método 'split'
 
-"""i = 0
-for character in mystr:
-    if i < len(mystr) and mystr[i:i+7] == 'id="See_also"':
-        mystr[i:] = ""
-    i+=1
+    #print(content_parser)
+    article_encoded = content_parser.encode(encoding = 'UTF-8')
 
-print(mystr)"""
+    soup = BeautifulSoup(article_encoded, 'html.parser')
 
-"""referencias_corpo = soup.select_one('div#mw-content-text')
-referencias_final = soup.select_one('div#catlinks')
-print(type(referencias_final))
+    referenciados = {}
 
-referenciados = []
-links_corpo = referencias_corpo.find_all("a")
-for x in links_corpo:
-    #page = x.get('href')
-    referenciados.append(x.string)
-    #print(x.string)
+    for tag in soup.select('a', href=True):
+        print(tag)
+    # seleciona o atributo 'href' de todas as tags <a> que existem no html do artigo em questão
+    for tag in soup.select('a', href=True):
+        url = tag.get("href")
+        if url is not None and '/' in url:
 
-links_final = referencias_final.find_all("a")
-for x in links_final:
-    if x in links_corpo:
-        #page = x.get('href')
-        referenciados.append(x.string)
-    #print(x.string)
-"""
+            if "https" not in url and "//en.wikipedia.org" not in url and "/wiki/" in url:
+                #print(url)
+                url = url.replace("/wiki/", "https://en.wikipedia.org/wiki/")
 
-referenciados = list(dict.fromkeys(referenciados))
-#print(referenciados)
-fp.close()
+            elif "https:" not in url and "//en.wikipedia.org" in url:
+                url = "https:" + url
 
-#with open("yourhtmlfile.html", "w") as file:
-    #file.write(mystr)
+            else:
+                continue
+            
+            #print(url)
+            html_page = urlopen(url)
+            soup = BeautifulSoup(html_page, 'html.parser')
+            # obtém o nome de cada página que é referenciada no artigo em questão
+            title = soup.title.string
+            title = title.split(" - Wikipedia")
+            print(title[0])
+            #print(nome_filme, title[0])
+            
+            referenciado = str(title[0])
+            referenciado = referenciado.strip()
+            if referenciado != 'None':
+        # checa se o título da página referenciada está na lista dos filmes indicados à categoria de "Melhor Filme"
+                if referenciado in filmes_indicados.keys() and referenciado != "Titanic (1997 film)":
+                    print('Titanic', referenciado)
+                    #grafo.add_edge(filmes_indicados[nome_filme], filmes_indicados[referenciado])
+        #referenciados.append(referenciado)
+
+    
+    #referenciados = list(dict.fromkeys(referenciados))
+    #print(referenciados)
+    fp.close()
