@@ -22,27 +22,27 @@ def top_five_page_rank(ranks):
     top = list(reversed(sorted((rank, node) for node, rank in ranks.items()))) [:5]
     return [node for rank, node in top]
 
-wp.set_lang("en")
+wp.set_lang("es")
 filmes_indicados = {} # chave: nome do filme, valor: id (que é o valor de 'i')
 grafo = nx.DiGraph() # variável que guarda o grafo
 
 # ARMAZENA EM UM DICIONÁRIO TODOS OS FILMES QUE TÊM PÁGINA NA WIKIPEDIA NO IDIOMA
 def get_indicados():
-    with open("./CSV METADADOS/metadados_en.csv", "r") as file_get_nomes_filmes: 
+    with open("./CSV METADADOS/metadados_es.csv", "r") as file_get_nomes_filmes: 
         next(file_get_nomes_filmes) # pula a linha que contém o cabeçalho do arquivo .csv
         i = 0 # atua como o id do filme na lista
         for line in file_get_nomes_filmes:
             vector_data_csv = line.split(';')
             nome = vector_data_csv[0] # seleciona o nome do filme
             filmes_indicados[nome] = i
-            with open("./LEGENDAS GRAFOS/legenda grafo en.txt", "a") as file_leg:
-                file_leg.write(str(i) + " " + nome + "\n")
+            """with open("./LEGENDAS GRAFOS/legenda grafo es.txt", "a") as file_leg:
+                file_leg.write(str(i) + " " + nome + "\n")"""
             i+=1
         
     
 def get_vertices():
     # lista todos os arquivos armazenados no diretório 'ARTIGOS HTML/inglês'
-    path = "./ARTIGOS HTML/inglês"
+    path = "./ARTIGOS HTML/espanhol"
     list_files = os.listdir(path) # lista o nome de todos os documentos do diretório "./ARTIGOS HTML/inglês"
     
     # acessa cada arquivo .html para lê-lo e realizar o parser
@@ -66,7 +66,7 @@ def get_vertices():
             for link in soup.findAll("a",href=True):
                 if '/wiki/' in link['href']:
                     referenciado = link['href'].split('/wiki/')[1].replace('_', ' ')
-                    if referenciado in filmes_indicados.keys() and referenciado != nome_filme and referenciado not in links:
+                    if referenciado in filmes_indicados.keys() and referenciado != nome_filme:
                         links.append(referenciado)
                         print(nome_filme, referenciado)
                         grafo.add_edge(filmes_indicados[nome_filme], filmes_indicados[referenciado])
@@ -75,8 +75,8 @@ def get_vertices():
     n_arestas = grafo.number_of_edges()
 
     i = 0
-    md_out = 0
-    md_in = 0
+    soma_out = 0
+    soma_in = 0
     max_out = 0
     max_in = 0
     min_out = 600
@@ -91,11 +91,11 @@ def get_vertices():
                 min_out = tuple[1]
 
         n_outdegree.append(tuple[1])
-        md_out += tuple[1]
+        soma_out += tuple[1]
         if tuple[1] > max_out:
             max_out = tuple[1]
 
-    md_out = md_out / n_nos
+    md_out = soma_out / n_nos
         
     i = 0
     for tuple in grafo.in_degree():
@@ -107,11 +107,11 @@ def get_vertices():
                 min_in = tuple[1]
                 
         n_indegree.append(tuple[1])
-        md_in += tuple[1]
+        soma_in += tuple[1]
         if tuple[1] > max_in:
             max_in = tuple[1]
 
-    md_in = md_in / n_nos
+    md_in = soma_in / n_nos
 
     grafo_ordenado = sorted(nx.strongly_connected_components(grafo), key=len, reverse=True)
     giant_component = grafo.subgraph(grafo_ordenado[0])
@@ -139,9 +139,10 @@ def get_vertices():
     transitividade = nx.transitivity(grafo)
     pg_rnk = top_five_page_rank(nx.pagerank(grafo))
 
+    print("Inglês;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
     with open("./métricas_grafo.csv", "a") as to_write:
         to_write.write("Inglês;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
-    nx.write_gexf(grafo, "grafo_en.gexf")
+    nx.write_gexf(grafo, "grafo_es.gexf")
     plt.show()
 
 def main():
