@@ -1,3 +1,337 @@
+cecilia@MacBook-Air-de-Cecilia IC % python3 grafo.py
+Shane (film) The More the Merrier
+Shane (film) The Treasure of the Sierra Madre (film)
+Shane (film) Double Indemnity
+Shane (film) The Informer (1935 film)
+Joker (2019 film) Taxi Driver
+Joker (2019 film) Raging Bull
+Joker (2019 film) The Irishman
+Joker (2019 film) The Wizard of Oz (1939 film)
+Joker (2019 film) Gravity (2013 film)
+Joker (2019 film) American Sniper
+Joker (2019 film) Gladiator (2000 film)
+Joker (2019 film) The Full Monty
+A Letter to Three Wives All About Eve
+Master and Commander: The Far Side of the World A Beautiful Mind (film)
+Master and Commander: The Far Side of the World Titanic (1997 film)
+Gangs of New York Taxi Driver
+Gangs of New York Raging Bull
+A Star Is Born (2018 film) A Star Is Born (1937 film)
+The Dresser (1983 film) Tender Mercies
+Moulin Rouge (1952 film) Cabaret (1972 film)
+Moulin Rouge (1952 film) Moulin Rouge!
+Rain Man Licorice Pizza
+Rain Man My Left Foot
+The Power of the Dog (film) The Graduate
+The Power of the Dog (film) The Piano
+The Power of the Dog (film) Becket (1964 film)
+Sense and Sensibility (film) Howards End (film)
+Sense and Sensibility (film) Barry Lyndon
+Sense and Sensibility (film) Four Weddings and a Funeral
+Sense and Sensibility (film) Shakespeare in Love
+The Sound of Music (film) Gone with the Wind (film)
+The Sound of Music (film) West Side Story (1961 film)
+The Sound of Music (film) The Sand Pebbles (film)
+The Sound of Music (film) Mary Poppins (film)
+The Sound of Music (film) Star Wars (film)
+Chinatown (1974 film) The Conversation
+Chinatown (1974 film) The Maltese Falcon (1941 film)
+Chinatown (1974 film) Five Easy Pieces
+Sayonara Witness for the Prosecution (1957 film)
+All the President's Men (film) Z (1969 film)
+All the President's Men (film) Network (1976 film)
+All the President's Men (film) Rocky
+All the President's Men (film) Nashville (film)
+All the President's Men (film) Terms of Endearment
+All the President's Men (film) Goodfellas
+All the President's Men (film) Pulp Fiction
+All the President's Men (film) The Hurt Locker
+All the President's Men (film) Drive My Car (film)
+All the President's Men (film) The Post (film)
+The Longest Day (film) The Alamo (1960 film)
+The Longest Day (film) Cleopatra (1963 film)
+Nebraska (film) The Descendants
+Ruggles of Red Gap Mutiny on the Bounty (1935 film)
+The Bells of St. Mary's Going My Way
+The Bells of St. Mary's The Godfather
+American Beauty (1999 film) Saving Private Ryan
+American Beauty (1999 film) The Apartment
+American Beauty (1999 film) Sunset Boulevard (film)
+American Beauty (1999 film) The Sixth Sense
+American Beauty (1999 film) Shakespeare in Love
+American Beauty (1999 film) The Cider House Rules (film)
+American Beauty (1999 film) The Insider (film)
+American Beauty (1999 film) Ordinary People
+American Beauty (1999 film) All That Jazz (film)
+12 Years a Slave (film) Black Swan (film)
+12 Years a Slave (film) The Descendants
+The Conversation The Godfather Part II
+Watch on the Rhine For Whom the Bell Tolls (film)
+Watch on the Rhine Casablanca (film)
+Mississippi Burning Platoon (film)
+Mississippi Burning Apocalypse Now
+Mississippi Burning Rain Man
+Mississippi Burning Dangerous Liaisons
+The Artist (film) Wings (1927 film)
+The Artist (film) From Here to Eternity
+The Artist (film) The Apartment
+Hannah and Her Sisters The Godfather
+Hannah and Her Sisters Annie Hall
+Hannah and Her Sisters Midnight in Paris
+Hannah and Her Sisters The Fighter
+The Informer (1935 film) Mutiny on the Bounty (1935 film)
+The Big House (1930 film) The Champ (1931 film)
+Green Book (film) Titanic (1997 film)
+The Adventures of Robin Hood Captain Blood (1935 film)
+Tár Licorice Pizza
+Tár Nightmare Alley (2021 film)
+Tár The Fabelmans
+Tár Citizen Kane
+Tár Sunset Boulevard (film)
+Tár Dr. Strangelove
+Tár Butch Cassidy and the Sundance Kid
+Tár The Conversation
+Tár Nashville (film)
+Tár Taxi Driver
+Tár The Elephant Man (film)
+Tár Pulp Fiction
+Tár There Will Be Blood
+Tár Roma (2018 film)
+Tár In the Bedroom
+Good Will Hunting Titanic (1997 film)
+Call Me by Your Name (film) Milk (2008 American film)
+Call Me by Your Name (film) The Social Network
+Call Me by Your Name (film) Barry Lyndon
+Call Me by Your Name (film) The Magnificent Ambersons (film)
+Call Me by Your Name (film) Lady Bird (film)
+Call Me by Your Name (film) Brokeback Mountain
+Call Me by Your Name (film) Moonlight (2016 film)
+Call Me by Your Name (film) Gone with the Wind (film)
+Call Me by Your Name (film) Boyhood (2014 film)
+Ninotchka Madame Curie (film)
+How Green Was My Valley (film) Citizen Kane
+How Green Was My Valley (film) Sergeant York (film)
+How Green Was My Valley (film) The Maltese Falcon (1941 film)
+Manchester by the Sea (film) On the Waterfront
+A Star Is Born (1937 film) A Star Is Born (2018 film)
+A Star Is Born (1937 film) The Champ (1931 film)
+A Star Is Born (1937 film) The Great Dictator
+Amadeus (film) The Killing Fields (film)
+Amadeus (film) A Passage to India (film)
+Amadeus (film) Places in the Heart
+Amadeus (film) The English Patient (film)
+Amadeus (film) The Hurt Locker
+Amadeus (film) The Artist (film)
+Amadeus (film) Birdman (film)
+High Noon A Man for All Seasons (1966 film)
+The Imitation Game The Grand Budapest Hotel
+The Imitation Game Argo (2012 film)
+The Imitation Game Philomena (film)
+The Imitation Game The Artist (film)
+The Imitation Game A Beautiful Mind (film)
+The Imitation Game The Theory of Everything (2014 film)
+Crash (2004 film) The Silence of the Lambs (film)
+Crash (2004 film) The Last Emperor
+Crash (2004 film) Brokeback Mountain
+Crash (2004 film) Good Night, and Good Luck
+Crash (2004 film) Capote (film)
+Crash (2004 film) Munich (2005 film)
+Crash (2004 film) Slumdog Millionaire
+Crash (2004 film) Chicago (2002 film)
+The Sting Butch Cassidy and the Sundance Kid
+Extremely Loud & Incredibly Close (film) The Tree of Life (film)
+Extremely Loud & Incredibly Close (film) The Artist (film)
+Prizzi's Honor The Maltese Falcon (1941 film)
+Prizzi's Honor The Godfather
+Quo Vadis (1951 film) Gone with the Wind (film)
+Quo Vadis (1951 film) Ben-Hur (1959 film)
+Quo Vadis (1951 film) Cleopatra (1963 film)
+West Side Story (1961 film) West Side Story (2021 film)
+West Side Story (1961 film) The Sound of Music (film)
+Jezebel (1938 film) Gone with the Wind (film)
+The Magnificent Ambersons (film) Citizen Kane
+The Magnificent Ambersons (film) The Little Foxes (film)
+Black Panther (film) The Godfather
+Black Panther (film) The French Connection (film)
+Black Panther (film) Avatar (2009 film)
+Cabaret (1972 film) The Godfather
+The Godfather Part III The Godfather
+The Godfather Part III The Godfather Part II
+The Godfather Part III Titanic (1997 film)
+Judas and the Black Messiah The Departed
+Judas and the Black Messiah Get Out
+Judas and the Black Messiah The Trial of the Chicago 7
+The Color Purple (1985 film) E.T. the Extra-Terrestrial
+The Color Purple (1985 film) Casablanca (film)
+The Color Purple (1985 film) The Turning Point (1977 film)
+The Last Emperor The English Patient (film)
+The Last Emperor Amadeus (film)
+The Last Emperor The Hurt Locker
+The Philadelphia Story (film) Gone with the Wind (film)
+The Philadelphia Story (film) The Grapes of Wrath (film)
+The Philadelphia Story (film) Mr. Smith Goes to Washington
+The Wolf of Wall Street (2013 film) Hugo (film)
+The Wolf of Wall Street (2013 film) Goodfellas
+The Wolf of Wall Street (2013 film) 12 Years a Slave (film)
+The Wolf of Wall Street (2013 film) Gravity (2013 film)
+Boys Town (film) Pygmalion (1938 film)
+West Side Story (2021 film) West Side Story (1961 film)
+West Side Story (2021 film) Moulin Rouge!
+West Side Story (2021 film) Munich (2005 film)
+West Side Story (2021 film) Lincoln (film)
+West Side Story (2021 film) Top Gun: Maverick
+West Side Story (2021 film) Mutiny on the Bounty (1962 film)
+West Side Story (2021 film) Belfast (film)
+The Lion in Winter (1968 film) Becket (1964 film)
+The Lion in Winter (1968 film) A Man for All Seasons (1966 film)
+The Lion in Winter (1968 film) Funny Girl (film)
+Argo (2012 film) Star Wars (film)
+Argo (2012 film) Zero Dark Thirty
+Argo (2012 film) Silver Linings Playbook
+Argo (2012 film) Django Unchained
+Airport (1970 film) Love Story (1970 film)
+Airport (1970 film) Gone with the Wind (film)
+Airport (1970 film) Five Easy Pieces
+Raging Bull The Elephant Man (film)
+Raging Bull On the Waterfront
+Raging Bull The Godfather Part II
+Raging Bull Taxi Driver
+Raging Bull Ordinary People
+Raging Bull Lawrence of Arabia (film)
+Women Talking (film) Avatar: The Way of Water
+Ship of Fools (film) Grand Hotel (1932 film)
+Toy Story 3 Up (2009 film)
+Toy Story 3 The Lord of the Rings: The Return of the King
+Toy Story 3 Shakespeare in Love
+Toy Story 3 Titanic (1997 film)
+Toy Story 3 The Social Network
+Elizabeth (film) Shakespeare in Love
+The Elephant Man (film) Raging Bull
+Here Comes Mr. Jordan Heaven Can Wait (1978 film)
+Here Comes Mr. Jordan Midnight Express (film)
+Lost Horizon (1937 film) It Happened One Night
+Lost Horizon (1937 film) Mr. Deeds Goes to Town
+Lost Horizon (1937 film) The Life of Emile Zola
+Lost Horizon (1937 film) One Hundred Men and a Girl
+Lost Horizon (1937 film) In Old Chicago
+Lost Horizon (1937 film) Mary Poppins (film)
+Lost Horizon (1937 film) My Fair Lady (film)
+Lost Horizon (1937 film) The Sound of Music (film)
+Bohemian Rhapsody (film) Joker (2019 film)
+Bohemian Rhapsody (film) Out of Africa (film)
+Bohemian Rhapsody (film) Green Book (film)
+In Old Chicago The Wizard of Oz (1939 film)
+One Flew Over the Cuckoo's Nest (film) It Happened One Night
+One Flew Over the Cuckoo's Nest (film) The Silence of the Lambs (film)
+One Flew Over the Cuckoo's Nest (film) Nashville (film)
+One Flew Over the Cuckoo's Nest (film) Dog Day Afternoon
+127 Hours Slumdog Millionaire
+127 Hours Toy Story 3
+Nightmare Alley (2021 film) The Shape of Water
+Bridge of Spies (film) The Color Purple (1985 film)
+Bridge of Spies (film) The Martian (film)
+Five Easy Pieces Chinatown (1974 film)
+Five Easy Pieces Airport (1970 film)
+Five Easy Pieces Patton (film)
+Hamlet (1948 film) Henry V (1944 film)
+Hamlet (1948 film) Life Is Beautiful
+Hamlet (1948 film) The Shape of Water
+Roma (2018 film) The Favourite
+Roma (2018 film) Crouching Tiger, Hidden Dragon
+The Grapes of Wrath (film) Rebecca (1940 film)
+The Grapes of Wrath (film) The Long Voyage Home
+Platoon (film) Born on the Fourth of July (film)
+Platoon (film) Midnight Express (film)
+Platoon (film) The Deer Hunter
+Platoon (film) Apocalypse Now
+The King's Speech Slumdog Millionaire
+The King's Speech Toy Story 3
+Drive My Car (film) Goodfellas
+Drive My Car (film) L.A. Confidential (film)
+Drive My Car (film) The Social Network
+Drive My Car (film) The Hurt Locker
+CODA (2021 film) Manchester by the Sea (film)
+CODA (2021 film) Sound of Metal
+CODA (2021 film) Green Book (film)
+CODA (2021 film) Grand Hotel (1932 film)
+CODA (2021 film) Children of a Lesser God (film)
+Seven Brides for Seven Brothers Funny Girl (film)
+Seven Brides for Seven Brothers Witness for the Prosecution (1957 film)
+Seven Brides for Seven Brothers The Grapes of Wrath (film)
+Seven Brides for Seven Brothers San Francisco (1936 film)
+Network (1976 film) The Towering Inferno
+Network (1976 film) A Streetcar Named Desire (1951 film)
+Network (1976 film) Everything Everywhere All at Once
+Network (1976 film) Rocky
+Birdman (film) The Grand Budapest Hotel
+Birdman (film) 12 Years a Slave (film)
+Birdman (film) Babel (film)
+Birdman (film) Gravity (2013 film)
+Darkest Hour (film) The Theory of Everything (2014 film)
+Darkest Hour (film) The Shape of Water
+Darkest Hour (film) Dunkirk (2017 film)
+The Thin Man (film) The Awful Truth
+The Best Years of Our Lives Gone with the Wind (film)
+Gigi (1958 film) The Last Emperor
+Gigi (1958 film) The Lord of the Rings: The Return of the King
+Gigi (1958 film) An American in Paris (film)
+Gigi (1958 film) My Fair Lady (film)
+Gigi (1958 film) Ben-Hur (1959 film)
+A Place in the Sun (1951 film) The Godfather
+A Place in the Sun (1951 film) Dodsworth (film)
+The Letter (1940 film) Jezebel (1938 film)
+Fanny (1961 film) West Side Story (1961 film)
+The Lord of the Rings: The Two Towers The Lord of the Rings: The Fellowship of the Ring
+The Lord of the Rings: The Two Towers Titanic (1997 film)
+The Lord of the Rings: The Two Towers The Lord of the Rings: The Return of the King
+The Blind Side (film) A Serious Man
+The Blind Side (film) The Kids Are All Right (film)
+Around the World in 80 Days (1956 film) Friendly Persuasion (1956 film)
+Around the World in 80 Days (1956 film) Giant (1956 film)
+Around the World in 80 Days (1956 film) The King and I (1956 film)
+Around the World in 80 Days (1956 film) The Ten Commandments (1956 film)
+E.T. the Extra-Terrestrial Star Wars (film)
+E.T. the Extra-Terrestrial The Quiet Man
+E.T. the Extra-Terrestrial Raiders of the Lost Ark
+E.T. the Extra-Terrestrial The Wizard of Oz (1939 film)
+E.T. the Extra-Terrestrial Jaws (film)
+E.T. the Extra-Terrestrial Gandhi (film)
+E.T. the Extra-Terrestrial West Side Story (2021 film)
+The Green Mile (film) The Shawshank Redemption
+Cavalcade (1933 film) Wings (1927 film)
+Moneyball (film) Capote (film)
+Jerry Maguire A Few Good Men
+Jerry Maguire Born on the Fourth of July (film)
+Jerry Maguire Mr. Smith Goes to Washington
+Jerry Maguire Dr. Strangelove
+Jerry Maguire Lawrence of Arabia (film)
+Jerry Maguire Gandhi (film)
+The Killing Fields (film) Places in the Heart
+The Killing Fields (film) The Best Years of Our Lives
+Citizen Kane Wuthering Heights (1939 film)
+Citizen Kane Stagecoach (1939 film)
+Citizen Kane 49th Parallel (film)
+Citizen Kane Kitty Foyle (film)
+Citizen Kane The Magnificent Ambersons (film)
+Citizen Kane The Little Foxes (film)
+Citizen Kane The Maltese Falcon (1941 film)
+Citizen Kane The Best Years of Our Lives
+Citizen Kane Gaslight (1944 film)
+Citizen Kane Mildred Pierce (film)
+Citizen Kane Lawrence of Arabia (film)
+Citizen Kane Reds (film)
+Citizen Kane Raging Bull
+Citizen Kane There Will Be Blood
+Citizen Kane Giant (1956 film)
+Citizen Kane The Social Network
+Love Affair (1939 film) The Awful Truth
+Love Affair (1939 film) Gone with the Wind (film)
+Love Affair (1939 film) Wuthering Heights (1939 film)
+The Apartment American Beauty (1999 film)
+The Apartment The Artist (film)
+The Apartment Sons and Lovers (film)
+The Quiet Man The Informer (1935 film)
+The Quiet Man E.T. the Extra-Terrestrial
 Django Unchained Inglourious Basterds
 Django Unchained Argo (2012 film)
 Django Unchained Lincoln (film)
