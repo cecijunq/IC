@@ -46,7 +46,7 @@ def main():
     sentences_articles = []
 
     # lê cada um dos arquivos .txt do seguinte diretório
-    path = "./ARTIGOS TXT/artigos inglês"
+    path = "./ARTIGOS TXT/artigos portugues"
 
     # lista o nome de todos os arquivos do diretório passado como parâmetro à função chamada
     list_files = os.listdir(path)
@@ -56,21 +56,22 @@ def main():
         article = open(path + "/" + file, 'r')
         content = article.read()
 
-        """if "== See also ==" in content:
-            article_as_vector_of_sentences = content.split("== See also ==")
-        elif "== References ==" in content:
-            article_as_vector_of_sentences = content.split("== References ==")
-        elif "== External links ==" in content:
-            article_as_vector_of_sentences = content.split("== External links ==")
+        if "== Ver também ==" in content:
+            article_as_vector_of_sentences = content.split("== Ver também ==")
+        elif "== Referências ==" in content:
+            article_as_vector_of_sentences = content.split("== Referências ==")
+        elif "== Ligações externas ==" in content:
+            article_as_vector_of_sentences = content.split("== Ligações externas ==")
         
-        sentences_articles.append(article_as_vector_of_sentences[0])"""
+        sentences_articles.append(article_as_vector_of_sentences[0])
         
         article_as_vector_of_sentences = content.split("\n")
 
         # adiciona essa lista como um elemento da lista 'sentences_article'
         for element in article_as_vector_of_sentences:
             #sentences_articles.append(element)
-            if element == "== See also ==" or element == "== References ==":
+            
+            if element == "== Ver também ==" or element == "== Referências ==":
                 break
             if element != "\n" or "== " not in element or "https://" not in element:
                 sentences_articles.append(element)
@@ -117,7 +118,7 @@ def main():
     #print(top_n_words)
     #print(topic_sizes)
 
-    with open("topics_en_t", "w") as write_topics:
+    with open("topics_pt_t", "w") as write_topics:
         write_topics.write(str(top_n_words))
         write_topics.write("\n")
         pd.set_option('display.max_rows', None)
