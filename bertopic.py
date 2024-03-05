@@ -39,7 +39,7 @@ def extract_topic_sizes(df):
     return topic_sizes
 
 def main():
-    # cria um modelo, cujo nome é 'best-picture-oscars'
+    # cria um modelo
     model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')
 
     # essa lista armazenará as listas dos parágrafos de cada um dos artigos
@@ -72,6 +72,7 @@ def main():
             #sentences_articles.append(element)
             
             if element == "== Ver também ==" or element == "== Referências ==":
+                print("x")
                 break
             if element != "\n" or "== " not in element or "https://" not in element:
                 sentences_articles.append(element)
