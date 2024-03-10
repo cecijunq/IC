@@ -65,7 +65,7 @@ def main():
         
         sentences_articles.append(article_as_vector_of_sentences[0])
         
-        article_as_vector_of_sentences = content.split("\n")
+        article_as_vector_of_sentences = content.split("\n") # tirar
 
         # adiciona essa lista como um elemento da lista 'sentences_article'
         for element in article_as_vector_of_sentences:
