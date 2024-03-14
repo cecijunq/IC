@@ -569,3 +569,574 @@
 568 Top Gun: Maverick
 569 Triangle of Sadness
 570 Ellas hablan
+0 Alas (película)
+1 La horda
+2 El séptimo cielo (película)
+3 Melodías de Broadway
+4 En el viejo Arizona
+5 The Hollywood Revue of 1929
+6 El patriota (película de 1928)
+7 Sin novedad en el frente (película de 1930)
+8 El presidio
+9 Disraeli (película)
+10 La divorciada
+11 El desfile del amor
+12 Cimarrón (película de 1931)
+13 Vidas truncadas (película)
+14 Un gran reportaje
+15 Skippy
+16 Trader Horn
+17 Grand Hotel (película de 1932)
+18 Arrowsmith (película)
+19 Bad Girl (película)
+20 El campeón (película de 1931)
+21 Sed de escándalo (película de 1931)
+22 Una hora contigo
+23 El expreso de Shanghai
+24 El teniente seductor
+25 Cabalgata (película)
+26 Adiós a las armas (película de 1932)
+27 La calle 42
+28 Soy un fugitivo
+29 Dama por un día
+30 La vida privada de Enrique VIII
+31 She Done Him Wrong
+32 La feria de la vida
+33 It Happened One Night
+34 The Barretts of Wimpole Street
+35 Cleopatra (película de 1934)
+36 Flirtation Walk
+37 La alegre divorciada
+38 Imitación de la vida
+39 Una noche de amor
+40 La cena de los acusados
+41 Viva Villa!
+42 Mutiny on the Bounty (película de 1935)
+43 Broadway Melody of 1936
+44 El capitán Blood (película de 1935)
+45 David Copperfield (película de 1935)
+46 Alice Adams
+47 El delator
+48 Les Misérables (película de 1935)
+49 The Lives of a Bengal Lancer
+50 El sueño de una noche de verano (película de 1935)
+51 Naughty Marietta
+52 Sombrero de copa (película)
+53 El gran Ziegfeld
+54 Anthony Adverse
+55 Libeled Lady
+56 Dodsworth
+57 El secreto de vivir
+58 Romeo y Julieta (película de 1936)
+59 The Story of Louis Pasteur
+60 The Life of Emile Zola
+61 The Awful Truth
+62 Capitanes intrépidos
+63 Calle sin salida (película de 1937)
+64 La buena tierra (película de 1937)
+65 In Old Chicago
+66 Horizontes perdidos (película de 1937)
+67 One Hundred Men and a Girl
+68 Damas del teatro
+69 A Star Is Born (película de 1937)
+70 You Can't Take It With You
+71 The Adventures of Robin Hood
+72 Alexander's Ragtime Band (película)
+73 Forja de hombres
+74 La ciudadela (película)
+75 La gran ilusión
+76 Jezabel (película de 1938)
+77 Pigmalión (película)
+78 Piloto de pruebas (película de 1938)
+79 Lo que el viento se llevó (película)
+80 Amarga victoria
+81 Adiós, Mr. Chips (película de 1939)
+82 Tú y yo (película de 1939)
+83 Mr. Smith Goes to Washington
+84 Ninotchka
+85 Of Mice and Men (película de 1939)
+86 La diligencia
+87 El mago de Oz
+88 Cumbres Borrascosas (película de 1939)
+89 Rebecca (película)
+90 El cielo y tú
+91 Foreign Correspondent
+92 The Grapes of Wrath (película)
+93 El gran dictador
+94 Espejismo de amor
+95 La carta (película de 1940)
+96 The Long Voyage Home (película de 1940)
+97 Our Town (película)
+98 The Philadelphia Story
+99 ¡Qué verde era mi valle!
+100 De corazón a corazón
+101 Citizen Kane
+102 Here Comes Mr. Jordan
+103 Si no amaneciera
+104 La loba (película de 1941)
+105 El halcón maltés (película de 1941)
+106 Sergeant York
+107 Suspicion
+108 La señora Miniver
+109 49th Parallel
+110 Kings Row
+111 The Magnificent Ambersons
+112 El orgullo de los Yanquis
+113 Random Harvest
+114 Yanqui Dandy
+115 Casablanca (película)
+116 Por quién doblan las campanas (película)
+117 Heaven Can Wait (película de 1943)
+118 El amor llamó dos veces
+119 The Ox-Bow Incident
+120 Madame Curie (película de 1943)
+121 La canción de Bernadette
+122 Watch on the Rhine
+123 Going My Way
+124 Double Indemnity
+125 Gaslight
+126 Wilson (película)
+127 Desde que te fuiste
+128 Días sin huella
+129 Levando anclas
+130 Las campanas de Santa María
+131 Mildred Pierce
+132 Spellbound
+133 Los mejores años de nuestra vida
+134 Enrique V (película de 1944)
+135 Qué bello es vivir
+136 El filo de la navaja (película)
+137 El despertar (película de 1946)
+138 Gentleman's Agreement
+139 The Bishop's Wife
+140 Encrucijada de odios
+141 Grandes esperanzas (película de 1946)
+142 Miracle on 34th Street
+143 Hamlet (película de 1948)
+144 Belinda (película)
+145 Las zapatillas rojas (película de 1948)
+146 El tesoro de Sierra Madre (película)
+147 Nido de víboras
+148 All the King's Men
+149 Fuego en la nieve (película)
+150 La heredera (película)
+151 Carta a tres esposas
+152 All About Eve
+153 Nacida ayer (1950)
+154 Sunset Boulevard (película)
+155 El padre de la novia (película de 1950)
+156 Las minas del rey Salomón (película de 1950)
+157 Un americano en París
+158 Decision Before Dawn
+159 A Place in the Sun
+160 Un tranvía llamado Deseo (película de 1951)
+161 Quo vadis? (película de 1951)
+162 The Greatest Show on Earth (película de 1952)
+163 High Noon
+164 Ivanhoe (película de 1952)
+165 The Quiet Man
+166 Moulin Rouge (película de 1952)
+167 De aquí a la eternidad
+168 The Robe
+169 Roman Holiday
+170 Shane
+171 Julio César (película de 1953)
+172 On the Waterfront
+173 El motín del Caine
+174 La angustia de vivir
+175 Siete novias para siete hermanos
+176 Three Coins in the Fountain (película)
+177 Marty
+178 Love Is a Many-Splendored Thing
+179 Mister Roberts
+180 Picnic (película)
+181 La rosa tatuada (película)
+182 La vuelta al mundo en ochenta días (película de 1956)
+183 Friendly Persuasion
+184 El rey y yo (película de 1956)
+185 Gigante (película de 1956)
+186 Los diez mandamientos (película de 1956)
+187 El puente sobre el río Kwai
+188 Peyton Place (película de 1957)
+189 Sayonara (película)
+190 12 Angry Men (película de 1957)
+191 Testigo de cargo (película)
+192 Gigi
+193 Auntie Mame
+194 Cat on a Hot Tin Roof (película)
+195 Fugitivos (película de 1958)
+196 Mesas separadas
+197 Ben-Hur (película de 1959)
+198 Anatomía de un asesinato
+199 El diario de Ana Frank (película)
+200 Historia de una monja (película)
+201 Un lugar en la cumbre (película)
+202 The Apartment
+203 El Álamo (película de 1960)
+204 Elmer Gantry
+205 Hijos y amantes (película)
+206 Tres vidas errantes
+207 West Side Story (película de 1961)
+208 Fanny (película de 1961)
+209 Los cañones de Navarone
+210 The Hustler
+211 Judgment at Nuremberg
+212 Lawrence de Arabia (película)
+213 El día más largo (película)
+214 Vivir de ilusión
+215 Mutiny on the Bounty (película de 1962)
+216 To Kill a Mockingbird (película)
+217 Tom Jones (película)
+218 América, América (película)
+219 Cleopatra (película de 1963)
+220 La conquista del Oeste
+221 Los lirios del valle
+222 My Fair Lady (película de 1964)
+223 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+224 Becket (película)
+225 Mary Poppins (película)
+226 Zorba, el griego (película)
+227 The Sound of Music
+228 Doctor Zhivago (película)
+229 Ship of Fools (película de 1965)
+230 Darling (película)
+231 El payaso de la ciudad
+232 A Man for All Seasons
+233 Alfie (película de 1966)
+234 ¡Que vienen los rusos!
+235 The Sand Pebbles
+236 Who's Afraid of Virginia Woolf?
+237 In the Heat of the Night
+238 Bonnie y Clyde (película)
+239 Doctor Dolittle (película de 1967)
+240 El graduado
+241 Guess Who's Coming to Dinner
+242 Oliver (película)
+243 Funny Girl
+244 El león en invierno (película)
+245 Raquel, Raquel
+246 Romeo y Julieta (película de 1968)
+247 Midnight Cowboy
+248 Ana de los mil días
+249 Butch Cassidy and the Sundance Kid
+250 Hello, Dolly! (película)
+251 Z (película)
+252 Patton (película)
+253 Aeropuerto (película)
+254 MASH (película)
+255 Mi vida es mi vida
+256 Love Story (película)
+257 The French Connection
+258 La naranja mecánica (película)
+259 El violinista en el tejado (película)
+260 La última película
+261 Nicolás y Alejandra
+262 El padrino (película)
+263 Cabaret (película)
+264 Deliverance (película)
+265 Los emigrantes
+266 Sounder (película de 1972)
+267 El golpe (película de 1973)
+268 American Graffiti
+269 Gritos y susurros
+270 El exorcista (película)
+271 Un toque de distinción
+272 El padrino II
+273 Chinatown (película)
+274 La conversación
+275 Lenny (película)
+276 The Towering Inferno
+277 One Flew Over the Cuckoo's Nest
+278 Barry Lyndon
+279 Tarde de perros
+280 Tiburón (película)
+281 Nashville (película)
+282 Rocky (película)
+283 Todos los hombres del presidente
+284 Esta tierra es mi tierra (película)
+285 Network
+286 Taxi Driver
+287 Annie Hall
+288 La chica del adiós
+289 Julia (película de 1977)
+290 Star Wars: Episodio IV - Una nueva esperanza
+291 The Turning Point
+292 The Deer Hunter
+293 Coming Home (película)
+294 El cielo puede esperar (película)
+295 Midnight Express
+296 Una mujer descasada
+297 Kramer vs. Kramer
+298 All That Jazz (película)
+299 Apocalypse Now
+300 Breaking Away
+301 Norma Rae
+302 Ordinary People
+303 Coal Miner's Daughter
+304 El hombre elefante (película)
+305 Toro salvaje
+306 Tess (película de 1979)
+307 Chariots of Fire
+308 Atlantic City (película de 1980)
+309 On Golden Pond
+310 Raiders of the Lost Ark
+311 Reds
+312 Gandhi (película)
+313 E.T., el extraterrestre
+314 Desaparecido (película)
+315 Tootsie
+316 The Verdict
+317 La fuerza del cariño
+318 Reencuentro (película)
+319 The Dresser
+320 The Right Stuff
+321 Tender Mercies
+322 Amadeus
+323 The Killing Fields
+324 Pasaje a la India
+325 En un lugar del corazón
+326 Historia de un soldado (película de 1984)
+327 Out of Africa
+328 El color púrpura
+329 El beso de la mujer araña (película)
+330 El honor de los Prizzi
+331 Witness (película)
+332 Platoon
+333 Children of a Lesser God
+334 Hannah y sus hermanas
+335 La misión
+336 A Room with a View (película de 1985)
+337 El último emperador
+338 Broadcast News
+339 Atracción fatal
+340 Hope and Glory
+341 Hechizo de luna
+342 Rain Man
+343 The Accidental Tourist
+344 Dangerous Liaisons
+345 Mississippi Burning
+346 Working Girl
+347 Driving Miss Daisy
+348 Nacido el cuatro de julio
+349 Dead Poets Society
+350 Field of Dreams
+351 Mi pie izquierdo
+352 Dances with Wolves
+353 Despertares
+354 Ghost (película de 1990)
+355 El padrino III
+356 Goodfellas
+357 The Silence of the Lambs (película)
+358 La bella y la bestia (película de 1991)
+359 Bugsy (película de 1991)
+360 JFK (película)
+361 El príncipe de las mareas
+362 Unforgiven (película)
+363 The Crying Game
+364 A Few Good Men
+365 Howards End
+366 Scent of a Woman
+367 La lista de Schindler
+368 El fugitivo (película de 1993)
+369 Lo que queda del día (película)
+370 The Piano
+371 En el nombre del padre (película de 1993)
+372 Forrest Gump (película)
+373 Cuatro bodas y un funeral
+374 Pulp Fiction
+375 Quiz Show: El dilema
+376 The Shawshank Redemption
+377 Braveheart
+378 Apolo 13 (película)
+379 Babe
+380 Il Postino
+381 Sense and Sensibility (película)
+382 El paciente inglés
+383 Fargo (película)
+384 Jerry Maguire
+385 Secretos y mentiras
+386 Shine (película)
+387 Titanic (película de 1997)
+388 Mejor... imposible
+389 The Full Monty
+390 Good Will Hunting
+391 L.A. Confidential
+392 Shakespeare in Love
+393 Elizabeth (película)
+394 La vida es bella
+395 Saving Private Ryan
+396 La delgada línea roja (película de 1998)
+397 American Beauty
+398 The Cider House Rules
+399 The Green Mile
+400 The Insider
+401 The Sixth Sense
+402 Gladiator
+403 Chocolat (película de 2000)
+404 Wò hǔ cáng lóng
+405 Erin Brockovich (película)
+406 Traffic (película de 2000)
+407 A Beautiful Mind
+408 Gosford Park
+409 In the Bedroom (película)
+410 El Señor de los Anillos: la Comunidad del Anillo
+411 Moulin Rouge!
+412 Chicago (película de 2002)
+413 Gangs of New York
+414 Las horas
+415 El Señor de los Anillos: las dos torres
+416 El pianista
+417 El Señor de los Anillos: el retorno del Rey
+418 Lost in Translation
+419 Master and Commander: The Far Side of the World
+420 Mystic River
+421 Seabiscuit
+422 Million Dollar Baby
+423 El aviador
+424 Finding Neverland
+425 Ray (película)
+426 Crash (película de 2004)
+427 Brokeback Mountain
+428 Capote (película)
+429 Buenas noches, y buena suerte
+430 Múnich (película)
+431 The Departed
+432 Babel (película)
+433 Cartas desde Iwo Jima
+434 Little Miss Sunshine
+435 The Queen
+436 No Country for Old Men
+437 Atonement (película)
+438 Juno (película)
+439 Michael Clayton
+440 There Will Be Blood
+441 Slumdog Millionaire
+442 El curioso caso de Benjamin Button (película)
+443 Frost/Nixon
+444 Milk (película)
+445 The Reader
+446 The Hurt Locker
+447 Avatar (película)
+448 Un sueño posible
+449 District 9
+450 An Education
+451 Inglourious Basterds
+452 A Serious Man
+453 Up
+454 Up in the Air (película)
+455 El discurso del rey
+456 Black Swan
+457 The Fighter
+458 Inception
+459 The Kids Are All Right
+460 127 horas
+461 The Social Network
+462 Toy Story 3
+463 True Grit (película de 2010)
+464 Winter's Bone
+465 The Artist
+466 Los descendientes
+467 Extremely Loud and Incredibly Close (película)
+468 The Help
+469 Hugo (película)
+470 Medianoche en París
+471 Moneyball
+472 El árbol de la vida (película de 2011)
+473 War Horse
+474 Los miserables (película de 2012)
+475 Argo (película de 2012)
+476 Amor (película de 2012)
+477 Beasts of the Southern Wild
+478 Django Unchained
+479 Life of Pi (película)
+480 Lincoln (película)
+481 Silver Linings Playbook
+482 La noche más oscura (película)
+483 12 Years a Slave
+484 American Hustle
+485 Capitán Phillips
+486 Dallas Buyers Club
+487 Gravity (película)
+488 Her
+489 Nebraska (película)
+490 Philomena
+491 El lobo de Wall Street
+492 Birdman o (la inesperada virtud de la ignorancia)
+493 American Sniper (película)
+494 Boyhood
+495 El Gran Hotel Budapest
+496 The Imitation Game
+497 Selma (película)
+498 La teoría del todo (película de 2014)
+499 Whiplash (película de 2014)
+500 Spotlight
+501 La gran apuesta
+502 Bridge of Spies
+503 Brooklyn (película de 2015)
+504 Mad Max: Fury Road
+505 The Martian
+506 El renacido
+507 La habitación (película)
+508 Moonlight (película)
+509 La llegada
+510 Fences (película)
+511 Hasta el último hombre
+512 Hell or High Water
+513 Hidden Figures (película)
+514 La La Land (película)
+515 Lion (película)
+516 Manchester by the Sea (película)
+517 La forma del agua
+518 Call Me by Your Name
+519 Darkest Hour (película)
+520 Dunkerque (película)
+521 Get Out
+522 Lady Bird
+523 Phantom Thread
+524 The Post
+525 Three Billboards Outside Ebbing, Missouri
+526 Green Book (película)
+527 Black Panther (película)
+528 BlacKkKlansman
+529 Bohemian Rhapsody (película)
+530 La favorita (película)
+531 Roma (película de 2018)
+532 A Star Is Born (película de 2018)
+533 Vice (película de 2018)
+534 Parásitos (película)
+535 Ford v Ferrari
+536 El irlandés
+537 Jojo Rabbit
+538 Joker (película)
+539 Mujercitas (película de 2019)
+540 Historia de un matrimonio
+541 1917 (película)
+542 Once Upon a Time in Hollywood
+543 Nomadland
+544 El padre (película)
+545 Judas and the Black Messiah
+546 Mank (película)
+547 Minari
+548 Promising Young Woman
+549 Sound of Metal
+550 El juicio de los 7 de Chicago
+551 CODA (película)
+552 Belfast (película)
+553 Don't Look Up
+554 Drive My Car (película)
+555 Dune (película de 2021)
+556 King Richard
+557 Licorice Pizza
+558 El callejón de las almas perdidas (película de 2021)
+559 El poder del perro
+560 West Side Story (película de 2021)
+561 Everything Everywhere All at Once
+562 Sin novedad en el frente (película de 2022)
+563 Avatar: The Way of Water
+564 The Banshees of Inisherin
+565 Elvis (película de 2022)
+566 Los Fabelman
+567 Tár
+568 Top Gun: Maverick
+569 Triangle of Sadness
+570 Ellas hablan
