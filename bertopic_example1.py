@@ -20,6 +20,7 @@ def c_tf_idf(documents, m, ngram_range=(1, 1)):
     return tf_idf, count
 
 def extract_top_n_words_per_topic(tf_idf, count, docs_per_topic, n=8):
+    print(type(count))
     words = count.get_feature_names_out()
     labels = list(docs_per_topic.Topic)
     tf_idf_transposed = tf_idf.T
@@ -38,13 +39,6 @@ def extract_topic_sizes(df):
     return topic_sizes
 
 def main():
-    # cria um modelo
-
-    model = SentenceTransformer("all-MiniLM-L6-v2")
-    #model = BERTopic(embedding_model=sentence_model, min_topic_size= 50, nr_topics=10, calculate_probabilities=True)
-
-    #model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')
-
     # essa lista armazenará as listas dos parágrafos de cada um dos artigos
     sentences_articles = []
 
@@ -67,27 +61,21 @@ def main():
             article_as_vector_of_sentences = content.split("== External links ==")
         
         sentences_articles.append(article_as_vector_of_sentences[0])
-        
-        #article_as_vector_of_sentences = content.split("\n") # tirar
+    # cria um modelo
 
-        # adiciona essa lista como um elemento da lista 'sentences_article'
-        """for element in article_as_vector_of_sentences:
-            #sentences_articles.append(element)
-            
-            if element == "== Ver também ==" or element == "== Referências ==":
-                print("x")
-                break
-            if element != "\n" or "== " not in element or "https://" not in element:
-                sentences_articles.append(element)"""
+    sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
+    embeddings = sentence_model.encode(sentences_articles, show_progress_bar=True)
+    model = BERTopic().fit_transform(sentences_articles, embeddings)
+
+    #model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')
 
     print(len(sentences_articles))
     # sentenças são codificadas. Transforma os documentos em vetores de dimensão 512
-    embeddings = model.encode(sentences_articles, show_progress_bar=True)
 
     umap_embeddings = umap.UMAP(n_neighbors=15,
                                 n_components=5,
                                 min_dist=0.0,
-                                metric='cosine').fit_transform(embeddings)
+                                metric='cosine').fit_transform(model)
 
     cluster = hdbscan.HDBSCAN(min_cluster_size=10,
                             metric='euclidean',

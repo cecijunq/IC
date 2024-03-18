@@ -22,27 +22,27 @@ def top_five_page_rank(ranks):
     top = list(reversed(sorted((rank, node) for node, rank in ranks.items()))) [:5]
     return [node for rank, node in top]
 
-wp.set_lang("pt")
+wp.set_lang("es")
 filmes_indicados = {} # chave: nome do filme, valor: id (que é o valor de 'i')
 grafo = nx.DiGraph() # variável que guarda o grafo
 
 # ARMAZENA EM UM DICIONÁRIO TODOS OS FILMES QUE TÊM PÁGINA NA WIKIPEDIA NO IDIOMA
 def get_indicados():
-    with open("./CSV METADADOS/metadados_pt.csv", "r") as file_get_nomes_filmes: 
+    with open("./CSV METADADOS/metadados_es.csv", "r") as file_get_nomes_filmes: 
         next(file_get_nomes_filmes) # pula a linha que contém o cabeçalho do arquivo .csv
         i = 0 # atua como o id do filme na lista
         for line in file_get_nomes_filmes:
             vector_data_csv = line.split(';')
             nome = vector_data_csv[0] # seleciona o nome do filme
             filmes_indicados[nome] = i
-            with open("./GRAFOS/LEGENDAS GRAFOS/legenda grafo pt.txt", "a") as file_leg:
-                file_leg.write(str(i) + " " + nome + "\n")
+            # with open("./GRAFOS/LEGENDAS GRAFOS/legenda grafo es.txt", "a") as file_leg:
+            #     file_leg.write(str(i) + " " + nome + "\n")
             i+=1
         
     
 def get_vertices():
     # lista todos os arquivos armazenados no diretório 'ARTIGOS HTML/inglês'
-    path = "./ARTIGOS HTML/português"
+    path = "./ARTIGOS HTML/espanhol"
     list_files = os.listdir(path) # lista o nome de todos os documentos do diretório "./ARTIGOS HTML/inglês"
     
     # acessa cada arquivo .html para lê-lo e realizar o parser
@@ -89,6 +89,7 @@ def get_vertices():
 
     for tuple in grafo.out_degree():
         if i == 0:
+            print(f'x:{tuple[1]}')
             min_out = tuple[1]
         else:
             if tuple[1] < min_out:
@@ -105,6 +106,7 @@ def get_vertices():
     i = 0
     for tuple in grafo.in_degree():
         if i == 0:
+            print(f'y:{tuple[1]}')
             min_in = tuple[1]
         else:
             if tuple[1] < min_in:
@@ -125,7 +127,7 @@ def get_vertices():
 
     # calcula o betweenness médio
     soma = 0.0
-    bet = nx.betweenness_centrality(grafo, normalized=False)
+    bet = nx.betweenness_centrality(grafo, normalized=True)
     between = pd.DataFrame.from_dict(data=bet, orient='index')
 
     for element in bet.values():
@@ -145,10 +147,10 @@ def get_vertices():
     transitividade = nx.transitivity(grafo)
     pg_rnk = top_five_page_rank(nx.pagerank(grafo))
 
-    print("Espanhol;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
-    with open("./métricas_grafo.csv", "a") as to_write:
-        to_write.write("Inglês;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
-    nx.write_gexf(grafo, "grafo_pt.gexf")
+    # print("Espanhol;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
+    # with open("./métricas_grafo.csv", "a") as to_write:
+    #     to_write.write("Inglês;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
+    # nx.write_gexf(grafo, "grafo_es.gexf")
     plt.show()
     
 
