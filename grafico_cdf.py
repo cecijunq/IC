@@ -10,54 +10,65 @@ data_in_es = [0, 5, 2, 2, 0, 9, 0, 2, 0, 3, 1, 3, 3, 4, 0, 4, 0, 4, 0, 3, 0, 3, 
 data_out_es = [1, 0, 1, 2, 1, 3, 1, 2, 1, 0, 2, 1, 2, 2, 1, 0, 1, 1, 1, 1, 2, 0, 0, 1, 0, 1, 1, 0, 3, 2, 1, 4, 1, 0, 1, 0, 3, 3, 4, 3, 1, 0, 4, 0, 0, 0, 4, 1, 1, 1, 0, 3, 2, 1, 1, 3, 2, 0, 1, 2, 0, 0, 1, 7, 2, 0, 1, 1, 1, 2, 0, 3, 3, 0, 6, 1, 0, 0, 5, 0, 0, 1, 0, 1, 3, 4, 0, 1, 1, 1, 0, 1, 3, 0, 2, 3, 2, 1, 1, 4, 0, 1, 5, 3, 2, 0, 0, 1, 0, 0, 1, 0, 1, 2, 2, 1, 2, 0, 1, 3, 1, 1, 2, 0, 1, 1, 4, 1, 0, 0, 1, 2, 2, 1, 2, 1, 1, 3, 1, 1, 3, 0, 1, 1, 2, 1, 2, 1, 3, 4, 1, 4, 1, 0, 2, 1, 3, 2, 0, 2, 0, 0, 1, 0, 1, 2, 0, 1, 1, 1, 2, 0, 1, 1, 2, 4, 0, 0, 2, 1, 1, 1, 0, 1, 2, 0, 1, 1, 1, 2, 0, 3, 1, 2, 2, 4, 6, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 5, 0, 3, 1, 2, 1, 3, 0, 1, 1, 2, 0, 2, 0, 1, 1, 1, 0, 1, 1, 1, 3, 0, 1, 0, 1, 0, 2, 1, 0, 3, 1, 0, 2, 0, 1, 0, 1, 1, 1, 1, 1, 3, 0, 2, 2, 2, 1, 2, 0, 1, 1, 1]
 
 plt.xlim(0, 30)
-"""count_en, bins_count_en = np.histogram(data_out_en, bins=10)
-pdf_en = count_en / sum(count_en)
+# """count_en, bins_count_en = np.histogram(data_out_en, bins=10)
+# pdf_en = count_en / sum(count_en)
 
-cdf_en = np.cumsum(pdf_en)
-plt.plot(bins_count_en[1:], cdf_en, label="Inglês Saída")
+# cdf_en = np.cumsum(pdf_en)
+# plt.plot(bins_count_en[1:], cdf_en, label="Inglês Saída")
 
-count_en, bins_count_en = np.histogram(data_in_en, bins=10)
-pdf_en = count_en / sum(count_en)
+# count_en, bins_count_en = np.histogram(data_in_en, bins=10)
+# pdf_en = count_en / sum(count_en)
 
-cdf_en = np.cumsum(pdf_en)
-plt.plot(bins_count_en[1:], cdf_en, label="Inglês Entrada")
+# cdf_en = np.cumsum(pdf_en)
+# plt.plot(bins_count_en[1:], cdf_en, label="Inglês Entrada")
 
-count_es, bins_count_es = np.histogram(data_out_es, bins=10)
-pdf_es = count_es / sum(count_es)
+# count_es, bins_count_es = np.histogram(data_out_es, bins=10)
+# pdf_es = count_es / sum(count_es)
 
-cdf_es = np.cumsum(pdf_es)
-plt.plot(bins_count_es[1:], cdf_es, label="Espanhol Saída")
+# cdf_es = np.cumsum(pdf_es)
+# plt.plot(bins_count_es[1:], cdf_es, label="Espanhol Saída")
 
-count_es, bins_count_es = np.histogram(data_in_es, bins=10)
-pdf_es = count_es / sum(count_es)
+# count_es, bins_count_es = np.histogram(data_in_es, bins=10)
+# pdf_es = count_es / sum(count_es)
 
-cdf_es = np.cumsum(pdf_es)
-plt.plot(bins_count_es[1:], cdf_es, label="Espanhol Entrada")
+# cdf_es = np.cumsum(pdf_es)
+# plt.plot(bins_count_es[1:], cdf_es, label="Espanhol Entrada")
 
-"""
-data_in_pt_a = np.array(data_in_pt)
-data_out_pt_a = np.array(data_out_pt)
-plt.xlim(0, 30)
-count_pt, bins_count_pt = np.histogram(data_out_pt_a, bins=10)
-pdf_pt = count_pt / sum(count_pt)
+# """
+# data_in_pt_a = np.array(data_in_pt)
+# data_out_pt_a = np.array(data_out_pt)
+# plt.xlim(0, 30)
+# count_pt, bins_count_pt = np.histogram(data_out_pt_a, bins=10)
+# pdf_pt = count_pt / sum(count_pt)
 
-cdf_pt = np.cumsum(pdf_pt)
-plt.plot(bins_count_pt[1:], cdf_pt, label="Português Saída")
+# cdf_pt = np.cumsum(pdf_pt)
+# plt.plot(bins_count_pt[1:], cdf_pt, label="Português Saída")
 
-count_pt, bins_count_pt = np.histogram(data_in_pt_a, bins=10)
-pdf_pt = count_pt / sum(count_pt)
+# count_pt, bins_count_pt = np.histogram(data_in_pt_a, bins=10)
+# pdf_pt = count_pt / sum(count_pt)
 
-cdf_pt = np.cumsum(pdf_pt)
-plt.plot(bins_count_pt[1:], cdf_pt, label="Português Entrada")
+# cdf_pt = np.cumsum(pdf_pt)
+# plt.plot(bins_count_pt[1:], cdf_pt, label="Português Entrada")
 
-# ecdf_en = ECDF(data_out_en)
-# ecdf_es = ECDF(data_out_es)
-# ecdf_pt = ECDF(data_out_pt)
+ecdf_en_out = ECDF(data_out_en)
+ecdf_es_out = ECDF(data_out_es)
+ecdf_pt_out = ECDF(data_out_pt)
+
+ecdf_en_in = ECDF(data_in_en)
+ecdf_es_in = ECDF(data_in_es)
+ecdf_pt_in = ECDF(data_in_pt)
 
 # descomentar a linha abaixo se for CCDF (complementary distribution) 
 
 # ecdf_en.y = [1 - x for x in ecdf_en.y]
-# plt.plot(ecdf_en.x, ecdf_en.y, label="Inglês")
+plt.plot(ecdf_en_out.x, ecdf_en_out.y, label="Inglês Saída")
+# plt.plot(ecdf_en_in.x, ecdf_en_in.y, label="Inglês Entrada")
+
+plt.plot(ecdf_es_out.x, ecdf_es_out.y, label="Espanhol Saída")
+# plt.plot(ecdf_es_in.x, ecdf_es_in.y, label="Espanhol Entrada")
+
+plt.plot(ecdf_pt_out.x, ecdf_pt_out.y, label="Português Saída")
+# plt.plot(ecdf_pt_in.x, ecdf_pt_in.y, label="Português Entrada")
 
 # ecdf_es.y = [1 - x for x in ecdf_es.y]
 # plt.plot(ecdf_es.x, ecdf_es.y, label="Espanhol")
@@ -65,23 +76,7 @@ plt.plot(bins_count_pt[1:], cdf_pt, label="Português Entrada")
 # ecdf_pt.y = [1 - x for x in ecdf_pt.y]
 # plt.plot(ecdf_pt.x, ecdf_pt.y, label="Português")
 
-plt.title("Distribuição acumulada da quantidade de referências a outros filmes")
+plt.xlabel("Grau de saída dos vértices")
+plt.title("Distribuição acumulada do grau de saída dos vértices do grafo")
 plt.legend()
 plt.show()
-
-# import numpy as np
-# from matplotlib import pyplot as plt
-
-# plt.rcParams["figure.figsize"] = [7.50, 3.50]
-# plt.rcParams["figure.autolayout"] = True
-
-# N = 500
-# data = np.random.randn(N)
-# print(type(data))
-# print(data)
-# count, bins_count = np.histogram(data, bins=10)
-# pdf = count / sum(count)
-# cdf = np.cumsum(pdf)
-# plt.plot(bins_count[1:], cdf, label="CDF")
-# plt.legend()
-# plt.show()
