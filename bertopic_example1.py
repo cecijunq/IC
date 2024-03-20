@@ -65,7 +65,10 @@ def main():
 
     sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
     embeddings = sentence_model.encode(sentences_articles, show_progress_bar=True)
-    model = BERTopic().fit_transform(sentences_articles, embeddings)
+    # model = BERTopic(calculate_probabilities=True).fit_transform(sentences_articles, embeddings)
+    print("xx")
+    print(type(embeddings))
+    print("yy")
 
     #model = SentenceTransformer('paraphrase-multilingual-MiniLM-L12-v2')
 
@@ -75,11 +78,17 @@ def main():
     umap_embeddings = umap.UMAP(n_neighbors=15,
                                 n_components=5,
                                 min_dist=0.0,
-                                metric='cosine').fit_transform(model)
+                                metric='cosine').fit_transform(embeddings)
 
     cluster = hdbscan.HDBSCAN(min_cluster_size=10,
                             metric='euclidean',
                             cluster_selection_method='eom').fit(umap_embeddings)
+    
+    model = BERTopic(umap_model=umap_embeddings, hdbscan_model=cluster, embedding_model=embeddings, calculate_probabilities=True, language="english")
+    topics, probs = model.fit_transform(embeddings)
+
+    probs_df = pd.DataFrame(probs)
+    print(probs_df)
 
     result = pd.DataFrame(umap_embeddings, columns=['x', 'y', 'z', 'w', 'v'])
     result['labels'] = cluster.labels_
