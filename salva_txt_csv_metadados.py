@@ -46,33 +46,48 @@ def counts_number_links(self):
 
 def main():
     wikipedia.set_lang("es")
+    page_link = wikipedia.page(title="El Padre (película)", auto_suggest=False)
+    with open("./ARTIGOS TXT/artigos espanhol/El Padre (película).txt", 'w') as file:
+        file.write(page_link.title + '\n')
+        file.write(page_link.content)
+        file.write(f(page_link.links))
+        file.write(f(page_link.references))
 
-    with open("nomes filmes pt.txt", "r") as file:
-        for line in file:
-            nome = line
-            nome = nome.replace("\n", "")
-            nome = nome.replace("_", " ")
+        print(counts_number_links(page_link.links))
+        print(counts_number_links(page_link.references))
 
-            result = wikipedia.search(nome)
+    with open("./CSV METADADOS/metadados_es.csv", 'a') as file2:
+        links = counts_number_links(page_link.links)
+        references = counts_number_links(page_link.references)
+        tamanho_content = len(page_link.content)
+        file2.write("{};{};{};{}\n".format(page_link.title,links,references,tamanho_content))
 
-            print(result)
-            if similarity_test(nome.lower(), result[1]) > 0.6:
-                page_link = wikipedia.page(title=result[1], auto_suggest=False)
+    # with open("nomes filmes es.txt", "r") as file:
+    #     for line in file:
+    #         nome = line
+    #         nome = nome.replace("\n", "")
+    #         nome = nome.replace("_", " ")
 
-                with open("./ARTIGOS TXT/artigos espanhol/"+nome+".txt", 'w') as file:
-                    file.write(page_link.title + '\n')
-                    file.write(page_link.content)
-                    file.write(f(page_link.links))
-                    file.write(f(page_link.references))
+    #         result = wikipedia.search(nome)
 
-                    print(counts_number_links(page_link.links))
-                    print(counts_number_links(page_link.references))
+    #         print(result)
+    #         if similarity_test(nome.lower(), result[1]) > 0.6:
+    #             page_link = wikipedia.page(title=result[1], auto_suggest=False)
 
-                with open("./CSV METADADOS/metadados_es.csv", 'a') as file2:
-                    links = counts_number_links(page_link.links)
-                    references = counts_number_links(page_link.references)
-                    tamanho_content = len(page_link.content)
-                    file2.write("{};{};{};{}\n".format(page_link.title,links,references,tamanho_content))
+    #             with open("./ARTIGOS TXT/artigos inglês/"+nome+".txt", 'w') as file:
+    #                 file.write(page_link.title + '\n')
+    #                 file.write(page_link.content)
+    #                 file.write(f(page_link.links))
+    #                 file.write(f(page_link.references))
+
+    #                 print(counts_number_links(page_link.links))
+    #                 print(counts_number_links(page_link.references))
+
+    #             with open("./CSV METADADOS/metadados_en.csv", 'a') as file2:
+    #                 links = counts_number_links(page_link.links)
+    #                 references = counts_number_links(page_link.references)
+    #                 tamanho_content = len(page_link.content)
+    #                 file2.write("{};{};{};{}\n".format(page_link.title,links,references,tamanho_content))
 
 def main2():
     wikipedia.set_lang("es")
@@ -97,21 +112,21 @@ def main2():
                 if similarity_test(nome.lower(), result[0]) > 0.6:
                     page_link = wikipedia.page(title=result[0], auto_suggest=False)
                     #csv_file.write("{};{};{};{}\n".format(ano,nome,venceu,page_link.url))
-                    with open("./metadados_es.csv", 'a') as file:
+                    with open("./metadados_en.csv", 'a') as file:
                         links = counts_number_links(page_link.links)
                         references = counts_number_links(page_link.references)
                         tamanho_content = len(page_link.content)
                         file.write("{};{};{};{}\n".format(page_link.title,links,references,tamanho_content))
 
                     # CÓDIGO QUE REGISTRA EM UM ARQUIVO TXT OS CONTEÚDO, OS LINKS E OS REFERENCES DE UMA PÁGINA DA WIKIPEDIA
-                    #with open("./artigos inglês/"+nome+".txt", 'w') as file:
-                        #file.write(page_link.title + '\n')
-                        #file.write(page_link.content)
-                        #file.write(f(page_link.links))
-                        #file.write(f(page_link.references))
+                    with open("./artigos inglês/"+nome+".txt", 'w') as file:
+                        file.write(page_link.title + '\n')
+                        file.write(page_link.content)
+                        file.write(f(page_link.links))
+                        file.write(f(page_link.references))
 
-                        #print(counts_number_links(page_link.links))
-                        #print(counts_number_links(page_link.references))
+                        print(counts_number_links(page_link.links))
+                        print(counts_number_links(page_link.references))
                 
     
 if __name__ == "__main__":

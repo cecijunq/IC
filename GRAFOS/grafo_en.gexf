@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
-  <meta lastmodifieddate="2024-03-17">
+  <meta lastmodifieddate="2024-03-22">
     <creator>NetworkX 3.2</creator>
   </meta>
   <graph defaultedgetype="directed" mode="static" name="">
@@ -176,6 +176,7 @@
       <node id="E.T. the Extra-Terrestrial" label="E.T. the Extra-Terrestrial" />
       <node id="The Turning Point (1977 film)" label="The Turning Point (1977 film)" />
       <node id="The Philadelphia Story (film)" label="The Philadelphia Story (film)" />
+      <node id="Little Women (1933 film)" label="Little Women (1933 film)" />
       <node id="The Grapes of Wrath (film)" label="The Grapes of Wrath (film)" />
       <node id="Mr. Smith Goes to Washington" label="Mr. Smith Goes to Washington" />
       <node id="The Wolf of Wall Street (2013 film)" label="The Wolf of Wall Street (2013 film)" />
@@ -267,6 +268,7 @@
       <node id="Jaws (film)" label="Jaws (film)" />
       <node id="Gandhi (film)" label="Gandhi (film)" />
       <node id="The Green Mile (film)" label="The Green Mile (film)" />
+      <node id="Top Hat" label="Top Hat" />
       <node id="The Shawshank Redemption" label="The Shawshank Redemption" />
       <node id="Cavalcade (1933 film)" label="Cavalcade (1933 film)" />
       <node id="Moneyball (film)" label="Moneyball (film)" />
@@ -428,6 +430,8 @@
       <node id="Captain Phillips (film)" label="Captain Phillips (film)" />
       <node id="Goodbye, Mr. Chips (1939 film)" label="Goodbye, Mr. Chips (1939 film)" />
       <node id="The Aviator (2004 film)" label="The Aviator (2004 film)" />
+      <node id="Top hat" label="Top hat" />
+      <node id="The Gay Divorcee" label="The Gay Divorcee" />
       <node id="The Hollywood Revue" label="The Hollywood Revue" />
       <node id="Shine (film)" label="Shine (film)" />
       <node id="Fargo (1996 film)" label="Fargo (1996 film)" />
@@ -445,6 +449,7 @@
       <node id="The Hustler" label="The Hustler" />
       <node id="The Verdict" label="The Verdict" />
       <node id="Libeled Lady" label="Libeled Lady" />
+      <node id="Little Women (1933)" label="Little Women (1933)" />
       <node id="Five Star Final" label="Five Star Final" />
       <node id="Tom Jones (1963 film)" label="Tom Jones (1963 film)" />
       <node id="America America" label="America America" />
@@ -487,7 +492,6 @@
       <node id="Witness (1985 film)" label="Witness (1985 film)" />
       <node id="Doctor Dolittle (1967 film)" label="Doctor Dolittle (1967 film)" />
       <node id="Seabiscuit (film)" label="Seabiscuit (film)" />
-      <node id="Top hat" label="Top hat" />
       <node id="Tess (1979 film)" label="Tess (1979 film)" />
       <node id="Guess Who's Coming to Dinner" label="Guess Who's Coming to Dinner" />
       <node id="King Solomon's Mines (1950 film)" label="King Solomon's Mines (1950 film)" />
@@ -1151,728 +1155,741 @@
       <edge source="E.T. the Extra-Terrestrial" target="Gandhi (film)" id="648" />
       <edge source="E.T. the Extra-Terrestrial" target="West Side Story (2021 film)" id="649" />
       <edge source="The Turning Point (1977 film)" target="The Color Purple (1985 film)" id="650" />
-      <edge source="The Philadelphia Story (film)" target="Gone with the Wind (film)" id="651" />
-      <edge source="The Philadelphia Story (film)" target="The Grapes of Wrath (film)" id="652" />
-      <edge source="The Philadelphia Story (film)" target="Mr. Smith Goes to Washington" id="653" />
-      <edge source="The Grapes of Wrath (film)" target="Rebecca (1940 film)" id="654" />
-      <edge source="The Grapes of Wrath (film)" target="The Long Voyage Home" id="655" />
-      <edge source="Mr. Smith Goes to Washington" target="Mr. Deeds Goes to Town" id="656" />
-      <edge source="Mr. Smith Goes to Washington" target="Lady for a Day" id="657" />
-      <edge source="Mr. Smith Goes to Washington" target="It Happened One Night" id="658" />
-      <edge source="Mr. Smith Goes to Washington" target="Gone with the Wind (film)" id="659" />
-      <edge source="Mr. Smith Goes to Washington" target="Goodbye, Mr. Chips (1939 film)" id="660" />
-      <edge source="Mr. Smith Goes to Washington" target="Stagecoach (1939 film)" id="661" />
-      <edge source="Mr. Smith Goes to Washington" target="The Wizard of Oz (1939 film)" id="662" />
-      <edge source="The Wolf of Wall Street (2013 film)" target="Hugo (film)" id="663" />
-      <edge source="The Wolf of Wall Street (2013 film)" target="Goodfellas" id="664" />
-      <edge source="The Wolf of Wall Street (2013 film)" target="12 Years a Slave (film)" id="665" />
-      <edge source="The Wolf of Wall Street (2013 film)" target="Gravity (2013 film)" id="666" />
-      <edge source="Boys Town (film)" target="Pygmalion (1938 film)" id="667" />
-      <edge source="Pygmalion (1938 film)" target="My Fair Lady (film)" id="668" />
-      <edge source="Pygmalion (1938 film)" target="The Bridge on the River Kwai" id="669" />
-      <edge source="Lincoln (film)" target="Saving Private Ryan" id="670" />
-      <edge source="Lincoln (film)" target="Zero Dark Thirty" id="671" />
-      <edge source="Lincoln (film)" target="Django Unchained" id="672" />
-      <edge source="Top Gun: Maverick" target="Born on the Fourth of July (film)" id="673" />
-      <edge source="Top Gun: Maverick" target="Avatar: The Way of Water" id="674" />
-      <edge source="Top Gun: Maverick" target="West Side Story (2021 film)" id="675" />
-      <edge source="Mutiny on the Bounty (1962 film)" target="Mutiny on the Bounty (1935 film)" id="676" />
-      <edge source="Mutiny on the Bounty (1962 film)" target="The Godfather" id="677" />
-      <edge source="Belfast (film)" target="The Power of the Dog (film)" id="678" />
-      <edge source="Belfast (film)" target="West Side Story (2021 film)" id="679" />
-      <edge source="Belfast (film)" target="Titanic (1997 film)" id="680" />
-      <edge source="The Lion in Winter (1968 film)" target="Becket (1964 film)" id="681" />
-      <edge source="The Lion in Winter (1968 film)" target="A Man for All Seasons (1966 film)" id="682" />
-      <edge source="The Lion in Winter (1968 film)" target="Funny Girl (film)" id="683" />
-      <edge source="Funny Girl (film)" target="The Lion in Winter (1968 film)" id="684" />
-      <edge source="Funny Girl (film)" target="Ben-Hur (1959 film)" id="685" />
-      <edge source="Funny Girl (film)" target="Roman Holiday" id="686" />
-      <edge source="Funny Girl (film)" target="Gaslight (1944 film)" id="687" />
-      <edge source="Funny Girl (film)" target="Oliver! (film)" id="688" />
-      <edge source="Zero Dark Thirty" target="Argo (2012 film)" id="689" />
-      <edge source="Zero Dark Thirty" target="The Hurt Locker" id="690" />
-      <edge source="Silver Linings Playbook" target="The Fighter" id="691" />
-      <edge source="Silver Linings Playbook" target="Children of a Lesser God (film)" id="692" />
-      <edge source="Silver Linings Playbook" target="Reds (film)" id="693" />
-      <edge source="Silver Linings Playbook" target="Million Dollar Baby" id="694" />
-      <edge source="Django Unchained" target="Inglourious Basterds" id="695" />
-      <edge source="Django Unchained" target="Argo (2012 film)" id="696" />
-      <edge source="Django Unchained" target="Lincoln (film)" id="697" />
-      <edge source="Django Unchained" target="12 Years a Slave (film)" id="698" />
-      <edge source="Airport (1970 film)" target="Love Story (1970 film)" id="699" />
-      <edge source="Airport (1970 film)" target="Gone with the Wind (film)" id="700" />
-      <edge source="Airport (1970 film)" target="Five Easy Pieces" id="701" />
-      <edge source="Love Story (1970 film)" target="Love Affair (1939 film)" id="702" />
-      <edge source="Love Story (1970 film)" target="Ben-Hur (1959 film)" id="703" />
-      <edge source="Love Story (1970 film)" target="Airport (1970 film)" id="704" />
-      <edge source="Love Story (1970 film)" target="Gone with the Wind (film)" id="705" />
-      <edge source="Lawrence of Arabia (film)" target="The Bridge on the River Kwai" id="706" />
-      <edge source="Lawrence of Arabia (film)" target="Gone with the Wind (film)" id="707" />
-      <edge source="Lawrence of Arabia (film)" target="Dr. Strangelove" id="708" />
-      <edge source="Lawrence of Arabia (film)" target="Mr. Smith Goes to Washington" id="709" />
-      <edge source="Lawrence of Arabia (film)" target="The Hurt Locker" id="710" />
-      <edge source="Lawrence of Arabia (film)" target="Mad Max: Fury Road" id="711" />
-      <edge source="Women Talking (film)" target="Avatar: The Way of Water" id="712" />
-      <edge source="Avatar: The Way of Water" target="Avatar (2009 film)" id="713" />
-      <edge source="Avatar: The Way of Water" target="Titanic (1997 film)" id="714" />
-      <edge source="Avatar: The Way of Water" target="Top Gun: Maverick" id="715" />
-      <edge source="Ship of Fools (film)" target="Grand Hotel (1932 film)" id="716" />
-      <edge source="Grand Hotel (1932 film)" target="Gosford Park" id="717" />
-      <edge source="Toy Story 3" target="Up (2009 film)" id="718" />
-      <edge source="Toy Story 3" target="The Lord of the Rings: The Return of the King" id="719" />
-      <edge source="Toy Story 3" target="Shakespeare in Love" id="720" />
-      <edge source="Toy Story 3" target="Titanic (1997 film)" id="721" />
-      <edge source="Toy Story 3" target="The Social Network" id="722" />
-      <edge source="Up (2009 film)" target="The Hurt Locker" id="723" />
-      <edge source="Up (2009 film)" target="Casablanca (film)" id="724" />
-      <edge source="Up (2009 film)" target="The Mission (1986 film)" id="725" />
-      <edge source="Up (2009 film)" target="Toy Story 3" id="726" />
-      <edge source="Up (2009 film)" target="Avatar (2009 film)" id="727" />
-      <edge source="The Lord of the Rings: The Return of the King" target="The Lord of the Rings: The Two Towers" id="728" />
-      <edge source="The Lord of the Rings: The Return of the King" target="Ben-Hur (1959 film)" id="729" />
-      <edge source="The Lord of the Rings: The Return of the King" target="Titanic (1997 film)" id="730" />
-      <edge source="The Lord of the Rings: The Return of the King" target="The Lord of the Rings: The Fellowship of the Ring" id="731" />
-      <edge source="The Lord of the Rings: The Return of the King" target="Gigi (1958 film)" id="732" />
-      <edge source="The Lord of the Rings: The Return of the King" target="The Last Emperor" id="733" />
-      <edge source="The Lord of the Rings: The Return of the King" target="The Shape of Water" id="734" />
-      <edge source="Elizabeth (film)" target="Shakespeare in Love" id="735" />
-      <edge source="Here Comes Mr. Jordan" target="Heaven Can Wait (1978 film)" id="736" />
-      <edge source="Here Comes Mr. Jordan" target="Midnight Express (film)" id="737" />
-      <edge source="Heaven Can Wait (1978 film)" target="Here Comes Mr. Jordan" id="738" />
-      <edge source="Heaven Can Wait (1978 film)" target="Citizen Kane" id="739" />
-      <edge source="Midnight Express (film)" target="Lawrence of Arabia (film)" id="740" />
-      <edge source="Lost Horizon (1937 film)" target="It Happened One Night" id="741" />
-      <edge source="Lost Horizon (1937 film)" target="Mr. Deeds Goes to Town" id="742" />
-      <edge source="Lost Horizon (1937 film)" target="The Life of Emile Zola" id="743" />
-      <edge source="Lost Horizon (1937 film)" target="One Hundred Men and a Girl" id="744" />
-      <edge source="Lost Horizon (1937 film)" target="In Old Chicago" id="745" />
-      <edge source="Lost Horizon (1937 film)" target="Mary Poppins (film)" id="746" />
-      <edge source="Lost Horizon (1937 film)" target="My Fair Lady (film)" id="747" />
-      <edge source="Lost Horizon (1937 film)" target="The Sound of Music (film)" id="748" />
-      <edge source="It Happened One Night" target="The Silence of the Lambs (film)" id="749" />
-      <edge source="Mr. Deeds Goes to Town" target="Lost Horizon (1937 film)" id="750" />
-      <edge source="Mr. Deeds Goes to Town" target="It Happened One Night" id="751" />
-      <edge source="Mr. Deeds Goes to Town" target="Mr. Smith Goes to Washington" id="752" />
-      <edge source="The Life of Emile Zola" target="The Story of Louis Pasteur" id="753" />
-      <edge source="In Old Chicago" target="The Wizard of Oz (1939 film)" id="754" />
-      <edge source="Bohemian Rhapsody (film)" target="Joker (2019 film)" id="755" />
-      <edge source="Bohemian Rhapsody (film)" target="Out of Africa (film)" id="756" />
-      <edge source="Bohemian Rhapsody (film)" target="Green Book (film)" id="757" />
-      <edge source="One Flew Over the Cuckoo's Nest (film)" target="It Happened One Night" id="758" />
-      <edge source="One Flew Over the Cuckoo's Nest (film)" target="The Silence of the Lambs (film)" id="759" />
-      <edge source="One Flew Over the Cuckoo's Nest (film)" target="Nashville (film)" id="760" />
-      <edge source="One Flew Over the Cuckoo's Nest (film)" target="Dog Day Afternoon" id="761" />
-      <edge source="Dog Day Afternoon" target="The Godfather" id="762" />
-      <edge source="Dog Day Afternoon" target="12 Angry Men (1957 film)" id="763" />
-      <edge source="Dog Day Afternoon" target="The Godfather Part II" id="764" />
-      <edge source="127 Hours" target="Slumdog Millionaire" id="765" />
-      <edge source="127 Hours" target="Toy Story 3" id="766" />
-      <edge source="The Shape of Water" target="The Lord of the Rings: The Return of the King" id="767" />
-      <edge source="The Shape of Water" target="Darkest Hour (film)" id="768" />
-      <edge source="The Shape of Water" target="Moonlight (2016 film)" id="769" />
-      <edge source="Bridge of Spies (film)" target="The Color Purple (1985 film)" id="770" />
-      <edge source="Bridge of Spies (film)" target="The Martian (film)" id="771" />
-      <edge source="The Martian (film)" target="Gravity (2013 film)" id="772" />
-      <edge source="The Martian (film)" target="Gladiator (2000 film)" id="773" />
-      <edge source="The Martian (film)" target="Avatar (2009 film)" id="774" />
-      <edge source="Patton (film)" target="Lawrence of Arabia (film)" id="775" />
-      <edge source="Patton (film)" target="Five Easy Pieces" id="776" />
-      <edge source="Hamlet (1948 film)" target="Henry V (1944 film)" id="777" />
-      <edge source="Hamlet (1948 film)" target="Life Is Beautiful" id="778" />
-      <edge source="Hamlet (1948 film)" target="The Shape of Water" id="779" />
-      <edge source="Henry V (1944 film)" target="Hamlet (1948 film)" id="780" />
-      <edge source="Henry V (1944 film)" target="Romeo and Juliet (1936 film)" id="781" />
-      <edge source="Life Is Beautiful" target="Crouching Tiger, Hidden Dragon" id="782" />
-      <edge source="Life Is Beautiful" target="Il Postino: The Postman" id="783" />
-      <edge source="The Favourite" target="Roma (2018 film)" id="784" />
-      <edge source="The Favourite" target="All About Eve" id="785" />
-      <edge source="Crouching Tiger, Hidden Dragon" target="Roma (2018 film)" id="786" />
-      <edge source="Rebecca (1940 film)" target="Gone with the Wind (film)" id="787" />
-      <edge source="The Long Voyage Home" target="Citizen Kane" id="788" />
-      <edge source="The Long Voyage Home" target="The Grapes of Wrath (film)" id="789" />
-      <edge source="Born on the Fourth of July (film)" target="Platoon (film)" id="790" />
-      <edge source="Born on the Fourth of July (film)" target="Coming Home (1978 film)" id="791" />
-      <edge source="Born on the Fourth of July (film)" target="Apocalypse Now" id="792" />
-      <edge source="Born on the Fourth of July (film)" target="Driving Miss Daisy" id="793" />
-      <edge source="The Deer Hunter" target="Julia (1977 film)" id="794" />
-      <edge source="The Deer Hunter" target="The Godfather Part II" id="795" />
-      <edge source="The Deer Hunter" target="Taxi Driver" id="796" />
-      <edge source="The Deer Hunter" target="Apocalypse Now" id="797" />
-      <edge source="The Deer Hunter" target="The Godfather" id="798" />
-      <edge source="The Deer Hunter" target="La Grande Illusion" id="799" />
-      <edge source="The Deer Hunter" target="Coming Home (1978 film)" id="800" />
-      <edge source="The Deer Hunter" target="An Unmarried Woman" id="801" />
-      <edge source="The Deer Hunter" target="Heaven Can Wait (1978 film)" id="802" />
-      <edge source="The Deer Hunter" target="Midnight Express (film)" id="803" />
-      <edge source="The Deer Hunter" target="Platoon (film)" id="804" />
-      <edge source="The Deer Hunter" target="Born on the Fourth of July (film)" id="805" />
-      <edge source="The Deer Hunter" target="Saving Private Ryan" id="806" />
-      <edge source="The King's Speech" target="Slumdog Millionaire" id="807" />
-      <edge source="The King's Speech" target="Toy Story 3" id="808" />
-      <edge source="L.A. Confidential (film)" target="Titanic (1997 film)" id="809" />
-      <edge source="L.A. Confidential (film)" target="Chinatown (1974 film)" id="810" />
-      <edge source="L.A. Confidential (film)" target="The Social Network" id="811" />
-      <edge source="CODA (2021 film)" target="Manchester by the Sea (film)" id="812" />
-      <edge source="CODA (2021 film)" target="Sound of Metal" id="813" />
-      <edge source="CODA (2021 film)" target="Green Book (film)" id="814" />
-      <edge source="CODA (2021 film)" target="Grand Hotel (1932 film)" id="815" />
-      <edge source="CODA (2021 film)" target="Children of a Lesser God (film)" id="816" />
-      <edge source="Seven Brides for Seven Brothers" target="Funny Girl (film)" id="817" />
-      <edge source="Seven Brides for Seven Brothers" target="Witness for the Prosecution (1957 film)" id="818" />
-      <edge source="Seven Brides for Seven Brothers" target="The Grapes of Wrath (film)" id="819" />
-      <edge source="Seven Brides for Seven Brothers" target="San Francisco (1936 film)" id="820" />
-      <edge source="San Francisco (1936 film)" target="Test Pilot (film)" id="821" />
-      <edge source="San Francisco (1936 film)" target="The Great Ziegfeld" id="822" />
-      <edge source="San Francisco (1936 film)" target="Mr. Deeds Goes to Town" id="823" />
-      <edge source="San Francisco (1936 film)" target="The Story of Louis Pasteur" id="824" />
-      <edge source="The Towering Inferno" target="Butch Cassidy and the Sundance Kid" id="825" />
-      <edge source="The Towering Inferno" target="Jaws (film)" id="826" />
-      <edge source="A Streetcar Named Desire (1951 film)" target="Network (1976 film)" id="827" />
-      <edge source="A Streetcar Named Desire (1951 film)" target="Everything Everywhere All at Once" id="828" />
-      <edge source="A Streetcar Named Desire (1951 film)" target="Anthony Adverse" id="829" />
-      <edge source="Everything Everywhere All at Once" target="Licorice Pizza" id="830" />
-      <edge source="Everything Everywhere All at Once" target="The Lord of the Rings: The Return of the King" id="831" />
-      <edge source="Everything Everywhere All at Once" target="American Beauty (1999 film)" id="832" />
-      <edge source="Everything Everywhere All at Once" target="No Country for Old Men" id="833" />
-      <edge source="Everything Everywhere All at Once" target="Slumdog Millionaire" id="834" />
-      <edge source="Everything Everywhere All at Once" target="Argo (2012 film)" id="835" />
-      <edge source="Everything Everywhere All at Once" target="A Streetcar Named Desire (1951 film)" id="836" />
-      <edge source="Everything Everywhere All at Once" target="Network (1976 film)" id="837" />
-      <edge source="Everything Everywhere All at Once" target="The Fabelmans" id="838" />
-      <edge source="Everything Everywhere All at Once" target="The Post (film)" id="839" />
-      <edge source="Everything Everywhere All at Once" target="West Side Story (2021 film)" id="840" />
-      <edge source="Everything Everywhere All at Once" target="CODA (2021 film)" id="841" />
-      <edge source="Babel (film)" target="The Departed" id="842" />
-      <edge source="Darkest Hour (film)" target="The Theory of Everything (2014 film)" id="843" />
-      <edge source="Darkest Hour (film)" target="The Shape of Water" id="844" />
-      <edge source="Darkest Hour (film)" target="Dunkirk (2017 film)" id="845" />
-      <edge source="Dunkirk (2017 film)" target="All Quiet on the Western Front (1930 film)" id="846" />
-      <edge source="Dunkirk (2017 film)" target="Chariots of Fire" id="847" />
-      <edge source="Dunkirk (2017 film)" target="Foreign Correspondent (film)" id="848" />
-      <edge source="Dunkirk (2017 film)" target="Saving Private Ryan" id="849" />
-      <edge source="Dunkirk (2017 film)" target="Atonement (2007 film)" id="850" />
-      <edge source="Dunkirk (2017 film)" target="Darkest Hour (film)" id="851" />
-      <edge source="The Thin Man (film)" target="The Awful Truth" id="852" />
-      <edge source="The Awful Truth" target="The Thin Man (film)" id="853" />
-      <edge source="The Awful Truth" target="It Happened One Night" id="854" />
-      <edge source="The Awful Truth" target="Lost Horizon (1937 film)" id="855" />
-      <edge source="The Best Years of Our Lives" target="Gone with the Wind (film)" id="856" />
-      <edge source="Gigi (1958 film)" target="The Last Emperor" id="857" />
-      <edge source="Gigi (1958 film)" target="The Lord of the Rings: The Return of the King" id="858" />
-      <edge source="Gigi (1958 film)" target="An American in Paris (film)" id="859" />
-      <edge source="Gigi (1958 film)" target="My Fair Lady (film)" id="860" />
-      <edge source="Gigi (1958 film)" target="Ben-Hur (1959 film)" id="861" />
-      <edge source="A Place in the Sun (1951 film)" target="The Godfather" id="862" />
-      <edge source="A Place in the Sun (1951 film)" target="Dodsworth (film)" id="863" />
-      <edge source="Dodsworth (film)" target="The Godfather" id="864" />
-      <edge source="Dodsworth (film)" target="A Place in the Sun (1951 film)" id="865" />
-      <edge source="The Letter (1940 film)" target="Jezebel (1938 film)" id="866" />
-      <edge source="Fanny (1961 film)" target="West Side Story (1961 film)" id="867" />
-      <edge source="The Lord of the Rings: The Two Towers" target="The Lord of the Rings: The Fellowship of the Ring" id="868" />
-      <edge source="The Lord of the Rings: The Two Towers" target="Titanic (1997 film)" id="869" />
-      <edge source="The Lord of the Rings: The Two Towers" target="The Lord of the Rings: The Return of the King" id="870" />
-      <edge source="The Lord of the Rings: The Fellowship of the Ring" target="The Lord of the Rings: The Two Towers" id="871" />
-      <edge source="The Lord of the Rings: The Fellowship of the Ring" target="The Lord of the Rings: The Return of the King" id="872" />
-      <edge source="The Lord of the Rings: The Fellowship of the Ring" target="Gladiator (2000 film)" id="873" />
-      <edge source="The Lord of the Rings: The Fellowship of the Ring" target="Avatar (2009 film)" id="874" />
-      <edge source="The Blind Side (film)" target="A Serious Man" id="875" />
-      <edge source="The Blind Side (film)" target="The Kids Are All Right (film)" id="876" />
-      <edge source="Around the World in 80 Days (1956 film)" target="Friendly Persuasion (1956 film)" id="877" />
-      <edge source="Around the World in 80 Days (1956 film)" target="Giant (1956 film)" id="878" />
-      <edge source="Around the World in 80 Days (1956 film)" target="The King and I (1956 film)" id="879" />
-      <edge source="Around the World in 80 Days (1956 film)" target="The Ten Commandments (1956 film)" id="880" />
-      <edge source="Giant (1956 film)" target="Cimarron (1931 film)" id="881" />
-      <edge source="The King and I (1956 film)" target="The Ten Commandments (1956 film)" id="882" />
-      <edge source="The Ten Commandments (1956 film)" target="The King and I (1956 film)" id="883" />
-      <edge source="The Ten Commandments (1956 film)" target="The Greatest Show on Earth (film)" id="884" />
-      <edge source="The Ten Commandments (1956 film)" target="Cleopatra (1934 film)" id="885" />
-      <edge source="The Ten Commandments (1956 film)" target="Rebecca (1940 film)" id="886" />
-      <edge source="The Ten Commandments (1956 film)" target="The Robe (film)" id="887" />
-      <edge source="The Ten Commandments (1956 film)" target="Raiders of the Lost Ark" id="888" />
-      <edge source="The Ten Commandments (1956 film)" target="Gone with the Wind (film)" id="889" />
-      <edge source="The Ten Commandments (1956 film)" target="Ben-Hur (1959 film)" id="890" />
-      <edge source="The Ten Commandments (1956 film)" target="Avatar (2009 film)" id="891" />
-      <edge source="The Ten Commandments (1956 film)" target="Star Wars (film)" id="892" />
-      <edge source="The Ten Commandments (1956 film)" target="Titanic (1997 film)" id="893" />
-      <edge source="The Ten Commandments (1956 film)" target="The Sound of Music (film)" id="894" />
-      <edge source="The Ten Commandments (1956 film)" target="E.T. the Extra-Terrestrial" id="895" />
-      <edge source="The Quiet Man" target="The Informer (1935 film)" id="896" />
-      <edge source="The Quiet Man" target="E.T. the Extra-Terrestrial" id="897" />
-      <edge source="Raiders of the Lost Ark" target="Star Wars (film)" id="898" />
-      <edge source="Raiders of the Lost Ark" target="American Graffiti" id="899" />
-      <edge source="Raiders of the Lost Ark" target="The Treasure of the Sierra Madre (film)" id="900" />
-      <edge source="Raiders of the Lost Ark" target="The Informer (1935 film)" id="901" />
-      <edge source="Raiders of the Lost Ark" target="On Golden Pond (1981 film)" id="902" />
-      <edge source="Raiders of the Lost Ark" target="The French Connection (film)" id="903" />
-      <edge source="Raiders of the Lost Ark" target="Citizen Kane" id="904" />
-      <edge source="Raiders of the Lost Ark" target="Lawrence of Arabia (film)" id="905" />
-      <edge source="Raiders of the Lost Ark" target="The Godfather" id="906" />
-      <edge source="Raiders of the Lost Ark" target="To Kill a Mockingbird (film)" id="907" />
-      <edge source="Jaws (film)" target="Star Wars (film)" id="908" />
-      <edge source="Jaws (film)" target="The French Connection (film)" id="909" />
-      <edge source="Jaws (film)" target="The Sting" id="910" />
-      <edge source="Jaws (film)" target="American Graffiti" id="911" />
-      <edge source="Jaws (film)" target="Taxi Driver" id="912" />
-      <edge source="Jaws (film)" target="The Godfather" id="913" />
-      <edge source="Jaws (film)" target="E.T. the Extra-Terrestrial" id="914" />
-      <edge source="Jaws (film)" target="Titanic (1997 film)" id="915" />
-      <edge source="Jaws (film)" target="Gone with the Wind (film)" id="916" />
-      <edge source="Gandhi (film)" target="The Bridge on the River Kwai" id="917" />
-      <edge source="Gandhi (film)" target="Lawrence of Arabia (film)" id="918" />
-      <edge source="Gandhi (film)" target="A Passage to India (film)" id="919" />
-      <edge source="The Green Mile (film)" target="The Shawshank Redemption" id="920" />
-      <edge source="The Shawshank Redemption" target="Pulp Fiction" id="921" />
-      <edge source="The Shawshank Redemption" target="Forrest Gump" id="922" />
-      <edge source="The Shawshank Redemption" target="Mr. Smith Goes to Washington" id="923" />
-      <edge source="The Shawshank Redemption" target="Goodfellas" id="924" />
-      <edge source="The Shawshank Redemption" target="Quiz Show (film)" id="925" />
-      <edge source="The Shawshank Redemption" target="The Green Mile (film)" id="926" />
-      <edge source="The Shawshank Redemption" target="The Godfather" id="927" />
-      <edge source="The Shawshank Redemption" target="Gone with the Wind (film)" id="928" />
-      <edge source="Cavalcade (1933 film)" target="Wings (1927 film)" id="929" />
-      <edge source="Moneyball (film)" target="Capote (film)" id="930" />
-      <edge source="Jerry Maguire" target="A Few Good Men" id="931" />
-      <edge source="Jerry Maguire" target="Born on the Fourth of July (film)" id="932" />
-      <edge source="Jerry Maguire" target="Mr. Smith Goes to Washington" id="933" />
-      <edge source="Jerry Maguire" target="Dr. Strangelove" id="934" />
-      <edge source="Jerry Maguire" target="Lawrence of Arabia (film)" id="935" />
-      <edge source="Jerry Maguire" target="Gandhi (film)" id="936" />
-      <edge source="A Few Good Men" target="Jerry Maguire" id="937" />
-      <edge source="Wuthering Heights (1939 film)" target="The Wizard of Oz (1939 film)" id="938" />
-      <edge source="Wuthering Heights (1939 film)" target="Gone with the Wind (film)" id="939" />
-      <edge source="Stagecoach (1939 film)" target="Citizen Kane" id="940" />
-      <edge source="Kitty Foyle (film)" target="Stage Door" id="941" />
-      <edge source="Gaslight (1944 film)" target="Rebecca (1940 film)" id="942" />
-      <edge source="Gaslight (1944 film)" target="Suspicion (1941 film)" id="943" />
-      <edge source="Mildred Pierce (film)" target="Grand Hotel (1932 film)" id="944" />
-      <edge source="Reds (film)" target="Chariots of Fire" id="945" />
-      <edge source="Reds (film)" target="Heaven Can Wait (1978 film)" id="946" />
-      <edge source="Reds (film)" target="Bonnie and Clyde (film)" id="947" />
-      <edge source="Reds (film)" target="On Golden Pond (1981 film)" id="948" />
-      <edge source="Reds (film)" target="Citizen Kane" id="949" />
-      <edge source="Reds (film)" target="Annie Hall" id="950" />
-      <edge source="Love Affair (1939 film)" target="The Awful Truth" id="951" />
-      <edge source="Love Affair (1939 film)" target="Gone with the Wind (film)" id="952" />
-      <edge source="Love Affair (1939 film)" target="Wuthering Heights (1939 film)" id="953" />
-      <edge source="Sons and Lovers (film)" target="Room at the Top (1959 film)" id="954" />
-      <edge source="Sons and Lovers (film)" target="The Apartment" id="955" />
-      <edge source="Inglourious Basterds" target="Django Unchained" id="956" />
-      <edge source="Inglourious Basterds" target="Once Upon a Time in Hollywood" id="957" />
-      <edge source="Inglourious Basterds" target="The Guns of Navarone (film)" id="958" />
-      <edge source="Inglourious Basterds" target="Pulp Fiction" id="959" />
-      <edge source="Inglourious Basterds" target="The Alamo (1960 film)" id="960" />
-      <edge source="Inglourious Basterds" target="District 9" id="961" />
-      <edge source="Romeo and Juliet (1936 film)" target="Romeo and Juliet (1968 film)" id="962" />
-      <edge source="Oliver! (film)" target="Ben-Hur (1959 film)" id="963" />
-      <edge source="Oliver! (film)" target="The Wizard of Oz (1939 film)" id="964" />
-      <edge source="Oliver! (film)" target="Funny Girl (film)" id="965" />
-      <edge source="Oliver! (film)" target="Chicago (2002 film)" id="966" />
-      <edge source="Oliver! (film)" target="Hello, Dolly! (film)" id="967" />
-      <edge source="Oliver! (film)" target="Fiddler on the Roof (film)" id="968" />
-      <edge source="Oliver! (film)" target="Cabaret (1972 film)" id="969" />
-      <edge source="Oliver! (film)" target="All That Jazz (film)" id="970" />
-      <edge source="Oliver! (film)" target="Beauty and the Beast (1991 film)" id="971" />
-      <edge source="Oliver! (film)" target="Moulin Rouge!" id="972" />
-      <edge source="Oliver! (film)" target="Chariots of Fire" id="973" />
-      <edge source="The Greatest Show on Earth (film)" target="Random Harvest (film)" id="974" />
-      <edge source="The Greatest Show on Earth (film)" target="Spotlight (film)" id="975" />
-      <edge source="The Greatest Show on Earth (film)" target="High Noon" id="976" />
-      <edge source="The Greatest Show on Earth (film)" target="The Quiet Man" id="977" />
-      <edge source="The Greatest Show on Earth (film)" target="Ivanhoe (1952 film)" id="978" />
-      <edge source="The Greatest Show on Earth (film)" target="Crash (2004 film)" id="979" />
-      <edge source="The Greatest Show on Earth (film)" target="The Broadway Melody" id="980" />
-      <edge source="The Greatest Show on Earth (film)" target="The Fabelmans" id="981" />
-      <edge source="Random Harvest (film)" target="Mrs. Miniver" id="982" />
-      <edge source="Random Harvest (film)" target="The Yearling (1946 film)" id="983" />
-      <edge source="Spotlight (film)" target="The Greatest Show on Earth (film)" id="984" />
-      <edge source="Spotlight (film)" target="The Post (film)" id="985" />
-      <edge source="Spotlight (film)" target="The Hurt Locker" id="986" />
-      <edge source="Ivanhoe (1952 film)" target="Quo Vadis (1951 film)" id="987" />
-      <edge source="The Broadway Melody" target="Broadway Melody of 1936" id="988" />
-      <edge source="12 Angry Men (1957 film)" target="To Kill a Mockingbird (film)" id="989" />
-      <edge source="Juno (film)" target="Titanic (1997 film)" id="990" />
-      <edge source="Parasite (2019 film)" target="Slumdog Millionaire" id="991" />
-      <edge source="Parasite (2019 film)" target="Gladiator (2000 film)" id="992" />
-      <edge source="Parasite (2019 film)" target="Life Is Beautiful" id="993" />
-      <edge source="Parasite (2019 film)" target="Crouching Tiger, Hidden Dragon" id="994" />
-      <edge source="Parasite (2019 film)" target="Marty (film)" id="995" />
-      <edge source="Parasite (2019 film)" target="Everything Everywhere All at Once" id="996" />
-      <edge source="Parasite (2019 film)" target="The Artist (film)" id="997" />
-      <edge source="Parasite (2019 film)" target="The Last Emperor" id="998" />
-      <edge source="Forrest Gump" target="Rain Man" id="999" />
-      <edge source="Forrest Gump" target="E.T. the Extra-Terrestrial" id="1000" />
-      <edge source="Forrest Gump" target="Raiders of the Lost Ark" id="1001" />
-      <edge source="Forrest Gump" target="Titanic (1997 film)" id="1002" />
-      <edge source="Forrest Gump" target="The Shawshank Redemption" id="1003" />
-      <edge source="Dead Poets Society" target="Dangerous Liaisons" id="1004" />
-      <edge source="Lilies of the Field (1963 film)" target="Gone with the Wind (film)" id="1005" />
-      <edge source="Cimarron (1931 film)" target="Dances with Wolves" id="1006" />
-      <edge source="Cimarron (1931 film)" target="No Country for Old Men" id="1007" />
-      <edge source="Cimarron (1931 film)" target="The Best Years of Our Lives" id="1008" />
-      <edge source="Roman Holiday" target="From Here to Eternity" id="1009" />
-      <edge source="Atonement (2007 film)" target="In Which We Serve" id="1010" />
-      <edge source="In Which We Serve" target="Casablanca (film)" id="1011" />
-      <edge source="Up in the Air (2009 film)" target="Juno (film)" id="1012" />
-      <edge source="Up in the Air (2009 film)" target="Lost in Translation (film)" id="1013" />
-      <edge source="Up in the Air (2009 film)" target="The Apartment" id="1014" />
-      <edge source="Gentleman's Agreement" target="Crossfire (film)" id="1015" />
-      <edge source="Apollo 13 (film)" target="Forrest Gump" id="1016" />
-      <edge source="Apollo 13 (film)" target="Quiz Show (film)" id="1017" />
-      <edge source="Apollo 13 (film)" target="Braveheart" id="1018" />
-      <edge source="Apollo 13 (film)" target="Sense and Sensibility (film)" id="1019" />
-      <edge source="Apollo 13 (film)" target="Babe (film)" id="1020" />
-      <edge source="Apollo 13 (film)" target="Gravity (2013 film)" id="1021" />
-      <edge source="American Hustle" target="True Grit (2010 film)" id="1022" />
-      <edge source="American Hustle" target="Gangs of New York" id="1023" />
-      <edge source="American Hustle" target="The Turning Point (1977 film)" id="1024" />
-      <edge source="American Hustle" target="The Color Purple (1985 film)" id="1025" />
-      <edge source="American Hustle" target="Silver Linings Playbook" id="1026" />
-      <edge source="American Hustle" target="Sunset Boulevard (film)" id="1027" />
-      <edge source="Bonnie and Clyde (film)" target="My Fair Lady (film)" id="1028" />
-      <edge source="Bonnie and Clyde (film)" target="The Godfather" id="1029" />
-      <edge source="Bonnie and Clyde (film)" target="The Departed" id="1030" />
-      <edge source="A Clockwork Orange (film)" target="The Godfather" id="1031" />
-      <edge source="A Clockwork Orange (film)" target="Bonnie and Clyde (film)" id="1032" />
-      <edge source="Mystic River (film)" target="Ben-Hur (1959 film)" id="1033" />
-      <edge source="Mystic River (film)" target="Dallas Buyers Club" id="1034" />
-      <edge source="The Banshees of Inisherin" target="The Quiet Man" id="1035" />
-      <edge source="Cleopatra (1934 film)" target="Cleopatra (1963 film)" id="1036" />
-      <edge source="The Robe (film)" target="Quo Vadis (1951 film)" id="1037" />
-      <edge source="The Robe (film)" target="The Wizard of Oz (1939 film)" id="1038" />
-      <edge source="The Robe (film)" target="The Bridge on the River Kwai" id="1039" />
-      <edge source="La La Land" target="Whiplash (2014 film)" id="1040" />
-      <edge source="La La Land" target="An American in Paris (film)" id="1041" />
-      <edge source="La La Land" target="The Big Short (film)" id="1042" />
-      <edge source="La La Land" target="The Wizard of Oz (1939 film)" id="1043" />
-      <edge source="La La Land" target="Hidden Figures" id="1044" />
-      <edge source="La La Land" target="Moonlight (2016 film)" id="1045" />
-      <edge source="La La Land" target="All About Eve" id="1046" />
-      <edge source="La La Land" target="Titanic (1997 film)" id="1047" />
-      <edge source="Whiplash (2014 film)" target="La La Land" id="1048" />
-      <edge source="The Big Short (film)" target="Moneyball (film)" id="1049" />
-      <edge source="The Big Short (film)" target="The Revenant (2015 film)" id="1050" />
-      <edge source="The Big Short (film)" target="The Wolf of Wall Street (2013 film)" id="1051" />
-      <edge source="Hidden Figures" target="Lion (2016 film)" id="1052" />
-      <edge source="Hidden Figures" target="Moonlight (2016 film)" id="1053" />
-      <edge source="Hidden Figures" target="Fences (film)" id="1054" />
-      <edge source="Tootsie" target="E.T. the Extra-Terrestrial" id="1055" />
-      <edge source="Beauty and the Beast (1991 film)" target="The Silence of the Lambs (film)" id="1056" />
-      <edge source="Beauty and the Beast (1991 film)" target="Avatar (2009 film)" id="1057" />
-      <edge source="Beauty and the Beast (1991 film)" target="Mary Poppins (film)" id="1058" />
-      <edge source="Beauty and the Beast (1991 film)" target="Dead Poets Society" id="1059" />
-      <edge source="Beauty and the Beast (1991 film)" target="All That Jazz (film)" id="1060" />
-      <edge source="Beauty and the Beast (1991 film)" target="Moulin Rouge!" id="1061" />
-      <edge source="The Pianist (2002 film)" target="The Piano" id="1062" />
-      <edge source="The Pianist (2002 film)" target="Chicago (2002 film)" id="1063" />
-      <edge source="The Pianist (2002 film)" target="12 Years a Slave (film)" id="1064" />
-      <edge source="Johnny Belinda (1948 film)" target="The Treasure of the Sierra Madre (film)" id="1065" />
-      <edge source="La Grande Illusion" target="All Quiet on the Western Front (1930 film)" id="1066" />
-      <edge source="Coming Home (1978 film)" target="Born on the Fourth of July (film)" id="1067" />
-      <edge source="Coming Home (1978 film)" target="Midnight Cowboy" id="1068" />
-      <edge source="Coming Home (1978 film)" target="Julia (1977 film)" id="1069" />
-      <edge source="Coming Home (1978 film)" target="The Best Years of Our Lives" id="1070" />
-      <edge source="An Unmarried Woman" target="Julia (1977 film)" id="1071" />
-      <edge source="An Unmarried Woman" target="The Deer Hunter" id="1072" />
-      <edge source="Braveheart" target="Apollo 13 (film)" id="1073" />
-      <edge source="Braveheart" target="Il Postino: The Postman" id="1074" />
-      <edge source="Braveheart" target="Sense and Sensibility (film)" id="1075" />
-      <edge source="Braveheart" target="The Shape of Water" id="1076" />
-      <edge source="Braveheart" target="Green Book (film)" id="1077" />
-      <edge source="Dark Victory" target="Gone with the Wind (film)" id="1078" />
-      <edge source="Dark Victory" target="The Wizard of Oz (1939 film)" id="1079" />
-      <edge source="The Ox-Bow Incident" target="Casablanca (film)" id="1080" />
-      <edge source="The Ox-Bow Incident" target="The Grapes of Wrath (film)" id="1081" />
-      <edge source="District 9" target="Avatar (2009 film)" id="1082" />
-      <edge source="District 9" target="Inglourious Basterds" id="1083" />
-      <edge source="District 9" target="As Good as It Gets" id="1084" />
-      <edge source="District 9" target="Jerry Maguire" id="1085" />
-      <edge source="District 9" target="Bugsy" id="1086" />
-      <edge source="District 9" target="Places in the Heart" id="1087" />
-      <edge source="As Good as It Gets" target="The Silence of the Lambs (film)" id="1088" />
-      <edge source="As Good as It Gets" target="Titanic (1997 film)" id="1089" />
-      <edge source="As Good as It Gets" target="It Happened One Night" id="1090" />
-      <edge source="As Good as It Gets" target="The Last Picture Show" id="1091" />
-      <edge source="Bugsy" target="Reds (film)" id="1092" />
-      <edge source="Bugsy" target="Bonnie and Clyde (film)" id="1093" />
-      <edge source="Bugsy" target="Heaven Can Wait (1978 film)" id="1094" />
-      <edge source="American Graffiti" target="Apocalypse Now" id="1095" />
-      <edge source="American Graffiti" target="Star Wars (film)" id="1096" />
-      <edge source="American Graffiti" target="The Godfather" id="1097" />
-      <edge source="The Revenant (2015 film)" target="Birdman (film)" id="1098" />
-      <edge source="The Revenant (2015 film)" target="Saving Private Ryan" id="1099" />
-      <edge source="The Revenant (2015 film)" target="Bridge of Spies (film)" id="1100" />
-      <edge source="The Revenant (2015 film)" target="Spotlight (film)" id="1101" />
-      <edge source="Dallas Buyers Club" target="Mystic River (film)" id="1102" />
-      <edge source="Dallas Buyers Club" target="Argo (2012 film)" id="1103" />
-      <edge source="No Country for Old Men" target="Fargo (1996 film)" id="1104" />
-      <edge source="No Country for Old Men" target="Cimarron (1931 film)" id="1105" />
-      <edge source="No Country for Old Men" target="Dances with Wolves" id="1106" />
-      <edge source="No Country for Old Men" target="Unforgiven" id="1107" />
-      <edge source="No Country for Old Men" target="There Will Be Blood" id="1108" />
-      <edge source="No Country for Old Men" target="Jaws (film)" id="1109" />
-      <edge source="No Country for Old Men" target="True Grit (2010 film)" id="1110" />
-      <edge source="No Country for Old Men" target="Crash (2004 film)" id="1111" />
-      <edge source="No Country for Old Men" target="The Hurt Locker" id="1112" />
-      <edge source="No Country for Old Men" target="The Departed" id="1113" />
-      <edge source="No Country for Old Men" target="West Side Story (1961 film)" id="1114" />
-      <edge source="Little Women (2019 film)" target="Lady Bird (film)" id="1115" />
-      <edge source="Little Women (2019 film)" target="The Favourite" id="1116" />
-      <edge source="In Old Arizona" target="The Patriot (1928 film)" id="1117" />
-      <edge source="It's a Wonderful Life" target="Mr. Smith Goes to Washington" id="1118" />
-      <edge source="It's a Wonderful Life" target="Mr. Deeds Goes to Town" id="1119" />
-      <edge source="It's a Wonderful Life" target="Lost Horizon (1937 film)" id="1120" />
-      <edge source="It's a Wonderful Life" target="The Best Years of Our Lives" id="1121" />
-      <edge source="It's a Wonderful Life" target="Miracle on 34th Street" id="1122" />
-      <edge source="It's a Wonderful Life" target="Lady for a Day" id="1123" />
-      <edge source="Lady for a Day" target="Cavalcade (1933 film)" id="1124" />
-      <edge source="Driving Miss Daisy" target="Grand Hotel (1932 film)" id="1125" />
-      <edge source="Driving Miss Daisy" target="Argo (2012 film)" id="1126" />
-      <edge source="Driving Miss Daisy" target="Green Book (film)" id="1127" />
-      <edge source="Driving Miss Daisy" target="CODA (2021 film)" id="1128" />
-      <edge source="Driving Miss Daisy" target="Wings (1927 film)" id="1129" />
-      <edge source="Driving Miss Daisy" target="My Left Foot" id="1130" />
-      <edge source="Hello, Dolly! (film)" target="Cleopatra (1963 film)" id="1131" />
-      <edge source="Hello, Dolly! (film)" target="The Sound of Music (film)" id="1132" />
-      <edge source="Chariots of Fire" target="A Man for All Seasons (1966 film)" id="1133" />
-      <edge source="Chariots of Fire" target="Midnight Express (film)" id="1134" />
-      <edge source="Chariots of Fire" target="Breaking Away" id="1135" />
-      <edge source="Chariots of Fire" target="Reds (film)" id="1136" />
-      <edge source="True Grit (2010 film)" target="The Social Network" id="1137" />
-      <edge source="True Grit (2010 film)" target="Dances with Wolves" id="1138" />
-      <edge source="Dances with Wolves" target="Cimarron (1931 film)" id="1139" />
-      <edge source="Dances with Wolves" target="Unforgiven" id="1140" />
-      <edge source="Dances with Wolves" target="No Country for Old Men" id="1141" />
-      <edge source="Dances with Wolves" target="Lawrence of Arabia (film)" id="1142" />
-      <edge source="Dances with Wolves" target="Ghost (1990 film)" id="1143" />
-      <edge source="Dances with Wolves" target="Avatar (2009 film)" id="1144" />
-      <edge source="Quiz Show (film)" target="Marty (film)" id="1145" />
-      <edge source="Quiz Show (film)" target="Bugsy" id="1146" />
-      <edge source="Quiz Show (film)" target="The Shawshank Redemption" id="1147" />
-      <edge source="Quiz Show (film)" target="A Man for All Seasons (1966 film)" id="1148" />
-      <edge source="Marty (film)" target="The Lost Weekend" id="1149" />
-      <edge source="Marty (film)" target="Parasite (2019 film)" id="1150" />
-      <edge source="William Shakespeare's Julius Caesar" target="Henry V (1944 film)" id="1151" />
-      <edge source="William Shakespeare's Julius Caesar" target="Quo Vadis (1951 film)" id="1152" />
-      <edge source="William Shakespeare's Julius Caesar" target="A Streetcar Named Desire (1951 film)" id="1153" />
-      <edge source="William Shakespeare's Julius Caesar" target="On the Waterfront" id="1154" />
-      <edge source="Traffic (2000 film)" target="Erin Brockovich (film)" id="1155" />
-      <edge source="Traffic (2000 film)" target="Z (1969 film)" id="1156" />
-      <edge source="Erin Brockovich (film)" target="Traffic (2000 film)" id="1157" />
-      <edge source="The Thin Red Line (1998 film)" target="The Elephant Man (film)" id="1158" />
-      <edge source="The Thin Red Line (1998 film)" target="Saving Private Ryan" id="1159" />
-      <edge source="The Thin Red Line (1998 film)" target="Platoon (film)" id="1160" />
-      <edge source="Hacksaw Ridge" target="Braveheart" id="1161" />
-      <edge source="Hacksaw Ridge" target="The Social Network" id="1162" />
-      <edge source="Hacksaw Ridge" target="Saving Private Ryan" id="1163" />
-      <edge source="You Can't Take It with You (film)" target="It Happened One Night" id="1164" />
-      <edge source="You Can't Take It with You (film)" target="Mr. Deeds Goes to Town" id="1165" />
-      <edge source="Peyton Place (film)" target="The Little Foxes (film)" id="1166" />
-      <edge source="Peyton Place (film)" target="The Turning Point (1977 film)" id="1167" />
-      <edge source="Peyton Place (film)" target="The Color Purple (1985 film)" id="1168" />
-      <edge source="In the Heat of the Night (film)" target="A Man for All Seasons (1966 film)" id="1169" />
-      <edge source="Zorba the Greek (film)" target="The Guns of Navarone (film)" id="1170" />
-      <edge source="The Guns of Navarone (film)" target="The Bridge on the River Kwai" id="1171" />
-      <edge source="The Guns of Navarone (film)" target="The Longest Day (film)" id="1172" />
-      <edge source="The Guns of Navarone (film)" target="Pulp Fiction" id="1173" />
-      <edge source="Anthony Adverse" target="Captain Blood (1935 film)" id="1174" />
-      <edge source="Mank" target="Citizen Kane" id="1175" />
-      <edge source="Mank" target="The Trial of the Chicago 7" id="1176" />
-      <edge source="Phantom Thread" target="There Will Be Blood" id="1177" />
-      <edge source="Phantom Thread" target="Rebecca (1940 film)" id="1178" />
-      <edge source="On Golden Pond (1981 film)" target="Raiders of the Lost Ark" id="1179" />
-      <edge source="On Golden Pond (1981 film)" target="Coming Home (1978 film)" id="1180" />
-      <edge source="On Golden Pond (1981 film)" target="The Silence of the Lambs (film)" id="1181" />
-      <edge source="Don't Look Up" target="Vice (2018 film)" id="1182" />
-      <edge source="Don't Look Up" target="The Big Short (film)" id="1183" />
-      <edge source="Don't Look Up" target="Dr. Strangelove" id="1184" />
-      <edge source="Don't Look Up" target="Parasite (2019 film)" id="1185" />
-      <edge source="Broadway Melody of 1936" target="The Broadway Melody" id="1186" />
-      <edge source="Inception" target="The Social Network" id="1187" />
-      <edge source="Inception" target="Avatar (2009 film)" id="1188" />
-      <edge source="Inception" target="Toy Story 3" id="1189" />
-      <edge source="Inception" target="Titanic (1997 film)" id="1190" />
-      <edge source="Inception" target="True Grit (2010 film)" id="1191" />
-      <edge source="Inception" target="Black Swan (film)" id="1192" />
-      <edge source="Schindler's List" target="The Pianist (2002 film)" id="1193" />
-      <edge source="Schindler's List" target="Out of Africa (film)" id="1194" />
-      <edge source="Schindler's List" target="The Piano" id="1195" />
-      <edge source="Born Yesterday (1950 film)" target="Sunset Boulevard (film)" id="1196" />
-      <edge source="Born Yesterday (1950 film)" target="All About Eve" id="1197" />
-      <edge source="Little Miss Sunshine" target="Fargo (1996 film)" id="1198" />
-      <edge source="Test Pilot (film)" target="The Right Stuff (film)" id="1199" />
-      <edge source="The Right Stuff (film)" target="Rocky" id="1200" />
-      <edge source="The Right Stuff (film)" target="Raging Bull" id="1201" />
-      <edge source="Doctor Zhivago (film)" target="The Sound of Music (film)" id="1202" />
-      <edge source="Doctor Zhivago (film)" target="Lawrence of Arabia (film)" id="1203" />
-      <edge source="Doctor Zhivago (film)" target="Gone with the Wind (film)" id="1204" />
-      <edge source="Doctor Zhivago (film)" target="Darling (1965 film)" id="1205" />
-      <edge source="Elvis (2022 film)" target="Top Gun: Maverick" id="1206" />
-      <edge source="Elvis (2022 film)" target="Moulin Rouge!" id="1207" />
-      <edge source="Elvis (2022 film)" target="The Maltese Falcon (1941 film)" id="1208" />
-      <edge source="Unforgiven" target="Scent of a Woman (1992 film)" id="1209" />
-      <edge source="Unforgiven" target="Cimarron (1931 film)" id="1210" />
-      <edge source="Unforgiven" target="Dances with Wolves" id="1211" />
-      <edge source="Unforgiven" target="The Fugitive (1993 film)" id="1212" />
-      <edge source="Unforgiven" target="High Noon" id="1213" />
-      <edge source="Unforgiven" target="Shane (film)" id="1214" />
-      <edge source="Ghost (1990 film)" target="E.T. the Extra-Terrestrial" id="1215" />
-      <edge source="JFK (film)" target="Born on the Fourth of July (film)" id="1216" />
-      <edge source="JFK (film)" target="The Killing Fields (film)" id="1217" />
-      <edge source="JFK (film)" target="Z (1969 film)" id="1218" />
-      <edge source="JFK (film)" target="Dances with Wolves" id="1219" />
-      <edge source="JFK (film)" target="The Longest Day (film)" id="1220" />
-      <edge source="JFK (film)" target="Beauty and the Beast (1991 film)" id="1221" />
-      <edge source="Cries and Whispers" target="Hannah and Her Sisters" id="1222" />
-      <edge source="Cries and Whispers" target="La Grande Illusion" id="1223" />
-      <edge source="Cries and Whispers" target="Z (1969 film)" id="1224" />
-      <edge source="Cries and Whispers" target="The Emigrants (film)" id="1225" />
-      <edge source="Spellbound (1945 film)" target="Rebecca (1940 film)" id="1226" />
-      <edge source="Spellbound (1945 film)" target="Gone with the Wind (film)" id="1227" />
-      <edge source="Triangle of Sadness" target="The Fabelmans" id="1228" />
-      <edge source="Triangle of Sadness" target="Parasite (2019 film)" id="1229" />
-      <edge source="The Red Shoes (1948 film)" target="The Best Years of Our Lives" id="1230" />
-      <edge source="1917 (2019 film)" target="Dunkirk (2017 film)" id="1231" />
-      <edge source="1917 (2019 film)" target="All Quiet on the Western Front (2022 film)" id="1232" />
-      <edge source="All Quiet on the Western Front (2022 film)" target="All Quiet on the Western Front (1930 film)" id="1233" />
-      <edge source="All Quiet on the Western Front (2022 film)" target="Crouching Tiger, Hidden Dragon" id="1234" />
-      <edge source="All Quiet on the Western Front (2022 film)" target="Parasite (2019 film)" id="1235" />
-      <edge source="Les Misérables (2012 film)" target="Django Unchained" id="1236" />
-      <edge source="Les Misérables (2012 film)" target="Argo (2012 film)" id="1237" />
-      <edge source="Les Misérables (2012 film)" target="La La Land" id="1238" />
-      <edge source="Les Misérables (2012 film)" target="West Side Story (2021 film)" id="1239" />
-      <edge source="Ford v Ferrari" target="Joker (2019 film)" id="1240" />
-      <edge source="David Copperfield (1935 film)" target="The Lives of a Bengal Lancer (film)" id="1241" />
-      <edge source="David Copperfield (1935 film)" target="Mutiny on the Bounty (1935 film)" id="1242" />
-      <edge source="David Copperfield (1935 film)" target="The Great Ziegfeld" id="1243" />
-      <edge source="The Great Ziegfeld" target="The Thin Man (film)" id="1244" />
-      <edge source="The Great Ziegfeld" target="The Wizard of Oz (1939 film)" id="1245" />
-      <edge source="The Great Ziegfeld" target="Mr. Deeds Goes to Town" id="1246" />
-      <edge source="The Great Ziegfeld" target="Dodsworth (film)" id="1247" />
-      <edge source="All the King's Men (1949 film)" target="A Letter to Three Wives" id="1248" />
-      <edge source="Cat on a Hot Tin Roof (1958 film)" target="Gigi (1958 film)" id="1249" />
-      <edge source="How the West Was Won (film)" target="Ben-Hur (1959 film)" id="1250" />
-      <edge source="How the West Was Won (film)" target="Mutiny on the Bounty (1962 film)" id="1251" />
-      <edge source="How the West Was Won (film)" target="The Alamo (1960 film)" id="1252" />
-      <edge source="How the West Was Won (film)" target="Tom Jones (1963 film)" id="1253" />
-      <edge source="All Quiet on the Western Front (1930 film)" target="High Noon" id="1254" />
-      <edge source="All Quiet on the Western Front (1930 film)" target="From Here to Eternity" id="1255" />
-      <edge source="All Quiet on the Western Front (1930 film)" target="A Man for All Seasons (1966 film)" id="1256" />
-      <edge source="All Quiet on the Western Front (1930 film)" target="Julia (1977 film)" id="1257" />
-      <edge source="All Quiet on the Western Front (1930 film)" target="Saving Private Ryan" id="1258" />
-      <edge source="All Quiet on the Western Front (1930 film)" target="All Quiet on the Western Front (2022 film)" id="1259" />
-      <edge source="Disraeli (1929 film)" target="All Quiet on the Western Front (1930 film)" id="1260" />
-      <edge source="Disraeli (1929 film)" target="The Big House (1930 film)" id="1261" />
-      <edge source="The Smiling Lieutenant" target="The Love Parade" id="1262" />
-      <edge source="Hope and Glory (film)" target="Broadcast News (film)" id="1263" />
-      <edge source="Broadcast News (film)" target="Terms of Endearment" id="1264" />
-      <edge source="The Goodbye Girl" target="Taxi Driver" id="1265" />
-      <edge source="The Goodbye Girl" target="The Pianist (2002 film)" id="1266" />
-      <edge source="The Goodbye Girl" target="Annie Hall" id="1267" />
-      <edge source="Gosford Park" target="M*A*S*H (film)" id="1268" />
-      <edge source="Gosford Park" target="A Beautiful Mind (film)" id="1269" />
-      <edge source="Captain Phillips (film)" target="Gravity (2013 film)" id="1270" />
-      <edge source="Goodbye, Mr. Chips (1939 film)" target="Gone with the Wind (film)" id="1271" />
-      <edge source="Goodbye, Mr. Chips (1939 film)" target="Mr. Smith Goes to Washington" id="1272" />
-      <edge source="The Aviator (2004 film)" target="The Insider (film)" id="1273" />
-      <edge source="The Aviator (2004 film)" target="Gangs of New York" id="1274" />
-      <edge source="The Hollywood Revue" target="The Broadway Melody" id="1275" />
-      <edge source="Shine (film)" target="Fargo (1996 film)" id="1276" />
-      <edge source="Life of Pi (film)" target="Hugo (film)" id="1277" />
-      <edge source="Life of Pi (film)" target="Avatar (2009 film)" id="1278" />
-      <edge source="Life of Pi (film)" target="Crouching Tiger, Hidden Dragon" id="1279" />
-      <edge source="Life of Pi (film)" target="Brokeback Mountain" id="1280" />
-      <edge source="Foreign Correspondent (film)" target="Rebecca (1940 film)" id="1281" />
-      <edge source="War Horse (film)" target="All Quiet on the Western Front (1930 film)" id="1282" />
-      <edge source="War Horse (film)" target="Saving Private Ryan" id="1283" />
-      <edge source="War Horse (film)" target="E.T. the Extra-Terrestrial" id="1284" />
-      <edge source="The Fugitive (1993 film)" target="Unforgiven" id="1285" />
-      <edge source="The Fugitive (1993 film)" target="The Sixth Sense" id="1286" />
-      <edge source="The Fugitive (1993 film)" target="Titanic (1997 film)" id="1287" />
-      <edge source="Dune (2021 film)" target="Arrival (film)" id="1288" />
-      <edge source="Dune (2021 film)" target="Lawrence of Arabia (film)" id="1289" />
-      <edge source="Dune (2021 film)" target="Doctor Zhivago (film)" id="1290" />
-      <edge source="Dune (2021 film)" target="Jaws (film)" id="1291" />
-      <edge source="Father of the Bride (1950 film)" target="The Last Picture Show" id="1292" />
-      <edge source="State Fair (1933 film)" target="Cavalcade (1933 film)" id="1293" />
-      <edge source="The Hustler" target="Cleopatra (1963 film)" id="1294" />
-      <edge source="The Hustler" target="The Verdict" id="1295" />
-      <edge source="Libeled Lady" target="The Thin Man (film)" id="1296" />
-      <edge source="Five Star Final" target="Grand Hotel (1932 film)" id="1297" />
-      <edge source="Tom Jones (1963 film)" target="Peyton Place (film)" id="1298" />
-      <edge source="Tom Jones (1963 film)" target="America America" id="1299" />
-      <edge source="Anne of the Thousand Days" target="Romeo and Juliet (1968 film)" id="1300" />
-      <edge source="Once Upon a Time in Hollywood" target="Top hat" id="1301" />
-      <edge source="Once Upon a Time in Hollywood" target="Apocalypse Now" id="1302" />
-      <edge source="Once Upon a Time in Hollywood" target="Taxi Driver" id="1303" />
-      <edge source="Once Upon a Time in Hollywood" target="Pulp Fiction" id="1304" />
-      <edge source="Once Upon a Time in Hollywood" target="Django Unchained" id="1305" />
-      <edge source="Once Upon a Time in Hollywood" target="Inglourious Basterds" id="1306" />
-      <edge source="Once Upon a Time in Hollywood" target="Tess (1979 film)" id="1307" />
-      <edge source="Jojo Rabbit" target="Ford v Ferrari" id="1308" />
-      <edge source="Jojo Rabbit" target="Dr. Strangelove" id="1309" />
-      <edge source="Jojo Rabbit" target="Cabaret (1972 film)" id="1310" />
-      <edge source="Jojo Rabbit" target="Up (2009 film)" id="1311" />
-      <edge source="Jojo Rabbit" target="The Great Dictator" id="1312" />
-      <edge source="Awakenings" target="Rain Man" id="1313" />
-      <edge source="Million Dollar Baby" target="Rocky" id="1314" />
-      <edge source="Million Dollar Baby" target="Unforgiven" id="1315" />
-      <edge source="Million Dollar Baby" target="Crash (2004 film)" id="1316" />
-      <edge source="Judgment at Nuremberg" target="Grand Hotel (1932 film)" id="1317" />
-      <edge source="The Curious Case of Benjamin Button (film)" target="Babel (film)" id="1318" />
-      <edge source="The Curious Case of Benjamin Button (film)" target="Forrest Gump" id="1319" />
-      <edge source="Shanghai Express (film)" target="Grand Hotel (1932 film)" id="1320" />
-      <edge source="Shanghai Express (film)" target="Bad Girl (1931 film)" id="1321" />
-      <edge source="The Yearling (1946 film)" target="Random Harvest (film)" id="1322" />
-      <edge source="Marriage Story" target="Kramer vs. Kramer" id="1323" />
-      <edge source="Who's Afraid of Virginia Woolf? (film)" target="Cimarron (1931 film)" id="1324" />
-      <edge source="Kiss of the Spider Woman (film)" target="Out of Africa (film)" id="1325" />
-      <edge source="Missing (1982 film)" target="Chariots of Fire" id="1326" />
-      <edge source="The Exorcist" target="Butch Cassidy and the Sundance Kid" id="1327" />
-      <edge source="The Exorcist" target="The French Connection (film)" id="1328" />
-      <edge source="The Exorcist" target="The Godfather" id="1329" />
-      <edge source="The Exorcist" target="Titanic (1997 film)" id="1330" />
-      <edge source="The Exorcist" target="My Fair Lady (film)" id="1331" />
-      <edge source="The Exorcist" target="The Sting" id="1332" />
-      <edge source="The Exorcist" target="Going My Way" id="1333" />
-      <edge source="The Exorcist" target="The Sixth Sense" id="1334" />
-      <edge source="The Exorcist" target="Jaws (film)" id="1335" />
-      <edge source="A Room with a View (1985 film)" target="The Killing Fields (film)" id="1336" />
-      <edge source="A Room with a View (1985 film)" target="Amadeus (film)" id="1337" />
-      <edge source="A Room with a View (1985 film)" target="Hannah and Her Sisters" id="1338" />
-      <edge source="The Help (film)" target="Inception" id="1339" />
-      <edge source="The Help (film)" target="The Sixth Sense" id="1340" />
-      <edge source="Of Mice and Men (1939 film)" target="The Grapes of Wrath (film)" id="1341" />
-      <edge source="The Prince of Tides" target="Beauty and the Beast (1991 film)" id="1342" />
-      <edge source="The Prince of Tides" target="A Few Good Men" id="1343" />
-      <edge source="Her (film)" target="Gravity (2013 film)" id="1344" />
-      <edge source="Nicholas and Alexandra" target="Doctor Zhivago (film)" id="1345" />
-      <edge source="Nicholas and Alexandra" target="Lawrence of Arabia (film)" id="1346" />
-      <edge source="Nicholas and Alexandra" target="Patton (film)" id="1347" />
-      <edge source="The Father (2020 film)" target="Amour (2012 film)" id="1348" />
-      <edge source="The Lost Weekend" target="Marty (film)" id="1349" />
-      <edge source="The Lost Weekend" target="Parasite (2019 film)" id="1350" />
-      <edge source="The Lost Weekend" target="Spellbound (1945 film)" id="1351" />
-      <edge source="Winter's Bone" target="The Social Network" id="1352" />
-      <edge source="Alice Adams (1935 film)" target="David Copperfield (1935 film)" id="1353" />
-      <edge source="M*A*S*H (film)" target="Patton (film)" id="1354" />
-      <edge source="M*A*S*H (film)" target="Nashville (film)" id="1355" />
-      <edge source="M*A*S*H (film)" target="Love Story (1970 film)" id="1356" />
-      <edge source="M*A*S*H (film)" target="Airport (1970 film)" id="1357" />
-      <edge source="M*A*S*H (film)" target="Mister Roberts (1955 film)" id="1358" />
-      <edge source="M*A*S*H (film)" target="The Graduate" id="1359" />
-      <edge source="Mrs. Miniver" target="Random Harvest (film)" id="1360" />
-      <edge source="BlacKkKlansman" target="Get Out" id="1361" />
-      <edge source="Doctor Dolittle (1967 film)" target="Mary Poppins (film)" id="1362" />
-      <edge source="Seabiscuit (film)" target="The Lord of the Rings: The Return of the King" id="1363" />
-      <edge source="Guess Who's Coming to Dinner" target="The Lion in Winter (1968 film)" id="1364" />
-      <edge source="Guess Who's Coming to Dinner" target="Get Out" id="1365" />
-      <edge source="Guess Who's Coming to Dinner" target="Bonnie and Clyde (film)" id="1366" />
-      <edge source="King Solomon's Mines (1950 film)" target="Quo Vadis (1951 film)" id="1367" />
-      <edge source="The Snake Pit" target="The Grapes of Wrath (film)" id="1368" />
-      <edge source="I Am a Fugitive from a Chain Gang" target="42nd Street (film)" id="1369" />
-      <edge source="The White Parade" target="The House of Rothschild" id="1370" />
-      <edge source="The Sundowners (1960 film)" target="The Treasure of the Sierra Madre (film)" id="1371" />
-      <edge source="The Sundowners (1960 film)" target="From Here to Eternity" id="1372" />
+      <edge source="The Philadelphia Story (film)" target="Little Women (1933 film)" id="651" />
+      <edge source="The Philadelphia Story (film)" target="Gone with the Wind (film)" id="652" />
+      <edge source="The Philadelphia Story (film)" target="The Grapes of Wrath (film)" id="653" />
+      <edge source="The Philadelphia Story (film)" target="Mr. Smith Goes to Washington" id="654" />
+      <edge source="The Grapes of Wrath (film)" target="Rebecca (1940 film)" id="655" />
+      <edge source="The Grapes of Wrath (film)" target="The Long Voyage Home" id="656" />
+      <edge source="Mr. Smith Goes to Washington" target="Mr. Deeds Goes to Town" id="657" />
+      <edge source="Mr. Smith Goes to Washington" target="Lady for a Day" id="658" />
+      <edge source="Mr. Smith Goes to Washington" target="It Happened One Night" id="659" />
+      <edge source="Mr. Smith Goes to Washington" target="Gone with the Wind (film)" id="660" />
+      <edge source="Mr. Smith Goes to Washington" target="Goodbye, Mr. Chips (1939 film)" id="661" />
+      <edge source="Mr. Smith Goes to Washington" target="Stagecoach (1939 film)" id="662" />
+      <edge source="Mr. Smith Goes to Washington" target="The Wizard of Oz (1939 film)" id="663" />
+      <edge source="The Wolf of Wall Street (2013 film)" target="Hugo (film)" id="664" />
+      <edge source="The Wolf of Wall Street (2013 film)" target="Goodfellas" id="665" />
+      <edge source="The Wolf of Wall Street (2013 film)" target="12 Years a Slave (film)" id="666" />
+      <edge source="The Wolf of Wall Street (2013 film)" target="Gravity (2013 film)" id="667" />
+      <edge source="Boys Town (film)" target="Pygmalion (1938 film)" id="668" />
+      <edge source="Pygmalion (1938 film)" target="My Fair Lady (film)" id="669" />
+      <edge source="Pygmalion (1938 film)" target="The Bridge on the River Kwai" id="670" />
+      <edge source="Lincoln (film)" target="Saving Private Ryan" id="671" />
+      <edge source="Lincoln (film)" target="Zero Dark Thirty" id="672" />
+      <edge source="Lincoln (film)" target="Django Unchained" id="673" />
+      <edge source="Top Gun: Maverick" target="Born on the Fourth of July (film)" id="674" />
+      <edge source="Top Gun: Maverick" target="Avatar: The Way of Water" id="675" />
+      <edge source="Top Gun: Maverick" target="West Side Story (2021 film)" id="676" />
+      <edge source="Mutiny on the Bounty (1962 film)" target="Mutiny on the Bounty (1935 film)" id="677" />
+      <edge source="Mutiny on the Bounty (1962 film)" target="The Godfather" id="678" />
+      <edge source="Belfast (film)" target="The Power of the Dog (film)" id="679" />
+      <edge source="Belfast (film)" target="West Side Story (2021 film)" id="680" />
+      <edge source="Belfast (film)" target="Titanic (1997 film)" id="681" />
+      <edge source="The Lion in Winter (1968 film)" target="Becket (1964 film)" id="682" />
+      <edge source="The Lion in Winter (1968 film)" target="A Man for All Seasons (1966 film)" id="683" />
+      <edge source="The Lion in Winter (1968 film)" target="Funny Girl (film)" id="684" />
+      <edge source="Funny Girl (film)" target="The Lion in Winter (1968 film)" id="685" />
+      <edge source="Funny Girl (film)" target="Ben-Hur (1959 film)" id="686" />
+      <edge source="Funny Girl (film)" target="Roman Holiday" id="687" />
+      <edge source="Funny Girl (film)" target="Gaslight (1944 film)" id="688" />
+      <edge source="Funny Girl (film)" target="Oliver! (film)" id="689" />
+      <edge source="Zero Dark Thirty" target="Argo (2012 film)" id="690" />
+      <edge source="Zero Dark Thirty" target="The Hurt Locker" id="691" />
+      <edge source="Silver Linings Playbook" target="The Fighter" id="692" />
+      <edge source="Silver Linings Playbook" target="Children of a Lesser God (film)" id="693" />
+      <edge source="Silver Linings Playbook" target="Reds (film)" id="694" />
+      <edge source="Silver Linings Playbook" target="Million Dollar Baby" id="695" />
+      <edge source="Django Unchained" target="Inglourious Basterds" id="696" />
+      <edge source="Django Unchained" target="Argo (2012 film)" id="697" />
+      <edge source="Django Unchained" target="Lincoln (film)" id="698" />
+      <edge source="Django Unchained" target="12 Years a Slave (film)" id="699" />
+      <edge source="Airport (1970 film)" target="Love Story (1970 film)" id="700" />
+      <edge source="Airport (1970 film)" target="Gone with the Wind (film)" id="701" />
+      <edge source="Airport (1970 film)" target="Five Easy Pieces" id="702" />
+      <edge source="Love Story (1970 film)" target="Love Affair (1939 film)" id="703" />
+      <edge source="Love Story (1970 film)" target="Ben-Hur (1959 film)" id="704" />
+      <edge source="Love Story (1970 film)" target="Airport (1970 film)" id="705" />
+      <edge source="Love Story (1970 film)" target="Gone with the Wind (film)" id="706" />
+      <edge source="Lawrence of Arabia (film)" target="The Bridge on the River Kwai" id="707" />
+      <edge source="Lawrence of Arabia (film)" target="Gone with the Wind (film)" id="708" />
+      <edge source="Lawrence of Arabia (film)" target="Dr. Strangelove" id="709" />
+      <edge source="Lawrence of Arabia (film)" target="Mr. Smith Goes to Washington" id="710" />
+      <edge source="Lawrence of Arabia (film)" target="The Hurt Locker" id="711" />
+      <edge source="Lawrence of Arabia (film)" target="Mad Max: Fury Road" id="712" />
+      <edge source="Women Talking (film)" target="Avatar: The Way of Water" id="713" />
+      <edge source="Avatar: The Way of Water" target="Avatar (2009 film)" id="714" />
+      <edge source="Avatar: The Way of Water" target="Titanic (1997 film)" id="715" />
+      <edge source="Avatar: The Way of Water" target="Top Gun: Maverick" id="716" />
+      <edge source="Ship of Fools (film)" target="Grand Hotel (1932 film)" id="717" />
+      <edge source="Grand Hotel (1932 film)" target="Gosford Park" id="718" />
+      <edge source="Toy Story 3" target="Up (2009 film)" id="719" />
+      <edge source="Toy Story 3" target="The Lord of the Rings: The Return of the King" id="720" />
+      <edge source="Toy Story 3" target="Shakespeare in Love" id="721" />
+      <edge source="Toy Story 3" target="Titanic (1997 film)" id="722" />
+      <edge source="Toy Story 3" target="The Social Network" id="723" />
+      <edge source="Up (2009 film)" target="The Hurt Locker" id="724" />
+      <edge source="Up (2009 film)" target="Casablanca (film)" id="725" />
+      <edge source="Up (2009 film)" target="The Mission (1986 film)" id="726" />
+      <edge source="Up (2009 film)" target="Toy Story 3" id="727" />
+      <edge source="Up (2009 film)" target="Avatar (2009 film)" id="728" />
+      <edge source="The Lord of the Rings: The Return of the King" target="The Lord of the Rings: The Two Towers" id="729" />
+      <edge source="The Lord of the Rings: The Return of the King" target="Ben-Hur (1959 film)" id="730" />
+      <edge source="The Lord of the Rings: The Return of the King" target="Titanic (1997 film)" id="731" />
+      <edge source="The Lord of the Rings: The Return of the King" target="The Lord of the Rings: The Fellowship of the Ring" id="732" />
+      <edge source="The Lord of the Rings: The Return of the King" target="Gigi (1958 film)" id="733" />
+      <edge source="The Lord of the Rings: The Return of the King" target="The Last Emperor" id="734" />
+      <edge source="The Lord of the Rings: The Return of the King" target="The Shape of Water" id="735" />
+      <edge source="Elizabeth (film)" target="Shakespeare in Love" id="736" />
+      <edge source="Here Comes Mr. Jordan" target="Heaven Can Wait (1978 film)" id="737" />
+      <edge source="Here Comes Mr. Jordan" target="Midnight Express (film)" id="738" />
+      <edge source="Heaven Can Wait (1978 film)" target="Here Comes Mr. Jordan" id="739" />
+      <edge source="Heaven Can Wait (1978 film)" target="Citizen Kane" id="740" />
+      <edge source="Midnight Express (film)" target="Lawrence of Arabia (film)" id="741" />
+      <edge source="Lost Horizon (1937 film)" target="It Happened One Night" id="742" />
+      <edge source="Lost Horizon (1937 film)" target="Mr. Deeds Goes to Town" id="743" />
+      <edge source="Lost Horizon (1937 film)" target="The Life of Emile Zola" id="744" />
+      <edge source="Lost Horizon (1937 film)" target="One Hundred Men and a Girl" id="745" />
+      <edge source="Lost Horizon (1937 film)" target="In Old Chicago" id="746" />
+      <edge source="Lost Horizon (1937 film)" target="Mary Poppins (film)" id="747" />
+      <edge source="Lost Horizon (1937 film)" target="My Fair Lady (film)" id="748" />
+      <edge source="Lost Horizon (1937 film)" target="The Sound of Music (film)" id="749" />
+      <edge source="It Happened One Night" target="The Silence of the Lambs (film)" id="750" />
+      <edge source="Mr. Deeds Goes to Town" target="Lost Horizon (1937 film)" id="751" />
+      <edge source="Mr. Deeds Goes to Town" target="It Happened One Night" id="752" />
+      <edge source="Mr. Deeds Goes to Town" target="Mr. Smith Goes to Washington" id="753" />
+      <edge source="The Life of Emile Zola" target="The Story of Louis Pasteur" id="754" />
+      <edge source="In Old Chicago" target="The Wizard of Oz (1939 film)" id="755" />
+      <edge source="Bohemian Rhapsody (film)" target="Joker (2019 film)" id="756" />
+      <edge source="Bohemian Rhapsody (film)" target="Out of Africa (film)" id="757" />
+      <edge source="Bohemian Rhapsody (film)" target="Green Book (film)" id="758" />
+      <edge source="One Flew Over the Cuckoo's Nest (film)" target="It Happened One Night" id="759" />
+      <edge source="One Flew Over the Cuckoo's Nest (film)" target="The Silence of the Lambs (film)" id="760" />
+      <edge source="One Flew Over the Cuckoo's Nest (film)" target="Nashville (film)" id="761" />
+      <edge source="One Flew Over the Cuckoo's Nest (film)" target="Dog Day Afternoon" id="762" />
+      <edge source="Dog Day Afternoon" target="The Godfather" id="763" />
+      <edge source="Dog Day Afternoon" target="12 Angry Men (1957 film)" id="764" />
+      <edge source="Dog Day Afternoon" target="The Godfather Part II" id="765" />
+      <edge source="127 Hours" target="Slumdog Millionaire" id="766" />
+      <edge source="127 Hours" target="Toy Story 3" id="767" />
+      <edge source="The Shape of Water" target="The Lord of the Rings: The Return of the King" id="768" />
+      <edge source="The Shape of Water" target="Darkest Hour (film)" id="769" />
+      <edge source="The Shape of Water" target="Moonlight (2016 film)" id="770" />
+      <edge source="Bridge of Spies (film)" target="The Color Purple (1985 film)" id="771" />
+      <edge source="Bridge of Spies (film)" target="The Martian (film)" id="772" />
+      <edge source="The Martian (film)" target="Gravity (2013 film)" id="773" />
+      <edge source="The Martian (film)" target="Gladiator (2000 film)" id="774" />
+      <edge source="The Martian (film)" target="Avatar (2009 film)" id="775" />
+      <edge source="Patton (film)" target="Lawrence of Arabia (film)" id="776" />
+      <edge source="Patton (film)" target="Five Easy Pieces" id="777" />
+      <edge source="Hamlet (1948 film)" target="Henry V (1944 film)" id="778" />
+      <edge source="Hamlet (1948 film)" target="Life Is Beautiful" id="779" />
+      <edge source="Hamlet (1948 film)" target="The Shape of Water" id="780" />
+      <edge source="Henry V (1944 film)" target="Hamlet (1948 film)" id="781" />
+      <edge source="Henry V (1944 film)" target="Romeo and Juliet (1936 film)" id="782" />
+      <edge source="Life Is Beautiful" target="Crouching Tiger, Hidden Dragon" id="783" />
+      <edge source="Life Is Beautiful" target="Il Postino: The Postman" id="784" />
+      <edge source="The Favourite" target="Roma (2018 film)" id="785" />
+      <edge source="The Favourite" target="All About Eve" id="786" />
+      <edge source="Crouching Tiger, Hidden Dragon" target="Roma (2018 film)" id="787" />
+      <edge source="Rebecca (1940 film)" target="Gone with the Wind (film)" id="788" />
+      <edge source="The Long Voyage Home" target="Citizen Kane" id="789" />
+      <edge source="The Long Voyage Home" target="The Grapes of Wrath (film)" id="790" />
+      <edge source="Born on the Fourth of July (film)" target="Platoon (film)" id="791" />
+      <edge source="Born on the Fourth of July (film)" target="Coming Home (1978 film)" id="792" />
+      <edge source="Born on the Fourth of July (film)" target="Apocalypse Now" id="793" />
+      <edge source="Born on the Fourth of July (film)" target="Driving Miss Daisy" id="794" />
+      <edge source="The Deer Hunter" target="Julia (1977 film)" id="795" />
+      <edge source="The Deer Hunter" target="The Godfather Part II" id="796" />
+      <edge source="The Deer Hunter" target="Taxi Driver" id="797" />
+      <edge source="The Deer Hunter" target="Apocalypse Now" id="798" />
+      <edge source="The Deer Hunter" target="The Godfather" id="799" />
+      <edge source="The Deer Hunter" target="La Grande Illusion" id="800" />
+      <edge source="The Deer Hunter" target="Coming Home (1978 film)" id="801" />
+      <edge source="The Deer Hunter" target="An Unmarried Woman" id="802" />
+      <edge source="The Deer Hunter" target="Heaven Can Wait (1978 film)" id="803" />
+      <edge source="The Deer Hunter" target="Midnight Express (film)" id="804" />
+      <edge source="The Deer Hunter" target="Platoon (film)" id="805" />
+      <edge source="The Deer Hunter" target="Born on the Fourth of July (film)" id="806" />
+      <edge source="The Deer Hunter" target="Saving Private Ryan" id="807" />
+      <edge source="The King's Speech" target="Slumdog Millionaire" id="808" />
+      <edge source="The King's Speech" target="Toy Story 3" id="809" />
+      <edge source="L.A. Confidential (film)" target="Titanic (1997 film)" id="810" />
+      <edge source="L.A. Confidential (film)" target="Chinatown (1974 film)" id="811" />
+      <edge source="L.A. Confidential (film)" target="The Social Network" id="812" />
+      <edge source="CODA (2021 film)" target="Manchester by the Sea (film)" id="813" />
+      <edge source="CODA (2021 film)" target="Sound of Metal" id="814" />
+      <edge source="CODA (2021 film)" target="Green Book (film)" id="815" />
+      <edge source="CODA (2021 film)" target="Grand Hotel (1932 film)" id="816" />
+      <edge source="CODA (2021 film)" target="Children of a Lesser God (film)" id="817" />
+      <edge source="Seven Brides for Seven Brothers" target="Funny Girl (film)" id="818" />
+      <edge source="Seven Brides for Seven Brothers" target="Witness for the Prosecution (1957 film)" id="819" />
+      <edge source="Seven Brides for Seven Brothers" target="The Grapes of Wrath (film)" id="820" />
+      <edge source="Seven Brides for Seven Brothers" target="San Francisco (1936 film)" id="821" />
+      <edge source="San Francisco (1936 film)" target="Test Pilot (film)" id="822" />
+      <edge source="San Francisco (1936 film)" target="The Great Ziegfeld" id="823" />
+      <edge source="San Francisco (1936 film)" target="Mr. Deeds Goes to Town" id="824" />
+      <edge source="San Francisco (1936 film)" target="The Story of Louis Pasteur" id="825" />
+      <edge source="The Towering Inferno" target="Butch Cassidy and the Sundance Kid" id="826" />
+      <edge source="The Towering Inferno" target="Jaws (film)" id="827" />
+      <edge source="A Streetcar Named Desire (1951 film)" target="Network (1976 film)" id="828" />
+      <edge source="A Streetcar Named Desire (1951 film)" target="Everything Everywhere All at Once" id="829" />
+      <edge source="A Streetcar Named Desire (1951 film)" target="Anthony Adverse" id="830" />
+      <edge source="Everything Everywhere All at Once" target="Licorice Pizza" id="831" />
+      <edge source="Everything Everywhere All at Once" target="The Lord of the Rings: The Return of the King" id="832" />
+      <edge source="Everything Everywhere All at Once" target="American Beauty (1999 film)" id="833" />
+      <edge source="Everything Everywhere All at Once" target="No Country for Old Men" id="834" />
+      <edge source="Everything Everywhere All at Once" target="Slumdog Millionaire" id="835" />
+      <edge source="Everything Everywhere All at Once" target="Argo (2012 film)" id="836" />
+      <edge source="Everything Everywhere All at Once" target="A Streetcar Named Desire (1951 film)" id="837" />
+      <edge source="Everything Everywhere All at Once" target="Network (1976 film)" id="838" />
+      <edge source="Everything Everywhere All at Once" target="The Fabelmans" id="839" />
+      <edge source="Everything Everywhere All at Once" target="The Post (film)" id="840" />
+      <edge source="Everything Everywhere All at Once" target="West Side Story (2021 film)" id="841" />
+      <edge source="Everything Everywhere All at Once" target="CODA (2021 film)" id="842" />
+      <edge source="Babel (film)" target="The Departed" id="843" />
+      <edge source="Darkest Hour (film)" target="The Theory of Everything (2014 film)" id="844" />
+      <edge source="Darkest Hour (film)" target="The Shape of Water" id="845" />
+      <edge source="Darkest Hour (film)" target="Dunkirk (2017 film)" id="846" />
+      <edge source="Dunkirk (2017 film)" target="All Quiet on the Western Front (1930 film)" id="847" />
+      <edge source="Dunkirk (2017 film)" target="Chariots of Fire" id="848" />
+      <edge source="Dunkirk (2017 film)" target="Foreign Correspondent (film)" id="849" />
+      <edge source="Dunkirk (2017 film)" target="Saving Private Ryan" id="850" />
+      <edge source="Dunkirk (2017 film)" target="Atonement (2007 film)" id="851" />
+      <edge source="Dunkirk (2017 film)" target="Darkest Hour (film)" id="852" />
+      <edge source="The Thin Man (film)" target="The Awful Truth" id="853" />
+      <edge source="The Awful Truth" target="The Thin Man (film)" id="854" />
+      <edge source="The Awful Truth" target="It Happened One Night" id="855" />
+      <edge source="The Awful Truth" target="Lost Horizon (1937 film)" id="856" />
+      <edge source="The Best Years of Our Lives" target="Gone with the Wind (film)" id="857" />
+      <edge source="Gigi (1958 film)" target="The Last Emperor" id="858" />
+      <edge source="Gigi (1958 film)" target="The Lord of the Rings: The Return of the King" id="859" />
+      <edge source="Gigi (1958 film)" target="An American in Paris (film)" id="860" />
+      <edge source="Gigi (1958 film)" target="My Fair Lady (film)" id="861" />
+      <edge source="Gigi (1958 film)" target="Ben-Hur (1959 film)" id="862" />
+      <edge source="A Place in the Sun (1951 film)" target="The Godfather" id="863" />
+      <edge source="A Place in the Sun (1951 film)" target="Dodsworth (film)" id="864" />
+      <edge source="Dodsworth (film)" target="The Godfather" id="865" />
+      <edge source="Dodsworth (film)" target="A Place in the Sun (1951 film)" id="866" />
+      <edge source="The Letter (1940 film)" target="Jezebel (1938 film)" id="867" />
+      <edge source="Fanny (1961 film)" target="West Side Story (1961 film)" id="868" />
+      <edge source="The Lord of the Rings: The Two Towers" target="The Lord of the Rings: The Fellowship of the Ring" id="869" />
+      <edge source="The Lord of the Rings: The Two Towers" target="Titanic (1997 film)" id="870" />
+      <edge source="The Lord of the Rings: The Two Towers" target="The Lord of the Rings: The Return of the King" id="871" />
+      <edge source="The Lord of the Rings: The Fellowship of the Ring" target="The Lord of the Rings: The Two Towers" id="872" />
+      <edge source="The Lord of the Rings: The Fellowship of the Ring" target="The Lord of the Rings: The Return of the King" id="873" />
+      <edge source="The Lord of the Rings: The Fellowship of the Ring" target="Gladiator (2000 film)" id="874" />
+      <edge source="The Lord of the Rings: The Fellowship of the Ring" target="Avatar (2009 film)" id="875" />
+      <edge source="The Blind Side (film)" target="A Serious Man" id="876" />
+      <edge source="The Blind Side (film)" target="The Kids Are All Right (film)" id="877" />
+      <edge source="Around the World in 80 Days (1956 film)" target="Friendly Persuasion (1956 film)" id="878" />
+      <edge source="Around the World in 80 Days (1956 film)" target="Giant (1956 film)" id="879" />
+      <edge source="Around the World in 80 Days (1956 film)" target="The King and I (1956 film)" id="880" />
+      <edge source="Around the World in 80 Days (1956 film)" target="The Ten Commandments (1956 film)" id="881" />
+      <edge source="Giant (1956 film)" target="Cimarron (1931 film)" id="882" />
+      <edge source="The King and I (1956 film)" target="The Ten Commandments (1956 film)" id="883" />
+      <edge source="The Ten Commandments (1956 film)" target="The King and I (1956 film)" id="884" />
+      <edge source="The Ten Commandments (1956 film)" target="The Greatest Show on Earth (film)" id="885" />
+      <edge source="The Ten Commandments (1956 film)" target="Cleopatra (1934 film)" id="886" />
+      <edge source="The Ten Commandments (1956 film)" target="Rebecca (1940 film)" id="887" />
+      <edge source="The Ten Commandments (1956 film)" target="The Robe (film)" id="888" />
+      <edge source="The Ten Commandments (1956 film)" target="Raiders of the Lost Ark" id="889" />
+      <edge source="The Ten Commandments (1956 film)" target="Gone with the Wind (film)" id="890" />
+      <edge source="The Ten Commandments (1956 film)" target="Ben-Hur (1959 film)" id="891" />
+      <edge source="The Ten Commandments (1956 film)" target="Avatar (2009 film)" id="892" />
+      <edge source="The Ten Commandments (1956 film)" target="Star Wars (film)" id="893" />
+      <edge source="The Ten Commandments (1956 film)" target="Titanic (1997 film)" id="894" />
+      <edge source="The Ten Commandments (1956 film)" target="The Sound of Music (film)" id="895" />
+      <edge source="The Ten Commandments (1956 film)" target="E.T. the Extra-Terrestrial" id="896" />
+      <edge source="The Quiet Man" target="The Informer (1935 film)" id="897" />
+      <edge source="The Quiet Man" target="E.T. the Extra-Terrestrial" id="898" />
+      <edge source="Raiders of the Lost Ark" target="Star Wars (film)" id="899" />
+      <edge source="Raiders of the Lost Ark" target="American Graffiti" id="900" />
+      <edge source="Raiders of the Lost Ark" target="The Treasure of the Sierra Madre (film)" id="901" />
+      <edge source="Raiders of the Lost Ark" target="The Informer (1935 film)" id="902" />
+      <edge source="Raiders of the Lost Ark" target="On Golden Pond (1981 film)" id="903" />
+      <edge source="Raiders of the Lost Ark" target="The French Connection (film)" id="904" />
+      <edge source="Raiders of the Lost Ark" target="Citizen Kane" id="905" />
+      <edge source="Raiders of the Lost Ark" target="Lawrence of Arabia (film)" id="906" />
+      <edge source="Raiders of the Lost Ark" target="The Godfather" id="907" />
+      <edge source="Raiders of the Lost Ark" target="To Kill a Mockingbird (film)" id="908" />
+      <edge source="Jaws (film)" target="Star Wars (film)" id="909" />
+      <edge source="Jaws (film)" target="The French Connection (film)" id="910" />
+      <edge source="Jaws (film)" target="The Sting" id="911" />
+      <edge source="Jaws (film)" target="American Graffiti" id="912" />
+      <edge source="Jaws (film)" target="Taxi Driver" id="913" />
+      <edge source="Jaws (film)" target="The Godfather" id="914" />
+      <edge source="Jaws (film)" target="E.T. the Extra-Terrestrial" id="915" />
+      <edge source="Jaws (film)" target="Titanic (1997 film)" id="916" />
+      <edge source="Jaws (film)" target="Gone with the Wind (film)" id="917" />
+      <edge source="Gandhi (film)" target="The Bridge on the River Kwai" id="918" />
+      <edge source="Gandhi (film)" target="Lawrence of Arabia (film)" id="919" />
+      <edge source="Gandhi (film)" target="A Passage to India (film)" id="920" />
+      <edge source="The Green Mile (film)" target="Top Hat" id="921" />
+      <edge source="The Green Mile (film)" target="The Shawshank Redemption" id="922" />
+      <edge source="The Shawshank Redemption" target="Pulp Fiction" id="923" />
+      <edge source="The Shawshank Redemption" target="Forrest Gump" id="924" />
+      <edge source="The Shawshank Redemption" target="Mr. Smith Goes to Washington" id="925" />
+      <edge source="The Shawshank Redemption" target="Goodfellas" id="926" />
+      <edge source="The Shawshank Redemption" target="Quiz Show (film)" id="927" />
+      <edge source="The Shawshank Redemption" target="The Green Mile (film)" id="928" />
+      <edge source="The Shawshank Redemption" target="The Godfather" id="929" />
+      <edge source="The Shawshank Redemption" target="Gone with the Wind (film)" id="930" />
+      <edge source="Cavalcade (1933 film)" target="Wings (1927 film)" id="931" />
+      <edge source="Moneyball (film)" target="Capote (film)" id="932" />
+      <edge source="Jerry Maguire" target="A Few Good Men" id="933" />
+      <edge source="Jerry Maguire" target="Born on the Fourth of July (film)" id="934" />
+      <edge source="Jerry Maguire" target="Mr. Smith Goes to Washington" id="935" />
+      <edge source="Jerry Maguire" target="Dr. Strangelove" id="936" />
+      <edge source="Jerry Maguire" target="Lawrence of Arabia (film)" id="937" />
+      <edge source="Jerry Maguire" target="Gandhi (film)" id="938" />
+      <edge source="A Few Good Men" target="Jerry Maguire" id="939" />
+      <edge source="Wuthering Heights (1939 film)" target="The Wizard of Oz (1939 film)" id="940" />
+      <edge source="Wuthering Heights (1939 film)" target="Gone with the Wind (film)" id="941" />
+      <edge source="Stagecoach (1939 film)" target="Citizen Kane" id="942" />
+      <edge source="Kitty Foyle (film)" target="Stage Door" id="943" />
+      <edge source="Gaslight (1944 film)" target="Rebecca (1940 film)" id="944" />
+      <edge source="Gaslight (1944 film)" target="Suspicion (1941 film)" id="945" />
+      <edge source="Mildred Pierce (film)" target="Grand Hotel (1932 film)" id="946" />
+      <edge source="Reds (film)" target="Chariots of Fire" id="947" />
+      <edge source="Reds (film)" target="Heaven Can Wait (1978 film)" id="948" />
+      <edge source="Reds (film)" target="Bonnie and Clyde (film)" id="949" />
+      <edge source="Reds (film)" target="On Golden Pond (1981 film)" id="950" />
+      <edge source="Reds (film)" target="Citizen Kane" id="951" />
+      <edge source="Reds (film)" target="Annie Hall" id="952" />
+      <edge source="Love Affair (1939 film)" target="The Awful Truth" id="953" />
+      <edge source="Love Affair (1939 film)" target="Gone with the Wind (film)" id="954" />
+      <edge source="Love Affair (1939 film)" target="Wuthering Heights (1939 film)" id="955" />
+      <edge source="Sons and Lovers (film)" target="Room at the Top (1959 film)" id="956" />
+      <edge source="Sons and Lovers (film)" target="The Apartment" id="957" />
+      <edge source="Inglourious Basterds" target="Django Unchained" id="958" />
+      <edge source="Inglourious Basterds" target="Once Upon a Time in Hollywood" id="959" />
+      <edge source="Inglourious Basterds" target="The Guns of Navarone (film)" id="960" />
+      <edge source="Inglourious Basterds" target="Pulp Fiction" id="961" />
+      <edge source="Inglourious Basterds" target="The Alamo (1960 film)" id="962" />
+      <edge source="Inglourious Basterds" target="District 9" id="963" />
+      <edge source="Romeo and Juliet (1936 film)" target="Romeo and Juliet (1968 film)" id="964" />
+      <edge source="Oliver! (film)" target="Ben-Hur (1959 film)" id="965" />
+      <edge source="Oliver! (film)" target="The Wizard of Oz (1939 film)" id="966" />
+      <edge source="Oliver! (film)" target="Funny Girl (film)" id="967" />
+      <edge source="Oliver! (film)" target="Chicago (2002 film)" id="968" />
+      <edge source="Oliver! (film)" target="Hello, Dolly! (film)" id="969" />
+      <edge source="Oliver! (film)" target="Fiddler on the Roof (film)" id="970" />
+      <edge source="Oliver! (film)" target="Cabaret (1972 film)" id="971" />
+      <edge source="Oliver! (film)" target="All That Jazz (film)" id="972" />
+      <edge source="Oliver! (film)" target="Beauty and the Beast (1991 film)" id="973" />
+      <edge source="Oliver! (film)" target="Moulin Rouge!" id="974" />
+      <edge source="Oliver! (film)" target="Chariots of Fire" id="975" />
+      <edge source="The Greatest Show on Earth (film)" target="Random Harvest (film)" id="976" />
+      <edge source="The Greatest Show on Earth (film)" target="Spotlight (film)" id="977" />
+      <edge source="The Greatest Show on Earth (film)" target="High Noon" id="978" />
+      <edge source="The Greatest Show on Earth (film)" target="The Quiet Man" id="979" />
+      <edge source="The Greatest Show on Earth (film)" target="Ivanhoe (1952 film)" id="980" />
+      <edge source="The Greatest Show on Earth (film)" target="Crash (2004 film)" id="981" />
+      <edge source="The Greatest Show on Earth (film)" target="The Broadway Melody" id="982" />
+      <edge source="The Greatest Show on Earth (film)" target="The Fabelmans" id="983" />
+      <edge source="Random Harvest (film)" target="Mrs. Miniver" id="984" />
+      <edge source="Random Harvest (film)" target="The Yearling (1946 film)" id="985" />
+      <edge source="Spotlight (film)" target="The Greatest Show on Earth (film)" id="986" />
+      <edge source="Spotlight (film)" target="The Post (film)" id="987" />
+      <edge source="Spotlight (film)" target="The Hurt Locker" id="988" />
+      <edge source="Ivanhoe (1952 film)" target="Quo Vadis (1951 film)" id="989" />
+      <edge source="The Broadway Melody" target="Broadway Melody of 1936" id="990" />
+      <edge source="12 Angry Men (1957 film)" target="To Kill a Mockingbird (film)" id="991" />
+      <edge source="Juno (film)" target="Titanic (1997 film)" id="992" />
+      <edge source="Parasite (2019 film)" target="Slumdog Millionaire" id="993" />
+      <edge source="Parasite (2019 film)" target="Gladiator (2000 film)" id="994" />
+      <edge source="Parasite (2019 film)" target="Life Is Beautiful" id="995" />
+      <edge source="Parasite (2019 film)" target="Crouching Tiger, Hidden Dragon" id="996" />
+      <edge source="Parasite (2019 film)" target="Marty (film)" id="997" />
+      <edge source="Parasite (2019 film)" target="Everything Everywhere All at Once" id="998" />
+      <edge source="Parasite (2019 film)" target="The Artist (film)" id="999" />
+      <edge source="Parasite (2019 film)" target="The Last Emperor" id="1000" />
+      <edge source="Forrest Gump" target="Rain Man" id="1001" />
+      <edge source="Forrest Gump" target="E.T. the Extra-Terrestrial" id="1002" />
+      <edge source="Forrest Gump" target="Raiders of the Lost Ark" id="1003" />
+      <edge source="Forrest Gump" target="Titanic (1997 film)" id="1004" />
+      <edge source="Forrest Gump" target="The Shawshank Redemption" id="1005" />
+      <edge source="Dead Poets Society" target="Dangerous Liaisons" id="1006" />
+      <edge source="Lilies of the Field (1963 film)" target="Gone with the Wind (film)" id="1007" />
+      <edge source="Cimarron (1931 film)" target="Dances with Wolves" id="1008" />
+      <edge source="Cimarron (1931 film)" target="No Country for Old Men" id="1009" />
+      <edge source="Cimarron (1931 film)" target="The Best Years of Our Lives" id="1010" />
+      <edge source="Roman Holiday" target="From Here to Eternity" id="1011" />
+      <edge source="Atonement (2007 film)" target="In Which We Serve" id="1012" />
+      <edge source="In Which We Serve" target="Casablanca (film)" id="1013" />
+      <edge source="Up in the Air (2009 film)" target="Juno (film)" id="1014" />
+      <edge source="Up in the Air (2009 film)" target="Lost in Translation (film)" id="1015" />
+      <edge source="Up in the Air (2009 film)" target="The Apartment" id="1016" />
+      <edge source="Gentleman's Agreement" target="Crossfire (film)" id="1017" />
+      <edge source="Apollo 13 (film)" target="Forrest Gump" id="1018" />
+      <edge source="Apollo 13 (film)" target="Quiz Show (film)" id="1019" />
+      <edge source="Apollo 13 (film)" target="Braveheart" id="1020" />
+      <edge source="Apollo 13 (film)" target="Sense and Sensibility (film)" id="1021" />
+      <edge source="Apollo 13 (film)" target="Babe (film)" id="1022" />
+      <edge source="Apollo 13 (film)" target="Gravity (2013 film)" id="1023" />
+      <edge source="American Hustle" target="True Grit (2010 film)" id="1024" />
+      <edge source="American Hustle" target="Gangs of New York" id="1025" />
+      <edge source="American Hustle" target="The Turning Point (1977 film)" id="1026" />
+      <edge source="American Hustle" target="The Color Purple (1985 film)" id="1027" />
+      <edge source="American Hustle" target="Silver Linings Playbook" id="1028" />
+      <edge source="American Hustle" target="Sunset Boulevard (film)" id="1029" />
+      <edge source="Bonnie and Clyde (film)" target="My Fair Lady (film)" id="1030" />
+      <edge source="Bonnie and Clyde (film)" target="The Godfather" id="1031" />
+      <edge source="Bonnie and Clyde (film)" target="The Departed" id="1032" />
+      <edge source="A Clockwork Orange (film)" target="The Godfather" id="1033" />
+      <edge source="A Clockwork Orange (film)" target="Bonnie and Clyde (film)" id="1034" />
+      <edge source="Mystic River (film)" target="Ben-Hur (1959 film)" id="1035" />
+      <edge source="Mystic River (film)" target="Dallas Buyers Club" id="1036" />
+      <edge source="The Banshees of Inisherin" target="The Quiet Man" id="1037" />
+      <edge source="Cleopatra (1934 film)" target="Cleopatra (1963 film)" id="1038" />
+      <edge source="The Robe (film)" target="Quo Vadis (1951 film)" id="1039" />
+      <edge source="The Robe (film)" target="The Wizard of Oz (1939 film)" id="1040" />
+      <edge source="The Robe (film)" target="The Bridge on the River Kwai" id="1041" />
+      <edge source="La La Land" target="Whiplash (2014 film)" id="1042" />
+      <edge source="La La Land" target="An American in Paris (film)" id="1043" />
+      <edge source="La La Land" target="The Big Short (film)" id="1044" />
+      <edge source="La La Land" target="Top Hat" id="1045" />
+      <edge source="La La Land" target="The Wizard of Oz (1939 film)" id="1046" />
+      <edge source="La La Land" target="Hidden Figures" id="1047" />
+      <edge source="La La Land" target="Moonlight (2016 film)" id="1048" />
+      <edge source="La La Land" target="All About Eve" id="1049" />
+      <edge source="La La Land" target="Titanic (1997 film)" id="1050" />
+      <edge source="Whiplash (2014 film)" target="La La Land" id="1051" />
+      <edge source="The Big Short (film)" target="Moneyball (film)" id="1052" />
+      <edge source="The Big Short (film)" target="The Revenant (2015 film)" id="1053" />
+      <edge source="The Big Short (film)" target="The Wolf of Wall Street (2013 film)" id="1054" />
+      <edge source="Hidden Figures" target="Lion (2016 film)" id="1055" />
+      <edge source="Hidden Figures" target="Moonlight (2016 film)" id="1056" />
+      <edge source="Hidden Figures" target="Fences (film)" id="1057" />
+      <edge source="Tootsie" target="E.T. the Extra-Terrestrial" id="1058" />
+      <edge source="Beauty and the Beast (1991 film)" target="The Silence of the Lambs (film)" id="1059" />
+      <edge source="Beauty and the Beast (1991 film)" target="Avatar (2009 film)" id="1060" />
+      <edge source="Beauty and the Beast (1991 film)" target="Mary Poppins (film)" id="1061" />
+      <edge source="Beauty and the Beast (1991 film)" target="Dead Poets Society" id="1062" />
+      <edge source="Beauty and the Beast (1991 film)" target="All That Jazz (film)" id="1063" />
+      <edge source="Beauty and the Beast (1991 film)" target="Moulin Rouge!" id="1064" />
+      <edge source="The Pianist (2002 film)" target="The Piano" id="1065" />
+      <edge source="The Pianist (2002 film)" target="Chicago (2002 film)" id="1066" />
+      <edge source="The Pianist (2002 film)" target="12 Years a Slave (film)" id="1067" />
+      <edge source="Johnny Belinda (1948 film)" target="The Treasure of the Sierra Madre (film)" id="1068" />
+      <edge source="La Grande Illusion" target="All Quiet on the Western Front (1930 film)" id="1069" />
+      <edge source="Coming Home (1978 film)" target="Born on the Fourth of July (film)" id="1070" />
+      <edge source="Coming Home (1978 film)" target="Midnight Cowboy" id="1071" />
+      <edge source="Coming Home (1978 film)" target="Julia (1977 film)" id="1072" />
+      <edge source="Coming Home (1978 film)" target="The Best Years of Our Lives" id="1073" />
+      <edge source="An Unmarried Woman" target="Julia (1977 film)" id="1074" />
+      <edge source="An Unmarried Woman" target="The Deer Hunter" id="1075" />
+      <edge source="Braveheart" target="Apollo 13 (film)" id="1076" />
+      <edge source="Braveheart" target="Il Postino: The Postman" id="1077" />
+      <edge source="Braveheart" target="Sense and Sensibility (film)" id="1078" />
+      <edge source="Braveheart" target="The Shape of Water" id="1079" />
+      <edge source="Braveheart" target="Green Book (film)" id="1080" />
+      <edge source="Dark Victory" target="Gone with the Wind (film)" id="1081" />
+      <edge source="Dark Victory" target="The Wizard of Oz (1939 film)" id="1082" />
+      <edge source="The Ox-Bow Incident" target="Casablanca (film)" id="1083" />
+      <edge source="The Ox-Bow Incident" target="The Grapes of Wrath (film)" id="1084" />
+      <edge source="District 9" target="Avatar (2009 film)" id="1085" />
+      <edge source="District 9" target="Inglourious Basterds" id="1086" />
+      <edge source="District 9" target="As Good as It Gets" id="1087" />
+      <edge source="District 9" target="Jerry Maguire" id="1088" />
+      <edge source="District 9" target="Bugsy" id="1089" />
+      <edge source="District 9" target="Places in the Heart" id="1090" />
+      <edge source="As Good as It Gets" target="The Silence of the Lambs (film)" id="1091" />
+      <edge source="As Good as It Gets" target="Titanic (1997 film)" id="1092" />
+      <edge source="As Good as It Gets" target="It Happened One Night" id="1093" />
+      <edge source="As Good as It Gets" target="The Last Picture Show" id="1094" />
+      <edge source="Bugsy" target="Reds (film)" id="1095" />
+      <edge source="Bugsy" target="Bonnie and Clyde (film)" id="1096" />
+      <edge source="Bugsy" target="Heaven Can Wait (1978 film)" id="1097" />
+      <edge source="American Graffiti" target="Apocalypse Now" id="1098" />
+      <edge source="American Graffiti" target="Star Wars (film)" id="1099" />
+      <edge source="American Graffiti" target="The Godfather" id="1100" />
+      <edge source="The Revenant (2015 film)" target="Birdman (film)" id="1101" />
+      <edge source="The Revenant (2015 film)" target="Saving Private Ryan" id="1102" />
+      <edge source="The Revenant (2015 film)" target="Bridge of Spies (film)" id="1103" />
+      <edge source="The Revenant (2015 film)" target="Spotlight (film)" id="1104" />
+      <edge source="Dallas Buyers Club" target="Mystic River (film)" id="1105" />
+      <edge source="Dallas Buyers Club" target="Argo (2012 film)" id="1106" />
+      <edge source="No Country for Old Men" target="Fargo (1996 film)" id="1107" />
+      <edge source="No Country for Old Men" target="Cimarron (1931 film)" id="1108" />
+      <edge source="No Country for Old Men" target="Dances with Wolves" id="1109" />
+      <edge source="No Country for Old Men" target="Unforgiven" id="1110" />
+      <edge source="No Country for Old Men" target="There Will Be Blood" id="1111" />
+      <edge source="No Country for Old Men" target="Jaws (film)" id="1112" />
+      <edge source="No Country for Old Men" target="True Grit (2010 film)" id="1113" />
+      <edge source="No Country for Old Men" target="Crash (2004 film)" id="1114" />
+      <edge source="No Country for Old Men" target="The Hurt Locker" id="1115" />
+      <edge source="No Country for Old Men" target="The Departed" id="1116" />
+      <edge source="No Country for Old Men" target="West Side Story (1961 film)" id="1117" />
+      <edge source="Little Women (2019 film)" target="Lady Bird (film)" id="1118" />
+      <edge source="Little Women (2019 film)" target="The Favourite" id="1119" />
+      <edge source="In Old Arizona" target="The Patriot (1928 film)" id="1120" />
+      <edge source="It's a Wonderful Life" target="Mr. Smith Goes to Washington" id="1121" />
+      <edge source="It's a Wonderful Life" target="Mr. Deeds Goes to Town" id="1122" />
+      <edge source="It's a Wonderful Life" target="Lost Horizon (1937 film)" id="1123" />
+      <edge source="It's a Wonderful Life" target="The Best Years of Our Lives" id="1124" />
+      <edge source="It's a Wonderful Life" target="Miracle on 34th Street" id="1125" />
+      <edge source="It's a Wonderful Life" target="Lady for a Day" id="1126" />
+      <edge source="Lady for a Day" target="Cavalcade (1933 film)" id="1127" />
+      <edge source="Lady for a Day" target="Little Women (1933 film)" id="1128" />
+      <edge source="Driving Miss Daisy" target="Grand Hotel (1932 film)" id="1129" />
+      <edge source="Driving Miss Daisy" target="Argo (2012 film)" id="1130" />
+      <edge source="Driving Miss Daisy" target="Green Book (film)" id="1131" />
+      <edge source="Driving Miss Daisy" target="CODA (2021 film)" id="1132" />
+      <edge source="Driving Miss Daisy" target="Wings (1927 film)" id="1133" />
+      <edge source="Driving Miss Daisy" target="My Left Foot" id="1134" />
+      <edge source="Hello, Dolly! (film)" target="Cleopatra (1963 film)" id="1135" />
+      <edge source="Hello, Dolly! (film)" target="The Sound of Music (film)" id="1136" />
+      <edge source="Chariots of Fire" target="A Man for All Seasons (1966 film)" id="1137" />
+      <edge source="Chariots of Fire" target="Midnight Express (film)" id="1138" />
+      <edge source="Chariots of Fire" target="Breaking Away" id="1139" />
+      <edge source="Chariots of Fire" target="Reds (film)" id="1140" />
+      <edge source="True Grit (2010 film)" target="The Social Network" id="1141" />
+      <edge source="True Grit (2010 film)" target="Dances with Wolves" id="1142" />
+      <edge source="Dances with Wolves" target="Cimarron (1931 film)" id="1143" />
+      <edge source="Dances with Wolves" target="Unforgiven" id="1144" />
+      <edge source="Dances with Wolves" target="No Country for Old Men" id="1145" />
+      <edge source="Dances with Wolves" target="Lawrence of Arabia (film)" id="1146" />
+      <edge source="Dances with Wolves" target="Ghost (1990 film)" id="1147" />
+      <edge source="Dances with Wolves" target="Avatar (2009 film)" id="1148" />
+      <edge source="Quiz Show (film)" target="Marty (film)" id="1149" />
+      <edge source="Quiz Show (film)" target="Bugsy" id="1150" />
+      <edge source="Quiz Show (film)" target="The Shawshank Redemption" id="1151" />
+      <edge source="Quiz Show (film)" target="A Man for All Seasons (1966 film)" id="1152" />
+      <edge source="Marty (film)" target="The Lost Weekend" id="1153" />
+      <edge source="Marty (film)" target="Parasite (2019 film)" id="1154" />
+      <edge source="William Shakespeare's Julius Caesar" target="Henry V (1944 film)" id="1155" />
+      <edge source="William Shakespeare's Julius Caesar" target="Quo Vadis (1951 film)" id="1156" />
+      <edge source="William Shakespeare's Julius Caesar" target="A Streetcar Named Desire (1951 film)" id="1157" />
+      <edge source="William Shakespeare's Julius Caesar" target="On the Waterfront" id="1158" />
+      <edge source="Traffic (2000 film)" target="Erin Brockovich (film)" id="1159" />
+      <edge source="Traffic (2000 film)" target="Z (1969 film)" id="1160" />
+      <edge source="Erin Brockovich (film)" target="Traffic (2000 film)" id="1161" />
+      <edge source="The Thin Red Line (1998 film)" target="The Elephant Man (film)" id="1162" />
+      <edge source="The Thin Red Line (1998 film)" target="Saving Private Ryan" id="1163" />
+      <edge source="The Thin Red Line (1998 film)" target="Platoon (film)" id="1164" />
+      <edge source="Hacksaw Ridge" target="Braveheart" id="1165" />
+      <edge source="Hacksaw Ridge" target="The Social Network" id="1166" />
+      <edge source="Hacksaw Ridge" target="Saving Private Ryan" id="1167" />
+      <edge source="You Can't Take It with You (film)" target="It Happened One Night" id="1168" />
+      <edge source="You Can't Take It with You (film)" target="Mr. Deeds Goes to Town" id="1169" />
+      <edge source="Peyton Place (film)" target="The Little Foxes (film)" id="1170" />
+      <edge source="Peyton Place (film)" target="The Turning Point (1977 film)" id="1171" />
+      <edge source="Peyton Place (film)" target="The Color Purple (1985 film)" id="1172" />
+      <edge source="In the Heat of the Night (film)" target="A Man for All Seasons (1966 film)" id="1173" />
+      <edge source="Zorba the Greek (film)" target="The Guns of Navarone (film)" id="1174" />
+      <edge source="The Guns of Navarone (film)" target="The Bridge on the River Kwai" id="1175" />
+      <edge source="The Guns of Navarone (film)" target="The Longest Day (film)" id="1176" />
+      <edge source="The Guns of Navarone (film)" target="Pulp Fiction" id="1177" />
+      <edge source="Anthony Adverse" target="Captain Blood (1935 film)" id="1178" />
+      <edge source="Mank" target="Citizen Kane" id="1179" />
+      <edge source="Mank" target="The Trial of the Chicago 7" id="1180" />
+      <edge source="Phantom Thread" target="There Will Be Blood" id="1181" />
+      <edge source="Phantom Thread" target="Rebecca (1940 film)" id="1182" />
+      <edge source="On Golden Pond (1981 film)" target="Raiders of the Lost Ark" id="1183" />
+      <edge source="On Golden Pond (1981 film)" target="Coming Home (1978 film)" id="1184" />
+      <edge source="On Golden Pond (1981 film)" target="The Silence of the Lambs (film)" id="1185" />
+      <edge source="Don't Look Up" target="Vice (2018 film)" id="1186" />
+      <edge source="Don't Look Up" target="The Big Short (film)" id="1187" />
+      <edge source="Don't Look Up" target="Dr. Strangelove" id="1188" />
+      <edge source="Don't Look Up" target="Parasite (2019 film)" id="1189" />
+      <edge source="Broadway Melody of 1936" target="The Broadway Melody" id="1190" />
+      <edge source="Inception" target="The Social Network" id="1191" />
+      <edge source="Inception" target="Avatar (2009 film)" id="1192" />
+      <edge source="Inception" target="Toy Story 3" id="1193" />
+      <edge source="Inception" target="Titanic (1997 film)" id="1194" />
+      <edge source="Inception" target="True Grit (2010 film)" id="1195" />
+      <edge source="Inception" target="Black Swan (film)" id="1196" />
+      <edge source="Schindler's List" target="The Pianist (2002 film)" id="1197" />
+      <edge source="Schindler's List" target="Out of Africa (film)" id="1198" />
+      <edge source="Schindler's List" target="The Piano" id="1199" />
+      <edge source="Born Yesterday (1950 film)" target="Sunset Boulevard (film)" id="1200" />
+      <edge source="Born Yesterday (1950 film)" target="All About Eve" id="1201" />
+      <edge source="Little Miss Sunshine" target="Fargo (1996 film)" id="1202" />
+      <edge source="Test Pilot (film)" target="The Right Stuff (film)" id="1203" />
+      <edge source="The Right Stuff (film)" target="Rocky" id="1204" />
+      <edge source="The Right Stuff (film)" target="Raging Bull" id="1205" />
+      <edge source="Doctor Zhivago (film)" target="The Sound of Music (film)" id="1206" />
+      <edge source="Doctor Zhivago (film)" target="Lawrence of Arabia (film)" id="1207" />
+      <edge source="Doctor Zhivago (film)" target="Gone with the Wind (film)" id="1208" />
+      <edge source="Doctor Zhivago (film)" target="Darling (1965 film)" id="1209" />
+      <edge source="Elvis (2022 film)" target="Top Gun: Maverick" id="1210" />
+      <edge source="Elvis (2022 film)" target="Moulin Rouge!" id="1211" />
+      <edge source="Elvis (2022 film)" target="The Maltese Falcon (1941 film)" id="1212" />
+      <edge source="Unforgiven" target="Scent of a Woman (1992 film)" id="1213" />
+      <edge source="Unforgiven" target="Cimarron (1931 film)" id="1214" />
+      <edge source="Unforgiven" target="Dances with Wolves" id="1215" />
+      <edge source="Unforgiven" target="The Fugitive (1993 film)" id="1216" />
+      <edge source="Unforgiven" target="High Noon" id="1217" />
+      <edge source="Unforgiven" target="Shane (film)" id="1218" />
+      <edge source="Ghost (1990 film)" target="E.T. the Extra-Terrestrial" id="1219" />
+      <edge source="JFK (film)" target="Born on the Fourth of July (film)" id="1220" />
+      <edge source="JFK (film)" target="The Killing Fields (film)" id="1221" />
+      <edge source="JFK (film)" target="Z (1969 film)" id="1222" />
+      <edge source="JFK (film)" target="Dances with Wolves" id="1223" />
+      <edge source="JFK (film)" target="The Longest Day (film)" id="1224" />
+      <edge source="JFK (film)" target="Beauty and the Beast (1991 film)" id="1225" />
+      <edge source="Cries and Whispers" target="Hannah and Her Sisters" id="1226" />
+      <edge source="Cries and Whispers" target="La Grande Illusion" id="1227" />
+      <edge source="Cries and Whispers" target="Z (1969 film)" id="1228" />
+      <edge source="Cries and Whispers" target="The Emigrants (film)" id="1229" />
+      <edge source="Spellbound (1945 film)" target="Rebecca (1940 film)" id="1230" />
+      <edge source="Spellbound (1945 film)" target="Gone with the Wind (film)" id="1231" />
+      <edge source="Triangle of Sadness" target="The Fabelmans" id="1232" />
+      <edge source="Triangle of Sadness" target="Parasite (2019 film)" id="1233" />
+      <edge source="The Red Shoes (1948 film)" target="The Best Years of Our Lives" id="1234" />
+      <edge source="1917 (2019 film)" target="Dunkirk (2017 film)" id="1235" />
+      <edge source="1917 (2019 film)" target="All Quiet on the Western Front (2022 film)" id="1236" />
+      <edge source="All Quiet on the Western Front (2022 film)" target="All Quiet on the Western Front (1930 film)" id="1237" />
+      <edge source="All Quiet on the Western Front (2022 film)" target="Crouching Tiger, Hidden Dragon" id="1238" />
+      <edge source="All Quiet on the Western Front (2022 film)" target="Parasite (2019 film)" id="1239" />
+      <edge source="Les Misérables (2012 film)" target="Django Unchained" id="1240" />
+      <edge source="Les Misérables (2012 film)" target="Argo (2012 film)" id="1241" />
+      <edge source="Les Misérables (2012 film)" target="La La Land" id="1242" />
+      <edge source="Les Misérables (2012 film)" target="West Side Story (2021 film)" id="1243" />
+      <edge source="Ford v Ferrari" target="Joker (2019 film)" id="1244" />
+      <edge source="David Copperfield (1935 film)" target="The Lives of a Bengal Lancer (film)" id="1245" />
+      <edge source="David Copperfield (1935 film)" target="Mutiny on the Bounty (1935 film)" id="1246" />
+      <edge source="David Copperfield (1935 film)" target="Top Hat" id="1247" />
+      <edge source="David Copperfield (1935 film)" target="The Great Ziegfeld" id="1248" />
+      <edge source="The Great Ziegfeld" target="The Thin Man (film)" id="1249" />
+      <edge source="The Great Ziegfeld" target="The Wizard of Oz (1939 film)" id="1250" />
+      <edge source="The Great Ziegfeld" target="Top Hat" id="1251" />
+      <edge source="The Great Ziegfeld" target="Mr. Deeds Goes to Town" id="1252" />
+      <edge source="The Great Ziegfeld" target="Dodsworth (film)" id="1253" />
+      <edge source="All the King's Men (1949 film)" target="A Letter to Three Wives" id="1254" />
+      <edge source="Cat on a Hot Tin Roof (1958 film)" target="Gigi (1958 film)" id="1255" />
+      <edge source="How the West Was Won (film)" target="Ben-Hur (1959 film)" id="1256" />
+      <edge source="How the West Was Won (film)" target="Mutiny on the Bounty (1962 film)" id="1257" />
+      <edge source="How the West Was Won (film)" target="The Alamo (1960 film)" id="1258" />
+      <edge source="How the West Was Won (film)" target="Tom Jones (1963 film)" id="1259" />
+      <edge source="All Quiet on the Western Front (1930 film)" target="High Noon" id="1260" />
+      <edge source="All Quiet on the Western Front (1930 film)" target="From Here to Eternity" id="1261" />
+      <edge source="All Quiet on the Western Front (1930 film)" target="A Man for All Seasons (1966 film)" id="1262" />
+      <edge source="All Quiet on the Western Front (1930 film)" target="Julia (1977 film)" id="1263" />
+      <edge source="All Quiet on the Western Front (1930 film)" target="Saving Private Ryan" id="1264" />
+      <edge source="All Quiet on the Western Front (1930 film)" target="All Quiet on the Western Front (2022 film)" id="1265" />
+      <edge source="Disraeli (1929 film)" target="All Quiet on the Western Front (1930 film)" id="1266" />
+      <edge source="Disraeli (1929 film)" target="The Big House (1930 film)" id="1267" />
+      <edge source="The Smiling Lieutenant" target="The Love Parade" id="1268" />
+      <edge source="Hope and Glory (film)" target="Broadcast News (film)" id="1269" />
+      <edge source="Broadcast News (film)" target="Terms of Endearment" id="1270" />
+      <edge source="The Goodbye Girl" target="Taxi Driver" id="1271" />
+      <edge source="The Goodbye Girl" target="The Pianist (2002 film)" id="1272" />
+      <edge source="The Goodbye Girl" target="Annie Hall" id="1273" />
+      <edge source="Gosford Park" target="M*A*S*H (film)" id="1274" />
+      <edge source="Gosford Park" target="A Beautiful Mind (film)" id="1275" />
+      <edge source="Captain Phillips (film)" target="Gravity (2013 film)" id="1276" />
+      <edge source="Goodbye, Mr. Chips (1939 film)" target="Gone with the Wind (film)" id="1277" />
+      <edge source="Goodbye, Mr. Chips (1939 film)" target="Mr. Smith Goes to Washington" id="1278" />
+      <edge source="The Aviator (2004 film)" target="The Insider (film)" id="1279" />
+      <edge source="The Aviator (2004 film)" target="Gangs of New York" id="1280" />
+      <edge source="Top hat" target="The Green Mile (film)" id="1281" />
+      <edge source="Top hat" target="The Gay Divorcee" id="1282" />
+      <edge source="Top hat" target="Mutiny on the Bounty (1935 film)" id="1283" />
+      <edge source="Top hat" target="The English Patient (film)" id="1284" />
+      <edge source="The Hollywood Revue" target="The Broadway Melody" id="1285" />
+      <edge source="Shine (film)" target="Fargo (1996 film)" id="1286" />
+      <edge source="Life of Pi (film)" target="Hugo (film)" id="1287" />
+      <edge source="Life of Pi (film)" target="Avatar (2009 film)" id="1288" />
+      <edge source="Life of Pi (film)" target="Crouching Tiger, Hidden Dragon" id="1289" />
+      <edge source="Life of Pi (film)" target="Brokeback Mountain" id="1290" />
+      <edge source="Foreign Correspondent (film)" target="Rebecca (1940 film)" id="1291" />
+      <edge source="War Horse (film)" target="All Quiet on the Western Front (1930 film)" id="1292" />
+      <edge source="War Horse (film)" target="Saving Private Ryan" id="1293" />
+      <edge source="War Horse (film)" target="E.T. the Extra-Terrestrial" id="1294" />
+      <edge source="The Fugitive (1993 film)" target="Unforgiven" id="1295" />
+      <edge source="The Fugitive (1993 film)" target="The Sixth Sense" id="1296" />
+      <edge source="The Fugitive (1993 film)" target="Titanic (1997 film)" id="1297" />
+      <edge source="Dune (2021 film)" target="Arrival (film)" id="1298" />
+      <edge source="Dune (2021 film)" target="Lawrence of Arabia (film)" id="1299" />
+      <edge source="Dune (2021 film)" target="Doctor Zhivago (film)" id="1300" />
+      <edge source="Dune (2021 film)" target="Jaws (film)" id="1301" />
+      <edge source="Father of the Bride (1950 film)" target="Little Women (1933 film)" id="1302" />
+      <edge source="Father of the Bride (1950 film)" target="The Last Picture Show" id="1303" />
+      <edge source="State Fair (1933 film)" target="Cavalcade (1933 film)" id="1304" />
+      <edge source="State Fair (1933 film)" target="Little Women (1933 film)" id="1305" />
+      <edge source="The Hustler" target="Cleopatra (1963 film)" id="1306" />
+      <edge source="The Hustler" target="The Verdict" id="1307" />
+      <edge source="Libeled Lady" target="The Thin Man (film)" id="1308" />
+      <edge source="Little Women (1933)" target="Little Women (2019 film)" id="1309" />
+      <edge source="Five Star Final" target="Grand Hotel (1932 film)" id="1310" />
+      <edge source="Tom Jones (1963 film)" target="Peyton Place (film)" id="1311" />
+      <edge source="Tom Jones (1963 film)" target="America America" id="1312" />
+      <edge source="Anne of the Thousand Days" target="Romeo and Juliet (1968 film)" id="1313" />
+      <edge source="Once Upon a Time in Hollywood" target="Apocalypse Now" id="1314" />
+      <edge source="Once Upon a Time in Hollywood" target="Taxi Driver" id="1315" />
+      <edge source="Once Upon a Time in Hollywood" target="Pulp Fiction" id="1316" />
+      <edge source="Once Upon a Time in Hollywood" target="Django Unchained" id="1317" />
+      <edge source="Once Upon a Time in Hollywood" target="Inglourious Basterds" id="1318" />
+      <edge source="Once Upon a Time in Hollywood" target="Tess (1979 film)" id="1319" />
+      <edge source="Jojo Rabbit" target="Ford v Ferrari" id="1320" />
+      <edge source="Jojo Rabbit" target="Dr. Strangelove" id="1321" />
+      <edge source="Jojo Rabbit" target="Cabaret (1972 film)" id="1322" />
+      <edge source="Jojo Rabbit" target="Up (2009 film)" id="1323" />
+      <edge source="Jojo Rabbit" target="The Great Dictator" id="1324" />
+      <edge source="Awakenings" target="Rain Man" id="1325" />
+      <edge source="Million Dollar Baby" target="Rocky" id="1326" />
+      <edge source="Million Dollar Baby" target="Unforgiven" id="1327" />
+      <edge source="Million Dollar Baby" target="Crash (2004 film)" id="1328" />
+      <edge source="Judgment at Nuremberg" target="Grand Hotel (1932 film)" id="1329" />
+      <edge source="The Curious Case of Benjamin Button (film)" target="Babel (film)" id="1330" />
+      <edge source="The Curious Case of Benjamin Button (film)" target="Forrest Gump" id="1331" />
+      <edge source="Shanghai Express (film)" target="Grand Hotel (1932 film)" id="1332" />
+      <edge source="Shanghai Express (film)" target="Bad Girl (1931 film)" id="1333" />
+      <edge source="The Yearling (1946 film)" target="Random Harvest (film)" id="1334" />
+      <edge source="Marriage Story" target="Kramer vs. Kramer" id="1335" />
+      <edge source="Who's Afraid of Virginia Woolf? (film)" target="Cimarron (1931 film)" id="1336" />
+      <edge source="Kiss of the Spider Woman (film)" target="Out of Africa (film)" id="1337" />
+      <edge source="Missing (1982 film)" target="Chariots of Fire" id="1338" />
+      <edge source="The Exorcist" target="Butch Cassidy and the Sundance Kid" id="1339" />
+      <edge source="The Exorcist" target="The French Connection (film)" id="1340" />
+      <edge source="The Exorcist" target="The Godfather" id="1341" />
+      <edge source="The Exorcist" target="Titanic (1997 film)" id="1342" />
+      <edge source="The Exorcist" target="My Fair Lady (film)" id="1343" />
+      <edge source="The Exorcist" target="The Sting" id="1344" />
+      <edge source="The Exorcist" target="Going My Way" id="1345" />
+      <edge source="The Exorcist" target="The Sixth Sense" id="1346" />
+      <edge source="The Exorcist" target="Jaws (film)" id="1347" />
+      <edge source="A Room with a View (1985 film)" target="The Killing Fields (film)" id="1348" />
+      <edge source="A Room with a View (1985 film)" target="Amadeus (film)" id="1349" />
+      <edge source="A Room with a View (1985 film)" target="Hannah and Her Sisters" id="1350" />
+      <edge source="The Help (film)" target="Inception" id="1351" />
+      <edge source="The Help (film)" target="The Sixth Sense" id="1352" />
+      <edge source="Of Mice and Men (1939 film)" target="The Grapes of Wrath (film)" id="1353" />
+      <edge source="The Prince of Tides" target="Beauty and the Beast (1991 film)" id="1354" />
+      <edge source="The Prince of Tides" target="A Few Good Men" id="1355" />
+      <edge source="Her (film)" target="Gravity (2013 film)" id="1356" />
+      <edge source="Nicholas and Alexandra" target="Doctor Zhivago (film)" id="1357" />
+      <edge source="Nicholas and Alexandra" target="Lawrence of Arabia (film)" id="1358" />
+      <edge source="Nicholas and Alexandra" target="Patton (film)" id="1359" />
+      <edge source="The Father (2020 film)" target="Amour (2012 film)" id="1360" />
+      <edge source="The Lost Weekend" target="Marty (film)" id="1361" />
+      <edge source="The Lost Weekend" target="Parasite (2019 film)" id="1362" />
+      <edge source="The Lost Weekend" target="Spellbound (1945 film)" id="1363" />
+      <edge source="Winter's Bone" target="The Social Network" id="1364" />
+      <edge source="Alice Adams (1935 film)" target="Little Women (1933 film)" id="1365" />
+      <edge source="Alice Adams (1935 film)" target="David Copperfield (1935 film)" id="1366" />
+      <edge source="M*A*S*H (film)" target="Patton (film)" id="1367" />
+      <edge source="M*A*S*H (film)" target="Nashville (film)" id="1368" />
+      <edge source="M*A*S*H (film)" target="Love Story (1970 film)" id="1369" />
+      <edge source="M*A*S*H (film)" target="Airport (1970 film)" id="1370" />
+      <edge source="M*A*S*H (film)" target="Mister Roberts (1955 film)" id="1371" />
+      <edge source="M*A*S*H (film)" target="The Graduate" id="1372" />
+      <edge source="Mrs. Miniver" target="Random Harvest (film)" id="1373" />
+      <edge source="BlacKkKlansman" target="Get Out" id="1374" />
+      <edge source="Doctor Dolittle (1967 film)" target="Mary Poppins (film)" id="1375" />
+      <edge source="Seabiscuit (film)" target="The Lord of the Rings: The Return of the King" id="1376" />
+      <edge source="Guess Who's Coming to Dinner" target="The Lion in Winter (1968 film)" id="1377" />
+      <edge source="Guess Who's Coming to Dinner" target="Get Out" id="1378" />
+      <edge source="Guess Who's Coming to Dinner" target="Bonnie and Clyde (film)" id="1379" />
+      <edge source="King Solomon's Mines (1950 film)" target="Quo Vadis (1951 film)" id="1380" />
+      <edge source="The Snake Pit" target="The Grapes of Wrath (film)" id="1381" />
+      <edge source="I Am a Fugitive from a Chain Gang" target="42nd Street (film)" id="1382" />
+      <edge source="The White Parade" target="The House of Rothschild" id="1383" />
+      <edge source="The Sundowners (1960 film)" target="The Treasure of the Sierra Madre (film)" id="1384" />
+      <edge source="The Sundowners (1960 film)" target="From Here to Eternity" id="1385" />
     </edges>
   </graph>
 </gexf>

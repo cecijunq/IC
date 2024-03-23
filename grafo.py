@@ -19,7 +19,7 @@ n_indegree = [] # armazena o grau de saída de cada vértice
 n_outdegree = [] # armazena o grau de entrada de cada vértice
 
 def top_five_page_rank(ranks):
-    top = list(reversed(sorted((rank, node) for node, rank in ranks.items()))) [:5]
+    top = list(reversed(sorted((rank, node) for node, rank in ranks.items()))) [:10]
     return [node for rank, node in top]
 
 wp.set_lang("es")
@@ -148,9 +148,9 @@ def get_vertices():
     pg_rnk = top_five_page_rank(nx.pagerank(grafo))
 
     # print("Espanhol;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
-    # with open("./métricas_grafo.csv", "a") as to_write:
-    #     to_write.write("Inglês;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
-    # nx.write_gexf(grafo, "grafo_es.gexf")
+    with open("./métricas_grafo.csv", "a") as to_write:
+        to_write.write("Espanhol;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
+    nx.write_gexf(grafo, "grafo_es.gexf")
     plt.show()
     
 
