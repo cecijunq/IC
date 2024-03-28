@@ -6,6 +6,28 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import pandas as pd
 
+import community
+
+import igraph as ig
+import leidenalg as la
+
+def louvain_community_detector(G):
+    # Run the Louvain algorithm
+    partition = community.best_partition(G)
+    # Draw the network with node colors based on community
+    pos = nx.spring_layout(G, seed=30)
+    plt.figure(figsize=(15, 7))
+    nx.draw_networkx_nodes(G, pos, node_color=list(partition.values()), cmap=plt.cm.Set1, node_size=50)
+    nx.draw_networkx_edges(G, pos, alpha=0.5)
+    plt.title("Detecção de Comunidades - Artigos em Inglês da Wikipedia dos filmes indicados a 'Melhor Filme' no Oscar (Louvain)")
+    # plt.axis("off")
+    legenda = []
+    for node, community_id in partition.items():
+        print(f"Node {node}: Community {community_id}")
+        # legenda.append(community_id)
+    # plt.legend(legenda)
+    plt.show()
+    # Print the nodes and their assigned communities
 
 #Retira o elemento da pagina html
 def remove_element(soup,element_name):
@@ -28,21 +50,21 @@ grafo = nx.DiGraph() # variável que guarda o grafo
 
 # ARMAZENA EM UM DICIONÁRIO TODOS OS FILMES QUE TÊM PÁGINA NA WIKIPEDIA NO IDIOMA
 def get_indicados():
-    with open("./CSV METADADOS/metadados_es.csv", "r") as file_get_nomes_filmes: 
+    with open("./CSV METADADOS/metadados_en.csv", "r") as file_get_nomes_filmes: 
         next(file_get_nomes_filmes) # pula a linha que contém o cabeçalho do arquivo .csv
         i = 0 # atua como o id do filme na lista
         for line in file_get_nomes_filmes:
             vector_data_csv = line.split(';')
             nome = vector_data_csv[0] # seleciona o nome do filme
             filmes_indicados[nome] = i
-            # with open("./GRAFOS/LEGENDAS GRAFOS/legenda grafo es.txt", "a") as file_leg:
+            # with open("./GRAFOS/LEGENDAS GRAFOS/legenda grafo en.txt", "a") as file_leg:
             #     file_leg.write(str(i) + " " + nome + "\n")
             i+=1
         
     
 def get_vertices():
     # lista todos os arquivos armazenados no diretório 'ARTIGOS HTML/inglês'
-    path = "./ARTIGOS HTML/espanhol"
+    path = "./ARTIGOS HTML/inglês"
     list_files = os.listdir(path) # lista o nome de todos os documentos do diretório "./ARTIGOS HTML/inglês"
     
     # acessa cada arquivo .html para lê-lo e realizar o parser
@@ -148,10 +170,15 @@ def get_vertices():
     pg_rnk = top_five_page_rank(nx.pagerank(grafo))
 
     # print("Espanhol;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
-    with open("./métricas_grafo.csv", "a") as to_write:
-        to_write.write("Espanhol;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
-    nx.write_gexf(grafo, "grafo_es.gexf")
-    plt.show()
+    # with open("./métricas_grafo.csv", "a") as to_write:
+    #     to_write.write("Espanhol;{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n".format(n_nos, n_arestas, diametro, max_in, min_in, max_out, min_out, md_in, md_out, betw_md, clo_md, densidade, transitividade, pg_rnk))
+    # nx.write_gexf(grafo, "grafo_en.gexf")
+
+    # plt.show()
+
+    louvain_community_detector(grafo.to_undirected())
+    # partition = la.find_partition(grafo, la.ModularityVertexPartition)
+    # ig.plot(partition)
     
 
 def main():

@@ -1,0 +1,584 @@
+,Topic,Document,Probability
+0,6,CODA (2021 film),0.26226749646715514
+1,-1,Peyton Place (film),0.2636481639850675
+2,10,The Good Earth (film),0.24052238911844612
+3,-1,Crossfire (film),0.2583169631389086
+4,2,Black Panther (film),1.0
+5,-1,The Favourite,0.5672965512917549
+6,-1,Les Misérables (1935 film),0.49041998577294676
+7,-1,Barry Lyndon,0.5411102628307619
+8,10,Heaven Can Wait (1978 film),1.0
+9,0,Extremely Loud & Incredibly Close (film),0.15441884099592895
+10,-1,Boys Town (film),0.13989023769313946
+11,11,Dunkirk (2017 film),0.09200515748159616
+12,0,"Three Billboards Outside Ebbing, Missouri",1.0
+13,-1,The Bridge on the River Kwai,0.12649474571925268
+14,-1,America America,0.5210943584277116
+15,-1,Philomena (film),0.08659412022121726
+16,11,Mutiny on the Bounty (1962 film),1.0
+17,3,Hacksaw Ridge,1.0
+18,7,Three Smart Girls,1.0
+19,0,Crash (2004 film),1.0
+20,1,Nicholas and Alexandra,0.1710495648554173
+21,-1,Jerry Maguire,0.3818404380359063
+22,-1,Bugsy,0.3901237464482151
+23,1,A Tale of Two Cities (1935 film),0.10271373900238
+24,7,One Hundred Men and a Girl,1.0
+25,-1,Five Star Final,0.08871091934253339
+26,-1,The Accidental Tourist (film),0.08957640272098577
+27,1,William Shakespeare's Julius Caesar,1.0
+28,-1,The Towering Inferno,0.5050610014401015
+29,2,In Old Chicago,0.13666105036139384
+30,12,Mr. Smith Goes to Washington,1.0
+31,8,Midnight Cowboy,1.0
+32,-1,Hell or High Water (film),0.508236050653216
+33,-1,Marty (film),0.6167269432356484
+34,-1,Out of Africa (film),0.4988766257570626
+35,2,The Godfather Part II,0.1603394759074463
+36,-1,Wuthering Heights (1939 film),0.38922438164018314
+37,5,The Broadway Melody,1.0
+38,0,Spotlight (film),0.14713417602369042
+39,-1,Il Postino: The Postman,0.3634267819309779
+40,-1,Field of Dreams,0.5773803108996426
+41,-1,Witness (1985 film),0.12831680575267257
+42,-1,Seabiscuit (film),0.6260429779768114
+43,7,Kramer vs. Kramer,0.15011524926739983
+44,0,Michael Clayton,0.13275015399215645
+45,6,Babe (film),0.17987128622757068
+46,2,District 9,1.0
+47,10,From Here to Eternity,1.0
+48,0,Traffic (2000 film),0.3683405478429966
+49,0,Nebraska (film),1.0
+50,3,For Whom the Bell Tolls (film),0.7350230781369933
+51,-1,The Love Parade,0.2568611946089181
+52,-1,Great Expectations (1946 film),0.07911041845003819
+53,5,Seven Brides for Seven Brothers,1.0
+54,7,Little Women (2019 film),1.0
+55,-1,"Rachel, Rachel",0.26086953100492316
+56,-1,A Beautiful Mind (film),0.5595494816073519
+57,4,Mildred Pierce (film),1.0
+58,9,La La Land,1.0
+59,-1,The Shawshank Redemption,0.13078709523469878
+60,-1,Chicago (2002 film),0.2413450088821738
+61,1,The King and I (1956 film),0.25692580903135026
+62,3,Casablanca (film),0.41893007905103496
+63,-1,Room at the Top (1959 film),0.0887109193425335
+64,4,Blossoms in the Dust,0.2380919191447319
+65,4,Love Affair (1939 film),1.0
+66,-1,The Prince of Tides,0.5575730448670264
+67,3,Mister Roberts (1955 film),0.29642582592567485
+68,-1,The Killing Fields (film),0.0887109193425335
+69,0,L.A. Confidential (film),0.12352961134457546
+70,-1,Silver Linings Playbook,0.4851085814178612
+71,-1,Winter's Bone,0.12335697513831168
+72,-1,Elvis (2022 film),0.5498239696076901
+73,-1,The Cider House Rules (film),0.13767034584869553
+74,-1,Deliverance,0.24244470059168344
+75,2,Judgment at Nuremberg,0.4396436742943373
+76,7,Terms of Endearment,0.1544844759554138
+77,2,Double Indemnity,0.14958465586326608
+78,0,The French Connection (film),1.0
+79,-1,Prizzi's Honor,0.3786857794108829
+80,0,Broadcast News (film),0.1904046476321304
+81,2,Zero Dark Thirty,0.36327699189425466
+82,-1,Mank,0.54416797531999
+83,4,A Touch of Class (film),0.2822002363892553
+84,-1,A Serious Man,0.24442267243921412
+85,-1,Dangerous Liaisons,0.5261824277266698
+86,0,The House of Rothschild,0.21590491834477435
+87,-1,The Hustler,0.1265838505166289
+88,-1,Three Coins in the Fountain (film),0.15108254987526448
+89,2,Selma (film),0.25886786029616266
+90,-1,Rain Man,0.38956371463377737
+91,-1,The Country Girl (1954 film),0.5129133985521492
+92,0,The Hurt Locker,0.15732434689704364
+93,-1,Goodfellas,0.2624031718074693
+94,-1,The Artist (film),0.2675033752134357
+95,-1,Bonnie and Clyde (film),0.10694416203126211
+96,-1,American Beauty (1999 film),0.5190188809198726
+97,-1,Gosford Park,0.5067733170643565
+98,2,The Godfather,0.16373031745757252
+99,4,Guess Who's Coming to Dinner,1.0
+100,-1,In the Heat of the Night (film),0.17096117375220676
+101,-1,Coal Miner's Daughter (film),0.5139579284398348
+102,-1,A Room with a View (1985 film),0.1706948035463468
+103,-1,Dr. Strangelove,0.37976685282509637
+104,0,Breaking Away,1.0
+105,5,The Sound of Music (film),1.0
+106,2,Lincoln (film),0.252566233805572
+107,9,Lion (2016 film),1.0
+108,-1,The Long Voyage Home,0.5401877622871123
+109,9,Airport (1970 film),0.3376846223979969
+110,5,Of Mice and Men (1939 film),0.12223525334671968
+111,0,Dog Day Afternoon,0.592442568936601
+112,1,Roman Holiday,0.4725723604652735
+113,2,The Snake Pit,0.15266062891761917
+114,3,Hold Back the Dawn,0.06050890012976405
+115,2,Argo (2012 film),0.4933993801062508
+116,1,A Midsummer Night's Dream (1935 film),0.10068706440482932
+117,-1,Gigi (1958 film),0.08903824396793336
+118,0,Ghost (1990 film),1.0
+119,6,Drive My Car (film),1.0
+120,4,An Unmarried Woman,1.0
+121,-1,Capote (film),0.2542299267253101
+122,-1,Slumdog Millionaire,0.6152563850437127
+123,5,The Song of Bernadette (film),0.27129080988262705
+124,11,Captains Courageous (1937 film),1.0
+125,-1,All Quiet on the Western Front (1930 film),0.511996907520055
+126,-1,Miracle on 34th Street,0.08868074030659168
+127,-1,Licorice Pizza,0.3748687876049541
+128,7,Children of a Lesser God (film),1.0
+129,1,Moulin Rouge!,0.16227633450963075
+130,-1,Chariots of Fire,0.5106625668818983
+131,3,Here Comes the Navy,1.0
+132,7,The Goodbye Girl,0.15973605505745309
+133,-1,Dark Victory,0.25761973251318127
+134,0,Atlantic City (1980 film),1.0
+135,3,49th Parallel (film),0.1604939174434203
+136,2,Munich (2005 film),0.6332009333463026
+137,-1,"The Russians Are Coming, the Russians Are Coming",0.6156918482653684
+138,0,The Sixth Sense,0.15378123422309295
+139,12,42nd Street (film),1.0
+140,-1,The Awful Truth,0.1818169287902338
+141,2,Nightmare Alley (2021 film),1.0
+142,-1,An Education,0.38605447576119245
+143,6,Boyhood (2014 film),0.21197943175642442
+144,-1,Cimarron (1931 film),0.36281272104944695
+145,11,Master and Commander: The Far Side of the World,0.07810942757453164
+146,-1,Ray (film),0.24162676553126505
+147,-1,A Few Good Men,0.3875706499524242
+148,7,The Help (film),0.20830708145981566
+149,2,Watch on the Rhine,1.0
+150,2,Bridge of Spies (film),0.22913283813254892
+151,-1,The Social Network,0.13908860337448525
+152,-1,Doctor Dolittle (1967 film),0.09776320811844752
+153,6,Triangle of Sadness,1.0
+154,0,Network (1976 film),0.30905727254144605
+155,13,The Kids Are All Right (film),1.0
+156,4,Funny Girl (film),0.12303194388420624
+157,1,Elizabeth (film),0.38027565302301436
+158,-1,Reds (film),0.5215126432259166
+159,-1,The Lives of a Bengal Lancer (film),0.6152563850437125
+160,-1,A Star Is Born (1937 film),0.6164565338411641
+161,1,The Story of Louis Pasteur,0.13560406631236888
+162,-1,A Thousand Clowns,0.4924052316397739
+163,-1,The Revenant (2015 film),0.3643802273267597
+164,0,The Blind Side (film),0.13946103871569016
+165,2,Apocalypse Now,1.0
+166,1,Kings Row,0.2550382277942172
+167,8,In Old Arizona,1.0
+168,9,Beauty and the Beast (1991 film),1.0
+169,2,The Diary of Anne Frank (1959 film),0.3342274808195256
+170,3,The Guns of Navarone (film),0.16508771123454993
+171,3,Sergeant York (film),0.43261092093242964
+172,7,Julia (1977 film),0.16122429359410986
+173,6,Belfast (film),0.2755526539105251
+174,-1,A Star Is Born (2018 film),0.13079421464766183
+175,0,American Hustle,1.0
+176,12,12 Angry Men (1957 film),1.0
+177,7,Four Daughters,1.0
+178,-1,The Front Page (1931 film),0.11140553034817224
+179,12,The More the Merrier,1.0
+180,12,Friendly Persuasion (1956 film),1.0
+181,5,Grand Hotel (1932 film),0.25858816495163506
+182,-1,Since You Went Away,0.5162920428434723
+183,0,The Insider (film),0.16658607104057022
+184,6,Tár,1.0
+185,0,The Silence of the Lambs (film),1.0
+186,-1,The Reader (2008 film),0.3621145238022956
+187,4,Rebecca (1940 film),0.4012638060825593
+188,2,The Fugitive (1993 film),0.20352849467661865
+189,4,The Philadelphia Story (film),1.0
+190,4,East Lynne (1931 film),0.21132358925473063
+191,-1,On the Waterfront,0.25954669767094984
+192,-1,The Turning Point (1977 film),0.263968272148111
+193,1,The Patriot (1928 film),0.10071351896531196
+194,-1,Darkest Hour (film),0.48898433430152455
+195,-1,Lawrence of Arabia (film),0.5122848980855517
+196,5,Yankee Doodle Dandy,0.28457789532240574
+197,-1,The Tree of Life (film),0.5025847744691732
+198,-1,The Thin Man (film),0.5322737751955308
+199,4,My Fair Lady (film),0.14367386314907052
+200,-1,The Big House (1930 film),0.12729286108210236
+201,5,It's a Wonderful Life,0.12048845393308853
+202,-1,Quiz Show (film),0.1341218419965331
+203,-1,The Hours (film),0.2670883941600045
+204,6,Promising Young Woman,1.0
+205,1,Bohemian Rhapsody (film),1.0
+206,5,Broadway Melody of 1936,1.0
+207,-1,Smilin' Through (1932 film),0.12771204732011432
+208,-1,Jezebel (1938 film),0.5211940507343522
+209,-1,The Martian (film),0.13603373435311772
+210,1,Romeo and Juliet (1936 film),0.125338761086049
+211,6,The Fabelmans,0.20807561623814316
+212,1,The English Patient (film),0.09892566726768424
+213,11,Mutiny on the Bounty (1935 film),1.0
+214,8,The Ox-Bow Incident,0.41208724227878013
+215,9,Toy Story 3,1.0
+216,-1,The Heiress,0.3584819003478983
+217,-1,Citizen Kane,0.5006811620412719
+218,8,The Champ (1931 film),1.0
+219,8,Raging Bull,1.0
+220,5,Mr. Deeds Goes to Town,0.26283346302682914
+221,0,Get Out,0.4750667636487621
+222,-1,Top Gun: Maverick,0.6045739667287358
+223,-1,Moneyball (film),0.1237987004531621
+224,1,The Lion in Winter (1968 film),0.292610681849921
+225,-1,The Piano,0.08903824396793347
+226,3,Test Pilot (film),1.0
+227,2,Gangs of New York,0.16990971611897077
+228,9,Apollo 13 (film),0.32710441772186744
+229,10,The Human Comedy (film),0.17426448983035386
+230,-1,The Apartment,0.1706948035463467
+231,4,Separate Tables (film),0.32592861251771793
+232,-1,Call Me by Your Name (film),0.49863654314876127
+233,2,Judas and the Black Messiah,1.0
+234,2,JFK (film),0.17681405972026318
+235,1,Doctor Zhivago (film),0.1788556631306692
+236,-1,Father of the Bride (1950 film),0.14509753649776203
+237,-1,The Quiet Man,0.3943395296394877
+238,3,Wake Island (film),0.3217317283861878
+239,9,Once Upon a Time in Hollywood,0.399550920684021
+240,3,Wings (1927 film),0.35143885132479113
+241,7,The Nun's Story (film),0.5401183890646741
+242,8,The Big Short (film),0.2055916730277591
+243,-1,Phantom Thread,0.5643238255225
+244,4,Alice Adams (1935 film),0.2682824272885054
+245,-1,Tess (1979 film),0.3865810900332387
+246,6,In the Name of the Father (film),0.1642317575321556
+247,-1,The Graduate,0.5225327177301307
+248,1,Ninotchka,0.14648942848366853
+249,8,Giant (1956 film),0.3704951587212745
+250,4,The Barretts of Wimpole Street (1934 film),1.0
+251,-1,The Descendants,0.137142526399751
+252,-1,Sense and Sensibility (film),0.13632189661266836
+253,2,Dune (2021 film),0.34597626771073997
+254,-1,Joker (2019 film),0.5042506402963404
+255,-1,Shine (film),0.10854283673278542
+256,0,Dances with Wolves,1.0
+257,-1,Sons and Lovers (film),0.26363125517838504
+258,8,The Fighter,1.0
+259,-1,Wilson (1944 film),0.11770937510728974
+260,7,On Golden Pond (1981 film),0.15088610937482402
+261,12,Gentleman's Agreement,1.0
+262,-1,Coming Home (1978 film),0.17204222804269298
+263,-1,Life Is Beautiful,0.1234642675004447
+264,0,Dallas Buyers Club,1.0
+265,4,Auntie Mame (film),0.1927555022885737
+266,13,The Full Monty,1.0
+267,9,Don't Look Up,1.0
+268,-1,Norma Rae,0.11102275023183272
+269,-1,In the Bedroom,0.1706948035463468
+270,9,"Crouching Tiger, Hidden Dragon",0.43471467586179163
+271,1,Ivanhoe (1952 film),0.20847430572800812
+272,-1,Tootsie,0.5156212354773001
+273,0,Hugo (film),1.0
+274,11,Ruggles of Red Gap,0.17312899139400953
+275,12,Dodsworth (film),1.0
+276,-1,Missing (1982 film),0.3900351567007174
+277,2,Witness for the Prosecution (1957 film),0.1788605779463699
+278,3,M*A*S*H (film),1.0
+279,3,Sayonara,1.0
+280,-1,Four Weddings and a Funeral,0.5050646706931443
+281,-1,Who's Afraid of Virginia Woolf? (film),0.08871091934253317
+282,5,Flirtation Walk,0.3552130786830729
+283,-1,Titanic (1997 film),0.12485555499411005
+284,-1,Gaslight (1944 film),0.36174089121753616
+285,9,Life of Pi (film),0.3376834029142538
+286,-1,The Grand Budapest Hotel,0.4938232837009956
+287,-1,Spellbound (1945 film),0.14124315715437497
+288,-1,A Clockwork Orange (film),0.5314489813287087
+289,-1,"Goodbye, Mr. Chips (1939 film)",0.4877175181158102
+290,0,The Exorcist,0.2548453003163927
+291,-1,The Red Shoes (1948 film),0.5172391701150574
+292,-1,The Informer (1935 film),0.5322452324537914
+293,3,The Alamo (1960 film),0.1681318249135278
+294,-1,A Place in the Sun (1951 film),0.17096117375220676
+295,-1,Hannah and Her Sisters,0.09029588789207388
+296,-1,Born Yesterday (1950 film),0.5174300228944089
+297,-1,Cavalcade (1933 film),0.38222693904063376
+298,1,Cleopatra (1934 film),1.0
+299,-1,The Irishman,0.35936799614997994
+300,0,Fences (film),0.308786669180149
+301,0,Atonement (2007 film),0.14723137209614143
+302,-1,Arrival (film),0.5289592918908703
+303,-1,Brokeback Mountain,0.1315506115394709
+304,6,Minari (film),1.0
+305,10,The Remains of the Day (film),0.42757702087322913
+306,-1,Vice (2018 film),0.5288740424385958
+307,7,Erin Brockovich (film),0.14026833441135061
+308,1,Hamlet (1948 film),0.12489184841905733
+309,1,Chocolat (2000 film),0.1217286463885116
+310,5,"Hello, Dolly! (film)",1.0
+311,-1,Lost in Translation (film),0.2422080177223277
+312,5,The Music Man (1962 film),0.19446173379077922
+313,-1,The Crying Game,0.3612405502292506
+314,-1,The Post (film),0.09733901911014642
+315,8,The Big Chill (film),1.0
+316,-1,Million Dollar Baby,0.3856306130633741
+317,13,All the President's Men (film),1.0
+318,-1,E.T. the Extra-Terrestrial,0.08613177699540686
+319,11,The Caine Mutiny (film),1.0
+320,10,The Best Years of Our Lives,1.0
+321,-1,The Citadel (1938 film),0.3876556543293139
+322,13,The Theory of Everything (2014 film),1.0
+323,-1,Naughty Marietta (film),0.5382310695060053
+324,5,An American in Paris (film),1.0
+325,-1,Ship of Fools (film),0.48898433430152444
+326,-1,Chinatown (1974 film),0.35734486523769615
+327,2,Anatomy of a Murder,0.1799681137902808
+328,11,12 Years a Slave (film),1.0
+329,8,Mystic River (film),1.0
+330,6,Her (film),1.0
+331,9,The Power of the Dog (film),1.0
+332,8,Stagecoach (1939 film),0.6178041984897693
+333,6,The Banshees of Inisherin,0.2318268290185489
+334,1,Henry V (1944 film),0.28149946561137035
+335,-1,One Night of Love,0.263968272148111
+336,-1,To Kill a Mockingbird (film),0.0887109193425335
+337,3,Born on the Fourth of July (film),0.06518427381735067
+338,-1,Annie Hall,0.5409519458227963
+339,3,Foreign Correspondent (film),0.08562204238256935
+340,-1,You Can't Take It with You (film),0.17000175656313155
+341,0,The Conversation,1.0
+342,7,Madame Curie (film),1.0
+343,2,Brooklyn (film),0.22516432021641172
+344,-1,The Pianist (2002 film),0.08903824396793336
+345,-1,Ben-Hur (1959 film),0.5106625668818983
+346,-1,Stage Door,0.1706948035463468
+347,8,American Graffiti,0.35620543111713915
+348,1,The Dresser (1983 film),0.11660293137745634
+349,-1,Lilies of the Field (1963 film),0.516856788287293
+350,0,Forrest Gump,0.3723859748266118
+351,5,San Francisco (1936 film),1.0
+352,-1,Darling (1965 film),0.5610877906301726
+353,-1,The Lord of the Rings: The Two Towers,0.5632289190601613
+354,2,I Am a Fugitive from a Chain Gang,0.1615203586361289
+355,11,Captain Blood (1935 film),1.0
+356,-1,Sunset Boulevard (film),0.26298424114695595
+357,3,The Sand Pebbles (film),0.1544759125876124
+358,-1,True Grit (2010 film),0.13932133286328396
+359,0,As Good as It Gets,0.3901666365574319
+360,1,The King's Speech,1.0
+361,13,All the King's Men (1949 film),1.0
+362,0,The Wolf of Wall Street (2013 film),1.0
+363,-1,American Sniper,0.5613825311253222
+364,-1,Dead End (1937 film),0.3673079368193747
+365,3,The Great Dictator,0.07969986488621576
+366,4,Oliver! (film),0.1189605149032508
+367,-1,A Farewell to Arms (1932 film),0.5076120186480404
+368,3,Decision Before Dawn,0.0904638950682799
+369,-1,Room (2015 film),0.26911191469049556
+370,2,The Verdict,0.20578295662346424
+371,9,Beasts of the Southern Wild,1.0
+372,1,Quo Vadis (1951 film),0.3359073331082886
+373,2,Inglourious Basterds,1.0
+374,10,The Pride of the Yankees,0.17490183534691942
+375,4,Libeled Lady,0.32586433294817824
+376,9,Avatar (2009 film),1.0
+377,6,Kiss of the Spider Woman (film),1.0
+378,-1,The Color Purple (1985 film),0.558282711135776
+379,-1,The Defiant Ones,0.2584248208362656
+380,-1,How the West Was Won (film),0.39532812367847536
+381,9,Up (2009 film),1.0
+382,6,Lady Bird (film),1.0
+383,-1,High Noon,0.6146318660309225
+384,6,Roma (2018 film),1.0
+385,-1,Star Wars (film),0.4981717247147557
+386,2,The Trial of the Chicago 7,0.37489673826345005
+387,10,Bound for Glory (1976 film),1.0
+388,9,The Aviator (2004 film),1.0
+389,11,The Adventures of Robin Hood,1.0
+390,-1,The Last Emperor,0.08114902323044215
+391,1,Gladiator (2000 film),1.0
+392,11,Trader Horn (1931 film),0.7305617254645
+393,2,Inception,1.0
+394,5,Mary Poppins (film),1.0
+395,-1,The Yearling (1946 film),0.5642123878603421
+396,13,All About Eve,1.0
+397,2,Raiders of the Lost Ark,0.33439990333913283
+398,-1,West Side Story (2021 film),0.5140938602099665
+399,1,King Richard (film),1.0
+400,-1,Moonstruck,0.1021451607515842
+401,-1,A Streetcar Named Desire (1951 film),0.4952403915367004
+402,-1,Working Girl,0.09017640848142083
+403,11,The Treasure of the Sierra Madre (film),1.0
+404,4,The Letter (1940 film),1.0
+405,0,Fargo (1996 film),1.0
+406,6,Babel (film),0.5484273258695943
+407,-1,How Green Was My Valley (film),0.5950495079378487
+408,1,Romeo and Juliet (1968 film),0.12596761131747236
+409,-1,Cries and Whispers,0.390923631352891
+410,-1,127 Hours,0.6152563850437125
+411,5,Anchors Aweigh (film),0.12322378779540216
+412,-1,The Shape of Water,0.13155061153947079
+413,0,Milk (2008 American film),1.0
+414,2,BlacKkKlansman,1.0
+415,-1,The Greatest Show on Earth (film),0.08903824396793336
+416,-1,Marriage Story,0.1626147267969612
+417,1,Anne of the Thousand Days,1.0
+418,-1,The Wizard of Oz (1939 film),0.12884553811127286
+419,-1,Manchester by the Sea (film),0.5189804950603878
+420,-1,The Elephant Man (film),0.24100918481511524
+421,3,1917 (2019 film),0.639245479319842
+422,4,Pygmalion (1938 film),0.13078092330739427
+423,4,Kitty Foyle (film),1.0
+424,-1,It Happened One Night,0.5516913798479538
+425,-1,Gandhi (film),0.38859499758011207
+426,6,Juno (film),1.0
+427,-1,The Deer Hunter,0.12185747607845077
+428,13,"All This, and Heaven Too",1.0
+429,5,The Great Ziegfeld,0.3136134588238114
+430,2,The Departed,0.16277795988457947
+431,-1,The Right Stuff (film),0.15715094801119334
+432,-1,The Curious Case of Benjamin Button (film),0.6152563850437125
+433,-1,Imitation of Life (1934 film),0.6152563850437125
+434,8,Viva Villa!,0.2827311168619957
+435,3,Platoon (film),0.18332139579044443
+436,8,Butch Cassidy and the Sundance Kid,1.0
+437,2,Mississippi Burning,1.0
+438,3,Random Harvest (film),0.06127873802368659
+439,-1,Sound of Metal,0.08903824396793358
+440,3,In Which We Serve,1.0
+441,3,Letters from Iwo Jima,0.258210558039698
+442,-1,David Copperfield (1935 film),0.48547671358707556
+443,3,The Thin Red Line (1998 film),1.0
+444,1,The Smiling Lieutenant,0.09068775339828358
+445,-1,Tom Jones (1963 film),0.08871091934253328
+446,-1,Places in the Heart,0.3950178307754463
+447,11,King Solomon's Mines (1950 film),1.0
+448,9,Whiplash (2014 film),1.0
+449,-1,The Emigrants (film),0.6231262167283016
+450,8,The Sting,1.0
+451,4,The White Parade,0.2612261740318
+452,3,All Quiet on the Western Front (2022 film),0.15890506582356614
+453,5,7th Heaven (1927 film),0.11926163199507671
+454,-1,Becket (1964 film),0.3719915011968471
+455,0,Django Unchained,1.0
+456,-1,Midnight in Paris,0.15715094801119367
+457,-1,The Lord of the Rings: The Fellowship of the Ring,0.562214071682564
+458,11,Captain Phillips (film),1.0
+459,3,The Pied Piper (1942 film),0.06492296206951415
+460,-1,Sounder (film),0.3654344845376013
+461,-1,Green Book (film),0.5774976656834635
+462,5,Fiddler on the Roof (film),1.0
+463,-1,Dead Poets Society,0.08871091934253361
+464,-1,Amour (2012 film),0.37806887086686736
+465,0,Pulp Fiction,1.0
+466,-1,The Lord of the Rings: The Return of the King,0.5687581956213315
+467,2,The Razor's Edge (1946 film),0.1603669099161946
+468,-1,Gone with the Wind (film),0.5414055231405194
+469,-1,Lost Horizon (1937 film),0.553354075146397
+470,-1,There Will Be Blood,0.5936393319103941
+471,-1,Shanghai Express (film),0.3900351567007174
+472,-1,The Sundowners (1960 film),0.3950178307754464
+473,10,Heaven Can Wait (1943 film),1.0
+474,10,Hope and Glory (film),1.0
+475,3,Battleground (film),1.0
+476,-1,A Passage to India (film),0.5136095885186225
+477,-1,Frost/Nixon (film),0.5230533832689865
+478,-1,The Ten Commandments (1956 film),0.5224355287244196
+479,-1,Alfie (1966 film),0.24478299452548014
+480,5,Going My Way,0.34586709802764704
+481,10,The Longest Day (film),1.0
+482,-1,Nashville (film),0.5164326607928742
+483,8,Rocky,1.0
+484,3,Saving Private Ryan,0.19562591020830272
+485,9,Up in the Air (2009 film),0.39759687163195884
+486,-1,The Mission (1986 film),0.1391151812632312
+487,3,War Horse (film),0.14833011545022198
+488,12,Skippy (film),1.0
+489,-1,Lenny (film),0.6159897229710534
+490,9,Gravity (2013 film),0.4003822187694207
+491,12,Arrowsmith (film),1.0
+492,4,The Bishop's Wife,1.0
+493,1,Cleopatra (1963 film),1.0
+494,7,The Little Foxes (film),1.0
+495,10,Around the World in 80 Days (1956 film),1.0
+496,0,Good Will Hunting,1.0
+497,11,Braveheart,0.33157976118000376
+498,-1,The Rose Tattoo (film),0.5240519031806208
+499,-1,La Grande Illusion,0.5270949046223754
+500,13,Everything Everywhere All at Once,1.0
+501,7,Little Miss Sunshine,1.0
+502,6,Parasite (2019 film),1.0
+503,6,The Father (2020 film),0.19088525787974245
+504,7,Mrs. Miniver,1.0
+505,5,Top Hat,0.30233198702978387
+506,6,Finding Neverland (film),0.17654031367599787
+507,3,A Soldier's Story,1.0
+508,4,Love Story (1970 film),0.6390931747332751
+509,-1,Awakenings,0.36174089121753605
+510,-1,Howards End (film),0.08213563572530214
+511,-1,Picnic (1955 film),0.25287796695668696
+512,-1,The Grapes of Wrath (film),0.10907299104462864
+513,1,The Robe (film),0.5131520714968798
+514,-1,Hidden Figures,0.24237975894130914
+515,-1,The Racket (1928 film),0.09770754415316496
+516,8,Mad Max: Fury Road,1.0
+517,5,Cabaret (1972 film),1.0
+518,0,Unforgiven,1.0
+519,5,West Side Story (1961 film),0.22621813987650582
+520,-1,"Good Night, and Good Luck",0.5574357917102817
+521,1,The Private Life of Henry VIII,1.0
+522,1,Moulin Rouge (1952 film),0.20442842729205907
+523,10,Here Comes Mr. Jordan,1.0
+524,13,A Man for All Seasons (1966 film),1.0
+525,4,Suspicion (1941 film),1.0
+526,-1,Disraeli (1929 film),0.11511063891228857
+527,1,Z (1969 film),0.2223972244180545
+528,10,My Left Foot,1.0
+529,-1,Moonlight (2016 film),0.146015392648716
+530,4,The Gay Divorcee,0.6147818520210573
+531,-1,Fatal Attraction,0.5289036200104724
+532,-1,The Lost Weekend,0.2531600420713972
+533,-1,The Imitation Game,0.6152563850437125
+534,0,Tender Mercies,1.0
+535,-1,Nomadland,0.534402455917527
+536,4,Bad Girl (1931 film),0.2418900484257622
+537,1,Anthony Adverse,0.11638490780908986
+538,-1,Ordinary People,0.11292119790744748
+539,-1,Shane (film),0.3819956340702243
+540,10,One Foot in Heaven,0.4929629786340245
+541,-1,Birdman (film),0.5016006358644463
+542,-1,The Magnificent Ambersons (film),0.5266251266708435
+543,1,The Life of Emile Zola,0.1428715760232558
+544,4,The Divorcee,0.5964403934271976
+545,-1,Amadeus (film),0.38928445155493974
+546,-1,No Country for Old Men,0.525582947842014
+547,-1,Taxi Driver,0.3752093845738915
+548,2,Schindler's List,1.0
+549,2,Jojo Rabbit,0.34686385072780773
+550,13,All That Jazz (film),1.0
+551,-1,Cat on a Hot Tin Roof (1958 film),0.3950178307754463
+552,7,Driving Miss Daisy,0.25033517968293745
+553,-1,One Flew Over the Cuckoo's Nest (film),0.5772949116639332
+554,-1,Five Easy Pieces,0.10322843185804831
+555,5,The Bells of St. Mary's,1.0
+556,4,Lady for a Day,0.16554496881699818
+557,1,The Queen (2006 film),1.0
+558,-1,The Green Mile (film),0.11904333517992693
+559,-1,Fanny (1961 film),0.25788193508381774
+560,6,Ford v Ferrari,1.0
+561,-1,Les Misérables (2012 film),0.5193643747308901
+562,2,The Godfather Part III,0.17481975174031067
+563,-1,Jaws (film),0.3584694352331995
+564,7,A Letter to Three Wives,0.3956027891270821
+565,4,She Done Him Wrong,0.26617579252247275
+566,-1,Black Swan (film),0.4966876689784936
+567,-1,One Hour with You,0.14401260303808527
+568,-1,Alibi (1929 film),0.10032685908597438
+569,4,Johnny Belinda (1948 film),0.16936902209298552
+570,8,Midnight Express (film),0.22633640523441667
+571,-1,Our Town (1940 film),0.5622052554798859
+572,1,Zorba the Greek (film),0.21043660186635915
+573,-1,Scent of a Woman (1992 film),0.11235274939536599
+574,-1,Secrets & Lies (film),0.1399087066335699
+575,12,Elmer Gantry (film),0.3009488381690098
+576,-1,Avatar: The Way of Water,0.14384710400061096
+577,7,The Last Picture Show,0.16468641156005645
+578,1,Shakespeare in Love,0.12010865211660057
+579,6,Women Talking (film),0.467309641883608
+580,3,Patton (film),1.0
+581,12,The Maltese Falcon (1941 film),1.0
+582,7,Little Women (1933 film),1.0

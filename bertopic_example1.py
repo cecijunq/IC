@@ -84,7 +84,8 @@ def main():
                             metric='euclidean',
                             cluster_selection_method='eom').fit(umap_embeddings)
     
-    model = BERTopic(umap_model=umap_embeddings, hdbscan_model=cluster, embedding_model=embeddings, calculate_probabilities=True, language="english")
+    model = BERTopic()
+    # model = BERTopic(umap_model=umap_embeddings, hdbscan_model=cluster, embedding_model=embeddings, calculate_probabilities=True, language="english")
     topics, probs = model.fit_transform(embeddings)
 
     probs_df = pd.DataFrame(probs)
@@ -107,6 +108,7 @@ def main():
     docs_df['Topic'] = cluster.labels_
     docs_df['Doc_ID'] = range(len(docs_df))
     docs_per_topic = docs_df.groupby(['Topic'], as_index = False).agg({'Doc': ' '.join})
+    docs_per_topic.to_csv("bertopic_teste.csv")
 
     tf_idf, count = c_tf_idf(docs_per_topic.Doc.values, m=len(sentences_articles))
 
