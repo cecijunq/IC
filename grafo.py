@@ -26,6 +26,7 @@ def louvain_community_detector(G):
         print(f"Node {node}: Community {community_id}")
         # legenda.append(community_id)
     # plt.legend(legenda)
+    nx.write_gexf(G, "comunidades_en.gexf")
     plt.show()
     # Print the nodes and their assigned communities
 
