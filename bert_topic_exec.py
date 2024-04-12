@@ -16,6 +16,11 @@ from bertopic.representation import KeyBERTInspired
 from bertopic.representation import MaximalMarginalRelevance
 from sklearn.decomposition import PCA
 from IPython.display import Markdown, display
+
+import nltk
+from nltk.corpus import stopwords
+nltk.download('stopwords')
+
 pd.set_option('display.max_columns', None)
 
 def extract_topic_sizes(df):
@@ -38,7 +43,7 @@ def extract_top_n_words_per_topic(tf_idf, count, docs_per_topic, n=8):
     return top_n_words
 
 def c_tf_idf(documents, m, ngram_range=(1, 1)):
-    count = CountVectorizer(ngram_range=ngram_range, stop_words="english").fit(documents)
+    count = CountVectorizer(ngram_range=ngram_range, stop_words=stopwords.words('english')).fit(documents)
     t = count.transform(documents).toarray()
     w = t.sum(axis=1)
     tf = np.divide(t.T, w)
@@ -49,7 +54,7 @@ def c_tf_idf(documents, m, ngram_range=(1, 1)):
     return tf_idf, count
 
 def rescale(x, inplace=False):
-    """ Rescale an embedding so optimization will not have convergence issues.
+    """ Rescale an embedding so oesimization will not have convergence issues.
     """
     if not inplace:
         x = np.array(x, copy=True)
@@ -71,7 +76,8 @@ def func2(x):
 
 sentences_articles = []
 
-path = './ARTIGOS TXT/artigos inglês'
+# path = './ARTIGOS TXT/artigos inglês'
+path = './data/plots_en'
 list_files = os.listdir(path)
 
 articles = pd.DataFrame()
@@ -85,25 +91,30 @@ for file in list_files:
     article = open(path + "/" + file, 'r')
     content = article.read()
     
-    if re.search(pattern, content):
-        plot_text = re.search(pattern, content).group(1)
-    else: # obtain the summary if plot or synopsis is absent
-            # print(file)
-            # sys.exit()
-            continue     
+    if content != "":
+        sentences_articles.append(content)
+    
+    # if re.search(pattern, content):
+    #     plot_text = re.search(pattern, content).group(1)
+    # else: # obtain the summary if plot or synopsis is absent
+    #         # print(file)
+    #         # sys.exit()
+    #         continue  
+   
 
-    if "== See also ==" in content:
-        article_as_vector_of_sentences = content.split("== See also ==")
-    elif "== References ==" in content:
-        article_as_vector_of_sentences = content.split("== References ==")
-    elif "== External links ==" in content:
-        article_as_vector_of_sentences = content.split("== External links ==")
+    # if "== See also ==" in content:
+    #     article_as_vector_of_sentences = content.split("== See also ==")
+    # elif "== References ==" in content:
+    #     article_as_vector_of_sentences = content.split("== References ==")
+    # elif "== External links ==" in content:
+    #     article_as_vector_of_sentences = content.split("== External links ==")
         
-    sentences_articles.append(article_as_vector_of_sentences[0])
+    # sentences_articles.append(article_as_vector_of_sentences[0])
 
 
-
+# sentence_model = SentenceTransformer("sentence-transformers/distiluse-base-multilingual-cased-v1")
 sentence_model = SentenceTransformer("all-MiniLM-L6-v2")
+#sentence_model = SentenceTransformer("rufimelo/Legal-BERTimbau-large-TSDAE-v4-sts")
 embeddings = sentence_model.encode(sentences_articles, show_progress_bar=True)
 
 # Initialize and rescale PCA embeddings
@@ -113,16 +124,17 @@ pca_embeddings = rescale(PCA(n_components=5).fit_transform(embeddings))
 ctfidf_model = ClassTfidfTransformer(reduce_frequent_words=True)
 
 #Remove stopwords
-vectorizer_model = CountVectorizer(stop_words="english")
+vectorizer_model = CountVectorizer(stop_words=stopwords.words('english'))
 
 #KeyBERT-Inspired model to reduce the appearance of stop words
 # representation_model = KeyBERTInspired()
 representation_model = MaximalMarginalRelevance(diversity=0.2)
 
 
-umap_model= umap.UMAP(n_neighbors=15,n_components=5,min_dist=0.0,metric='cosine',low_memory=True,init=pca_embeddings,random_state=42).fit_transform(embeddings)
+umap_model= umap.UMAP(n_neighbors=15,n_components=5,min_dist=0.0,metric='cosine').fit_transform(embeddings)
+# umap_model= umap.UMAP(n_neighbors=15,n_components=5,min_dist=0.0,metric='cosine',low_memory=True,init=pca_embeddings,random_state=42).fit_transform(embeddings)
 
-hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=10,metric='euclidean', min_samples=5,prediction_data=True).fit(umap_model)
+hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=10,metric='euclidean', min_samples=6,prediction_data=True).fit(umap_model)
 
 topic_model = BERTopic(embedding_model=sentence_model, language='English',
                        verbose=True,calculate_probabilities=True,
@@ -138,7 +150,7 @@ docs_per_topic = docs_df.groupby(['Topic'], as_index = False).agg({'Doc': ' '.jo
 
 tf_idf, count = c_tf_idf(docs_per_topic.Doc.values, m=len(sentences_articles))
 
-top_n_words = extract_top_n_words_per_topic(tf_idf, count, docs_per_topic, n=12)
+top_n_words = extract_top_n_words_per_topic(tf_idf, count, docs_per_topic, n=10)
 topic_sizes = extract_topic_sizes(docs_df) 
 #fim add
 
@@ -161,13 +173,13 @@ print(df.columns)
 print(df.head())
 
 df2 = df[["Topic", "Name", "Representation"]]
+#df2 = df2.groupby("Name").count().reset_index()
 df2.to_csv("topics.csv")
 
-df3 = df[["Topic", "Document", "Probability"]]
+df3 = df[["Topic", "Probability", "Document"]]
 df3['Document'] = df3['Document'].apply(lambda x: func2(x))
 df3.to_csv("probability_per_doc.csv")
 
 df["Document"] = df3['Document'].apply(lambda x: func2(x))
 df["Representative_Docs"] = df['Representative_Docs'].apply(lambda x: func(x))
 df.to_csv("df")
-
