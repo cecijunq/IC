@@ -1,0 +1,581 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-04-17">
+    <creator>NetworkX 3.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Babe (1995)" label="Babe (1995)" />
+      <node id="Midnight Cowboy" label="Midnight Cowboy" />
+      <node id="Rocky" label="Rocky" />
+      <node id="Gisaengchung" label="Gisaengchung" />
+      <node id="La La Land (filme)" label="La La Land (filme)" />
+      <node id="Gladiador (filme)" label="Gladiador (filme)" />
+      <node id="Farrapo Humano" label="Farrapo Humano" />
+      <node id="Marty" label="Marty" />
+      <node id="Everything Everywhere All at Once" label="Everything Everywhere All at Once" />
+      <node id="Bridge of Spies" label="Bridge of Spies" />
+      <node id="Perdido em Marte" label="Perdido em Marte" />
+      <node id="Erin Brockovich (filme)" label="Erin Brockovich (filme)" />
+      <node id="Traffic (filme)" label="Traffic (filme)" />
+      <node id="The Little Foxes" label="The Little Foxes" />
+      <node id="Jezebel" label="Jezebel" />
+      <node id="A Carta (1940)" label="A Carta (1940)" />
+      <node id="Dark Victory" label="Dark Victory" />
+      <node id="Peyton Place (filme)" label="Peyton Place (filme)" />
+      <node id="The Turning Point (1977)" label="The Turning Point (1977)" />
+      <node id="Coming Home (1978)" label="Coming Home (1978)" />
+      <node id="Born on the Fourth of July" label="Born on the Fourth of July" />
+      <node id="Platoon" label="Platoon" />
+      <node id="The Deer Hunter" label="The Deer Hunter" />
+      <node id="Apocalypse Now" label="Apocalypse Now" />
+      <node id="East Lynne (1931)" label="East Lynne (1931)" />
+      <node id="Cimarron (1931)" label="Cimarron (1931)" />
+      <node id="À Espera de um Milagre" label="À Espera de um Milagre" />
+      <node id="Top Hat" label="Top Hat" />
+      <node id="Henrique V (filme de 1944)" label="Henrique V (filme de 1944)" />
+      <node id="In Which We Serve" label="In Which We Serve" />
+      <node id="O Leão no Inverno (1968)" label="O Leão no Inverno (1968)" />
+      <node id="Funny Girl" label="Funny Girl" />
+      <node id="Cisne Negro" label="Cisne Negro" />
+      <node id="O Sexto Sentido" label="O Sexto Sentido" />
+      <node id="All About Eve" label="All About Eve" />
+      <node id="The Fighter" label="The Fighter" />
+      <node id="Avatar (filme)" label="Avatar (filme)" />
+      <node id="A Testemunha" label="A Testemunha" />
+      <node id="O Discurso do Rei" label="O Discurso do Rei" />
+      <node id="Juno (filme)" label="Juno (filme)" />
+      <node id="Slumdog Millionaire" label="Slumdog Millionaire" />
+      <node id="Little Miss Sunshine" label="Little Miss Sunshine" />
+      <node id="True Grit (2010)" label="True Grit (2010)" />
+      <node id="The Red Shoes" label="The Red Shoes" />
+      <node id="Rua 42" label="Rua 42" />
+      <node id="A Star Is Born (1937)" label="A Star Is Born (1937)" />
+      <node id="Random Harvest" label="Random Harvest" />
+      <node id="Blossoms in the Dust" label="Blossoms in the Dust" />
+      <node id="Madame Curie (filme)" label="Madame Curie (filme)" />
+      <node id="Her" label="Her" />
+      <node id="Gravidade (filme)" label="Gravidade (filme)" />
+      <node id="Watch on the Rhine" label="Watch on the Rhine" />
+      <node id="All This, and Heaven Too" label="All This, and Heaven Too" />
+      <node id="Ninotchka" label="Ninotchka" />
+      <node id="Gone with the Wind" label="Gone with the Wind" />
+      <node id="O Homem Elefante" label="O Homem Elefante" />
+      <node id="Raging Bull" label="Raging Bull" />
+      <node id="Grande Hotel (filme)" label="Grande Hotel (filme)" />
+      <node id="Gosford Park" label="Gosford Park" />
+      <node id="Johnny Belinda" label="Johnny Belinda" />
+      <node id="O Tesouro de Sierra Madre" label="O Tesouro de Sierra Madre" />
+      <node id="One Flew Over the Cuckoo's Nest" label="One Flew Over the Cuckoo's Nest" />
+      <node id="It Happened One Night" label="It Happened One Night" />
+      <node id="Mank (filme)" label="Mank (filme)" />
+      <node id="Citizen Kane" label="Citizen Kane" />
+      <node id="A Rede Social" label="A Rede Social" />
+      <node id="The Sound of Music" label="The Sound of Music" />
+      <node id="The Sand Pebbles" label="The Sand Pebbles" />
+      <node id="The Godfather Part II" label="The Godfather Part II" />
+      <node id="Taxi Driver" label="Taxi Driver" />
+      <node id="On the Waterfront" label="On the Waterfront" />
+      <node id="Toy Story 3" label="Toy Story 3" />
+      <node id="Up (filme)" label="Up (filme)" />
+      <node id="Beauty and the Beast (filme de 1991)" label="Beauty and the Beast (filme de 1991)" />
+      <node id="The Lord of the Rings: The Return of the King" label="The Lord of the Rings: The Return of the King" />
+      <node id="Shakespeare in Love" label="Shakespeare in Love" />
+      <node id="Im Westen nichts Neues (filme)" label="Im Westen nichts Neues (filme)" />
+      <node id="All Quiet on the Western Front" label="All Quiet on the Western Front" />
+      <node id="In Old Chicago" label="In Old Chicago" />
+      <node id="San Francisco (filme)" label="San Francisco (filme)" />
+      <node id="Moonlight (filme)" label="Moonlight (filme)" />
+      <node id="The Hurt Locker" label="The Hurt Locker" />
+      <node id="Lion (filme)" label="Lion (filme)" />
+      <node id="Whiplash (filme)" label="Whiplash (filme)" />
+      <node id="The Big Short" label="The Big Short" />
+      <node id="The Wizard of Oz (1939)" label="The Wizard of Oz (1939)" />
+      <node id="127 Horas" label="127 Horas" />
+      <node id="Chinatown (filme)" label="Chinatown (filme)" />
+      <node id="O Capitão Blood" label="O Capitão Blood" />
+      <node id="The Adventures of Robin Hood" label="The Adventures of Robin Hood" />
+      <node id="A Streetcar Named Desire" label="A Streetcar Named Desire" />
+      <node id="Chicago (filme de 2002)" label="Chicago (filme de 2002)" />
+      <node id="Oliver!" label="Oliver!" />
+      <node id="Adeus, Mr. Chips" label="Adeus, Mr. Chips" />
+      <node id="Casablanca (filme)" label="Casablanca (filme)" />
+      <node id="Mutiny on the Bounty (1962)" label="Mutiny on the Bounty (1962)" />
+      <node id="Mutiny on the Bounty (1935)" label="Mutiny on the Bounty (1935)" />
+      <node id="Mary Poppins (filme)" label="Mary Poppins (filme)" />
+      <node id="My Fair Lady" label="My Fair Lady" />
+      <node id="Django Unchained" label="Django Unchained" />
+      <node id="Inglourious Basterds" label="Inglourious Basterds" />
+      <node id="Pulp Fiction" label="Pulp Fiction" />
+      <node id="Os Dez Mandamentos (filme de 1956)" label="Os Dez Mandamentos (filme de 1956)" />
+      <node id="The Greatest Show on Earth" label="The Greatest Show on Earth" />
+      <node id="A Star Is Born (2018)" label="A Star Is Born (2018)" />
+      <node id="Dead Poets Society" label="Dead Poets Society" />
+      <node id="Alma em Suplício" label="Alma em Suplício" />
+      <node id="Forrest Gump" label="Forrest Gump" />
+      <node id="Deliverance (filme)" label="Deliverance (filme)" />
+      <node id="Bonnie e Clyde" label="Bonnie e Clyde" />
+      <node id="A Origem" label="A Origem" />
+      <node id="Tubarão (filme)" label="Tubarão (filme)" />
+      <node id="The French Connection" label="The French Connection" />
+      <node id="The Sting" label="The Sting" />
+      <node id="American Graffiti" label="American Graffiti" />
+      <node id="The Godfather" label="The Godfather" />
+      <node id="The Life of Emile Zola" label="The Life of Emile Zola" />
+      <node id="Captains Courageous" label="Captains Courageous" />
+      <node id="Cleópatra (1963)" label="Cleópatra (1963)" />
+      <node id="Tom Jones (1963)" label="Tom Jones (1963)" />
+      <node id="O Lobo de Wall Street" label="O Lobo de Wall Street" />
+      <node id="Hugo (filme)" label="Hugo (filme)" />
+      <node id="12 Years a Slave" label="12 Years a Slave" />
+      <node id="Duna (2021)" label="Duna (2021)" />
+      <node id="Arrival (filme)" label="Arrival (filme)" />
+      <node id="O Fio da Navalha (1946)" label="O Fio da Navalha (1946)" />
+      <node id="A Letter to Three Wives" label="A Letter to Three Wives" />
+      <node id="Sunset Boulevard" label="Sunset Boulevard" />
+      <node id="Ghost (filme)" label="Ghost (filme)" />
+      <node id="Dances with Wolves" label="Dances with Wolves" />
+      <node id="A Tale of Two Cities (1935)" label="A Tale of Two Cities (1935)" />
+      <node id="David Copperfield (1935)" label="David Copperfield (1935)" />
+      <node id="The Great Ziegfeld" label="The Great Ziegfeld" />
+      <node id="It's a Wonderful Life" label="It's a Wonderful Life" />
+      <node id="Mr. Smith Goes to Washington" label="Mr. Smith Goes to Washington" />
+      <node id="Mr. Deeds Goes to Town" label="Mr. Deeds Goes to Town" />
+      <node id="The Best Years of Our Lives" label="The Best Years of Our Lives" />
+      <node id="Amadeus" label="Amadeus" />
+      <node id="No Country for Old Men (filme)" label="No Country for Old Men (filme)" />
+      <node id="Fargo (filme)" label="Fargo (filme)" />
+      <node id="Gigi (filme)" label="Gigi (filme)" />
+      <node id="Argo (filme)" label="Argo (filme)" />
+      <node id="Zero Dark Thirty" label="Zero Dark Thirty" />
+      <node id="O Silêncio dos Inocentes" label="O Silêncio dos Inocentes" />
+      <node id="JFK (filme)" label="JFK (filme)" />
+      <node id="Beleza Americana" label="Beleza Americana" />
+      <node id="The Apartment" label="The Apartment" />
+      <node id="The Cider House Rules" label="The Cider House Rules" />
+      <node id="The Insider" label="The Insider" />
+      <node id="Ordinary People" label="Ordinary People" />
+      <node id="All That Jazz" label="All That Jazz" />
+      <node id="West Side Story (2021)" label="West Side Story (2021)" />
+      <node id="West Side Story (1961)" label="West Side Story (1961)" />
+      <node id="Munique (filme)" label="Munique (filme)" />
+      <node id="Lincoln (filme)" label="Lincoln (filme)" />
+      <node id="Lawrence da Arábia (filme)" label="Lawrence da Arábia (filme)" />
+      <node id="A Ponte do Rio Kwai" label="A Ponte do Rio Kwai" />
+      <node id="Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb" label="Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb" />
+      <node id="Hacksaw Ridge" label="Hacksaw Ridge" />
+      <node id="Braveheart" label="Braveheart" />
+      <node id="O Resgate do Soldado Ryan" label="O Resgate do Soldado Ryan" />
+      <node id="O Beijo da Mulher Aranha" label="O Beijo da Mulher Aranha" />
+      <node id="Out of Africa" label="Out of Africa" />
+      <node id="Wilson (1944)" label="Wilson (1944)" />
+      <node id="Phantom Thread" label="Phantom Thread" />
+      <node id="There Will Be Blood" label="There Will Be Blood" />
+      <node id="Raiders of the Lost Ark" label="Raiders of the Lost Ark" />
+      <node id="Chariots of Fire" label="Chariots of Fire" />
+      <node id="Test Pilot" label="Test Pilot" />
+      <node id="The Broadway Melody" label="The Broadway Melody" />
+      <node id="Broadway Melody of 1936" label="Broadway Melody of 1936" />
+      <node id="Boys Town (filme)" label="Boys Town (filme)" />
+      <node id="The Lord of the Rings: The Fellowship of the Ring" label="The Lord of the Rings: The Fellowship of the Ring" />
+      <node id="The Shawshank Redemption" label="The Shawshank Redemption" />
+      <node id="O Senhor dos Anéis: As Duas Torres" label="O Senhor dos Anéis: As Duas Torres" />
+      <node id="Driving Miss Daisy" label="Driving Miss Daisy" />
+      <node id="Green Book" label="Green Book" />
+      <node id="Asas (filme)" label="Asas (filme)" />
+      <node id="CODA (filme de 2021)" label="CODA (filme de 2021)" />
+      <node id="Manchester by the Sea" label="Manchester by the Sea" />
+      <node id="Joker (filme)" label="Joker (filme)" />
+      <node id="Black Panther (filme)" label="Black Panther (filme)" />
+      <node id="Avatar: O Caminho da Água" label="Avatar: O Caminho da Água" />
+      <node id="Titanic (filme de 1997)" label="Titanic (filme de 1997)" />
+      <node id="Hold Back the Dawn" label="Hold Back the Dawn" />
+      <node id="Suspeita" label="Suspeita" />
+      <node id="The Godfather Part III" label="The Godfather Part III" />
+      <node id="Love Story (1970)" label="Love Story (1970)" />
+      <node id="Goodfellas" label="Goodfellas" />
+      <node id="Shane" label="Shane" />
+      <node id="Os Canhões de Navarone" label="Os Canhões de Navarone" />
+      <node id="The Longest Day" label="The Longest Day" />
+      <node id="Apollo 13 (filme)" label="Apollo 13 (filme)" />
+      <node id="Heaven Can Wait (1943)" label="Heaven Can Wait (1943)" />
+      <node id="Here Comes Mr. Jordan" label="Here Comes Mr. Jordan" />
+      <node id="The Goodbye Girl" label="The Goodbye Girl" />
+      <node id="O Pianista" label="O Pianista" />
+      <node id="The Pied Piper" label="The Pied Piper" />
+      <node id="Since You Went Away" label="Since You Went Away" />
+      <node id="Bad Girl (filme)" label="Bad Girl (filme)" />
+      <node id="Pygmalion" label="Pygmalion" />
+      <node id="Star Wars: Episódio IV – Uma Nova Esperança" label="Star Wars: Episódio IV – Uma Nova Esperança" />
+      <node id="Annie Hall" label="Annie Hall" />
+      <node id="O Tenente Sedutor" label="O Tenente Sedutor" />
+      <node id="The Love Parade" label="The Love Parade" />
+      <node id="Rebecca (1940)" label="Rebecca (1940)" />
+      <node id="A Lista de Schindler" label="A Lista de Schindler" />
+      <node id="Bohemian Rhapsody (filme)" label="Bohemian Rhapsody (filme)" />
+      <node id="A Rainha" label="A Rainha" />
+      <node id="Frost/Nixon" label="Frost/Nixon" />
+      <node id="A Teoria de Tudo" label="A Teoria de Tudo" />
+      <node id="Extremely Loud and Incredibly Close" label="Extremely Loud and Incredibly Close" />
+      <node id="O Artista" label="O Artista" />
+      <node id="Darkest Hour (filme)" label="Darkest Hour (filme)" />
+      <node id="O Irlandês" label="O Irlandês" />
+      <node id="The Departed" label="The Departed" />
+      <node id="Barry Lyndon" label="Barry Lyndon" />
+      <node id="Quiz Show" label="Quiz Show" />
+      <node id="Silver Linings Playbook" label="Silver Linings Playbook" />
+      <node id="Reds" label="Reds" />
+      <node id="Laranja Mecânica (filme)" label="Laranja Mecânica (filme)" />
+      <node id="Ben-Hur" label="Ben-Hur" />
+      <node id="Roman Holiday" label="Roman Holiday" />
+      <node id="Gaslight" label="Gaslight" />
+      <node id="Os Fabelmans" label="Os Fabelmans" />
+      <node id="Moulin Rouge!" label="Moulin Rouge!" />
+      <node id="L.A. Confidential" label="L.A. Confidential" />
+      <node id="Cabaret (filme)" label="Cabaret (filme)" />
+      <node id="O Grande Ditador" label="O Grande Ditador" />
+      <node id="Jojo Rabbit" label="Jojo Rabbit" />
+      <node id="The House of Rothschild" label="The House of Rothschild" />
+      <node id="Disraeli (1929)" label="Disraeli (1929)" />
+      <node id="Unforgiven" label="Unforgiven" />
+      <node id="High Noon" label="High Noon" />
+      <node id="Hamlet (filme de 1948)" label="Hamlet (filme de 1948)" />
+      <node id="The Robe" label="The Robe" />
+      <node id="Becket (1964)" label="Becket (1964)" />
+      <node id="Hello, Dolly!" label="Hello, Dolly!" />
+      <node id="The Graduate" label="The Graduate" />
+      <node id="The Conversation" label="The Conversation" />
+      <node id="O Segredo de Brokeback Mountain" label="O Segredo de Brokeback Mountain" />
+      <node id="Crash (2004)" label="Crash (2004)" />
+      <node id="Stagecoach (1939)" label="Stagecoach (1939)" />
+      <node id="The Thin Red Line (1998)" label="The Thin Red Line (1998)" />
+      <node id="The Curious Case of Benjamin Button" label="The Curious Case of Benjamin Button" />
+      <node id="Babel (filme)" label="Babel (filme)" />
+      <node id="BlacKkKlansman" label="BlacKkKlansman" />
+      <node id="Get Out" label="Get Out" />
+      <node id="Little Women (2019)" label="Little Women (2019)" />
+      <node id="Lady Bird" label="Lady Bird" />
+      <node id="A Room with a View" label="A Room with a View" />
+      <node id="Hannah and Her Sisters" label="Hannah and Her Sisters" />
+      <node id="Room at the Top" label="Room at the Top" />
+      <node id="E.T. O Extraterrestre" label="E.T. O Extraterrestre" />
+      <node id="Gandhi (filme)" label="Gandhi (filme)" />
+      <node id="Guess Who's Coming to Dinner" label="Guess Who's Coming to Dinner" />
+      <node id="Z (filme)" label="Z (filme)" />
+      <node id="The Snake Pit" label="The Snake Pit" />
+      <node id="As Vinhas da Ira (filme)" label="As Vinhas da Ira (filme)" />
+      <node id="1917 (filme)" label="1917 (filme)" />
+      <node id="Dunkirk (filme)" label="Dunkirk (filme)" />
+      <node id="Foreign Correspondent" label="Foreign Correspondent" />
+    </nodes>
+    <edges>
+      <edge source="Babe (1995)" target="Midnight Cowboy" id="0" />
+      <edge source="Babe (1995)" target="Rocky" id="1" />
+      <edge source="Rocky" target="Raging Bull" id="2" />
+      <edge source="Gisaengchung" target="La La Land (filme)" id="3" />
+      <edge source="Gisaengchung" target="Gladiador (filme)" id="4" />
+      <edge source="Gisaengchung" target="Farrapo Humano" id="5" />
+      <edge source="Gisaengchung" target="Marty" id="6" />
+      <edge source="Gisaengchung" target="Everything Everywhere All at Once" id="7" />
+      <edge source="La La Land (filme)" target="Whiplash (filme)" id="8" />
+      <edge source="La La Land (filme)" target="All About Eve" id="9" />
+      <edge source="La La Land (filme)" target="The Big Short" id="10" />
+      <edge source="La La Land (filme)" target="Top Hat" id="11" />
+      <edge source="La La Land (filme)" target="The Wizard of Oz (1939)" id="12" />
+      <edge source="La La Land (filme)" target="Moonlight (filme)" id="13" />
+      <edge source="La La Land (filme)" target="Gone with the Wind" id="14" />
+      <edge source="La La Land (filme)" target="Chicago (filme de 2002)" id="15" />
+      <edge source="Gladiador (filme)" target="O Resgate do Soldado Ryan" id="16" />
+      <edge source="Farrapo Humano" target="The Shawshank Redemption" id="17" />
+      <edge source="Marty" target="O Artista" id="18" />
+      <edge source="Bridge of Spies" target="Perdido em Marte" id="19" />
+      <edge source="Erin Brockovich (filme)" target="Traffic (filme)" id="20" />
+      <edge source="The Little Foxes" target="Jezebel" id="21" />
+      <edge source="The Little Foxes" target="A Carta (1940)" id="22" />
+      <edge source="The Little Foxes" target="Dark Victory" id="23" />
+      <edge source="The Little Foxes" target="Peyton Place (filme)" id="24" />
+      <edge source="The Little Foxes" target="The Turning Point (1977)" id="25" />
+      <edge source="The Little Foxes" target="All About Eve" id="26" />
+      <edge source="Jezebel" target="Gone with the Wind" id="27" />
+      <edge source="Jezebel" target="A Carta (1940)" id="28" />
+      <edge source="Jezebel" target="All About Eve" id="29" />
+      <edge source="Dark Victory" target="Gone with the Wind" id="30" />
+      <edge source="Dark Victory" target="The Wizard of Oz (1939)" id="31" />
+      <edge source="Dark Victory" target="All About Eve" id="32" />
+      <edge source="Peyton Place (filme)" target="O Leão no Inverno (1968)" id="33" />
+      <edge source="Coming Home (1978)" target="Born on the Fourth of July" id="34" />
+      <edge source="Platoon" target="The Deer Hunter" id="35" />
+      <edge source="Platoon" target="Apocalypse Now" id="36" />
+      <edge source="The Deer Hunter" target="Pulp Fiction" id="37" />
+      <edge source="Apocalypse Now" target="American Graffiti" id="38" />
+      <edge source="Apocalypse Now" target="The Conversation" id="39" />
+      <edge source="Apocalypse Now" target="Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb" id="40" />
+      <edge source="Apocalypse Now" target="The Godfather" id="41" />
+      <edge source="Apocalypse Now" target="A Lista de Schindler" id="42" />
+      <edge source="Apocalypse Now" target="The Longest Day" id="43" />
+      <edge source="East Lynne (1931)" target="Cimarron (1931)" id="44" />
+      <edge source="Cimarron (1931)" target="It's a Wonderful Life" id="45" />
+      <edge source="Cimarron (1931)" target="Unforgiven" id="46" />
+      <edge source="À Espera de um Milagre" target="Top Hat" id="47" />
+      <edge source="Henrique V (filme de 1944)" target="In Which We Serve" id="48" />
+      <edge source="In Which We Serve" target="Citizen Kane" id="49" />
+      <edge source="O Leão no Inverno (1968)" target="Funny Girl" id="50" />
+      <edge source="Funny Girl" target="The Sound of Music" id="51" />
+      <edge source="Funny Girl" target="Ben-Hur" id="52" />
+      <edge source="Funny Girl" target="Roman Holiday" id="53" />
+      <edge source="Funny Girl" target="Gaslight" id="54" />
+      <edge source="Funny Girl" target="Oliver!" id="55" />
+      <edge source="Funny Girl" target="Hello, Dolly!" id="56" />
+      <edge source="Cisne Negro" target="O Sexto Sentido" id="57" />
+      <edge source="Cisne Negro" target="All About Eve" id="58" />
+      <edge source="Cisne Negro" target="The Fighter" id="59" />
+      <edge source="Cisne Negro" target="Avatar (filme)" id="60" />
+      <edge source="Cisne Negro" target="A Testemunha" id="61" />
+      <edge source="Cisne Negro" target="O Discurso do Rei" id="62" />
+      <edge source="Cisne Negro" target="Juno (filme)" id="63" />
+      <edge source="Cisne Negro" target="Slumdog Millionaire" id="64" />
+      <edge source="Cisne Negro" target="Little Miss Sunshine" id="65" />
+      <edge source="Cisne Negro" target="True Grit (2010)" id="66" />
+      <edge source="Cisne Negro" target="The Red Shoes" id="67" />
+      <edge source="Cisne Negro" target="Rua 42" id="68" />
+      <edge source="Cisne Negro" target="A Star Is Born (1937)" id="69" />
+      <edge source="O Sexto Sentido" target="Beleza Americana" id="70" />
+      <edge source="All About Eve" target="O Fio da Navalha (1946)" id="71" />
+      <edge source="All About Eve" target="A Letter to Three Wives" id="72" />
+      <edge source="All About Eve" target="Sunset Boulevard" id="73" />
+      <edge source="All About Eve" target="A Streetcar Named Desire" id="74" />
+      <edge source="All About Eve" target="Gone with the Wind" id="75" />
+      <edge source="All About Eve" target="Titanic (filme de 1997)" id="76" />
+      <edge source="The Fighter" target="The Departed" id="77" />
+      <edge source="The Fighter" target="Raging Bull" id="78" />
+      <edge source="The Fighter" target="Silver Linings Playbook" id="79" />
+      <edge source="Avatar (filme)" target="The Lord of the Rings: The Return of the King" id="80" />
+      <edge source="Avatar (filme)" target="Toy Story 3" id="81" />
+      <edge source="Avatar (filme)" target="Up (filme)" id="82" />
+      <edge source="Avatar (filme)" target="Beauty and the Beast (filme de 1991)" id="83" />
+      <edge source="Avatar (filme)" target="Black Panther (filme)" id="84" />
+      <edge source="Avatar (filme)" target="Avatar: O Caminho da Água" id="85" />
+      <edge source="Avatar (filme)" target="Titanic (filme de 1997)" id="86" />
+      <edge source="A Testemunha" target="Dead Poets Society" id="87" />
+      <edge source="Slumdog Millionaire" target="127 Horas" id="88" />
+      <edge source="Little Miss Sunshine" target="Toy Story 3" id="89" />
+      <edge source="True Grit (2010)" target="No Country for Old Men (filme)" id="90" />
+      <edge source="The Red Shoes" target="Hamlet (filme de 1948)" id="91" />
+      <edge source="A Star Is Born (1937)" target="A Star Is Born (2018)" id="92" />
+      <edge source="Random Harvest" target="Blossoms in the Dust" id="93" />
+      <edge source="Random Harvest" target="Madame Curie (filme)" id="94" />
+      <edge source="Madame Curie (filme)" target="Ninotchka" id="95" />
+      <edge source="Her" target="Gravidade (filme)" id="96" />
+      <edge source="Gravidade (filme)" target="Apollo 13 (filme)" id="97" />
+      <edge source="Gravidade (filme)" target="O Lobo de Wall Street" id="98" />
+      <edge source="Watch on the Rhine" target="All This, and Heaven Too" id="99" />
+      <edge source="Ninotchka" target="Gone with the Wind" id="100" />
+      <edge source="Gone with the Wind" target="The Wizard of Oz (1939)" id="101" />
+      <edge source="Gone with the Wind" target="The Sound of Music" id="102" />
+      <edge source="Gone with the Wind" target="The Graduate" id="103" />
+      <edge source="Gone with the Wind" target="The Godfather" id="104" />
+      <edge source="Gone with the Wind" target="Gigi (filme)" id="105" />
+      <edge source="Gone with the Wind" target="Ben-Hur" id="106" />
+      <edge source="Gone with the Wind" target="West Side Story (1961)" id="107" />
+      <edge source="Gone with the Wind" target="The Lord of the Rings: The Return of the King" id="108" />
+      <edge source="Gone with the Wind" target="Citizen Kane" id="109" />
+      <edge source="Gone with the Wind" target="A Streetcar Named Desire" id="110" />
+      <edge source="Gone with the Wind" target="Adeus, Mr. Chips" id="111" />
+      <edge source="Gone with the Wind" target="A Tale of Two Cities (1935)" id="112" />
+      <edge source="Gone with the Wind" target="Lawrence da Arábia (filme)" id="113" />
+      <edge source="Gone with the Wind" target="Wilson (1944)" id="114" />
+      <edge source="Gone with the Wind" target="The Shawshank Redemption" id="115" />
+      <edge source="Gone with the Wind" target="Titanic (filme de 1997)" id="116" />
+      <edge source="Gone with the Wind" target="Star Wars: Episódio IV – Uma Nova Esperança" id="117" />
+      <edge source="Gone with the Wind" target="Stagecoach (1939)" id="118" />
+      <edge source="O Homem Elefante" target="Raging Bull" id="119" />
+      <edge source="O Homem Elefante" target="The Thin Red Line (1998)" id="120" />
+      <edge source="Raging Bull" target="The Godfather Part II" id="121" />
+      <edge source="Raging Bull" target="Taxi Driver" id="122" />
+      <edge source="Raging Bull" target="On the Waterfront" id="123" />
+      <edge source="Raging Bull" target="Joker (filme)" id="124" />
+      <edge source="Raging Bull" target="O Irlandês" id="125" />
+      <edge source="Grande Hotel (filme)" target="Gosford Park" id="126" />
+      <edge source="Grande Hotel (filme)" target="Alma em Suplício" id="127" />
+      <edge source="Grande Hotel (filme)" target="Driving Miss Daisy" id="128" />
+      <edge source="Grande Hotel (filme)" target="Bad Girl (filme)" id="129" />
+      <edge source="Johnny Belinda" target="O Tesouro de Sierra Madre" id="130" />
+      <edge source="One Flew Over the Cuckoo's Nest" target="It Happened One Night" id="131" />
+      <edge source="It Happened One Night" target="O Silêncio dos Inocentes" id="132" />
+      <edge source="Mank (filme)" target="Citizen Kane" id="133" />
+      <edge source="Mank (filme)" target="A Rede Social" id="134" />
+      <edge source="Citizen Kane" target="The Godfather" id="135" />
+      <edge source="A Rede Social" target="Hacksaw Ridge" id="136" />
+      <edge source="The Sound of Music" target="The Sand Pebbles" id="137" />
+      <edge source="The Sound of Music" target="The Godfather" id="138" />
+      <edge source="The Godfather Part II" target="The Godfather" id="139" />
+      <edge source="The Godfather Part II" target="The Godfather Part III" id="140" />
+      <edge source="The Godfather Part II" target="Chinatown (filme)" id="141" />
+      <edge source="The Godfather Part II" target="O Irlandês" id="142" />
+      <edge source="Taxi Driver" target="Tubarão (filme)" id="143" />
+      <edge source="Taxi Driver" target="Joker (filme)" id="144" />
+      <edge source="Taxi Driver" target="The Goodbye Girl" id="145" />
+      <edge source="Taxi Driver" target="Star Wars: Episódio IV – Uma Nova Esperança" id="146" />
+      <edge source="Taxi Driver" target="Unforgiven" id="147" />
+      <edge source="Toy Story 3" target="Up (filme)" id="148" />
+      <edge source="Toy Story 3" target="Beauty and the Beast (filme de 1991)" id="149" />
+      <edge source="Toy Story 3" target="The Lord of the Rings: The Return of the King" id="150" />
+      <edge source="Toy Story 3" target="Shakespeare in Love" id="151" />
+      <edge source="Toy Story 3" target="A Origem" id="152" />
+      <edge source="Up (filme)" target="Casablanca (filme)" id="153" />
+      <edge source="Up (filme)" target="Beauty and the Beast (filme de 1991)" id="154" />
+      <edge source="Beauty and the Beast (filme de 1991)" target="Mary Poppins (filme)" id="155" />
+      <edge source="Beauty and the Beast (filme de 1991)" target="Dead Poets Society" id="156" />
+      <edge source="Beauty and the Beast (filme de 1991)" target="All That Jazz" id="157" />
+      <edge source="Beauty and the Beast (filme de 1991)" target="Moulin Rouge!" id="158" />
+      <edge source="The Lord of the Rings: The Return of the King" target="The Lord of the Rings: The Fellowship of the Ring" id="159" />
+      <edge source="The Lord of the Rings: The Return of the King" target="O Senhor dos Anéis: As Duas Torres" id="160" />
+      <edge source="The Lord of the Rings: The Return of the King" target="Ben-Hur" id="161" />
+      <edge source="Shakespeare in Love" target="Beleza Americana" id="162" />
+      <edge source="Im Westen nichts Neues (filme)" target="All Quiet on the Western Front" id="163" />
+      <edge source="Im Westen nichts Neues (filme)" target="1917 (filme)" id="164" />
+      <edge source="All Quiet on the Western Front" target="Dunkirk (filme)" id="165" />
+      <edge source="In Old Chicago" target="San Francisco (filme)" id="166" />
+      <edge source="Moonlight (filme)" target="The Hurt Locker" id="167" />
+      <edge source="Moonlight (filme)" target="Lion (filme)" id="168" />
+      <edge source="Moonlight (filme)" target="Hacksaw Ridge" id="169" />
+      <edge source="The Hurt Locker" target="Amadeus" id="170" />
+      <edge source="The Hurt Locker" target="Zero Dark Thirty" id="171" />
+      <edge source="The Hurt Locker" target="Lawrence da Arábia (filme)" id="172" />
+      <edge source="The Wizard of Oz (1939)" target="E.T. O Extraterrestre" id="173" />
+      <edge source="O Capitão Blood" target="The Adventures of Robin Hood" id="174" />
+      <edge source="Chicago (filme de 2002)" target="Oliver!" id="175" />
+      <edge source="Casablanca (filme)" target="The Godfather" id="176" />
+      <edge source="Mutiny on the Bounty (1962)" target="Mutiny on the Bounty (1935)" id="177" />
+      <edge source="Mary Poppins (filme)" target="My Fair Lady" id="178" />
+      <edge source="My Fair Lady" target="Pygmalion" id="179" />
+      <edge source="My Fair Lady" target="Hamlet (filme de 1948)" id="180" />
+      <edge source="Django Unchained" target="Inglourious Basterds" id="181" />
+      <edge source="Django Unchained" target="Pulp Fiction" id="182" />
+      <edge source="Django Unchained" target="Argo (filme)" id="183" />
+      <edge source="Pulp Fiction" target="Forrest Gump" id="184" />
+      <edge source="Pulp Fiction" target="Deliverance (filme)" id="185" />
+      <edge source="Pulp Fiction" target="Bonnie e Clyde" id="186" />
+      <edge source="Pulp Fiction" target="The Shawshank Redemption" id="187" />
+      <edge source="Os Dez Mandamentos (filme de 1956)" target="The Greatest Show on Earth" id="188" />
+      <edge source="Forrest Gump" target="The Shawshank Redemption" id="189" />
+      <edge source="Forrest Gump" target="Apollo 13 (filme)" id="190" />
+      <edge source="Forrest Gump" target="The Curious Case of Benjamin Button" id="191" />
+      <edge source="A Origem" target="Dunkirk (filme)" id="192" />
+      <edge source="Tubarão (filme)" target="The French Connection" id="193" />
+      <edge source="Tubarão (filme)" target="The Sting" id="194" />
+      <edge source="Tubarão (filme)" target="American Graffiti" id="195" />
+      <edge source="Tubarão (filme)" target="The Godfather" id="196" />
+      <edge source="The French Connection" target="Z (filme)" id="197" />
+      <edge source="American Graffiti" target="Star Wars: Episódio IV – Uma Nova Esperança" id="198" />
+      <edge source="The Godfather" target="The Godfather Part III" id="199" />
+      <edge source="The Godfather" target="Love Story (1970)" id="200" />
+      <edge source="The Godfather" target="Goodfellas" id="201" />
+      <edge source="The Godfather" target="Raiders of the Lost Ark" id="202" />
+      <edge source="The Godfather" target="The Shawshank Redemption" id="203" />
+      <edge source="The Godfather" target="Avatar: O Caminho da Água" id="204" />
+      <edge source="The Godfather" target="Laranja Mecânica (filme)" id="205" />
+      <edge source="The Godfather" target="Cabaret (filme)" id="206" />
+      <edge source="The Life of Emile Zola" target="Captains Courageous" id="207" />
+      <edge source="Captains Courageous" target="Test Pilot" id="208" />
+      <edge source="Captains Courageous" target="Boys Town (filme)" id="209" />
+      <edge source="Cleópatra (1963)" target="Tom Jones (1963)" id="210" />
+      <edge source="O Lobo de Wall Street" target="Hugo (filme)" id="211" />
+      <edge source="O Lobo de Wall Street" target="12 Years a Slave" id="212" />
+      <edge source="O Lobo de Wall Street" target="O Irlandês" id="213" />
+      <edge source="Hugo (filme)" target="O Irlandês" id="214" />
+      <edge source="Duna (2021)" target="Arrival (filme)" id="215" />
+      <edge source="Ghost (filme)" target="Dances with Wolves" id="216" />
+      <edge source="Dances with Wolves" target="Unforgiven" id="217" />
+      <edge source="A Tale of Two Cities (1935)" target="David Copperfield (1935)" id="218" />
+      <edge source="A Tale of Two Cities (1935)" target="The Great Ziegfeld" id="219" />
+      <edge source="It's a Wonderful Life" target="Mr. Smith Goes to Washington" id="220" />
+      <edge source="It's a Wonderful Life" target="Mr. Deeds Goes to Town" id="221" />
+      <edge source="It's a Wonderful Life" target="The Best Years of Our Lives" id="222" />
+      <edge source="Mr. Smith Goes to Washington" target="Lawrence da Arábia (filme)" id="223" />
+      <edge source="Mr. Smith Goes to Washington" target="The Shawshank Redemption" id="224" />
+      <edge source="No Country for Old Men (filme)" target="Fargo (filme)" id="225" />
+      <edge source="Gigi (filme)" target="Argo (filme)" id="226" />
+      <edge source="Argo (filme)" target="Silver Linings Playbook" id="227" />
+      <edge source="Argo (filme)" target="Driving Miss Daisy" id="228" />
+      <edge source="O Silêncio dos Inocentes" target="JFK (filme)" id="229" />
+      <edge source="Beleza Americana" target="The Apartment" id="230" />
+      <edge source="Beleza Americana" target="The Cider House Rules" id="231" />
+      <edge source="Beleza Americana" target="The Insider" id="232" />
+      <edge source="Beleza Americana" target="Ordinary People" id="233" />
+      <edge source="Beleza Americana" target="All That Jazz" id="234" />
+      <edge source="West Side Story (2021)" target="West Side Story (1961)" id="235" />
+      <edge source="West Side Story (2021)" target="Munique (filme)" id="236" />
+      <edge source="West Side Story (2021)" target="Lincoln (filme)" id="237" />
+      <edge source="Munique (filme)" target="Os Fabelmans" id="238" />
+      <edge source="Lincoln (filme)" target="O Resgate do Soldado Ryan" id="239" />
+      <edge source="Lawrence da Arábia (filme)" target="A Ponte do Rio Kwai" id="240" />
+      <edge source="Lawrence da Arábia (filme)" target="Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb" id="241" />
+      <edge source="A Ponte do Rio Kwai" target="Dunkirk (filme)" id="242" />
+      <edge source="Hacksaw Ridge" target="Braveheart" id="243" />
+      <edge source="Hacksaw Ridge" target="O Resgate do Soldado Ryan" id="244" />
+      <edge source="O Resgate do Soldado Ryan" target="Dunkirk (filme)" id="245" />
+      <edge source="O Beijo da Mulher Aranha" target="Out of Africa" id="246" />
+      <edge source="Out of Africa" target="A Lista de Schindler" id="247" />
+      <edge source="Out of Africa" target="Bohemian Rhapsody (filme)" id="248" />
+      <edge source="Phantom Thread" target="There Will Be Blood" id="249" />
+      <edge source="Raiders of the Lost Ark" target="Chariots of Fire" id="250" />
+      <edge source="Raiders of the Lost Ark" target="E.T. O Extraterrestre" id="251" />
+      <edge source="Chariots of Fire" target="Dunkirk (filme)" id="252" />
+      <edge source="The Broadway Melody" target="Broadway Melody of 1936" id="253" />
+      <edge source="The Lord of the Rings: The Fellowship of the Ring" target="O Senhor dos Anéis: As Duas Torres" id="254" />
+      <edge source="The Shawshank Redemption" target="Goodfellas" id="255" />
+      <edge source="The Shawshank Redemption" target="Quiz Show" id="256" />
+      <edge source="Driving Miss Daisy" target="Green Book" id="257" />
+      <edge source="Driving Miss Daisy" target="Asas (filme)" id="258" />
+      <edge source="Asas (filme)" target="O Artista" id="259" />
+      <edge source="CODA (filme de 2021)" target="Manchester by the Sea" id="260" />
+      <edge source="Joker (filme)" target="Black Panther (filme)" id="261" />
+      <edge source="Joker (filme)" target="Titanic (filme de 1997)" id="262" />
+      <edge source="Joker (filme)" target="Bohemian Rhapsody (filme)" id="263" />
+      <edge source="Avatar: O Caminho da Água" target="Titanic (filme de 1997)" id="264" />
+      <edge source="Titanic (filme de 1997)" target="L.A. Confidential" id="265" />
+      <edge source="Hold Back the Dawn" target="Suspeita" id="266" />
+      <edge source="Goodfellas" target="Shane" id="267" />
+      <edge source="Goodfellas" target="O Irlandês" id="268" />
+      <edge source="Shane" target="Unforgiven" id="269" />
+      <edge source="Os Canhões de Navarone" target="The Longest Day" id="270" />
+      <edge source="Apollo 13 (filme)" target="Quiz Show" id="271" />
+      <edge source="Heaven Can Wait (1943)" target="Here Comes Mr. Jordan" id="272" />
+      <edge source="The Goodbye Girl" target="O Pianista" id="273" />
+      <edge source="O Pianista" target="A Lista de Schindler" id="274" />
+      <edge source="The Pied Piper" target="Since You Went Away" id="275" />
+      <edge source="Since You Went Away" target="Rebecca (1940)" id="276" />
+      <edge source="Star Wars: Episódio IV – Uma Nova Esperança" target="Annie Hall" id="277" />
+      <edge source="O Tenente Sedutor" target="The Love Parade" id="278" />
+      <edge source="A Lista de Schindler" target="The Curious Case of Benjamin Button" id="279" />
+      <edge source="A Lista de Schindler" target="E.T. O Extraterrestre" id="280" />
+      <edge source="Bohemian Rhapsody (filme)" target="A Rainha" id="281" />
+      <edge source="Bohemian Rhapsody (filme)" target="Frost/Nixon" id="282" />
+      <edge source="Bohemian Rhapsody (filme)" target="A Teoria de Tudo" id="283" />
+      <edge source="Bohemian Rhapsody (filme)" target="Extremely Loud and Incredibly Close" id="284" />
+      <edge source="A Teoria de Tudo" target="Darkest Hour (filme)" id="285" />
+      <edge source="Darkest Hour (filme)" target="Dunkirk (filme)" id="286" />
+      <edge source="O Irlandês" target="The Departed" id="287" />
+      <edge source="O Irlandês" target="Barry Lyndon" id="288" />
+      <edge source="Silver Linings Playbook" target="Reds" id="289" />
+      <edge source="Ben-Hur" target="Roman Holiday" id="290" />
+      <edge source="Ben-Hur" target="Room at the Top" id="291" />
+      <edge source="O Grande Ditador" target="Jojo Rabbit" id="292" />
+      <edge source="The House of Rothschild" target="Disraeli (1929)" id="293" />
+      <edge source="Unforgiven" target="High Noon" id="294" />
+      <edge source="Hamlet (filme de 1948)" target="The Robe" id="295" />
+      <edge source="Hamlet (filme de 1948)" target="Becket (1964)" id="296" />
+      <edge source="O Segredo de Brokeback Mountain" target="Crash (2004)" id="297" />
+      <edge source="The Curious Case of Benjamin Button" target="Babel (filme)" id="298" />
+      <edge source="BlacKkKlansman" target="Get Out" id="299" />
+      <edge source="Get Out" target="Guess Who's Coming to Dinner" id="300" />
+      <edge source="Little Women (2019)" target="Lady Bird" id="301" />
+      <edge source="A Room with a View" target="Hannah and Her Sisters" id="302" />
+      <edge source="E.T. O Extraterrestre" target="Gandhi (filme)" id="303" />
+      <edge source="The Snake Pit" target="As Vinhas da Ira (filme)" id="304" />
+      <edge source="1917 (filme)" target="Dunkirk (filme)" id="305" />
+      <edge source="Dunkirk (filme)" target="Foreign Correspondent" id="306" />
+    </edges>
+  </graph>
+</gexf>

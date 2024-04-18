@@ -19,14 +19,14 @@ def louvain_community_detector(G):
     plt.figure(figsize=(15, 7))
     nx.draw_networkx_nodes(G, pos, node_color=list(partition.values()), cmap=plt.cm.Set1, node_size=50)
     nx.draw_networkx_edges(G, pos, alpha=0.5)
-    plt.title("Detecção de Comunidades - Artigos em Inglês da Wikipedia dos filmes indicados a 'Melhor Filme' no Oscar (Louvain)")
+    plt.title("Detecção de Comunidades - Artigos em Português da Wikipedia dos filmes indicados a 'Melhor Filme' no Oscar (Louvain)")
     # plt.axis("off")
     legenda = []
     for node, community_id in partition.items():
         print(f"Node {node}: Community {community_id}")
         # legenda.append(community_id)
     # plt.legend(legenda)
-    nx.write_gexf(G, "comunidades_en.gexf")
+    nx.write_gexf(G, "comunidades_pt.gexf")
     plt.show()
     # Print the nodes and their assigned communities
 
@@ -45,13 +45,13 @@ def top_five_page_rank(ranks):
     top = list(reversed(sorted((rank, node) for node, rank in ranks.items()))) [:10]
     return [node for rank, node in top]
 
-wp.set_lang("es")
+wp.set_lang("pt")
 filmes_indicados = {} # chave: nome do filme, valor: id (que é o valor de 'i')
 grafo = nx.DiGraph() # variável que guarda o grafo
 
 # ARMAZENA EM UM DICIONÁRIO TODOS OS FILMES QUE TÊM PÁGINA NA WIKIPEDIA NO IDIOMA
 def get_indicados():
-    with open("./CSV METADADOS/metadados_en.csv", "r") as file_get_nomes_filmes: 
+    with open("./CSV METADADOS/metadados_pt.csv", "r") as file_get_nomes_filmes: 
         next(file_get_nomes_filmes) # pula a linha que contém o cabeçalho do arquivo .csv
         i = 0 # atua como o id do filme na lista
         for line in file_get_nomes_filmes:
@@ -65,7 +65,7 @@ def get_indicados():
     
 def get_vertices():
     # lista todos os arquivos armazenados no diretório 'ARTIGOS HTML/inglês'
-    path = "./ARTIGOS HTML/inglês"
+    path = "./ARTIGOS HTML/português"
     list_files = os.listdir(path) # lista o nome de todos os documentos do diretório "./ARTIGOS HTML/inglês"
     
     # acessa cada arquivo .html para lê-lo e realizar o parser
