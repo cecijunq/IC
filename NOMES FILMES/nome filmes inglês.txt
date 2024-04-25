@@ -5,7 +5,6 @@ The Broadway Melody
 In Old Arizona
 The Hollywood Revue
 The Patriot (1928 film)
-Alibi (1929 film)
 All Quiet on the Western Front (1930 film)
 The Big House (1930 film)
 Disraeli (1929 film)
@@ -32,31 +31,26 @@ Lady for a Day
 Little Women (1933 film)
 The Private Life of Henry VIII
 She Done Him Wrong
-Smilin%27 Through (1932 film)
 State Fair (1933 film)
 It Happened One Night
 The Barretts of Wimpole Street (1934 film)
 Cleopatra (1934 film)
 Flirtation Walk
 The Gay Divorcee
-Here Comes the Navy
-The House of Rothschild
 Imitation of Life (1934 film)
 One Night of Love
 The Thin Man (film)
 Viva Villa!
-The White Parade
 Mutiny on the Bounty (1935 film)
 Broadway Melody of 1936
 Captain Blood (1935 film)
 David Copperfield (1935 film)
 Alice Adams (1935 film)
 The Informer (1935 film)
-Les Mis%C3%A9rables (1935 film)
+Les Misérables (1935 film)
 The Lives of a Bengal Lancer (film)
-A Midsummer Night%27s Dream (1935 film)
+A Midsummer Night's Dream (1935 film)
 Naughty Marietta (film)
-Ruggles of Red Gap
 Top Hat
 The Great Ziegfeld
 Anthony Adverse
@@ -64,10 +58,7 @@ Libeled Lady
 Dodsworth (film)
 Mr. Deeds Goes to Town
 Romeo and Juliet (1936 film)
-San Francisco (1936 film)
 The Story of Louis Pasteur
-A Tale of Two Cities (1935 film)
-Three Smart Girls
 The Life of Emile Zola
 The Awful Truth
 Captains Courageous (1937 film)
@@ -78,12 +69,11 @@ Lost Horizon (1937 film)
 One Hundred Men and a Girl
 Stage Door
 A Star Is Born (1937 film)
-You Can%27t Take It with You (film)
+You Can't Take It with You (film)
 The Adventures of Robin Hood
-Alexander%27s Ragtime Band (film)
+Alexander's Ragtime Band (film)
 Boys Town (film)
 The Citadel (1938 film)
-Four Daughters
 La Grande Illusion
 Jezebel (1938 film)
 Pygmalion (1938 film)
@@ -115,7 +105,6 @@ Here Comes Mr. Jordan
 Hold Back the Dawn
 The Little Foxes (film)
 The Maltese Falcon (1941 film)
-One Foot in Heaven
 Sergeant York (film)
 Suspicion (1941 film)
 Mrs. Miniver
@@ -123,15 +112,11 @@ Mrs. Miniver
 Kings Row
 The Magnificent Ambersons (film)
 The Pride of the Yankees
-The Pied Piper (1942 film)
 Random Harvest (film)
-Wake Island (film)
 Yankee Doodle Dandy
 Casablanca (film)
 For Whom the Bell Tolls (film)
 Heaven Can Wait (1943 film)
-The Human Comedy (film)
-In Which We Serve
 The More the Merrier
 The Ox-Bow Incident
 Madame Curie (film)
@@ -144,16 +129,16 @@ Wilson (1944 film)
 Since You Went Away
 The Lost Weekend
 Anchors Aweigh (film)
-The Bells of St. Mary%27s
+The Bells of St. Mary's
 Mildred Pierce (film)
 Spellbound (1945 film)
 The Best Years of Our Lives
 Henry V (1944 film)
-It%27s a Wonderful Life
-The Razor%27s Edge (1946 film)
+It's a Wonderful Life
+The Razor's Edge (1946 film)
 The Yearling (1946 film)
-Gentleman%27s Agreement
-The Bishop%27s Wife
+Gentleman's Agreement
+The Bishop's Wife
 Crossfire (film)
 Great Expectations (1946 film)
 Miracle on 34th Street
@@ -162,7 +147,7 @@ Johnny Belinda (1948 film)
 The Red Shoes (1948 film)
 The Treasure of the Sierra Madre (film)
 The Snake Pit
-All the King%27s Men (1949 film)
+All the King's Men (1949 film)
 Battleground (film)
 The Heiress
 A Letter to Three Wives
@@ -170,7 +155,7 @@ All About Eve
 Born Yesterday (1950 film)
 Sunset Boulevard (film)
 Father of the Bride (1950 film)
-King Solomon%27s Mines (1950 film)
+King Solomon's Mines (1950 film)
 An American in Paris (film)
 Decision Before Dawn
 A Place in the Sun (1951 film)
@@ -185,7 +170,7 @@ From Here to Eternity
 The Robe (film)
 Roman Holiday
 Shane (film)
-William Shakespeare%27s Julius Caesar
+William Shakespeare's Julius Caesar
 On the Waterfront
 The Caine Mutiny (film)
 The Country Girl (1954 film)
@@ -214,7 +199,7 @@ Separate Tables (film)
 Ben-Hur (1959 film)
 Anatomy of a Murder
 The Diary of Anne Frank (1959 film)
-The Nun%27s Story (film)
+The Nun's Story (film)
 Room at the Top (1959 film)
 The Apartment
 The Alamo (1960 film)
@@ -250,12 +235,12 @@ A Man for All Seasons (1966 film)
 Alfie (1966 film)
 The Russians Are Coming, the Russians Are Coming
 The Sand Pebbles (film)
-Who%27s Afraid of Virginia Woolf%3F (film)
+Who's Afraid of Virginia Woolf? (film)
 In the Heat of the Night (film)
 Bonnie and Clyde (film)
 Doctor Dolittle (1967 film)
 The Graduate
-Guess Who%27s Coming to Dinner
+Guess Who's Coming to Dinner
 Oliver! (film)
 Funny Girl (film)
 The Lion in Winter (1968 film)
@@ -291,13 +276,13 @@ Chinatown (1974 film)
 The Conversation
 Lenny (film)
 The Towering Inferno
-One Flew Over the Cuckoo%27s Nest (film)
+One Flew Over the Cuckoo's Nest (film)
 Barry Lyndon
 Dog Day Afternoon
 Jaws (film)
 Nashville (film)
 Rocky
-All the President%27s Men (film)
+All the President's Men (film)
 Bound for Glory (1976 film)
 Network (1976 film)
 Taxi Driver
@@ -317,7 +302,7 @@ Apocalypse Now
 Breaking Away
 Norma Rae
 Ordinary People
-Coal Miner%27s Daughter (film)
+Coal Miner's Daughter (film)
 The Elephant Man (film)
 Raging Bull
 Tess (1979 film)
@@ -340,11 +325,11 @@ Amadeus (film)
 The Killing Fields (film)
 A Passage to India (film)
 Places in the Heart
-A Soldier%27s Story
+A Soldier's Story
 Out of Africa (film)
 The Color Purple (1985 film)
 Kiss of the Spider Woman (film)
-Prizzi%27s Honor
+Prizzi's Honor
 Witness (1985 film)
 Platoon (film)
 Children of a Lesser God (film)
@@ -381,7 +366,7 @@ The Crying Game
 A Few Good Men
 Howards End (film)
 Scent of a Woman (1992 film)
-Schindler%27s List
+Schindler's List
 The Fugitive (1993 film)
 The Remains of the Day (film)
 The Piano
@@ -399,7 +384,7 @@ Sense and Sensibility (film)
 The English Patient (film)
 Fargo (1996 film)
 Jerry Maguire
-Secrets %26 Lies (film)
+Secrets & Lies (film)
 Shine (film)
 Titanic (1997 film)
 As Good as It Gets
@@ -469,7 +454,7 @@ Inglourious Basterds
 A Serious Man
 Up (2009 film)
 Up in the Air (2009 film)
-The King%27s Speech
+The King's Speech
 Black Swan (film)
 The Fighter
 Inception
@@ -478,17 +463,17 @@ The Kids Are All Right (film)
 The Social Network
 Toy Story 3
 True Grit (2010 film)
-Winter%27s Bone
+Winter's Bone
 The Artist (film)
 The Descendants
-Extremely Loud %26 Incredibly Close (film)
+Extremely Loud & Incredibly Close (film)
 The Help (film)
 Hugo (film)
 Midnight in Paris
 Moneyball (film)
 The Tree of Life (film)
 War Horse (film)
-Les Mis%C3%A9rables (2012 film)
+Les Misérables (2012 film)
 Argo (2012 film)
 Amour (2012 film)
 Beasts of the Southern Wild
@@ -567,7 +552,7 @@ Sound of Metal
 The Trial of the Chicago 7
 CODA (2021 film)
 Belfast (film)
-Don%27t Look Up
+Don't Look Up
 Drive My Car (film)
 Dune (2021 film)
 King Richard (film)
@@ -581,7 +566,7 @@ Avatar: The Way of Water
 The Banshees of Inisherin
 Elvis (2022 film)
 The Fabelmans
-T%C3%A1r
+Tár
 Top Gun: Maverick
 Triangle of Sadness
 Women Talking (film)
