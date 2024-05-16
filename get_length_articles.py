@@ -5,9 +5,11 @@ import os
 def main():
     list_number_str = []
 
-    path = "./data/plots_es"
+    path = "./data/plots_en"
     list_files = os.listdir(path) # lista o nome de todos os documentos do diretório "./ARTIGOS HTML/inglês"
     
+    max_tam = 0
+    nome_max = ""
     # acessa cada arquivo .html para lê-lo e realizar o parser
     for file in list_files:
         film = path + '/' + file
@@ -23,9 +25,15 @@ def main():
                 if "https://" in word:
                     list_content.remove(word)
 
+        if len(list_content) > max_tam:
+            nome_max = file
+            max_tam = len(list_content)
+
         list_number_str.append(len(list_content))
 
     print(list_number_str)
+    print(nome_max)
+    print(max_tam)
 
 if __name__ == "__main__":
     main()
