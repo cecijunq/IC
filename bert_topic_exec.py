@@ -128,17 +128,17 @@ vectorizer_model = CountVectorizer(stop_words=stopwords.words('english'))
 
 #KeyBERT-Inspired model to reduce the appearance of stop words
 # representation_model = KeyBERTInspired()
-representation_model = MaximalMarginalRelevance(diversity=0.2)
+representation_model = MaximalMarginalRelevance(diversity=0.4)
 
 
-umap_model= umap.UMAP(n_neighbors=15,n_components=5,min_dist=0.0,metric='cosine').fit_transform(embeddings)
+umap_model= umap.UMAP(n_neighbors=8,n_components=5,min_dist=0.0,metric='cosine', random_state=2023).fit_transform(embeddings)
 # umap_model= umap.UMAP(n_neighbors=15,n_components=5,min_dist=0.0,metric='cosine',low_memory=True,init=pca_embeddings,random_state=42).fit_transform(embeddings)
 
-hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=10,metric='euclidean', min_samples=6,prediction_data=True).fit(umap_model)
+hdbscan_model = hdbscan.HDBSCAN(min_cluster_size=10,metric='euclidean', min_samples=3,prediction_data=True).fit(umap_model)
 
 topic_model = BERTopic(embedding_model=sentence_model, language='English',
                        verbose=True,calculate_probabilities=True,
-                       vectorizer_model = vectorizer_model,ctfidf_model=ctfidf_model,min_topic_size = 100,representation_model=representation_model,hdbscan_model=hdbscan_model)
+                       vectorizer_model=vectorizer_model,ctfidf_model=ctfidf_model,min_topic_size = 80,representation_model=representation_model,hdbscan_model=hdbscan_model)
 
 topics, probs = topic_model.fit_transform(sentences_articles,embeddings)
 
@@ -162,7 +162,7 @@ print(topic_model.get_topic_info().head(10).set_index('Topic')[
 
 # print(topic_model.visualize_barchart(top_n_topics = 20, n_words = 20))
 
-with open("topics_pt_t", "w") as write_topics:
+with open("topics_pt_t3", "w") as write_topics:
     write_topics.write(str(top_n_words))
     write_topics.write("\n")
     pd.set_option('display.max_rows', None)
@@ -174,12 +174,16 @@ print(df.head())
 
 df2 = df[["Topic", "Name", "Representation"]]
 #df2 = df2.groupby("Name").count().reset_index()
-df2.to_csv("topics.csv")
+df2.to_csv("topics3.csv")
 
 df3 = df[["Topic", "Probability", "Document"]]
 df3['Document'] = df3['Document'].apply(lambda x: func2(x))
-df3.to_csv("probability_per_doc.csv")
+df3.to_csv("probability_per_doc3.csv")
+
+df4 = df[['Top_n_words']]
+df4.drop_duplicates(inplace=True)
+df4.to_csv("top_n_words3")
 
 df["Document"] = df3['Document'].apply(lambda x: func2(x))
 df["Representative_Docs"] = df['Representative_Docs'].apply(lambda x: func(x))
-df.to_csv("df")
+df.to_csv("df3_2.csv")
