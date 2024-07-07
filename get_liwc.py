@@ -10,6 +10,8 @@ from collections import Counter
 
 # https://pypi.org/project/liwc/
 
+plots = pd.read_csv("./oscar_full_plot.csv", sep=';')
+
 def set_keys(key):
     #['std linguistic dim', 'social processes', 'affective processes', 'cognitive processes', 'perceptual processes', 'biological processes', 'relativity', 'personal concerns', 'spoken categories']
     if key == 'social':
@@ -174,6 +176,12 @@ def main():
     list_files = os.listdir(path)
 
     for file in list_files:
+        name_film = file.split(".txt")
+        if name_film[0] == "Frost_Nixon (film)":
+            name_film[0] = "Frost/Nixon (film)"
+        if name_film[0] not in plots["TITLE_EN"].values:
+            continue
+
         if '.txt' not in file:
             continue
 
@@ -187,15 +195,14 @@ def main():
 
     text_tokens = tokenize(text)
 
-    categorias = ['Palavra', 'social', 'relativ', 'verb', 'pronoun', 'article', 'ppron', 'space', 'conj', 'shehe', 'affect', 'auxverb', 'time', 'motion', 'ipron', 'negemo', 'work', 'insight', 'posemo', 'adverb', 'bio', 'percept', 'leisure', 'family', 'anger', 'cause', 'they', 'quant', 'home', 'health', 'money', 'see', 'death', 'tentat', 'number', 'certain', 'discrep', 'hear', 'negate', 'sad', 'friend', 'body', 'anx', 'ingest', 'feel', 'relig', 'sexual', 'assent', 'swear', 'filler', 'achiev', 'focuspast', 'focuspresent', 'focusfuture']
-    df_palavras = pd.DataFrame(columns=categorias)
-    df_palavras['Palavra'] = pd.Series(dtype='str')
-    series_cat = pd.Series(categorias)
-    # print(df_palavras)
-    with open("./palavras_categoria.csv", 'a') as file:
-        for token in list(text_tokens):
-            for category in parse_en(token):
-                file.write(f'{token};{category}\n')
+    # categorias = ['Palavra', 'social', 'relativ', 'verb', 'pronoun', 'article', 'ppron', 'space', 'conj', 'shehe', 'affect', 'auxverb', 'time', 'motion', 'ipron', 'negemo', 'work', 'insight', 'posemo', 'adverb', 'bio', 'percept', 'leisure', 'family', 'anger', 'cause', 'they', 'quant', 'home', 'health', 'money', 'see', 'death', 'tentat', 'number', 'certain', 'discrep', 'hear', 'negate', 'sad', 'friend', 'body', 'anx', 'ingest', 'feel', 'relig', 'sexual', 'assent', 'swear', 'filler', 'achiev', 'focuspast', 'focuspresent', 'focusfuture']
+    # df_palavras = pd.DataFrame(columns=categorias)
+    # df_palavras['Palavra'] = pd.Series(dtype='str')
+    # series_cat = pd.Series(categorias)
+    # with open("./palavras_categoria.csv", 'a') as file:
+    #     for token in list(text_tokens):
+    #         for category in parse_en(token):
+    #             file.write(f'{token};{category}\n')
     """for token in list(text_tokens):
         # if token not in df_palavras['Palavra'].tolist():
         #     print(token)
@@ -227,20 +234,25 @@ def main():
     
     # now flatmap over all the categories in all of the tokens using a generator:
     text_counts = Counter(category for token in text_tokens for category in parse_en(token))
-    #print(text_counts)
     
     for key, value in text_counts.items():
         if key in index2:
             new_key = set_keys(key)
             df.at[new_key, "Inglês"] += value
 
-    #print(len(text_counts))
-
     path = './data/plots_pt'
     text = ""
     list_files = os.listdir(path)
 
     for file in list_files:
+
+        name_film = file.split(".txt")
+        if name_film[0] == "Frost_Nixon":
+            name_film[0] = "Frost/Nixon"
+        if name_film[0] not in plots["TITLE_PT"].values:
+            print(name_film)
+            continue
+
         if '.txt' not in file:
             continue
 
@@ -287,7 +299,7 @@ def main():
     ser = df.sum(axis=0)
     df['Inglês'] = df['Inglês'] / ser[0]
     df['Português'] = df['Português'] / ser[1]
-    #print(df.sum(axis=0))
+    print(df.sum(axis=0))
 
     df_normalized = df.div(df.sum(axis=1), axis=0)
     #print(df_normalized.sum(axis=1))
@@ -312,6 +324,7 @@ def main():
     # print(df_top_10_normalized.sum(axis=1))
     # print(df_top_10_normalized.sum(axis=0))
 
+    print(df)
     # Plot the heatmap
     plt.figure(figsize=(15, 12))  # Increase figure size to fit all categories
     sns.heatmap(df, annot=False, cmap="coolwarm")

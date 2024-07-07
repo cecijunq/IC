@@ -27,8 +27,10 @@ nlp = gs.GenderParser("en_core_web_sm")
 mais_stopwords_es = set(["después", "mientras", "luego", "dos", "alli", "toda", "vez"])
 mais_stopwords_pt = set(["enquanto", "depois", "após", "onde", "Se", "-se", "-la", "-las", "-los", "-lo", "sobre", "durante", "contra", "antes", "logo", "porém", "Em", "O", "apesar", "então", "dois", "la", "lo", "vez", "em", "o", "através", "agora"])
 
-stop_words = stop_words.union(mais_stopwords_pt)
+#stop_words = stop_words.union(mais_stopwords_pt)
 articles_concat = ""
+
+plots = pd.read_csv("./oscar_full_plot.csv", sep=';')
 
 path = './data/plots_en'
 list_files = os.listdir(path)
@@ -42,6 +44,13 @@ for file in list_files:
     
     if content != "":
         articles_concat += content
+    # name = file.split(".txt")
+    # if name[0] in plots["TITLE_EN"].values:
+    #     article = open(path + "/" + file, 'r')
+    #     content = article.read()
+    
+    #     if content != "":
+    #         articles_concat += content
 
 articles_concat = re.sub(r'[^\w\s]','',articles_concat)
 print(len(articles_concat))
@@ -55,6 +64,7 @@ doc = nlp.coref_resolution()
 # Visualize the result:
 nlp.visualize()
 
+print("X")
 word_tokens = word_tokenize(articles_concat, "english")
 
 # filtered_sentence = [w for w in word_tokens if not w.lower() in stop_words and w.lower() != 's']

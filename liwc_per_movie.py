@@ -10,7 +10,7 @@ from collections import Counter
 
 # https://pypi.org/project/liwc/
 
-
+plots = pd.read_csv("./oscar_full_plot.csv", sep=';')
 
 def set_keys(key):
     #['std linguistic dim', 'social processes', 'affective processes', 'cognitive processes', 'perceptual processes', 'biological processes', 'relativity', 'personal concerns', 'spoken categories']
@@ -149,11 +149,15 @@ def main():
 
     path = './data/plots_en'
     text = ""
-    list_files = os.listdir(path)
-    index = [s.split(".txt")[0] for s in list_files]
-    df_en = pd.DataFrame(columns=index_g, index=index)
+    list_files_en = os.listdir(path)
+    index = [s.split(".txt")[0] for s in list_files_en]
+    df_en = pd.DataFrame(columns=columns, index=index)
 
-    for file in list_files:
+    for file in list_files_en:
+        name_film = file.split(".txt")
+        if name_film[0] not in plots["TITLE_EN"].values:
+            continue
+
         if '.txt' not in file:
             continue
 
@@ -174,7 +178,7 @@ def main():
             if key in columns:
                 new_key = set_keys(key)
                 name = file.split(".txt")[0]
-                df_en.at[name, new_key] = value
+                df_en.at[name, key] = value
 
     df_en = df_en.fillna(0)
     for i, j in df_en.iterrows():
@@ -189,10 +193,14 @@ def main():
     path = './data/plots_pt'
     text = ""
     list_files = os.listdir(path)
-    index = [s.split(".txt")[0] for s in list_files]
-    df_pt = pd.DataFrame(columns=index_g, index=index)
+    index = [s.split(".txt")[0] for s in list_files_en]
+    df_pt = pd.DataFrame(columns=columns, index=index)
 
     for file in list_files:
+        name_film = file.split(".txt")
+        if name_film[0] not in plots["TITLE_PT"].values:
+            continue
+
         if '.txt' not in file:
             continue
 
@@ -216,7 +224,7 @@ def main():
                 if name_pt == "Frost_Nixon":
                     name_pt = "Frost/Nixon"
                 name_df = df_relation_names.at[name_pt, "TITLE_EN"]
-                df_pt.at[name_df, new_key] = value
+                df_pt.at[name_df, key] = value
 
     df_pt = df_pt.fillna(0)
     for i, j in df_pt.iterrows():
@@ -235,7 +243,7 @@ def main():
     fig = plt.figure(figsize =(10, 6))
     ax = fig.add_axes([0.06, 0.04, 0.9, 0.9])
     plt.boxplot(df, notch=False, vert=False)
-    ax.set_yticklabels(df.columns)
+    ax.set_yticklabels(columns)
     plt.title("Variação da diferença da porcentagem de ocorrência de cada grupo de categoria por filme")
     # plt.yticks("Categorias do LIWC")
     # plt.xticks("Porcentagem das palavras categorizadas como tal")
