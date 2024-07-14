@@ -1,8 +1,8 @@
 Tag; Categoria;Count
 A1; General And Abstract Terms;0.0
-A1.1.1; General actions / making;0.0
+A1.1.1; General actions / making;0.027979274611398965
 A1.1.1-; Inaction;0.0
-A1.1.2; Damaging and destroying;0.0
+A1.1.2; Damaging and destroying;0.004145077720207254
 A1.1.2-; Fixing and mending;0.0
 A1.2; Suitability;0.0
 A1.2+; Suitable;0.0
@@ -14,206 +14,206 @@ A1.4; Chance, luck;0.0
 A1.4+; Lucky;0.0
 A1.4-; Unlucky;0.0
 A1.5; Use;0.0
-A1.5.1; Using;0.0
+A1.5.1; Using;0.0010362694300518134
 A1.5.1+; Used;0.0
 A1.5.1-; Unused;0.0
 A1.5.2; Usefulness;0.0
 A1.5.2+; Useful;0.0
 A1.5.2-; Useless;0.0
 A1.6; Concrete/Abstract ;0.0
-A1.7+; Constraint;0.008620689655172414
+A1.7+; Constraint;0.0
 A1.7-; No constraint;0.0
-A1.8+; Inclusion;0.017241379310344827
+A1.8+; Inclusion;0.0051813471502590676
 A1.8-; Exclusion;0.0
-A1.9; Avoiding;0.0
+A1.9; Avoiding;0.0010362694300518134
 A1.9-; Unavoidable;0.0
 A2; Affect;0.0
 A2.1; Modify, change;0.0
-A2.1+; Change;0.008620689655172414
+A2.1+; Change;0.00932642487046632
 A2.1-; No change;0.0
-A2.2; Cause&Effect/Connection;0.0
+A2.2; Cause&Effect/Connection;0.016580310880829015
 A2.2+; Cause/Effect/Connected;0.0
-A2.2-; Unconnected;0.017241379310344827
+A2.2-; Unconnected;0.0
 A3; Being;0.0
-A3+; Existing;0.008620689655172414
+A3+; Existing;0.022797927461139896
 A3-; Non-existing;0.0
-A4; Classification;0.008620689655172414
-A4.1; Generally kinds, groups, examples;0.008620689655172414
+A4; Classification;0.0
+A4.1; Generally kinds, groups, examples;0.002072538860103627
 A4.1-; Unclassified;0.0
 A4.2; Particular/general: detail;0.0
-A4.2+; Detailed;0.0
-A4.2-; General ;0.0
-A5; Evaluation;0.008620689655172414
+A4.2+; Detailed;0.002072538860103627
+A4.2-; General ;0.0010362694300518134
+A5; Evaluation;0.0
 A5.1; Evaluation: Good/bad;0.0
-A5.1+; Evaluation: Good ;0.0
+A5.1+; Evaluation: Good ;0.0010362694300518134
 A5.1-; Evaluation: Bad;0.0
 A5.2; Evaluation: True/false;0.0
 A5.2+; Evaluation: True ;0.0
-A5.2-; Evaluation: False;0.0
+A5.2-; Evaluation: False;0.0010362694300518134
 A5.3; Evaluation: Accuracy;0.0
-A5.3+; Evaluation: Accurate;0.0
-A5.3-; Evaluation: Inaccurate;0.0
+A5.3+; Evaluation: Accurate;0.0010362694300518134
+A5.3-; Evaluation: Inaccurate;0.0010362694300518134
 A5.4; Evaluation: Authenticity;0.0
-A5.4+; Evaluation: Authentic;0.0
+A5.4+; Evaluation: Authentic;0.031088082901554404
 A5.4-; Evaluation: Unauthentic;0.0
-A6; Comparing;0.008620689655172414
-A6.1; Comparing: Similar/different;0.0
-A6.1+; Comparing: Similar ;0.0
-A6.1-; Comparing: Different;0.017241379310344827
+A6; Comparing;0.0
+A6.1; Comparing: Similar/different;0.0010362694300518134
+A6.1+; Comparing: Similar ;0.0010362694300518134
+A6.1-; Comparing: Different;0.0010362694300518134
 A6.2; Comparing: Usual/unusual ;0.0
 A6.2+; Comparing: Usual ;0.0
-A6.2-; Comparing: Unusual ;0.008620689655172414
+A6.2-; Comparing: Unusual ;0.0
 A6.3; Comparing: Variety;0.0
-A6.3+; Comparing: Varied;0.0
+A6.3+; Comparing: Varied;0.0031088082901554403
 A6.3-; Comparing: Unvaried ;0.0
 A7; Probability;0.0
-A7+; Likely;0.017241379310344827
+A7+; Likely;0.004145077720207254
 A7-; Unlikely;0.0
-A8; Seem;0.008620689655172414
-A9; Getting and giving: possession;0.008620689655172414
-A9+; Getting and possession;0.017241379310344827
-A9-; Giving ;0.0
+A8; Seem;0.004145077720207254
+A9; Getting and giving: possession;0.0
+A9+; Getting and possession;0.011398963730569948
+A9-; Giving ;0.008290155440414507
 A10; Open/closed: Hiding/Hidden: Finding: Showing;0.0
-A10+; Open: Finding: Showing;0.008620689655172414
-A10-; Closed: Hiding/Hidden ;0.017241379310344827
+A10+; Open: Finding: Showing;0.0062176165803108805
+A10-; Closed: Hiding/Hidden ;0.0031088082901554403
 A11; Importance;0.0
 A11.1; Importance ;0.0
-A11.1+; Important;0.0
-A11.1-; Unimportant;0.0
+A11.1+; Important;0.002072538860103627
+A11.1-; Unimportant;0.0010362694300518134
 A11.2; Noticeability;0.0
-A11.2+; Noticeable;0.0
-A11.2-; Unnoticeable;0.0
+A11.2+; Noticeable;0.0031088082901554403
+A11.2-; Unnoticeable;0.0010362694300518134
 A12; Easy/difficult;0.0
 A12+; Easy ;0.0
-A12-; Difficult;0.0
+A12-; Difficult;0.0062176165803108805
 A13; Degree;0.0
 A13.1; Degree: Non-specific;0.0
 A13.2; Degree: Maximizers;0.0
-A13.3; Degree: Boosters;0.0
-A13.4; Degree: Approximators;0.0
+A13.3; Degree: Boosters;0.0031088082901554403
+A13.4; Degree: Approximators;0.0031088082901554403
 A13.5; Degree: Compromisers;0.0
 A13.6; Degree: Diminishers;0.0
 A13.7; Degree: Minimizers;0.0
-A14; Exclusivizers/particularizers;0.008620689655172414
+A14; Exclusivizers/particularizers;0.0010362694300518134
 A15; Safety/Danger;0.0
 A15+; Safe ;0.0
-A15-; Danger;0.008620689655172414
-B1; Anatomy and physiology;0.0
+A15-; Danger;0.0
+B1; Anatomy and physiology;0.0010362694300518134
 B2; Health and disease;0.0
-B2+; Healthy;0.0
-B2-; Disease ;0.0
-B3; Medicines and medical treatment;0.0
+B2+; Healthy;0.002072538860103627
+B2-; Disease ;0.0031088082901554403
+B3; Medicines and medical treatment;0.004145077720207254
 B3-; Without medical treatment;0.0
 B4; Cleaning and personal care;0.0
 B4+; Clean ;0.0
 B4-; Dirty ;0.0
-B5; Clothes and personal belongings;0.0
+B5; Clothes and personal belongings;0.002072538860103627
 B5-; Without clothes ;0.0
-C1; Arts and crafts;0.0
+C1; Arts and crafts;0.002072538860103627
 E1; Emotional Actions, States And Processes General;0.0
 E1+; Emotional;0.0
 E1-; Unemotional ;0.0
 E2; Liking;0.0
-E2+; Like;0.0
-E2-; Dislike;0.0
+E2+; Like;0.004145077720207254
+E2-; Dislike;0.0010362694300518134
 E3; Calm/Violent/Angry;0.0
-E3+; Calm ;0.0
-E3-; Violent/Angry;0.0
+E3+; Calm ;0.002072538860103627
+E3-; Violent/Angry;0.00932642487046632
 E4; Happiness and Contentment ;0.0
 E4.1; Happy/sad ;0.0
 E4.1+; Happy ;0.0
-E4.1-; Sad ;0.0
+E4.1-; Sad ;0.004145077720207254
 E4.2; Contentment;0.0
 E4.2+; Content;0.0
 E4.2-; Discontent;0.0
 E5; Bravery and Fear ;0.0
 E5+; Bravery ;0.0
-E5-; Fear/shock;0.0
+E5-; Fear/shock;0.0010362694300518134
 E6; Worry and confidence;0.0
 E6+; Confident;0.0
-E6-; Worry ;0.0
-F1; Food;0.0
+E6-; Worry ;0.002072538860103627
+F1; Food;0.0031088082901554403
 F1+; Abundance of food;0.0
 F1-; Lack of food;0.0
-F2; Drinks and alcohol;0.0
+F2; Drinks and alcohol;0.0010362694300518134
 F2+; Excessive drinking;0.0
 F2-; Not drinking;0.0
 F3; Smoking and non-medical drugs;0.0
 F3+; Smoking and drugs abuse;0.0
 F3-; Non-smoking / no use of drugs;0.0
-F4; Farming & Horticulture;0.0
+F4; Farming & Horticulture;0.002072538860103627
 F4-; Uncultivated;0.0
-G1; Government and Politics ;0.02586206896551724
-G1.1; Government;0.008620689655172414
+G1; Government and Politics ;0.0
+G1.1; Government;0.0
 G1.1-; Non-governmental;0.0
-G1.2; Politics;0.0
+G1.2; Politics;0.002072538860103627
 G1.2-; Non-political;0.0
-G2; Crime, law and order;0.008620689655172414
-G2.1; Law and order;0.008620689655172414
+G2; Crime, law and order;0.0
+G2.1; Law and order;0.0051813471502590676
 G2.1+; Lawful;0.0
 G2.1-; Crime ;0.0
 G2.2; General ethics;0.0
 G2.2+; Ethical;0.0
-G2.2-; Unethical;0.0
-G3; Warfare, defence and the army: weapons;0.0
+G2.2-; Unethical;0.0031088082901554403
+G3; Warfare, defence and the army: weapons;0.002072538860103627
 G3-; Anti-war ;0.0
-H1; Architecture, houses and buildings;0.008620689655172414
+H1; Architecture, houses and buildings;0.0
 H2; Parts of buildings;0.0
 H3; Areas around or near houses;0.0
-H4; Residence;0.0
+H4; Residence;0.0010362694300518134
 H4-; Non-resident;0.0
 H5; Furniture and household fittings;0.0
 H5-; Unfurnished;0.0
 I1; Money generally;0.0
-I1.1; Money and pay;0.0
+I1.1; Money and pay;0.002072538860103627
 I1.1+; Money: Affluence;0.0
 I1.1-; Money: Lack;0.0
-I1.2; Money: Debts;0.0
+I1.2; Money: Debts;0.0010362694300518134
 I1.2+; Spending and money loss ;0.0
 I1.2-; Debt-free;0.0
 I1.3; Money: Cost and price;0.0
 I1.3+; Expensive;0.0
 I1.3-; Cheap;0.0
 I2; Business;0.0
-I2.1; Business: Generally;0.0
+I2.1; Business: Generally;0.002072538860103627
 I2.1-; Non-commercial;0.0
-I2.2; Business: Selling;0.0
+I2.2; Business: Selling;0.004145077720207254
 I3; Work and employment;0.0
-I3.1; Work and employment: Generally;0.0
-I3.1-; Unemployed;0.0
+I3.1; Work and employment: Generally;0.0062176165803108805
+I3.1-; Unemployed;0.0010362694300518134
 I3.2; Work and employment: Professionalism;0.0
-I3.2+; Professional;0.0
+I3.2+; Professional;0.0010362694300518134
 I3.2-; Unprofessional;0.0
 I4; Industry ;0.0
 I4-; No industry ;0.0
-K1; Entertainment generally;0.0
-K2; Music and related activities;0.0
-K3; Recorded sound;0.0
-K4; Drama, the theatre and show business;0.0
-K5; Sports and games generally;0.008620689655172414
-K5.1; Sports;0.0
-K5.2; Games;0.0
-K6; Children�s games and toys;0.0
-L1; Life and living things;0.008620689655172414
+K1; Entertainment generally;0.0010362694300518134
+K2; Music and related activities;0.016580310880829015
+K3; Recorded sound;0.0031088082901554403
+K4; Drama, the theatre and show business;0.010362694300518135
+K5; Sports and games generally;0.0
+K5.1; Sports;0.004145077720207254
+K5.2; Games;0.0010362694300518134
+K6; Children�s games and toys;0.0010362694300518134
+L1; Life and living things;0.0
 L1+; Alive;0.0
-L1-; Dead;0.0
+L1-; Dead;0.0051813471502590676
 L2; Living creatures: animals, birds, etc. ;0.0
 L2-; No living creatures ;0.0
 L3; Plants;0.0
 L3-; No plants;0.0
-M1; Moving, coming and going;0.0
-M2; Putting, pulling, pushing, transporting;0.0
+M1; Moving, coming and going;0.01865284974093264
+M2; Putting, pulling, pushing, transporting;0.004145077720207254
 M3; Vehicles and transport on land;0.0
 M4; Sailing, swimming, etc.;0.0
 M4-; Non-swimming;0.0
 M5; Flying and aircraft ;0.0
-M6; Location and direction;0.008620689655172414
-M7; Places;0.017241379310344827
+M6; Location and direction;0.015544041450777202
+M7; Places;0.002072538860103627
 M8; Stationary;0.0
-N1; Numbers ;0.017241379310344827
-N2; Mathematics;0.0
-N3; Measurement;0.008620689655172414
-N3.1; Measurement: General;0.0
+N1; Numbers ;0.007253886010362694
+N2; Mathematics;0.0010362694300518134
+N3; Measurement;0.0
+N3.1; Measurement: General;0.0010362694300518134
 N3.2; Measurement: Size ;0.0
 N3.2+; Size: Big ;0.0
 N3.2-; Size: Small ;0.0
@@ -230,74 +230,74 @@ N3.6; Measurement: Area;0.0
 N3.6+; Spacious;0.0
 N3.7; Measurement: Length & height;0.0
 N3.7+; Long, tall and wide;0.0
-N3.7-; Short and narrow;0.0
+N3.7-; Short and narrow;0.0010362694300518134
 N3.8; Measurement: Speed;0.0
-N3.8+; Speed: Fast;0.0
+N3.8+; Speed: Fast;0.002072538860103627
 N3.8-; Speed: Slow;0.0
-N4; Linear order;0.008620689655172414
+N4; Linear order;0.013471502590673576
 N4-; Nonlinear ;0.0
-N5; Quantities;0.0
-N5+; Quantities: many/much;0.008620689655172414
+N5; Quantities;0.0031088082901554403
+N5+; Quantities: many/much;0.0
 N5-; Quantities: little;0.0
 N5.1; Entirety: maximum;0.0
-N5.1+; Entire: maximum;0.0
-N5.1-; Part;0.0
+N5.1+; Entire: maximum;0.0010362694300518134
+N5.1-; Part;0.0031088082901554403
 N5.2; Exceeding ;0.0
-N5.2+; Exceed: waste;0.0
-N6; Frequency;0.0
-N6+; Frequent;0.0
+N5.2+; Exceed: waste;0.0031088082901554403
+N6; Frequency;0.0010362694300518134
+N6+; Frequent;0.0062176165803108805
 N6-; Infrequent;0.0
-O1; Substances and materials generally;0.0
-O1.1; Substances and materials: Solid;0.0
+O1; Substances and materials generally;0.0010362694300518134
+O1.1; Substances and materials: Solid;0.002072538860103627
 O1.2; Substances and materials: Liquid;0.0
 O1.2-; Dry;0.0
 O1.3; Substances and materials: Gas;0.0
 O1.3-; Gasless;0.0
-O2; Objects generally;0.0
-O3; Electricity and electrical equipment;0.0
+O2; Objects generally;0.007253886010362694
+O3; Electricity and electrical equipment;0.0010362694300518134
 O4; Physical attributes;0.0
 O4.1; General appearance and physical properties;0.0
 O4.2; Judgement of appearance;0.0
 O4.2+; Judgement of appearance: Beautiful;0.0
 O4.2-; Judgement of appearance: Ugly;0.0
 O4.3; Colour and colour patterns;0.0
-O4.4; Shape;0.0
+O4.4; Shape;0.0031088082901554403
 O4.5; Texture;0.0
 O4.6; Temperature     ;0.0
 O4.6+; Temperature: Hot / on fire     ;0.0
 O4.6-; Temperature: Cold     ;0.0
-P1; Education in general;0.0
+P1; Education in general;0.002072538860103627
 P1-; Not educated;0.0
 Q1; Linguistic Actions, States And Processes: Communication;0.0
 Q1.1; Linguistic Actions, States And Processes: Communication;0.0
-Q1.2; Paper documents and writing;0.0
+Q1.2; Paper documents and writing;0.0062176165803108805
 Q1.2-; Unwritten;0.0
-Q1.3; Telecommunications;0.0
+Q1.3; Telecommunications;0.0010362694300518134
 Q2; Speech ;0.0
-Q2.1; Speech: Communicative;0.0
+Q2.1; Speech: Communicative;0.0062176165803108805
 Q2.1+; Speech: Talkative;0.0
 Q2.1-; Speech: Not communicating;0.0
-Q2.2; Speech acts;0.0
+Q2.2; Speech acts;0.010362694300518135
 Q2.2-; Speech acts: Not speaking;0.0
-Q3; Language, speech and grammar;0.0
+Q3; Language, speech and grammar;0.0010362694300518134
 Q3-; Non-verbal;0.0
-Q4; The Media;0.0
-Q4.1; The Media: Books;0.0
+Q4; The Media;0.0010362694300518134
+Q4.1; The Media: Books;0.0010362694300518134
 Q4.2; The Media: Newspapers etc.;0.0
-Q4.3; The Media: TV, Radio and Cinema;0.0
+Q4.3; The Media: TV, Radio and Cinema;0.0010362694300518134
 S1; Social Actions, States And Processes;0.0
-S1.1; Social Actions, States And Processes;0.008620689655172414
-S1.1.1; Social Actions, States And Processes;0.0
+S1.1; Social Actions, States And Processes;0.0
+S1.1.1; Social Actions, States And Processes;0.007253886010362694
 S1.1.2; Reciprocity;0.0
 S1.1.2+; Reciprocal;0.0
 S1.1.2-; Unilateral;0.0
 S1.1.3; Participation;0.0
-S1.1.3+; Participating;0.0
-S1.1.3-; Non-participating;0.0
+S1.1.3+; Participating;0.029015544041450778
+S1.1.3-; Non-participating;0.0010362694300518134
 S1.1.4; Deserve;0.0
 S1.1.4+; Deserving;0.0
 S1.1.4-; Undeserving;0.0
-S1.2; Personality traits;0.0
+S1.2; Personality traits;0.0010362694300518134
 S1.2.1; Approachability and Friendliness;0.0
 S1.2.1+; Informal/Friendly;0.0
 S1.2.1-; Formal/Unfriendly;0.0
@@ -308,7 +308,7 @@ S1.2.3; Egoism;0.0
 S1.2.3+; Selfish;0.0
 S1.2.3-; Unselfish;0.0
 S1.2.4; Politeness;0.0
-S1.2.4+; Polite;0.008620689655172414
+S1.2.4+; Polite;0.0010362694300518134
 S1.2.4-; Impolite;0.0
 S1.2.5; Toughness: strong/weak;0.0
 S1.2.5+; Tough/strong ;0.0
@@ -316,139 +316,139 @@ S1.2.5-; Weak;0.0
 S1.2.6; Common sense;0.0
 S1.2.6+; Sensible;0.0
 S1.2.6-; Foolish;0.0
-S2; People;0.008620689655172414
+S2; People;0.0
 S2-; No people;0.0
 S2.1; People: Female;0.0
 S2.1-; Not feminine;0.0
 S2.2; People: Male  ;0.0
 S3; Relationship;0.0
-S3.1; Personal relationship: General;0.0
+S3.1; Personal relationship: General;0.002072538860103627
 S3.1-; No personal relationship ;0.0
-S3.2; Relationship: Intimacy and sex;0.0
+S3.2; Relationship: Intimacy and sex;0.0062176165803108805
 S3.2+; Relationship: Sexual;0.0
-S3.2-; Relationship: Asexual;0.008620689655172414
-S4; Kin;0.0
+S3.2-; Relationship: Asexual;0.0
+S4; Kin;0.008290155440414507
 S4-; No kin;0.0
 S5; Groups and affiliation;0.0
-S5+; Belonging to a group ;0.0
-S5-; Not part of a group;0.017241379310344827
-S6; Obligation and necessity;0.008620689655172414
-S6+; Strong obligation or necessity;0.0
+S5+; Belonging to a group ;0.029015544041450778
+S5-; Not part of a group;0.0031088082901554403
+S6; Obligation and necessity;0.0
+S6+; Strong obligation or necessity;0.004145077720207254
 S6-; No obligation or necessity;0.0
-S7; Power relationship;0.008620689655172414
+S7; Power relationship;0.0
 S7.1; Power, organizing;0.0
-S7.1+; In power ;0.017241379310344827
+S7.1+; In power ;0.0
 S7.1-; No power ;0.0
 S7.2; Respect;0.0
-S7.2+; Respected;0.0
+S7.2+; Respected;0.0031088082901554403
 S7.2-; No respect;0.0
 S7.3; Competition;0.0
 S7.3+; Competitive;0.0
 S7.3-; No competition;0.0
 S7.4; Permission;0.0
-S7.4+; Allowed;0.0
-S7.4-; Not allowed;0.0
+S7.4+; Allowed;0.002072538860103627
+S7.4-; Not allowed;0.002072538860103627
 S8; Helping/hindering;0.0
-S8+; Helping ;0.0
-S8-; Hindering;0.017241379310344827
-S9; Religion and the supernatural;0.0
+S8+; Helping ;0.03419689119170984
+S8-; Hindering;0.0031088082901554403
+S9; Religion and the supernatural;0.002072538860103627
 S9-; Non-religious;0.0
-T1; Time;0.008620689655172414
-T1.1; Time: General;0.017241379310344827
-T1.1.1; Time: Past;0.008620689655172414
-T1.1.2; Time: Present: simultaneous;0.008620689655172414
+T1; Time;0.0010362694300518134
+T1.1; Time: General;0.0
+T1.1.1; Time: Past;0.002072538860103627
+T1.1.2; Time: Present: simultaneous;0.0
 T1.1.2-; Time: Asynchronous;0.0
-T1.1.3; Time: Future;0.0
-T1.2; Time: Momentary;0.0
-T1.3; Time: Period;0.0
+T1.1.3; Time: Future;0.008290155440414507
+T1.2; Time: Momentary;0.008290155440414507
+T1.3; Time: Period;0.03730569948186528
 T1.3+; Time period: long;0.0
 T1.3-; Time period: short;0.0
-T2; Time: Beginning and ending;0.008620689655172414
-T2+; Time: Beginning ;0.0
-T2-; Time: Ending;0.0
-T3; Time: Old, new and young: age;0.0
-T3+; Time: Old: grown-up;0.008620689655172414
-T3-; Time: New and young ;0.0
+T2; Time: Beginning and ending;0.0
+T2+; Time: Beginning ;0.002072538860103627
+T2-; Time: Ending;0.00932642487046632
+T3; Time: Old, new and young: age;0.004145077720207254
+T3+; Time: Old: grown-up;0.0
+T3-; Time: New and young ;0.002072538860103627
 T4; Time: Early/late;0.0
 T4+; Time: Early ;0.0
-T4-; Time: Late;0.0
-W1; The universe;0.008620689655172414
+T4-; Time: Late;0.0010362694300518134
+W1; The universe;0.0
 W2; Light;0.0
 W2-; Darkness;0.0
-W3; Geographical terms;0.008620689655172414
-W4; Weather ;0.0
+W3; Geographical terms;0.002072538860103627
+W4; Weather ;0.0010362694300518134
 W5; Green issues;0.0
 X1; Psychological Actions, States And Processes;0.0
 X2; Mental actions and processes;0.0
-X2.1; Thought, belief;0.0
+X2.1; Thought, belief;0.002072538860103627
 X2.1-; Without thinking;0.0
-X2.2; Knowledge;0.0
-X2.2+; Knowledgeable;0.0
+X2.2; Knowledge;0.0010362694300518134
+X2.2+; Knowledgeable;0.0031088082901554403
 X2.2-; No knowledge;0.0
 X2.3; Learn;0.0
-X2.3+; Learning;0.0
-X2.4; Investigate, examine, test, search;0.0
+X2.3+; Learning;0.0010362694300518134
+X2.4; Investigate, examine, test, search;0.0031088082901554403
 X2.4+; Double-check;0.0
 X2.4-; Not examined;0.0
 X2.5; Understand;0.0
-X2.5+; Understanding;0.0
-X2.5-; Not understanding;0.0
+X2.5+; Understanding;0.0010362694300518134
+X2.5-; Not understanding;0.0010362694300518134
 X2.6; Expect;0.0
-X2.6+; Expected;0.0
-X2.6-; Unexpected;0.0
+X2.6+; Expected;0.0010362694300518134
+X2.6-; Unexpected;0.0010362694300518134
 X3; Sensory;0.0
 X3.1; Sensory: Taste;0.0
 X3.1+; Tasty;0.0
 X3.1-; Not tasty;0.0
-X3.2; Sensory: Sound;0.0
+X3.2; Sensory: Sound;0.002072538860103627
 X3.2+; Sound: Loud;0.0
 X3.2-; Sound: Quiet;0.0
 X3.3; Sensory: Touch;0.0
-X3.4; Sensory: Sight;0.0
-X3.4+; Seen;0.0
-X3.4-; Unseen;0.0
+X3.4; Sensory: Sight;0.0031088082901554403
+X3.4+; Seen;0.0010362694300518134
+X3.4-; Unseen;0.0010362694300518134
 X3.5; Sensory: Smell;0.0
 X3.5-; No smell;0.0
 X4; Mental object;0.0
-X4.1; Mental object: Conceptual object;0.0
+X4.1; Mental object: Conceptual object;0.002072538860103627
 X4.1-; Themeless;0.0
 X4.2; Mental object: Means, method;0.0
 X5; Attention;0.0
 X5.1; Attention;0.0
-X5.1+; Attentive;0.0
+X5.1+; Attentive;0.0010362694300518134
 X5.1-; Inattentive;0.0
 X5.2; Interest/boredom/excited/energetic;0.0
-X5.2+; Interested/excited/energetic;0.0
+X5.2+; Interested/excited/energetic;0.0010362694300518134
 X5.2-; Uninterested/bored/unenergetic;0.0
 X6; Deciding;0.0
-X6+; Decided;0.0
+X6+; Decided;0.0062176165803108805
 X6-; Undecided;0.0
 X7; Wanting: planning: choosing;0.0
-X7+; Wanted;0.0
-X7-; Unwanted;0.0
+X7+; Wanted;0.0031088082901554403
+X7-; Unwanted;0.002072538860103627
 X8; Trying;0.0
-X8+; Trying hard;0.0
+X8+; Trying hard;0.0062176165803108805
 X8-; Not trying;0.0
 X9; Ability;0.0
 X9.1; Ability and intelligence;0.0
-X9.1+; Able/intelligent;0.0
+X9.1+; Able/intelligent;0.0051813471502590676
 X9.1-; Inability/unintelligence;0.0
-X9.2; Success and failure;0.0
-X9.2+; Success ;0.0
-X9.2-; Failure;0.0
+X9.2; Success and failure;0.004145077720207254
+X9.2+; Success ;0.013471502590673576
+X9.2-; Failure;0.0031088082901554403
 Y1; Science and technology in general;0.0
 Y1-; Anti-scientific;0.0
-Y2; Information technology and computing;0.0
+Y2; Information technology and computing;0.0010362694300518134
 Y2-; Low-tech;0.0
 Z0; Unmatched proper noun;0.0
 Z1; Personal names;0.0
-Z2; Geographical names;0.008620689655172414
+Z2; Geographical names;0.010362694300518135
 Z3; Other proper names;0.0
-Z4; Discourse Bin;0.008620689655172414
-Z5; Grammatical bin;0.2672413793103448
-Z6; Negative;0.008620689655172414
+Z4; Discourse Bin;0.0031088082901554403
+Z5; Grammatical bin;0.2155440414507772
+Z6; Negative;0.0010362694300518134
 Z7; If;0.0
 Z7-; Unconditional;0.0
-Z8; Pronouns;0.04310344827586207
+Z8; Pronouns;0.025906735751295335
 Z9; Trash can;0.0
-Z99; Unmatched;0.1206896551724138
+Z99; Unmatched;0.016580310880829015
