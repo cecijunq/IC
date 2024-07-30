@@ -74,6 +74,7 @@ for file in list_files:
     nlp = pipeline("ner", model=model, tokenizer=tokenizer, grouped_entities=True)
 
     ner_results = nlp(content)
+    print(ner_results)
 
     for element in ner_results:
         if element['entity_group'] == 'PER':
