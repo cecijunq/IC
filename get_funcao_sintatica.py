@@ -6,15 +6,42 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
+def tam_plot(file):
+
+    path = "./data/plots_pt"
+    # acessa cada arquivo .html para lê-lo e realizar o parser
+    film = path + '/' + file
+    
+    with open(film, 'r') as fp:
+        content = fp.read()
+        content = content.replace("==", "")
+        content = content.replace("\n", " ")
+        list_content = re.split(" ", content)
+
+        for word in list_content:
+            if "https://" in word:
+                list_content.remove(word)
+
+    tamanho = len(list_content)
+    return tamanho
+
+
+
 model_name = "QCRI/bert-base-multilingual-cased-pos-english"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForTokenClassification.from_pretrained(model_name)
 
-entidades = {}
+# entidades = {}
 
-path = './data/plots_en'
+path = './data/plots_pt'
 text = ""
 list_files = os.listdir(path)
+atributos = ['N', 'J', 'V']
+
+df = pd.DataFrame(index=list_files, columns=atributos)
+df = df.fillna(0)
+
+print(df)
 
 for file in list_files:
     if '.txt' not in file:
@@ -36,12 +63,24 @@ for file in list_files:
             if output['word'] not in myset:
                 myset.add(output['word'])
 
-                if output['entity'] in entidades.keys():
-                    entidades[output['entity']] += 1
-                else:
-                    entidades[output['entity']] = 1
+                if output['entity'] == 'NN' or output['entity'] == 'NNP' or output['entity'] == 'NNS' or output['entity'] == 'NNPS':
+                    df.at[file, 'N'] += 1
+                elif output['entity'] == 'JJ' or output['entity'] == 'JJS' or output['entity'] == 'JJR':
+                    df.at[file, 'J'] += 1
+                elif output['entity'] == 'VBD' or output['entity'] == 'VBZ' or output['entity'] == 'VBP' or output['entity'] == 'VB' or output['entity'] == 'VBN' or output['entity'] == 'VBG':
+                    df.at[file, 'V'] += 1
 
-print(entidades)
+                # if output['entity'] in entidades.keys():
+                #     entidades[output['entity']] += 1
+                # else:
+                #     entidades[output['entity']] = 1
+    df.loc[file, :] /= tam_plot(file)
+# print(df.sum(axis=0))
+# print(df.sum(axis=1))
+# df = df.div(df.sum(axis=1), axis=0)
+df.to_csv("df_pt_funcoes_sint2.csv")
+print(df)
+# print(entidades)
 
 #entidades_ingles = {'IN': 10449, 'NNP': 13844, 'DT': 3254, 'JJ': 10351, 'NN': 25711, 'VBZ': 12888, 'VBG': 5255, 'PRP$': 1549, 'NNS': 5893, 'CC': 1212, 'JJR': 256, 'VBP': 2632, 'RB': 6107, 'PRP': 3576, 'TO': 614, 'VB': 6477, 'CD': 1699, 'RP': 739, 'RBR': 159, 'VBN': 5112, 'WRB': 942, 'WP': 663, 'MD': 872, 'VBD': 1389, 'JJS': 189, 'RBS': 20, 'WDT': 344, 'NNPS': 327, 'PDT': 49, 'EX': 38, 'WP$': 62, 'FW': 40, 'UH': 4, '$': 1}
 #entidades_espanhol = {'IN': 5507, 'CD': 1040, 'DT': 4137, 'NN': 17633, 'JJ': 5023, 'NNP': 10342, 'VBZ': 7548, 'PRP$': 873, 'RB': 3473, 'VB': 3974, 'TO': 887, 'VBN': 2319, 'WDT': 459, 'PRP': 1390, 'CC': 1082, 'NNS': 4542, 'VBP': 1874, 'VBG': 1105, 'WRB': 546, 'VBD': 1249, 'JJR': 75, 'WP': 263, 'MD': 277, 'NNPS': 111, 'RBR': 172, 'JJS': 64, 'RBS': 26, 'PDT': 135, 'RP': 17, 'WP$': 59, 'FW': 15, '$': 1, 'UH': 1, 'EX': 0}
@@ -54,6 +93,10 @@ print(entidades)
 # entidades_ingles = {'NNP': 13844, 'JJ': 10351, 'NN': 25711, 'V': 33753, 'NNS': 5893, 'JJR': 256, 'JJS': 189, 'NNPS': 327}
 # entidades_espanhol = {'NN': 17633, 'JJ': 5023, 'NNP': 10342, 'V': 18069, 'NNS': 4542, 'VBD': 1249, 'JJR': 75, 'NNPS': 111, 'JJS': 64}
 # entidades_portugues = {'NNS': 2743, 'NN': 10519, 'NNP': 6368, 'V': 10639, 'JJ': 2990, 'JJS': 41, 'JJR': 45, 'NNPS': 102}
+
+# entidades_ingles = {'Substantivos': 45775, 'Adjetivos': 10796, 'Verbos': 33753}
+# entidades_espanhol = {'Substantivos': 32628, 'Adjetivos': 5162, 'Verbos': 18069}
+# entidades_portugues = {'Substantivos': 19732, 'Verbos': 10639, 'Adjetivos': 3076}
 
 # total_en = sum(entidades_ingles.values())
 # total_es = sum(entidades_espanhol.values())
@@ -75,8 +118,9 @@ print(entidades)
 
 
 # df = pd.DataFrame(data, columns=["FUNÇÃO SINTÁTICA", "INGLÊS", "ESPANHOL", "PORTUGUÊS"])
-# df.plot(x="FUNÇÃO SINTÁTICA", y=["INGLÊS", "ESPANHOL", "PORTUGUÊS"], kind='bar', figsize=(10,10))
+# df.plot(x="FUNÇÃO SINTÁTICA", y=["INGLÊS", "ESPANHOL", "PORTUGUÊS"], kind='bar', figsize=(10,7))
 # plt.xticks(rotation="horizontal")
+# plt.ylabel("Frequência (%)")
 # plt.title("Distribuição das principais função sintáticas nos artigos em cada idioma")
 # plt.show()
 

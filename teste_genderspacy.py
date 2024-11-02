@@ -15,39 +15,11 @@ import spacy
 # GENDER SPACY : biblioteca pt: pt_core_news_sm
 # https://spacy.io/models/es
 
-nltk.download('stopwords')
-nltk.download('punkt')
-stop_words = set(stopwords.words('english'))
-# This will take one argument: the spaCy model you wish to use
-nlp = gs.GenderParser("en_core_web_sm")
-
-doc_path = "./data/plots_en/The Godfather.txt"
-text = ""
-
-with open(doc_path, 'r') as f:
-    text = f.read()
-
-print("X")
-doc = nlp.process_doc(text)
-print("Y")
-
-# perform coreference resolution on the doc container
-# This part of the library comes from spacy-experimental
-doc = nlp.coref_resolution()
-print("Z")
-
-# Visualize the result:
-nlp.visualize()
-print("W")
-
-
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-      
 # nltk.download('stopwords')
 # nltk.download('punkt')
 # stop_words = set(stopwords.words('english'))
 # # This will take one argument: the spaCy model you wish to use
-# nlp = spacy.load("en_core_web_sm")
+# nlp = gs.GenderParser("en_core_web_sm")
 
 # doc_path = "./data/plots_en/The Godfather.txt"
 # text = ""
@@ -55,8 +27,36 @@ print("W")
 # with open(doc_path, 'r') as f:
 #     text = f.read()
 
-# doc = nlp(text)
-# print(doc.text)
+# print("X")
+# doc = nlp.process_doc(text)
+# print("Y")
 
-# for token in doc:
-#     print(token.text, token.pos_, token.dep_)
+# # perform coreference resolution on the doc container
+# # This part of the library comes from spacy-experimental
+# doc = nlp.coref_resolution()
+# print("Z")
+
+# # Visualize the result:
+# nlp.visualize()
+# print("W")
+
+
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+      
+nltk.download('stopwords')
+nltk.download('punkt')
+stop_words = set(stopwords.words('english'))
+# This will take one argument: the spaCy model you wish to use
+nlp = spacy.load("en_core_web_sm")
+
+doc_path = "./data/plots_en/The Godfather.txt"
+text = ""
+
+with open(doc_path, 'r') as f:
+    text = f.read()
+
+doc = nlp(text)
+print(doc.text)
+
+for token in doc:
+    print(token.text, token.pos_, token.dep_)

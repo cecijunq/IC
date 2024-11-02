@@ -32,11 +32,15 @@ for index, row in df.iterrows():
     genres = row['genres'].split(",")
     #print(genres)
 
-    for genre in genres:
-        if genre not in dict_freq.keys():
-            dict_freq[genre] = 1
-        else:
-            dict_freq[genre] += 1
+    if genres[0] not in dict_freq.keys():
+        dict_freq[genres[0]] = 1
+    else:
+        dict_freq[genres[0]] += 1
+    # for genre in genres:
+    #     if genre not in dict_freq.keys():
+    #         dict_freq[genre] = 1
+    #     else:
+    #         dict_freq[genre] += 1
 print(dict_freq)
 
 total = sum(dict_freq.values())
